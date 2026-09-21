@@ -1,9 +1,10 @@
 import os,json,datetime,requests
-TOKEN=os.environ["TMDB_TOKEN"]
+API_KEY=os.environ["TMDB_API_KEY"]
 BASE="https://api.themoviedb.org/3"
-HEAD={"Authorization":f"Bearer {TOKEN}","accept":"application/json"}
+HEAD={"accept":"application/json"}
 TODAY=datetime.date.today(); END=TODAY+datetime.timedelta(days=45); REGION="BR"
 def get(path,params):
+ params=dict(params); params["api_key"]=API_KEY
  r=requests.get(BASE+path,headers=HEAD,params=params,timeout=30); r.raise_for_status(); return r.json()
 providers=get("/watch/providers/movie",{"language":"pt-BR","watch_region":REGION}).get("results",[])
 wanted=["Netflix","Prime Video","Disney Plus","Max","Globoplay","Paramount Plus","Apple TV","MUBI"]
