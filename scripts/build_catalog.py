@@ -1,6 +1,7 @@
 import os,json,datetime,requests
 
 API_KEY=os.environ["TMDB_API_KEY"]
+YOUTUBE_API_KEY=os.environ.get("YOUTUBE_API_KEY","").strip()
 BASE="https://api.themoviedb.org/3"
 HEAD={"accept":"application/json"}
 TODAY=datetime.date.today()
@@ -14,6 +15,65 @@ def get(path,params):
     r=requests.get(BASE+path,headers=HEAD,params=params,timeout=30)
     r.raise_for_status()
     return r.json()
+
+def youtube_fallback(title, year):
+    """Find a likely trailer on YouTube only when TMDB has none."""
+    if not YOUTUBE_API_KEY:
+        return None
+    q=f"{title} {year} trailer"
+    try:
+        r=requests.get(
+            "https://www.googleapis.com/youtube/v3/search",
+            params={
+                "part":"snippet",
+                "q":q,
+                "type":"video",
+                "maxResults":8,
+                "regionCode":"BR",
+                "relevanceLanguage":"pt",
+                "videoEmbeddable":"true",
+                "safeSearch":"moderate",
+                "key":YOUTUBE_API_KEY
+            },
+            timeout=30
+        )
+        r.raise_for_status()
+        results=r.json().get("items",[])
+    except requests.RequestException as e:
+        print("YouTube fallback indisponível:",e)
+        return None
+
+    blocked=("reaction","reação","review","análise","explicado","ending","final explicado","cena")
+    candidates=[]
+    title_words=[w.lower() for w in title.split() if len(w)>2]
+    for item in results:
+        vid=item.get("id",{}).get("videoId")
+        sn=item.get("snippet",{})
+        name=sn.get("title","")
+        low=name.lower()
+        if not vid or ("trailer" not in low and "teaser" not in low):
+            continue
+        if any(b in low for b in blocked):
+            continue
+        score=sum(2 for w in title_words if w in low)
+        if "trailer oficial" in low or "official trailer" in low:
+            score+=3
+        if str(year) in low:
+            score+=1
+        candidates.append((score,name,vid))
+
+    if not candidates:
+        return None
+    candidates.sort(reverse=True)
+    _,name,vid=candidates[0]
+    return {
+        "key":vid,
+        "name":name,
+        "type":"Trailer",
+        "official":False,
+        "site":"YouTube",
+        "source":"youtube_search"
+    }
 
 # Providers are optional for cinema titles. We keep them when TMDB has them,
 # but a movie must NOT disappear just because streaming availability is unknown.
@@ -64,7 +124,9 @@ for typ,path in [("movie","/discover/movie")]:
                     "key":v["key"],
                     "name":v.get("name",""),
                     "type":v.get("type",""),
-                    "official":bool(v.get("official"))
+                    "official":bool(v.get("official")),
+                    "site":"YouTube",
+                    "source":"tmdb"
                 })
 
         cast=[
@@ -83,6 +145,13 @@ for typ,path in [("movie","/discover/movie")]:
         for img in details.get("images",{}).get("backdrops",[])[:8]:
             if img.get("file_path"):
                 backdrops.append("https://image.tmdb.org/t/p/w780"+img["file_path"])
+
+        has_trailer=any(v.get("type") in ("Trailer","Teaser") for v in videos)
+        if not has_trailer:
+            fallback=youtube_fallback(details.get("title") or x.get("title") or "", int(date[:4]))
+            if fallback:
+                videos.insert(0,fallback)
+                print("Trailer fallback YouTube:",details.get("title") or x.get("title"))
 
         items.append({
             "id":x["id"],
