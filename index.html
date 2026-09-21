@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#07131d">
+<meta name="description" content="OIO TMDB — estreias de filmes e séries nas principais plataformas de streaming.">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css">
+<title>OIO TMDB — Estreias</title>
+</head>
+<body>
+<header class="topbar"><div class="brand"><span class="logo">OIO</span><div><strong>OIO TMDB</strong><small>estreias atualizadas</small></div></div><button id="installBtn" hidden>Instalar</button></header>
+<main>
+<section class="hero"><span>CATÁLOGO • BRASIL</span><h1>O que está chegando<br>ao streaming</h1><p>Filmes e séries com lançamento e disponibilidade nas principais plataformas.</p><div id="updated">Carregando catálogo…</div></section>
+<nav class="filters"><button class="active" data-type="all">Tudo</button><button data-type="movie">Filmes</button><button data-type="tv">Séries</button></nav>
+<section><div class="section-head"><h2>Próximas estreias</h2><span id="count"></span></div><div id="grid" class="grid"></div></section>
+</main>
+<div id="modal" hidden><div class="backdrop" data-close></div><article class="detail"><button class="close" data-close>×</button><img id="detailPoster" alt=""><div class="detail-body"><span id="detailType" class="pill"></span><h2 id="detailTitle"></h2><p id="detailDate"></p><p id="detailOverview"></p><div id="detailProviders"></div><a id="tmdbLink" target="_blank" rel="noopener">Abrir no TMDB</a></div></article></div>
+<footer>Dados e imagens: TMDB. Este produto usa a API do TMDB, mas não é endossado ou certificado pelo TMDB.<br><a href="https://www.themoviedb.org/" target="_blank" rel="noopener">The Movie Database (TMDB)</a></footer>
+<script src="app.js"></script>
+</body></html>
