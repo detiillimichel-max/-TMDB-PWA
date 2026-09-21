@@ -60,7 +60,8 @@ function openDetail(id){
 
 function renderTrailer(x){
   const videos=x.videos||[];
-  const trailer=videos.find(v=>v.site==='YouTube'&&v.type==='Trailer'&&v.official)||videos.find(v=>v.site==='YouTube'&&v.type==='Trailer')||videos.find(v=>v.site==='YouTube'&&v.type==='Teaser');
+  const youtube=v=>v.key&&(!v.site||v.site==='YouTube');
+  const trailer=videos.find(v=>youtube(v)&&v.type==='Trailer'&&v.official)||videos.find(v=>youtube(v)&&v.type==='Trailer')||videos.find(v=>youtube(v)&&v.type==='Teaser');
   if(trailer){
     $('#trailerLabel').textContent=esc(trailer.name||'YouTube');
     $('#trailerBox').innerHTML='<iframe src="https://www.youtube-nocookie.com/embed/'+encodeURIComponent(trailer.key)+'?rel=0" title="'+escAttr(trailer.name||'Trailer')+'" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>';
@@ -72,7 +73,7 @@ function renderTrailer(x){
 }
 
 function renderVideos(x){
-  const videos=(x.videos||[]).filter(v=>v.site==='YouTube'&&v.key);
+  const videos=(x.videos||[]).filter(v=>v.key&&(!v.site||v.site==='YouTube'));
   const others=videos.filter(v=>v.key!==((videos.find(v=>v.type==='Trailer'&&v.official)||videos.find(v=>v.type==='Trailer')||{}).key)).slice(0,6);
   const section=$('#moreVideosSection'),list=$('#videoList');
   if(!others.length){section.hidden=true;list.innerHTML='';return}
