@@ -3,21 +3,99 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#07131d">
-<meta name="description" content="OIO TMDB — estreias de filmes e séries nas principais plataformas de streaming.">
+<meta name="theme-color" content="#05080d">
+<meta name="description" content="OIO TMDB — Modo Cinema. Filmes em cartaz, estreando e próximos, com trailers e informações.">
 <link rel="manifest" href="manifest.json">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="style.css">
-<title>OIO TMDB — Estreias</title>
+<title>OIO TMDB — Modo Cinema</title>
 </head>
 <body>
-<header class="topbar"><div class="brand"><span class="logo">OIO</span><div><strong>OIO TMDB</strong><small>estreias atualizadas</small></div></div><button id="installBtn" hidden>Instalar</button></header>
+<header class="topbar">
+  <div class="brand"><span class="logo">OIO</span><div><strong>OIO TMDB</strong><small>MODO CINEMA</small></div></div>
+  <button id="installBtn" hidden>Instalar</button>
+</header>
+
 <main>
-<section class="hero"><span>CATÁLOGO • BRASIL</span><h1>O que está chegando<br>ao streaming</h1><p>Filmes e séries com lançamento e disponibilidade nas principais plataformas.</p><div id="updated">Carregando catálogo…</div></section>
-<nav class="filters"><button class="active" data-type="all">Tudo</button><button data-type="movie">Filmes</button><button data-type="tv">Séries</button></nav>
-<section><div class="section-head"><h2>Próximas estreias</h2><span id="count"></span></div><div id="grid" class="grid"></div></section>
+  <section class="cinema-hero">
+    <div>
+      <span class="eyebrow">🎬 OIO TMDB • BRASIL</span>
+      <h1>Modo Cinema</h1>
+      <p>Filmes em cartaz, estreando e próximos lançamentos. Toque em um filme para ver a página, o trailer e as informações.</p>
+      <div id="updated">Carregando programação…</div>
+    </div>
+  </section>
+
+  <section class="cinema-nav">
+    <button class="active" data-section="now">🎟️ Em cartaz</button>
+    <button data-section="soon">🍿 Estreando</button>
+    <button data-section="upcoming">📅 Próximos</button>
+  </section>
+
+  <section class="movie-section" id="nowSection">
+    <div class="section-head"><div><span class="eyebrow">NO CINEMA</span><h2>Em cartaz</h2></div><span id="nowCount"></span></div>
+    <div id="nowGrid" class="movie-grid"></div>
+  </section>
+
+  <section class="movie-section" id="soonSection">
+    <div class="section-head"><div><span class="eyebrow">CHEGANDO AGORA</span><h2>Estreando</h2></div><span id="soonCount"></span></div>
+    <div id="soonGrid" class="movie-grid"></div>
+  </section>
+
+  <section class="movie-section" id="upcomingSection">
+    <div class="section-head"><div><span class="eyebrow">AGENDE-SE</span><h2>Próximos</h2></div><span id="upcomingCount"></span></div>
+    <div id="upcomingGrid" class="movie-grid"></div>
+  </section>
 </main>
-<div id="modal" hidden><div class="backdrop" data-close></div><article class="detail"><button class="close" data-close>×</button><img id="detailPoster" alt=""><div class="detail-body"><span id="detailType" class="pill"></span><h2 id="detailTitle"></h2><p id="detailDate"></p><p id="detailOverview"></p><div id="detailProviders"></div><a id="tmdbLink" target="_blank" rel="noopener">Abrir no TMDB</a></div></article></div>
-<footer>Dados e imagens: TMDB. Este produto usa a API do TMDB, mas não é endossado ou certificado pelo TMDB.<br><a href="https://www.themoviedb.org/" target="_blank" rel="noopener">The Movie Database (TMDB)</a></footer>
+
+<div id="modal" hidden>
+  <div class="backdrop" data-close></div>
+  <article class="movie-page">
+    <button class="close" data-close aria-label="Fechar">×</button>
+    <div class="movie-backdrop" id="detailBackdrop"></div>
+    <div class="movie-content">
+      <div class="movie-main">
+        <img id="detailPoster" class="detail-poster" alt="">
+        <div class="movie-info">
+          <span id="detailType" class="pill">FILME</span>
+          <h2 id="detailTitle"></h2>
+          <div id="detailMeta" class="detail-meta"></div>
+          <p id="detailTagline" class="tagline"></p>
+          <h3>Sinopse</h3>
+          <p id="detailOverview" class="overview"></p>
+          <div id="detailCredits" class="credits"></div>
+        </div>
+      </div>
+
+      <section id="trailerSection" class="media-section">
+        <div class="section-head"><div><span class="eyebrow">VÍDEO</span><h3>Trailer</h3></div><span id="trailerLabel"></span></div>
+        <div id="trailerBox" class="trailer-box"></div>
+      </section>
+
+      <section id="moreVideosSection" class="media-section" hidden>
+        <div class="section-head"><div><span class="eyebrow">MAIS VÍDEOS</span><h3>Trailers e teasers</h3></div></div>
+        <div id="videoList" class="video-list"></div>
+      </section>
+
+      <section id="gallerySection" class="media-section" hidden>
+        <div class="section-head"><div><span class="eyebrow">MÍDIA</span><h3>Imagens do filme</h3></div></div>
+        <div id="gallery" class="gallery"></div>
+      </section>
+
+      <section class="media-section">
+        <div class="section-head"><div><span class="eyebrow">ONDE ASSISTIR</span><h3>Disponibilidade</h3></div></div>
+        <div id="detailProviders" class="providers"></div>
+      </section>
+
+      <a id="tmdbLink" class="tmdb-link" target="_blank" rel="noopener">Ver página no TMDB ↗</a>
+    </div>
+  </article>
+</div>
+
+<footer>
+  Dados e imagens: TMDB. Este produto usa a API do TMDB, mas não é endossado ou certificado pelo TMDB.
+  <br><a href="https://www.themoviedb.org/" target="_blank" rel="noopener">The Movie Database (TMDB)</a>
+</footer>
 <script src="app.js"></script>
-</body></html>
+</body>
+</html>
