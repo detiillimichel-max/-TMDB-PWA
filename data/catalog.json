@@ -1,765 +1,996 @@
 {
-  "updated_at": "2026-09-21T13:07:34.218375+00:00",
+  "updated_at": "2026-09-21T13:16:15.023267+00:00",
   "region": "BR",
   "items": [
     {
-      "id": 321958,
-      "type": "tv",
-      "title": "Line of Fire",
-      "release_date": "2026-09-21",
-      "poster": "https://image.tmdb.org/t/p/w500/sodRW36uEDHjv8l1WhYUNDvnIK6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8U4dW5E24Eqs06OJko5ChjcufHb.jpg",
-      "overview": "Sinopse não disponível.",
+      "id": 1101383,
+      "type": "movie",
+      "title": "O Fim da Rua",
+      "release_date": "2026-08-13",
+      "poster": "https://image.tmdb.org/t/p/w500/4uuHvSqtAqbFFl0ZgOMx3xbGw1J.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "overview": "Após um misterioso evento cósmico abalar o bairro Oak Street e o transportar dos subúrbios para um lugar desconhecido, a família Platt descobre que sua sobrevivência vai depender da união entre todos para enfrentar um ambiente agora irreconhecível.",
       "tagline": "",
-      "runtime": 0,
+      "runtime": 100,
       "genres": [
-        "Drama",
-        "Crime"
+        "Ficção científica",
+        "Mistério",
+        "Thriller"
       ],
-      "vote_average": 5.0,
-      "providers": [],
-      "videos": [],
-      "cast": [
-        "Peter Krause",
-        "Hope Davis",
-        "Kat Cunning",
-        "Tommy O'Brien",
-        "Taylor Bloom",
-        "Charlie Barnett"
-      ],
-      "director": "",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/8U4dW5E24Eqs06OJko5ChjcufHb.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/tv/321958"
-    },
-    {
-      "id": 285418,
-      "type": "tv",
-      "title": "Youth",
-      "release_date": "2026-09-21",
-      "poster": "https://image.tmdb.org/t/p/w500/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
-      "overview": "Uma mulher divorciada de 50 anos busca sexo e amor enquanto equilibra os cuidados com os pais doentes e a criação do filho — que já deveria ser adulto.",
-      "tagline": "",
-      "runtime": 0,
-      "genres": [
-        "Comédia",
-        "Drama"
-      ],
-      "vote_average": 5.5,
-      "providers": [],
-      "videos": [],
-      "cast": [
-        "Sharon Horgan",
-        "Rupert Friend",
-        "Sharlene Whyte",
-        "Aran Murphy",
-        "Robbie Gee"
-      ],
-      "director": "",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
-        "https://image.tmdb.org/t/p/w780/y1B4ZTsYsOk1jWlObgbmDc198I6.jpg",
-        "https://image.tmdb.org/t/p/w780/spfHwY3YSwdmFz9avWpy3julOjE.jpg",
-        "https://image.tmdb.org/t/p/w780/p7JB64Lc7bI2c0g6jCgtxnJsJXD.jpg",
-        "https://image.tmdb.org/t/p/w780/eVKE0nXSQYn5NpcIXThMs7wsIgE.jpg",
-        "https://image.tmdb.org/t/p/w780/qm6QhghwVF55aZOejYeC6YzpPFF.jpg",
-        "https://image.tmdb.org/t/p/w780/v38MfUTzp5OBCGLMtzEU5wZPZCR.jpg",
-        "https://image.tmdb.org/t/p/w780/yBh7FQCmbkvSLsUpTsCm4Jw6Ojb.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/tv/285418"
-    },
-    {
-      "id": 333827,
-      "type": "tv",
-      "title": "Трудный ребёнок",
-      "release_date": "2026-09-21",
-      "poster": "https://image.tmdb.org/t/p/w500/yQpep9gxW6aGPyhAaeBGALFKZks.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hLTZHJh2FU7VJaNOs3OmLX1x6XX.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 0,
-      "genres": [
-        "Comédia"
-      ],
-      "vote_average": 0,
-      "providers": [],
-      "videos": [],
-      "cast": [
-        "Геннадий Блинов",
-        "Александр Робак",
-        "Борис Дейков",
-        "Стася Милославская",
-        "Александр Лойе",
-        "Василий Кортуков",
-        "Илья Макаров",
-        "Сергей Дьяков"
-      ],
-      "director": "Владимир Болгов",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/hLTZHJh2FU7VJaNOs3OmLX1x6XX.jpg",
-        "https://image.tmdb.org/t/p/w780/pvFGv7ClGmEQnVimLjvV6rO6fek.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/tv/333827"
-    },
-    {
-      "id": 250203,
-      "type": "tv",
-      "title": "Brothers",
-      "release_date": "2026-09-22",
-      "poster": "https://image.tmdb.org/t/p/w500/wlIrFcLK3B4RA84ajR3yCRldEnF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/snowLqDdNTDyHo8yTYGht3a3TyN.jpg",
-      "overview": "Os atores de Hollywood Matthew McConaughey e Woody Harrelson são melhores amigos há anos, mas um chocante segredo de família sugere que a ligação entre eles pode ser ainda maior.",
-      "tagline": "Baseada em um boato \"real\".",
-      "runtime": 0,
-      "genres": [
-        "Comédia"
-      ],
-      "vote_average": 10.0,
+      "vote_average": 7.0,
       "providers": [],
       "videos": [
         {
-          "key": "_sATiG-Blt8",
+          "key": "NtVXvlgaIUQ",
+          "name": "Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true
+        },
+        {
+          "key": "gQPCwZ1qEhw",
+          "name": "Teaser Oficial Dublado",
+          "type": "Teaser",
+          "official": true
+        }
+      ],
+      "cast": [
+        "Anne Hathaway",
+        "Ewan McGregor",
+        "Maisy Stella",
+        "Christian Convery",
+        "Jordan Alexa Davis",
+        "P.J. Byrne",
+        "Hudson Meek",
+        "Anne Gee Byrd"
+      ],
+      "director": "David Robert Mitchell",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "https://image.tmdb.org/t/p/w780/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
+        "https://image.tmdb.org/t/p/w780/hBwfWpZMnto1w2YT9NgRj6WJi6I.jpg",
+        "https://image.tmdb.org/t/p/w780/mJDCrEFKHUqoZe4xyI8CE47pw7P.jpg",
+        "https://image.tmdb.org/t/p/w780/pyuj4HBPUS61UvhN0Qf2szwDjU.jpg",
+        "https://image.tmdb.org/t/p/w780/l2pSvXV5wak53HtRWfctZu5i9hG.jpg",
+        "https://image.tmdb.org/t/p/w780/tSd2a2mQjifR1HPhsTngkYZZeu6.jpg",
+        "https://image.tmdb.org/t/p/w780/UryG4AffHKYrB4D6tmklzU38WQ.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1101383"
+    },
+    {
+      "id": 1408162,
+      "type": "movie",
+      "title": "விஸ்வநாத் & சன்ஸ்",
+      "release_date": "2026-08-14",
+      "poster": "https://image.tmdb.org/t/p/w500/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 161,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comédia"
+      ],
+      "vote_average": 7.241,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
+      "videos": [],
+      "cast": [
+        "சூர்யா",
+        "Mamitha Baiju",
+        "ராதிகா",
+        "रवीना टंडन",
+        "Sunil Reddy",
+        "Harika",
+        "Nassar",
+        "Viva Harsha"
+      ],
+      "director": "Venky Atluri",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
+        "https://image.tmdb.org/t/p/w780/u31xcOTIXWYJAZWJ4mChwgwEKu4.jpg",
+        "https://image.tmdb.org/t/p/w780/oil0ZqZHwmrlN9q3KcXVIOOD2ta.jpg",
+        "https://image.tmdb.org/t/p/w780/sd0RKOpnqESIWxU3sZwZhBsgAHl.jpg",
+        "https://image.tmdb.org/t/p/w780/9yGWYRfMh1BWs1trC6SW2KuYi9c.jpg",
+        "https://image.tmdb.org/t/p/w780/96y1bEI6CIvGSzX87koYBd1Zk3Z.jpg",
+        "https://image.tmdb.org/t/p/w780/hUUe8L0SC8CjZiXO0q8g0wPrPJV.jpg",
+        "https://image.tmdb.org/t/p/w780/79neWpc30msEyRsQXjgTLM31pSX.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1408162"
+    },
+    {
+      "id": 1621552,
+      "type": "movie",
+      "title": "A Captura",
+      "release_date": "2026-08-21",
+      "poster": "https://image.tmdb.org/t/p/w500/z1BazG57E5JaNbxQ5kpXt8h8whv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+      "overview": "Dois policiais mexicanos precisam sobreviver às últimas horas de seu turno após cruzarem o caminho de um chefe de cartel implacável.",
+      "tagline": "",
+      "runtime": 91,
+      "genres": [
+        "Crime",
+        "Ação",
+        "Thriller"
+      ],
+      "vote_average": 8.787,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "AooER0ClYtM",
+          "name": "La Captura 2026 Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": false
+        }
+      ],
+      "cast": [
+        "Alfonso Herrera",
+        "Noé Hernández",
+        "Héctor Kotsifakis",
+        "Paola Fernández",
+        "Gerardo Trejoluna",
+        "Fernando Cuautle",
+        "Alejandra Vázquez De León",
+        "Santiago Colores"
+      ],
+      "director": "Chava Cartas",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+        "https://image.tmdb.org/t/p/w780/raVBwQY4Ru5yt0FDE4zDYSIlFgd.jpg",
+        "https://image.tmdb.org/t/p/w780/etFPzmqXZlHDderOCgg3YjQswT1.jpg",
+        "https://image.tmdb.org/t/p/w780/lu7zUSoDaFbE6527La7ck9w5OdY.jpg",
+        "https://image.tmdb.org/t/p/w780/1hZfswetUfVVIwMlj97tYhqduS9.jpg",
+        "https://image.tmdb.org/t/p/w780/wt4cKsS20mk48HRHyO5CSsy6gBP.jpg",
+        "https://image.tmdb.org/t/p/w780/mrmWgCtkS0jXOBWrEnnNTzwTWmL.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1621552"
+    },
+    {
+      "id": 813418,
+      "type": "movie",
+      "title": "Hot Spot",
+      "release_date": "2026-08-21",
+      "poster": "https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 101,
+      "genres": [
+        "Ficção científica",
+        "Ação",
+        "Crime",
+        "Fantasia",
+        "Thriller"
+      ],
+      "vote_average": 4.905,
+      "providers": [],
+      "videos": [],
+      "cast": [
+        "Andrzej Konopka",
+        "Noomi Rapace",
+        "霧島れいか",
+        "Filippa Kaye",
+        "George Aurimas Cris",
+        "Νίκη Σερέτη",
+        "Έκτορας Λιάτσος",
+        "Ράσμη Τσόπελα"
+      ],
+      "director": "Agnieszka Smoczyńska",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
+        "https://image.tmdb.org/t/p/w780/km0vFlBTUjgOIOuqX6nWCYDtSdj.jpg",
+        "https://image.tmdb.org/t/p/w780/yCYp61TkFxLwoNNixkmKL0DHtj1.jpg",
+        "https://image.tmdb.org/t/p/w780/1I3vEYdeamj8OdcydmBOK3kERnv.jpg",
+        "https://image.tmdb.org/t/p/w780/yWPWsyzrFYYs28HrH0R3Fy3ob4h.jpg",
+        "https://image.tmdb.org/t/p/w780/cL4EeH1t6pCrac6whqQWL45vRDa.jpg",
+        "https://image.tmdb.org/t/p/w780/4klWnHQjXI33iaAlZBCikmaZB5W.jpg",
+        "https://image.tmdb.org/t/p/w780/9ERWr6qtZYhAnfYZjQpKRLjwt3w.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/813418"
+    },
+    {
+      "id": 1516698,
+      "type": "movie",
+      "title": "O Último Nascer do Sol",
+      "release_date": "2026-08-26",
+      "poster": "https://image.tmdb.org/t/p/w500/aUP8lmnCvOUiG0n1ciXaeFEou3j.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+      "overview": "Ry é uma estudante universitária que convive com uma doença crônica. Durante uma viagem de férias para a ilha de Maiorca com a sua mãe, Ry se apaixona inesperadamente por Julián. À medida que aprende a se entregar ao presente, o agravamento de sua condição de saúde e segredos familiares guardados há anos ameaçam desmoronar tudo antes que o verão chegue ao fim.",
+      "tagline": "Um verão para sentir tudo.",
+      "runtime": 107,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "vote_average": 6.784,
+      "providers": [],
+      "videos": [
+        {
+          "key": "mvRvODivXs4",
+          "name": "Trailer Oficial",
+          "type": "Trailer",
+          "official": true
+        },
+        {
+          "key": "Swa2EZuCls8",
+          "name": "É temporada de obsessão",
+          "type": "Teaser",
+          "official": true
+        }
+      ],
+      "cast": [
+        "Maia Reficco",
+        "Fernando Lindez",
+        "Eva Longoria",
+        "Chloé Sweetlove",
+        "Andrés Velencoso",
+        "Stefanie Martini",
+        "Sabrina Bartlett",
+        "Àlex Peracaula"
+      ],
+      "director": "Carlson Young",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+        "https://image.tmdb.org/t/p/w780/5lB7yPaRhJHQ9dx7AnvPUi0GZDU.jpg",
+        "https://image.tmdb.org/t/p/w780/tvY4QPyopLVaRkPVOQb3Y1dyy7f.jpg",
+        "https://image.tmdb.org/t/p/w780/pwLmG6Vv9IMNGGzFCqa8qTUPJG.jpg",
+        "https://image.tmdb.org/t/p/w780/j4KaGXBJl0yTPhSMYJks7JeL1a0.jpg",
+        "https://image.tmdb.org/t/p/w780/3BjJcLtIC7CYiwVjUDBcTRxdQB0.jpg",
+        "https://image.tmdb.org/t/p/w780/hEEXyducpaJCu0kLN8JrpxzN19h.jpg",
+        "https://image.tmdb.org/t/p/w780/l0pVYq6TeaC8qEovFn9yZBsAE2N.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1516698"
+    },
+    {
+      "id": 1204680,
+      "type": "movie",
+      "title": "Coyote vs. Acme",
+      "release_date": "2026-08-27",
+      "poster": "https://image.tmdb.org/t/p/w500/fqnp3doSeUFLGUFIolHVPA41O4E.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "overview": "Após décadas de falhas catastróficas com os produtos ACME em sua caçada ao Papa-Léguas, Wile E. Coyote decide que é hora de buscar justiça e processar a corporação. Ao lado de um advogado azarado, Coyote trava uma batalha jurídica épica contra o impiedoso CEO da companhia. Enquanto enfrentam o sistema, a dupla desenvolve uma amizade improvável e luta para provar que a culpa de tantos desastres nunca foi do instinto, mas sim de defeitos de fabricação.",
+      "tagline": "A vida toda ele achou que era azar... mas sempre foi culpa da ACME.",
+      "runtime": 100,
+      "genres": [
+        "Comédia",
+        "Aventura",
+        "Família"
+      ],
+      "vote_average": 7.56,
+      "providers": [],
+      "videos": [
+        {
+          "key": "kmXiNzZmV7s",
+          "name": "Spot 30\" Dublado",
+          "type": "Teaser",
+          "official": true
+        },
+        {
+          "key": "LbWn84vBMMs",
+          "name": "Trailer Oficial 2 Dublado",
+          "type": "Trailer",
+          "official": true
+        },
+        {
+          "key": "zN3z58qv7XM",
+          "name": "Teaser Oficial Legendado",
+          "type": "Teaser",
+          "official": true
+        },
+        {
+          "key": "HSzpEnza5Mk",
+          "name": "Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true
+        },
+        {
+          "key": "Nw8RJL3_ADU",
+          "name": "Trailer Oficial",
+          "type": "Trailer",
+          "official": true
+        }
+      ],
+      "cast": [
+        "Will Forte",
+        "Lana Condor",
+        "John Cena",
+        "Tone Bell",
+        "Martha Kelly",
+        "Luis Guzmán",
+        "P.J. Byrne",
+        "John Early"
+      ],
+      "director": "Dave Green",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+        "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+        "https://image.tmdb.org/t/p/w780/s6WNALkMPnBDadiKaS1JdRx9Hnw.jpg",
+        "https://image.tmdb.org/t/p/w780/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
+        "https://image.tmdb.org/t/p/w780/linZzmvbivJnXAXthvblHZdkkpp.jpg",
+        "https://image.tmdb.org/t/p/w780/3JDKBHWTSUSl2zVbQQOib9kQhRK.jpg",
+        "https://image.tmdb.org/t/p/w780/4TWcVAtljd30qtaUV6DdeqIa1hW.jpg",
+        "https://image.tmdb.org/t/p/w780/lM76hl2H0tmTfsX6VCiCE0mbhz0.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1204680"
+    },
+    {
+      "id": 860508,
+      "type": "movie",
+      "title": "O Homem que Sussurra",
+      "release_date": "2026-08-27",
+      "poster": "https://image.tmdb.org/t/p/w500/umlg3mqkny7opAfPtBLUGYwZ8xF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+      "overview": "Após o desaparecimento do filho, um viúvo precisa pedir ajuda ao próprio pai: um detetive aposentado que prendeu o assassino em série ligado a esse novo caso.",
+      "tagline": "Se deixar a porta entreaberta, vai ouvir um sussurro na certa.",
+      "runtime": 114,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "vote_average": 6.852,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "dmjvv0PiFTY",
+          "name": "O Homem que Sussurra | Trailer oficial | Netflix",
+          "type": "Trailer",
+          "official": true
+        }
+      ],
+      "cast": [
+        "Robert De Niro",
+        "Michelle Monaghan",
+        "Adam Scott",
+        "Acston Luca Porto",
+        "Michael Keaton",
+        "Owen Teague",
+        "Hamish Linklater",
+        "Will Brill"
+      ],
+      "director": "James Ashcroft",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+        "https://image.tmdb.org/t/p/w780/rHGJWs4XjO88QL4o9PWY618CVY8.jpg",
+        "https://image.tmdb.org/t/p/w780/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
+        "https://image.tmdb.org/t/p/w780/b0EVWmBaUgliBHkrxtvmcVruXAG.jpg",
+        "https://image.tmdb.org/t/p/w780/3qNmFlwdbO7hvdbLgl3FYOoJeAP.jpg",
+        "https://image.tmdb.org/t/p/w780/vxqyAKDjfqlkUWWIJMSfhAnFbNk.jpg",
+        "https://image.tmdb.org/t/p/w780/wxDIeosQo3gRS3KNiVgdwfD0tV1.jpg",
+        "https://image.tmdb.org/t/p/w780/d0krmJICW2EL2rvmsQPotM9YJLR.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/860508"
+    },
+    {
+      "id": 1482547,
+      "type": "movie",
+      "title": "Zip Wire",
+      "release_date": "2026-08-31",
+      "poster": "https://image.tmdb.org/t/p/w500/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sbkkAtymJaH5UzExiK974uPzCY4.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 95,
+      "genres": [
+        "Ação",
+        "Thriller"
+      ],
+      "vote_average": 7.6,
+      "providers": [],
+      "videos": [],
+      "cast": [
+        "MyAnna Buring",
+        "Joseph Millson",
+        "Saffron Burrows",
+        "Michael Amariah",
+        "Silvia Presente"
+      ],
+      "director": "Howard J. Ford",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/sbkkAtymJaH5UzExiK974uPzCY4.jpg",
+        "https://image.tmdb.org/t/p/w780/kgPsYvHiqk3XRfTXlPrTXwa6BQo.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1482547"
+    },
+    {
+      "id": 1386315,
+      "type": "movie",
+      "title": "Corrida Contra o Tempo",
+      "release_date": "2026-09-03",
+      "poster": "https://image.tmdb.org/t/p/w500/zPlBUyu9rWhVrdiRfSClwMkmQiT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+      "overview": "Maia Marten é uma advogada brilhante de Londres, vê a sua vida ruir com uma ligação durante sua corrida matinal que avisa que seu filho foi sequestrado. Para recuperá-lo, ela deve continuar correndo, obedecer a cada comando e não confiar em ninguém. Cada segundo desta corrida testará até onde vai uma mãe para salvar a vida do seu filho.",
+      "tagline": "Uma hora. Uma chance de salvar o filho.",
+      "runtime": 86,
+      "genres": [
+        "Thriller",
+        "Ação"
+      ],
+      "vote_average": 6.767,
+      "providers": [],
+      "videos": [],
+      "cast": [
+        "Gal Gadot",
+        "Damian Lewis",
+        "Rory Wilmot",
+        "Alfred Enoch",
+        "Phoenix Di Sebastiani",
+        "Nathan Kirby",
+        "Hélder Fernandes",
+        "Will Austin"
+      ],
+      "director": "Kevin Macdonald",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+        "https://image.tmdb.org/t/p/w780/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
+        "https://image.tmdb.org/t/p/w780/3MHeqsDjo9d5AAbhdvyUB32kwGK.jpg",
+        "https://image.tmdb.org/t/p/w780/1KohYajglCHxTgj2NY2WTI7gn9v.jpg",
+        "https://image.tmdb.org/t/p/w780/8Zk4n3aEKor7q9e1j6xu1Awc6Zu.jpg",
+        "https://image.tmdb.org/t/p/w780/yeEkiAx9ZqPXBxZAkUXj7XLIyi2.jpg",
+        "https://image.tmdb.org/t/p/w780/zFE7iFwVEBrjh7gU1VRy8Zo4QQi.jpg",
+        "https://image.tmdb.org/t/p/w780/cjdO83LdYoqLP895GZZAynnH0ch.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1386315"
+    },
+    {
+      "id": 1137844,
+      "type": "movie",
+      "title": "Mayday",
+      "release_date": "2026-09-03",
+      "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+      "overview": "Quando um piloto da Marinha dos EUA, em uma missão ultrassecreta durante a Guerra Fria, fica preso em território inimigo, sua única chance de sobreviver é formar uma aliança com um excêntrico ex-agente da KGB.",
+      "tagline": "Uma amizade cheia de red flags.",
+      "runtime": 111,
+      "genres": [
+        "Ação",
+        "Comédia"
+      ],
+      "vote_average": 8.04,
+      "providers": [
+        {
+          "id": 350,
+          "name": "Apple TV",
+          "logo": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "T3tPGyeq94s",
           "name": "Trailer oficial",
           "type": "Trailer",
           "official": true
         }
       ],
       "cast": [
-        "Matthew McConaughey",
-        "Woody Harrelson",
-        "Holland Taylor",
-        "Natalie Martinez",
-        "Brittany Ishibashi"
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Marcin Dorociński",
+        "Мария Бакалова",
+        "David Morse",
+        "Clark Johnson",
+        "Wendy Crewson",
+        "Louis Cancelmi"
       ],
-      "director": "",
+      "director": "Jonathan Goldstein",
       "images": [
-        "https://image.tmdb.org/t/p/w780/snowLqDdNTDyHo8yTYGht3a3TyN.jpg",
-        "https://image.tmdb.org/t/p/w780/8GPyELfTrAfi8yGCIWqjXXT8mUZ.jpg",
-        "https://image.tmdb.org/t/p/w780/2bqg3ehBAV8xrq6qmiFCyGYjp4G.jpg",
-        "https://image.tmdb.org/t/p/w780/6NshgxAkLl6E7K5PXtdbbQTjHGW.jpg",
-        "https://image.tmdb.org/t/p/w780/waOGyqiZmqGEQVNxSB6Xxxal56W.jpg"
+        "https://image.tmdb.org/t/p/w780/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+        "https://image.tmdb.org/t/p/w780/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
+        "https://image.tmdb.org/t/p/w780/nFNCdoKCDE4Gc27iEBh5yiF7DwX.jpg",
+        "https://image.tmdb.org/t/p/w780/lsouhNVm05pazPBDhpqs0KXNbmz.jpg",
+        "https://image.tmdb.org/t/p/w780/iIn6exNbm1wtMJ1YNybXlSOTNoj.jpg",
+        "https://image.tmdb.org/t/p/w780/cfLeZFOjcPGqgoRhuiono1nJc0i.jpg",
+        "https://image.tmdb.org/t/p/w780/keo5uAMe51geCzgSdIpmGOkB0uK.jpg",
+        "https://image.tmdb.org/t/p/w780/lXTuMnbO2wqi1RLuBK2bxASOFs6.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/tv/250203"
+      "tmdb_url": "https://www.themoviedb.org/movie/1137844"
     },
     {
-      "id": 331689,
-      "type": "tv",
-      "title": "Scotland's Golden Coast",
-      "release_date": "2026-09-23",
-      "poster": "",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zEKIWTFclM5eEKrt3sjUESKKqof.jpg",
-      "overview": "Sinopse não disponível.",
+      "id": 1506560,
+      "type": "movie",
+      "title": "O Confronto dos Thundermans",
+      "release_date": "2026-09-03",
+      "poster": "https://image.tmdb.org/t/p/w500/6GCxZ7RXjMZbSAd0CGHAfhmpKnL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hDwl0YMxwGhNe7u8wgHHk2Hyw3W.jpg",
+      "overview": "Quando o novo e perigoso poder de Chloe se manifesta, ela é enviada para um internato para jovens super-heróis. A família se divide: Phoebe, Barb e Billy se escondem com ela, enquanto Max, Hank e Nora vão atrás deles, levando a um confronto que decidirá o futuro de todos.",
       "tagline": "",
-      "runtime": 0,
+      "runtime": 72,
       "genres": [
-        "Documentário"
+        "Cinema TV",
+        "Família",
+        "Ação"
       ],
-      "vote_average": 0,
-      "providers": [],
-      "videos": [],
-      "cast": [],
-      "director": "",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/zEKIWTFclM5eEKrt3sjUESKKqof.jpg"
+      "vote_average": 6.8,
+      "providers": [
+        {
+          "id": 531,
+          "name": "Paramount Plus",
+          "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png"
+        }
       ],
-      "tmdb_url": "https://www.themoviedb.org/tv/331689"
-    },
-    {
-      "id": 292742,
-      "type": "tv",
-      "title": "S.W.A.T. Exiles",
-      "release_date": "2026-09-25",
-      "poster": "https://image.tmdb.org/t/p/w500/42CXrSRsjd6BATuVMIVJiw5NS4D.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mNIc5QqjBuXHeeyj6P4WSqTCBu9.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 0,
-      "genres": [
-        "Drama",
-        "Crime"
+      "videos": [
+        {
+          "key": "O-ruLb5sOA8",
+          "name": "O Confronto dos Thundermans | Trailer Oficial | Paramount+ Brasil",
+          "type": "Trailer",
+          "official": true
+        }
       ],
-      "vote_average": 10.0,
-      "providers": [],
-      "videos": [],
       "cast": [
-        "Shemar Moore",
-        "Jay Harrington",
-        "Patrick St. Esprit",
-        "Lucy Barrett",
-        "Adain Bradley",
-        "Zyra Gorecki",
-        "Freddy Miyares",
-        "Ronen Rubinstein"
+        "Kira Kosarin",
+        "Jack Griffo",
+        "Maya Le Clark",
+        "Rosa Blasi",
+        "Chris Tallman",
+        "Diego Velazquez",
+        "Addison Riecke",
+        "Daniele Gaither"
       ],
-      "director": "",
+      "director": "Trevor Kirschner",
       "images": [
-        "https://image.tmdb.org/t/p/w780/sJmUIIljRkbi5A3LO1P51Lpl0Qi.jpg",
-        "https://image.tmdb.org/t/p/w780/mNIc5QqjBuXHeeyj6P4WSqTCBu9.jpg",
-        "https://image.tmdb.org/t/p/w780/q393g3eI26hzxWijnpDFwFUuG6j.jpg",
-        "https://image.tmdb.org/t/p/w780/lr13yH0WlTMHt4CmDRhCrrhgc95.jpg",
-        "https://image.tmdb.org/t/p/w780/gUvAkHyi4rtiYWU9k6ySRyHdoXq.jpg"
+        "https://image.tmdb.org/t/p/w780/hDwl0YMxwGhNe7u8wgHHk2Hyw3W.jpg",
+        "https://image.tmdb.org/t/p/w780/tBZMwg5oCJn8P0pStfuOMhhSQD3.jpg",
+        "https://image.tmdb.org/t/p/w780/6yT5O0g8ZXNOm9I5IXLZonZRBgx.jpg",
+        "https://image.tmdb.org/t/p/w780/3Hblh9EAqpRCrXuZjZGC5ZTReHw.jpg",
+        "https://image.tmdb.org/t/p/w780/5Yd1zwmAYYOOjDJI5eGQWIZ0xSA.jpg",
+        "https://image.tmdb.org/t/p/w780/6rF0WIAT5uS1FbJTbXkjw3dBnfQ.jpg",
+        "https://image.tmdb.org/t/p/w780/4c7PB1x53W0wqym7a8KtTqI7gnF.jpg",
+        "https://image.tmdb.org/t/p/w780/8XBkXsmMUK9lxC6zr29Ro67VZ5c.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/tv/292742"
+      "tmdb_url": "https://www.themoviedb.org/movie/1506560"
     },
     {
-      "id": 258165,
-      "type": "tv",
-      "title": "A Leste do Éden",
-      "release_date": "2026-10-01",
-      "poster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8WGq5Q0tmTe30YZetLnU2dkOJZf.jpg",
-      "overview": "No início do século 20, uma mulher independente provoca uma briga entre dois irmãos, dando início a uma saga que se desenrola ao longo de duas gerações.",
-      "tagline": "",
-      "runtime": 0,
+      "id": 1440098,
+      "type": "movie",
+      "title": "Atraídos Pelo Destino",
+      "release_date": "2026-09-09",
+      "poster": "https://image.tmdb.org/t/p/w500/99OB0p7ah8wyTphLHrghSJXtmr5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+      "overview": "Marfil, filha de um empresário espanhol, vê sua vida em Nova York virar de cabeça para baixo quando é sequestrada e libertada sem nenhuma explicação. O pai dela contrata Sebastián Moore para ser seu guarda-costas e, forçados a passar cada minuto do dia juntos, uma atração inevitável surge entre eles em um mundo onde nada é o que parece. Baseado no livro de Mercedes Ron, autora da saga \"Culpados\".",
+      "tagline": "Ele foi contratado para protegê-la. Apaixonar-se por ela nunca fez parte do acordo.",
+      "runtime": 104,
       "genres": [
-        "Drama"
+        "Romance",
+        "Thriller"
       ],
-      "vote_average": 0,
+      "vote_average": 6.629,
       "providers": [],
-      "videos": [],
+      "videos": [
+        {
+          "key": "aGJkwKC5NgI",
+          "name": "Atraídos Pelo Destino | Trailer Oficial | Prime Video",
+          "type": "Trailer",
+          "official": true
+        },
+        {
+          "key": "-IQhr0CiBFM",
+          "name": "Atraídos pelo Destino | Cena Exclusiva | Prime Video",
+          "type": "Clip",
+          "official": true
+        },
+        {
+          "key": "gQYBeDetwNk",
+          "name": "Atraidos pelo Destino | Teaser Oficial | Prime Video",
+          "type": "Teaser",
+          "official": true
+        }
+      ],
       "cast": [
-        "Florence Pugh",
-        "Christopher Abbott",
-        "Mike Faist",
-        "Tracy Letts",
-        "Joseph Zada",
-        "Joe Anders",
-        "Hoon Lee",
-        "Ciarán Hinds"
+        "Ester Expósito",
+        "Hugo Diego Garcia",
+        "Pablo Molinero",
+        "Lluís Homar",
+        "Joaquín Ferreira",
+        "Zoe Bonafonte",
+        "Majo Gámez",
+        "João Bettencourt"
       ],
-      "director": "",
+      "director": "Óscar Pedraza",
       "images": [
-        "https://image.tmdb.org/t/p/w780/8WGq5Q0tmTe30YZetLnU2dkOJZf.jpg",
-        "https://image.tmdb.org/t/p/w780/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
-        "https://image.tmdb.org/t/p/w780/gb4DoVpjJYfMc0PzmAcwbVBkoWW.jpg",
-        "https://image.tmdb.org/t/p/w780/qrihc0cfDOIRQPYqTBanPVxI5GS.jpg",
-        "https://image.tmdb.org/t/p/w780/oP99Ya3pWKqKe6zlFJ1WD2l4Aw1.jpg",
-        "https://image.tmdb.org/t/p/w780/4VZj3Ty5WTDPpQBhJR5UZ8xo2na.jpg",
-        "https://image.tmdb.org/t/p/w780/6o786rTQZCpdZoPM5zv7A7EOMZn.jpg",
-        "https://image.tmdb.org/t/p/w780/wVYapH3I44fnMRT7BPmgyjgGnKF.jpg"
+        "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+        "https://image.tmdb.org/t/p/w780/uPkl3mUqzY2ghPfbNORi4gjn7Nj.jpg",
+        "https://image.tmdb.org/t/p/w780/oZkk6B15Ak4uTa2aVrJaDmSk3Xl.jpg",
+        "https://image.tmdb.org/t/p/w780/1ewgN7tG15VPpYbW0CE3UCXabVD.jpg",
+        "https://image.tmdb.org/t/p/w780/6IlNGtSdvrE2DhYI5XYi68qT4c7.jpg",
+        "https://image.tmdb.org/t/p/w780/qIX2rkU0vOpwSEfBpB5WpqEBfNE.jpg",
+        "https://image.tmdb.org/t/p/w780/qVYjnG4JTzaJXkSweAMawI0uae9.jpg",
+        "https://image.tmdb.org/t/p/w780/ayEhWoIwbMgKTVeZnDRAcx3ZiPI.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/tv/258165"
+      "tmdb_url": "https://www.themoviedb.org/movie/1440098"
     },
     {
-      "id": 298505,
-      "type": "tv",
-      "title": "Coven Academy",
-      "release_date": "2026-10-01",
-      "poster": "https://image.tmdb.org/t/p/w500/zM0JJml3x8G5A666O9uHtQtElJm.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 0,
+      "id": 1288445,
+      "type": "movie",
+      "title": "Código: Vingança",
+      "release_date": "2026-09-10",
+      "poster": "https://image.tmdb.org/t/p/w500/gVZgjKIsXZOT3cNZm5PJZBtQRaG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "overview": "Após testemunhar o assassinato de seu chefe bilionário e ser injustamente incriminado pelo crime, Cole Reed embarca em um navio cargueiro em uma cruzada solitária para vingar a morte do chefe. No entanto, à medida que avança em sua missão, ele descobre que está no centro de uma perigosa conspiração internacional.",
+      "tagline": "Há sangue na água.",
+      "runtime": 95,
       "genres": [
-        "Mistério",
-        "Action & Adventure",
-        "Drama",
+        "Ação",
+        "Thriller"
+      ],
+      "vote_average": 6.432,
+      "providers": [],
+      "videos": [
+        {
+          "key": "7d-59W5VriA",
+          "name": "Código: Vingança | Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true
+        }
+      ],
+      "cast": [
+        "Jason Statham",
+        "Annabelle Wallis",
+        "Roland Møller",
+        "Ramon Tikaram",
+        "Arnas Fedaravičius",
+        "Jason Wong",
+        "Adrian Lester",
+        "Chaneil Kular"
+      ],
+      "director": "Jean-François Richet",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+        "https://image.tmdb.org/t/p/w780/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+        "https://image.tmdb.org/t/p/w780/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
+        "https://image.tmdb.org/t/p/w780/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
+        "https://image.tmdb.org/t/p/w780/xYro90dW4z7es4JG1vo1bmZ0lUN.jpg",
+        "https://image.tmdb.org/t/p/w780/rjZ3QSoiSOzCFOP69kBCbt7Ptk2.jpg",
+        "https://image.tmdb.org/t/p/w780/3z389fuNipHKlev4ZdYPUTMQK4t.jpg",
+        "https://image.tmdb.org/t/p/w780/46gzT6bmkrqyhRYtoeycgRwjrfA.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1288445"
+    },
+    {
+      "id": 1302904,
+      "type": "movie",
+      "title": "Da Magia à Sedução: Feitiço de Amor",
+      "release_date": "2026-09-10",
+      "poster": "https://image.tmdb.org/t/p/w500/uoJvqWGs4702jnqOwe8RABSxT3L.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
+      "overview": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
+      "tagline": "",
+      "runtime": 130,
+      "genres": [
+        "Romance",
+        "Fantasia",
         "Comédia"
       ],
-      "vote_average": 0,
+      "vote_average": 6.11,
       "providers": [],
       "videos": [
         {
-          "key": "8hZ6qxECOVU",
-          "name": "Coven Academy | Trailer Oficial Dublado | Disney+",
+          "key": "NWg58fi7w20",
+          "name": "Da Magia À Sedução: Feitiço de Amor l Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true
+        },
+        {
+          "key": "pzQrRD4BD9A",
+          "name": "Trailer Oficial",
           "type": "Trailer",
           "official": true
         }
       ],
       "cast": [
-        "Malina Weissman",
-        "Malachi Barton",
-        "Jordan Leftwich",
-        "Ora Duplass",
-        "Louis Thresher",
-        "Tiffani-Amber Thiessen"
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Joey King",
+        "Maisie Williams",
+        "Xolo Maridueña",
+        "Lee Pace",
+        "Dianne Wiest",
+        "Stockard Channing"
       ],
-      "director": "",
+      "director": "Susanne Bier",
       "images": [
-        "https://image.tmdb.org/t/p/w780/xtTKZLNYB5Til67KgWhF3NDMVdF.jpg",
-        "https://image.tmdb.org/t/p/w780/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
-        "https://image.tmdb.org/t/p/w780/uxE3nRaLIgQqg2o1JHLVRbeutKv.jpg",
-        "https://image.tmdb.org/t/p/w780/gdtteZcUFnJe4JOH0GNIy7vd7Cf.jpg",
-        "https://image.tmdb.org/t/p/w780/pw28xSMat4x2kqhc7grvxg6sFag.jpg",
-        "https://image.tmdb.org/t/p/w780/wf9nj6RCEA5HXh8AGfkkE2mtukq.jpg",
-        "https://image.tmdb.org/t/p/w780/3pJL0e6AoUk6MEFXLpVM8uBPXrV.jpg",
-        "https://image.tmdb.org/t/p/w780/iamaU84aaSDi0Q9lJVCdMjVl5qf.jpg"
+        "https://image.tmdb.org/t/p/w780/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
+        "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+        "https://image.tmdb.org/t/p/w780/eHVFhyO2YkJPzvrMv2TmVhjPAUJ.jpg",
+        "https://image.tmdb.org/t/p/w780/Ao7Q6CMDiVheAqVyKV8vUI8yata.jpg",
+        "https://image.tmdb.org/t/p/w780/yDgYYuz8jDQCRJbHC3XM7IIGoeR.jpg",
+        "https://image.tmdb.org/t/p/w780/kyrubDEucmnFPqVwVi2mhOGYZ3g.jpg",
+        "https://image.tmdb.org/t/p/w780/phL6LnTXTk1EofA7JDtDUmH6JZA.jpg",
+        "https://image.tmdb.org/t/p/w780/uxGBQkfmTczPp6o1tHpxZovq4MW.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/tv/298505"
+      "tmdb_url": "https://www.themoviedb.org/movie/1302904"
     },
     {
-      "id": 298852,
-      "type": "tv",
-      "title": "Guerra",
+      "id": 1228834,
+      "type": "movie",
+      "title": "The Fix",
+      "release_date": "2026-09-10",
+      "poster": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 142,
+      "genres": [
+        "Ação",
+        "Thriller"
+      ],
+      "vote_average": 7.4,
+      "providers": [],
+      "videos": [],
+      "cast": [
+        "Zachary Levi",
+        "Liam Neeson",
+        "Wes Chatham",
+        "Titus Welliver",
+        "Navid Negahban",
+        "Annet Mahendru",
+        "Grant Harvey",
+        "Augusto Aguilera"
+      ],
+      "director": "Guy Moshe",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+        "https://image.tmdb.org/t/p/w780/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
+        "https://image.tmdb.org/t/p/w780/oDgN5zsiISnLZKixkzvRIfUOXgC.jpg",
+        "https://image.tmdb.org/t/p/w780/bQQ3UGOJcCTRjVAjOwR17eQuwJC.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1228834"
+    },
+    {
+      "id": 1318467,
+      "type": "movie",
+      "title": "The Last Kiss",
+      "release_date": "2026-09-15",
+      "poster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 97,
+      "genres": [
+        "Terror",
+        "Mistério",
+        "Thriller"
+      ],
+      "vote_average": 6.417,
+      "providers": [],
+      "videos": [],
+      "cast": [
+        "Mckenna Grace",
+        "Arkira Chantaratananond",
+        "Jaden Michael",
+        "Riley Davis",
+        "Kate Drummond",
+        "Samantha Espie",
+        "Cooper Levy",
+        "Eve Edwards"
+      ],
+      "director": "Yoko Okumura",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/axlPrPBwdlhcWFnjLLpAH1CEP96.jpg",
+        "https://image.tmdb.org/t/p/w780/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
+        "https://image.tmdb.org/t/p/w780/pcrzyKsfZclcMKM7tIc9NjSIWGU.jpg",
+        "https://image.tmdb.org/t/p/w780/A8qiGvOJxFucIJzJfjv73i0egUW.jpg",
+        "https://image.tmdb.org/t/p/w780/klLupmrAUykQMrmFVBjbr0nreiI.jpg",
+        "https://image.tmdb.org/t/p/w780/q1SUISNJqt57FMv4ctXTlXcdJhR.jpg",
+        "https://image.tmdb.org/t/p/w780/vvqcUxwVggQtFed1DWKPPskkgfG.jpg",
+        "https://image.tmdb.org/t/p/w780/sfPglervmMJYC8vUD370V5bASSp.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1318467"
+    },
+    {
+      "id": 1423191,
+      "type": "movie",
+      "title": "Resident Evil",
+      "release_date": "2026-09-17",
+      "poster": "https://image.tmdb.org/t/p/w500/gQ76UL64RQe3oHwiwHwODTC23g4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+      "overview": "Bryan, um tranquilo entregador de órgãos, é enviado para uma entrega noturna no Hospital Geral de Raccoon City. No caminho por uma estrada montanhosa coberta de neve, ele acidentalmente atropela uma mulher desconhecida. Ela sobrevive, mas algo está muito errado. Ao tentar ajudar, Bryan se depara com um surto em larga escala envolvendo mutações horríveis com tentáculos e monstruosidades bioengenheiradas.",
+      "tagline": "Uma nova era do mal.",
+      "runtime": 90,
+      "genres": [
+        "Terror",
+        "Ficção científica",
+        "Aventura"
+      ],
+      "vote_average": 7.4,
+      "providers": [],
+      "videos": [
+        {
+          "key": "M-WFfF2ETgk",
+          "name": "Resident Evil | Trailer Oficial | Dublado",
+          "type": "Trailer",
+          "official": true
+        },
+        {
+          "key": "Spz3ZrNq5_k",
+          "name": "Trailer Teaser",
+          "type": "Teaser",
+          "official": true
+        }
+      ],
+      "cast": [
+        "Austin Abrams",
+        "Paul Walter Hauser",
+        "Kali Reis",
+        "Zach Cherry",
+        "Johnno Wilson",
+        "Shaun W. Loeser",
+        "Zach Cregger",
+        "Emily Piggford"
+      ],
+      "director": "Zach Cregger",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+        "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+        "https://image.tmdb.org/t/p/w780/fQpxJXfOm0QSHj3eB8QDjOvYL3t.jpg",
+        "https://image.tmdb.org/t/p/w780/wEV9iTPIoiLfTkftCsrI23krsQA.jpg",
+        "https://image.tmdb.org/t/p/w780/nfj53Pr6iCk0pZDJKbjYcyftsY5.jpg",
+        "https://image.tmdb.org/t/p/w780/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
+        "https://image.tmdb.org/t/p/w780/qe7ip5bsuGGdrEfkKuXpZoJ0beK.jpg",
+        "https://image.tmdb.org/t/p/w780/naDzK2ZuVci6lHUy8OKuDXe8fqM.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1423191"
+    },
+    {
+      "id": 1641629,
+      "type": "movie",
+      "title": "Você+Eu - Contra o Mundo",
+      "release_date": "2026-09-18",
+      "poster": "https://image.tmdb.org/t/p/w500/pkNK6BuKjth9ApJxhjKe34KaHe4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+      "overview": "Alma Lancaster, 18 anos, parece levar uma vida perfeita dentro de uma família rica que acredita que ela estuda direito. Na verdade, a jovem persegue em segredo o sonho: fazer cinema. No campus, Alma encontra Vadim Arcadi, 20 anos, um estudante solitário com um passado sombrio. Forçados a trabalhar juntos em um filme estudantil, Alma e Vadim se enfrentam, se aproximam e acabam se apaixonando contra a própria vontade. Contudo, o relacionamento deles está ameaçado por uma presença externa. Alguém os observa, determinado a separá-los e a revelar segredos que possam fragilizar a história deles tanto quanto o seu futuro.",
+      "tagline": "",
+      "runtime": 93,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "vote_average": 5.7,
+      "providers": [],
+      "videos": [
+        {
+          "key": "ntIM30QpDgc",
+          "name": "Você+Eu - Contra o Mundo | Trailer Oficial | Prime Video",
+          "type": "Teaser",
+          "official": true
+        }
+      ],
+      "cast": [
+        "Vittoria Di Savoia",
+        "Lucas Barski",
+        "Zoé Garcia",
+        "Léo Legrand",
+        "Jean-Yves Berteloot",
+        "Suliane Brahim",
+        "Aymeric Fougeron",
+        "Gabrielle Taittinger"
+      ],
+      "director": "Manon Gaurin",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+        "https://image.tmdb.org/t/p/w780/9q1nSoOw5Qs89F6TDAD2mPwItdO.jpg",
+        "https://image.tmdb.org/t/p/w780/tWVntLeXNJCT3sX6yZZFzlDvF8.jpg",
+        "https://image.tmdb.org/t/p/w780/b5khNPWewb9lTAD2hTZhbe7QPI2.jpg",
+        "https://image.tmdb.org/t/p/w780/bCuwBQb6XlCrWs7GJxesBZ9QSfC.jpg",
+        "https://image.tmdb.org/t/p/w780/lrfIl8yHxMR6JCVcZToRpiRECr.jpg",
+        "https://image.tmdb.org/t/p/w780/9Yyf2IL93pj8aaQuBm2OpSXiKlx.jpg",
+        "https://image.tmdb.org/t/p/w780/dVts1HMd9pPZUc4rdFAHJ3M6VNp.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1641629"
+    },
+    {
+      "id": 1101412,
+      "type": "movie",
+      "title": "A Queda 2: No Limite",
       "release_date": "2026-10-01",
-      "poster": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2hdcWhcyuHllCEjIxz8VDBzC0Fs.jpg",
-      "overview": "Série de antologia em que dois dos escritórios de advocacia mais poderosos de Londres se enfrentam em batalhas jurídicas explosivas.",
-      "tagline": "",
-      "runtime": 0,
+      "poster": "https://image.tmdb.org/t/p/w500/xtxEvJACNnbz3WYmJ5mYT1a0KGk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "overview": "De luto pela morte de sua irmã Shiloh, Jax Hunter cria um laço com Luce, a amiga corajosa de Shiloh. Juntas, elas enfrentam a perigosa passarela suspensa do Monte Kwan, na Tailândia. Quando um deslizamento de rochas as deixa presas em uma estreita prancha a mais de 3.000 metros de altitude, Jax precisa enfrentar seus medos para sobreviver.",
+      "tagline": "Não olhe para baixo.",
+      "runtime": 98,
       "genres": [
-        "Drama"
+        "Thriller"
       ],
-      "vote_average": 0,
+      "vote_average": 6.8,
       "providers": [],
       "videos": [
         {
-          "key": "V9g5wE7xajg",
+          "key": "x_q2-lmkTio",
+          "name": "Trailer Oficial 2 Dublado",
+          "type": "Trailer",
+          "official": true
+        },
+        {
+          "key": "En4mRecmx4w",
           "name": "Trailer Oficial Legendado",
           "type": "Trailer",
           "official": true
         },
         {
-          "key": "um39Tk5Dms4",
-          "name": "Trailer Oficial Legendado",
-          "type": "Trailer",
+          "key": "whpOcuDr0Rc",
+          "name": "A Queda 2",
+          "type": "Teaser",
           "official": true
         }
       ],
       "cast": [
-        "Dominic West",
-        "Sienna Miller",
-        "Phoebe Fox",
-        "James McArdle",
-        "Nina Sosanya",
-        "Pip Torrens",
-        "Archie Renaux",
-        "Celia Imrie"
+        "Harriet Slater",
+        "Arsema Thomas",
+        "Tom Brittney",
+        "Virginia Gardner",
+        "สหจักร บุญธนกิจ",
+        "Korakod Yensuk",
+        "Jordan Coleman",
+        "Maryna Bennett"
       ],
-      "director": "",
+      "director": "Peter Spierig",
       "images": [
-        "https://image.tmdb.org/t/p/w780/2hdcWhcyuHllCEjIxz8VDBzC0Fs.jpg",
-        "https://image.tmdb.org/t/p/w780/qaIIxN3UaZL2lC1svJjI4EpBYFK.jpg",
-        "https://image.tmdb.org/t/p/w780/gOA80aFMHNNMJ5URHEE2OTbHdqU.jpg",
-        "https://image.tmdb.org/t/p/w780/jUXd5eNQoUUC8EZwBUt1rlUo24L.jpg",
-        "https://image.tmdb.org/t/p/w780/wf8Rmajo9AUQhx1aExxDvsjWI5N.jpg",
-        "https://image.tmdb.org/t/p/w780/oulQCeDaIuOrBsEDmYY4aE4diHA.jpg"
+        "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+        "https://image.tmdb.org/t/p/w780/j5PqG9rD0aUUIKEkGkWt7AaKnRa.jpg",
+        "https://image.tmdb.org/t/p/w780/bDQbd4qMy4bYXA4S36XZX5p68LU.jpg",
+        "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+        "https://image.tmdb.org/t/p/w780/5p7o2MnEgxM93M48wXTsclxBU1.jpg",
+        "https://image.tmdb.org/t/p/w780/o8G95h5yJ5xVVZs1s3mCynmv9IK.jpg",
+        "https://image.tmdb.org/t/p/w780/vSIVptD9l5iqTI2F8WGcWL2nOl1.jpg",
+        "https://image.tmdb.org/t/p/w780/a0EO86YrLelSwIhCI0kOmOk8TPm.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/tv/298852"
+      "tmdb_url": "https://www.themoviedb.org/movie/1101412"
     },
     {
-      "id": 284558,
-      "type": "tv",
-      "title": "Kill Jackie",
-      "release_date": "2026-10-02",
-      "poster": "https://image.tmdb.org/t/p/w500/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2VOcRepadY50B7mr3Vn8OOviRA3.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 0,
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "vote_average": 0,
-      "providers": [],
-      "videos": [],
-      "cast": [
-        "Catherine Zeta-Jones",
-        "Daniel Ings",
-        "Sidse Babett Knudsen",
-        "Julian Rhind-Tutt",
-        "Raff Law",
-        "Christine Adams"
-      ],
-      "director": "",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/2VOcRepadY50B7mr3Vn8OOviRA3.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/tv/284558"
-    },
-    {
-      "id": 288673,
-      "type": "tv",
-      "title": "Carrie, a Estranha",
-      "release_date": "2026-10-07",
-      "poster": "https://image.tmdb.org/t/p/w500/pgi67D7ERtedbywBHXY9Tj2vk2L.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vVaNTaRHlL1i8JVsZsNtRHGBhPm.jpg",
-      "overview": "Após a morte abrupta e inesperada de seu pai arremessá-la no ecossistema implacável de um colégio público, Carrie é forçada a lidar com um escândalo de cyberbullying que destrói sua comunidade, a pressão implacável e a crueldade casual da era das redes sociais, e o despertar de misteriosos poderes telecinéticos que surgem com a chegada de sua adolescência.",
-      "tagline": "",
-      "runtime": 0,
-      "genres": [
-        "Mistério",
-        "Drama"
-      ],
-      "vote_average": 0,
-      "providers": [],
-      "videos": [
-        {
-          "key": "OL1SKztQWjg",
-          "name": "Carrie: A Estranha – Trailer Oficial | Prime Video",
-          "type": "Trailer",
-          "official": true
-        }
-      ],
-      "cast": [
-        "Summer H. Howell",
-        "Samantha Sloyan",
-        "Siena Agudong",
-        "Alison Thornton",
-        "Joel Oulette",
-        "Josie Totah",
-        "Arthur Conti",
-        "Thalia Dudek"
-      ],
-      "director": "",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/5RQ2uXqpyaJwpLgJ5FA6MKfbCmG.jpg",
-        "https://image.tmdb.org/t/p/w780/eS83I38AwNkZn1dETD63bgsukzP.jpg",
-        "https://image.tmdb.org/t/p/w780/vVaNTaRHlL1i8JVsZsNtRHGBhPm.jpg",
-        "https://image.tmdb.org/t/p/w780/chr3eT0yqfDXeLW9pfAZ8Wmg3A3.jpg",
-        "https://image.tmdb.org/t/p/w780/s51UKMKp8dhY1o22GETRpOfloWC.jpg",
-        "https://image.tmdb.org/t/p/w780/di9VmgryykdZxIqIu3k6VpQRQeh.jpg",
-        "https://image.tmdb.org/t/p/w780/jslxOVr0Y0z4EtpBNUXS6cUdyWc.jpg",
-        "https://image.tmdb.org/t/p/w780/nqdTWFGhVkNLDw2rSuPkhZQ2Gsm.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/tv/288673"
-    },
-    {
-      "id": 290233,
-      "type": "tv",
-      "title": "Dentro do Círculo",
-      "release_date": "2026-10-07",
-      "poster": "https://image.tmdb.org/t/p/w500/u2PDaI3BYtGg0YO0rOKnycDwxld.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ckHNjfS3Bk3xvqHlVaF5yN9lOWh.jpg",
-      "overview": "O assassinato de uma atriz famosa expõe uma rede de segredos e espionagem que ameaça destruir quatro amigos de infância no centro dessa trama.",
-      "tagline": "",
-      "runtime": 0,
-      "genres": [
-        "Drama",
-        "Mistério"
-      ],
-      "vote_average": 0,
-      "providers": [],
-      "videos": [],
-      "cast": [
-        "Zuria Vega",
-        "Osvaldo Benavides",
-        "Raúl Briones"
-      ],
-      "director": "",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/ckHNjfS3Bk3xvqHlVaF5yN9lOWh.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/tv/290233"
-    },
-    {
-      "id": 285322,
-      "type": "tv",
-      "title": "Profundezas",
-      "release_date": "2026-10-08",
-      "poster": "https://image.tmdb.org/t/p/w500/qadm9To9UfMVenVzGVLt0m0iuxv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "overview": "Quando uma misteriosa criatura marinha aterroriza uma pequena cidade, um pescador durão e sua família lutam para proteger a comunidade.",
-      "tagline": "",
-      "runtime": 0,
-      "genres": [
-        "Mistério"
-      ],
-      "vote_average": 0,
-      "providers": [],
-      "videos": [],
-      "cast": [
-        "Josh Hartnett",
-        "Mackenzie Davis",
-        "Charlie Heaton",
-        "Ruby Stokes",
-        "Kaleb Horn",
-        "Rohan Campbell",
-        "Willow Kean"
-      ],
-      "director": "",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-        "https://image.tmdb.org/t/p/w780/bmhmL2GrQvw4rfKQZHh2pxGWulZ.jpg",
-        "https://image.tmdb.org/t/p/w780/hqtvsZf4IEr5u3IefUMDXNxgmu9.jpg",
-        "https://image.tmdb.org/t/p/w780/eFE3ZDxSySt7A0JX3c1Uco1e9FI.jpg",
-        "https://image.tmdb.org/t/p/w780/rDpuq2PMyW5KBdwvvvum24jW4ph.jpg",
-        "https://image.tmdb.org/t/p/w780/gTbzPvrI2993bfCBC3KxHxw7loX.jpg",
-        "https://image.tmdb.org/t/p/w780/3LNkfMqAeNN558V9oAODRDKGiPT.jpg",
-        "https://image.tmdb.org/t/p/w780/4kOFF9OydoMIQCNGKOF7YpxcIiO.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/tv/285322"
-    },
-    {
-      "id": 288458,
-      "type": "tv",
-      "title": "Ben-Hur: A Série",
-      "release_date": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w500/cpZDDRQqfw5ElYvKbnCot3FDNMz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/o6KXIKL9rN079LYr90JZwMFWw0H.jpg",
-      "overview": "Judá Ben‑Hur tem seu destino marcado por uma amizade complexa com o romano Messala. Anos depois, o reencontro com o amigo de infância desfere um golpe capaz de destruí-lo e afastá-lo de quem sempre foi. Vazio por dentro, apenas uma coisa o move: a busca implacável por justiça. Ou seria vingança?",
-      "tagline": "",
-      "runtime": 0,
-      "genres": [
-        "Drama",
-        "Action & Adventure"
-      ],
-      "vote_average": 0,
-      "providers": [],
-      "videos": [
-        {
-          "key": "NbsCUqnLzAM",
-          "name": "RECORD inicia gravações da série bíblica Ben-Hur no Rio de Janeiro",
-          "type": "Behind the Scenes",
-          "official": false
-        },
-        {
-          "key": "d9mVj1s1ng8",
-          "name": "Por que você deveria assistir Ben-Hur?",
-          "type": "Trailer",
-          "official": false
-        }
-      ],
-      "cast": [
-        "Vinícius Redd",
-        "Bia Arantes",
-        "Rômulo Weber",
-        "Ingrid Conte",
-        "Felipe Cardoso",
-        "Floriano Peixoto",
-        "Clara Niin",
-        "Danilo Sacramento"
-      ],
-      "director": "Vicente Guerra",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/o6KXIKL9rN079LYr90JZwMFWw0H.jpg",
-        "https://image.tmdb.org/t/p/w780/xMnwBFeVitg5tx0BTze7ZtHdgbh.jpg",
-        "https://image.tmdb.org/t/p/w780/aGEgqi606ua0Og9u9kMbvsVhwbR.jpg",
-        "https://image.tmdb.org/t/p/w780/dmo3HIlhVIk7EAqyeMysx8VqZF2.jpg",
-        "https://image.tmdb.org/t/p/w780/wZdn1y3Miobrn3bz7qC3ON49xJi.jpg",
-        "https://image.tmdb.org/t/p/w780/NFyhp0luwBoqGODs66pCwUOMVd.jpg",
-        "https://image.tmdb.org/t/p/w780/mWBjS2VxLyxvd7JNtT6Ey6WvIyn.jpg",
-        "https://image.tmdb.org/t/p/w780/iGhEiCzxOPZtqMxyZBax18TS6Ay.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/tv/288458"
-    },
-    {
-      "id": 213375,
-      "type": "tv",
-      "title": "VisionQuest",
-      "release_date": "2026-10-14",
-      "poster": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/v50p9hearMiu6BlYfp4O7FACmXl.jpg",
-      "overview": "Um Visão repaginado tem se escondido daqueles que buscam usá-lo como arma. Enquanto permanece na clandestinidade, ele consulta as personalidades de IA embutidas em sua programação, incluindo o infame Ultron, para encontrar seu verdadeiro propósito. Essa vida tranquila de autorreflexão chega ao fim quando uma recompensa por sua cabeça o força a fugir ao lado de Thomas Shepard, um garoto misterioso que pode ser a reencarnação de seu filho.",
-      "tagline": "",
-      "runtime": 0,
-      "genres": [
-        "Sci-Fi & Fantasy"
-      ],
-      "vote_average": 0,
-      "providers": [],
-      "videos": [
-        {
-          "key": "5KlReQtgPVA",
-          "name": "VisionQuest | Trailer Oficial Dublado | Disney+",
-          "type": "Trailer",
-          "official": true
-        }
-      ],
-      "cast": [
-        "Paul Bettany",
-        "James Spader",
-        "Ruaridh Mollica",
-        "Todd Stashwick",
-        "T'Nia Miller",
-        "Lauren Morais",
-        "Orla Brady",
-        "Diane Morgan"
-      ],
-      "director": "",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/v50p9hearMiu6BlYfp4O7FACmXl.jpg",
-        "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-        "https://image.tmdb.org/t/p/w780/pMgAiQYQpVHNrcQBJNgWxAqMt2c.jpg",
-        "https://image.tmdb.org/t/p/w780/hPEkMVlkEBki1o5j76oSigLXcMy.jpg",
-        "https://image.tmdb.org/t/p/w780/hgo15B8eUnbEjszVV1qdV8sGz9S.jpg",
-        "https://image.tmdb.org/t/p/w780/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
-        "https://image.tmdb.org/t/p/w780/21RlJ2TTzPWSnzT8POXmgfRY9Xb.jpg",
-        "https://image.tmdb.org/t/p/w780/sS0dk90z1Eh3jBIAcblH88cN16D.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/tv/213375"
-    },
-    {
-      "id": 213562,
-      "type": "tv",
-      "title": "Crystal Lake",
-      "release_date": "2026-10-15",
-      "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w7yAQtTiIcGy4gcbCDtfXo9fcQZ.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 0,
-      "genres": [
-        "Mistério",
-        "Drama"
-      ],
-      "vote_average": 0,
-      "providers": [],
-      "videos": [],
-      "cast": [
-        "Linda Cardellini",
-        "William Catlett",
-        "Devin Kessler",
-        "Cameron Scoggins",
-        "Gwendolyn Sundstrom"
-      ],
-      "director": "",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/w7yAQtTiIcGy4gcbCDtfXo9fcQZ.jpg",
-        "https://image.tmdb.org/t/p/w780/keOXGJEP9ejEUIES1aRFHZZ6SJH.jpg",
-        "https://image.tmdb.org/t/p/w780/c1RP38PbwfCaQjSSotniS01uvuY.jpg",
-        "https://image.tmdb.org/t/p/w780/xdOvVEA4mMt8L0WAWYx55w2CSkB.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/tv/213562"
-    },
-    {
-      "id": 303745,
-      "type": "tv",
-      "title": "나의 유죄인간",
-      "release_date": "2026-10-19",
-      "poster": "https://image.tmdb.org/t/p/w500/yjFDgjpX6vv3Z4WEqqtKqROsmRN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
-      "overview": "Uma comédia romântica de escritório com inversão de papéis de gênero, na qual uma ex-soldada infiltrada se passa por guarda-costas homem para investigar um suspeito de assassinato rico e excêntrico",
-      "tagline": "",
-      "runtime": 0,
-      "genres": [
-        "Comédia",
-        "Drama"
-      ],
-      "vote_average": 0,
-      "providers": [],
-      "videos": [],
-      "cast": [
-        "임시완",
-        "Seorina",
-        "김정현",
-        "연우",
-        "김인권",
-        "홍은희",
-        "김기방",
-        "남해준"
-      ],
-      "director": "박단희",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
-        "https://image.tmdb.org/t/p/w780/eELCGuN24A8lcgYhN5DH2qTyaIU.jpg",
-        "https://image.tmdb.org/t/p/w780/3jeS4wuqWn1MfWDW4223s2I07kU.jpg",
-        "https://image.tmdb.org/t/p/w780/6ZQE2VFxtngS6TgZj7VAjbXI2oI.jpg",
-        "https://image.tmdb.org/t/p/w780/guIULZ7Ik803V1l8u5TRSss9JU8.jpg",
-        "https://image.tmdb.org/t/p/w780/i5Lf26ZX5NvUaDszkg0wsa589Ny.jpg",
-        "https://image.tmdb.org/t/p/w780/3Ko1QladI1ocEiX6TlQ7EcBMvpR.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/tv/303745"
-    },
-    {
-      "id": 314360,
-      "type": "tv",
-      "title": "YAGA",
-      "release_date": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w500/oTAV9213XynOhVJvyet9PnIWXSV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/iqXeoigqrsRw81lMYVMs0Vg7Gdy.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 0,
-      "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "vote_average": 0,
-      "providers": [],
-      "videos": [],
-      "cast": [
-        "Carrie-Anne Moss",
-        "Clark Backo",
-        "Noah Reid",
-        "Hudson Williams",
-        "Ezra Franky",
-        "Patrick Gilmore"
-      ],
-      "director": "",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/iqXeoigqrsRw81lMYVMs0Vg7Gdy.jpg",
-        "https://image.tmdb.org/t/p/w780/2g0cKFf5b3IQkwQtSc2tQGMN3zH.jpg",
-        "https://image.tmdb.org/t/p/w780/2Y5s4eVzdlOGqHTej9HNCZvLxUh.jpg",
-        "https://image.tmdb.org/t/p/w780/pF6NlIUNJ4LSy26MTSe1MBMthP8.jpg",
-        "https://image.tmdb.org/t/p/w780/2e1HbV7JXxwvrGSDBFXKhkpfZKR.jpg",
-        "https://image.tmdb.org/t/p/w780/mN83ZBATZoVtGFHXcCL4Czj9oNc.jpg",
-        "https://image.tmdb.org/t/p/w780/9sYwCQVay8tQ7yVEIzB53BmNbHg.jpg",
-        "https://image.tmdb.org/t/p/w780/bCO97neKyNqk1Ppcu3jM7GGhxEc.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/tv/314360"
-    },
-    {
-      "id": 292741,
-      "type": "tv",
-      "title": "Noturno",
+      "id": 1294189,
+      "type": "movie",
+      "title": "The Mongoose",
       "release_date": "2026-10-29",
-      "poster": "https://image.tmdb.org/t/p/w500/4ooQ6EdSQwJZJl7eKJ7DfHnlA6c.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jdG6chJxxstvv8g0yAyN9Mg9ZFW.jpg",
-      "overview": "Quando uma vítima do notório serial killer Jurek Walter reaparece viva inesperadamente, o detetive Jonah Lynn corre contra o tempo para encontrar a única pessoa que ainda está desaparecida, enquanto sua protegida, Saga Bauer, infiltra-se em segredo para obter respostas do próprio assassino.",
+      "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+      "overview": "Um herói de guerra falsamente acusado, sem nada a perder, lidera a polícia em uma épica perseguição televisiva de carro pelo país, ajudado por membros de seu antigo batalhão das Forças Especiais do Exército e monitorado de perto por um público fascinado que torce por sua fuga segura.",
       "tagline": "",
-      "runtime": 0,
+      "runtime": 99,
       "genres": [
-        "Crime"
+        "Ação",
+        "Thriller"
       ],
       "vote_average": 0,
       "providers": [],
       "videos": [],
       "cast": [
-        "Liev Schreiber",
-        "Stephen Graham",
-        "Zazie Beetz",
-        "Bill Camp",
-        "Rory Culkin"
+        "Liam Neeson",
+        "Marisa Tomei",
+        "Ving Rhames",
+        "Michael Chiklis",
+        "Brett Tucker",
+        "Stella Stocker",
+        "Hamish Michael",
+        "Toby Truslove"
       ],
-      "director": "",
+      "director": "Mark Vanselow",
       "images": [
-        "https://image.tmdb.org/t/p/w780/jdG6chJxxstvv8g0yAyN9Mg9ZFW.jpg"
+        "https://image.tmdb.org/t/p/w780/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+        "https://image.tmdb.org/t/p/w780/nMoZlmPRslwooZnSU9fo92zvRh6.jpg",
+        "https://image.tmdb.org/t/p/w780/nvfYg1NO76F91fEsfjhSlGYTQJa.jpg",
+        "https://image.tmdb.org/t/p/w780/qjQqxoibX2jrDqPkkKpp0Sq2XBt.jpg",
+        "https://image.tmdb.org/t/p/w780/iALrrdRIDZaQUo14aiIdOrkdfNr.jpg",
+        "https://image.tmdb.org/t/p/w780/gZHRDqEGfq4gIiU00pwFzWeCxW6.jpg",
+        "https://image.tmdb.org/t/p/w780/6FNhFhoS9cNS9hvZ0DWfIxjrho8.jpg",
+        "https://image.tmdb.org/t/p/w780/rEHXzonklwbyd0xFa7vDtnfVtok.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/tv/292741"
-    },
-    {
-      "id": 279246,
-      "type": "tv",
-      "title": "A Imperatriz Se Casou Novamente",
-      "release_date": "2026-11-04",
-      "poster": "https://image.tmdb.org/t/p/w500/9mVhSAIZERTDw7dWbbGuJegCDjl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/i6TwJ9uOynLnSWpKWnzqkV37iJ1.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 0,
-      "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "vote_average": 0,
-      "providers": [],
-      "videos": [],
-      "cast": [
-        "Shin Min-a",
-        "주지훈",
-        "Lee Jong-suk",
-        "이세영",
-        "최대훈",
-        "Lee Bong-ryun",
-        "박호산",
-        "정영주"
-      ],
-      "director": "조수원",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/i6TwJ9uOynLnSWpKWnzqkV37iJ1.jpg",
-        "https://image.tmdb.org/t/p/w780/15FoPNxGjLTgyfZaLufrBgtKgr.jpg",
-        "https://image.tmdb.org/t/p/w780/7X0gLf54GzrCLb4rAdt4pC6Cla.jpg",
-        "https://image.tmdb.org/t/p/w780/c32UGOkztcA6DQAhvpQHJIIrLRo.jpg",
-        "https://image.tmdb.org/t/p/w780/s8GkSBX9tZL18ghS7f3oP5dmZuk.jpg",
-        "https://image.tmdb.org/t/p/w780/irhKYipNSGV46zcbMORamejKlYo.jpg",
-        "https://image.tmdb.org/t/p/w780/pna2NjpWAcsZCEKIdnTbWHB4XRd.jpg",
-        "https://image.tmdb.org/t/p/w780/fr8DrajFVOqX7tCrmhJOF4zaYnc.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/tv/279246"
+      "tmdb_url": "https://www.themoviedb.org/movie/1294189"
     }
   ]
 }
