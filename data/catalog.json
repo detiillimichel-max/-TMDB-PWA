@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T13:43:41.474821+00:00",
+  "updated_at": "2026-09-21T21:07:49.372325+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 7.0,
+      "vote_average": 7.001,
       "providers": [],
       "videos": [
         {
@@ -75,7 +75,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 7.241,
+      "vote_average": 7.2,
       "providers": [
         {
           "id": 8,
@@ -224,6 +224,56 @@
       "tmdb_url": "https://www.themoviedb.org/movie/813418"
     },
     {
+      "id": 1685882,
+      "type": "movie",
+      "title": "மொத ராத்திரி",
+      "release_date": "2026-08-21",
+      "poster": "https://image.tmdb.org/t/p/w500/hRWSgz2YbukvpBMUDr9fQ7KxaZh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/11TnS5t4jJrD6Rl0mv6Klckxv7U.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 141,
+      "genres": [
+        "Romance",
+        "Comédia"
+      ],
+      "vote_average": 7.0,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "UrWrvwIRnqk",
+          "name": "Modha Rathri | Official Trailer | Anishma Anilkumar, Rishikanth | Netflix India",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Rishikanth",
+        "Anishma Anilkumar",
+        "Chetan",
+        "A. Venkatesh",
+        "Bagavathi Perumal",
+        "Sangeetha Balan",
+        "Shelly Kishore",
+        "Abdool Lee"
+      ],
+      "director": "Raja Karuppasamy",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/11TnS5t4jJrD6Rl0mv6Klckxv7U.jpg",
+        "https://image.tmdb.org/t/p/w780/aT8Uk5uQKBJ3Syt63SNdlPUwqI9.jpg",
+        "https://image.tmdb.org/t/p/w780/xxB9OerCJrJ4gLPkLtEPbRaWWhx.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1685882"
+    },
+    {
       "id": 1516698,
       "type": "movie",
       "title": "O Último Nascer do Sol",
@@ -237,7 +287,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.784,
+      "vote_average": 6.774,
       "providers": [],
       "videos": [
         {
@@ -295,7 +345,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.56,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
@@ -377,7 +427,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.852,
+      "vote_average": 6.854,
       "providers": [
         {
           "id": 8,
@@ -472,7 +522,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.767,
+      "vote_average": 6.8,
       "providers": [],
       "videos": [
         {
@@ -521,7 +571,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.04,
+      "vote_average": 8.038,
       "providers": [
         {
           "id": 350,
@@ -632,7 +682,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.629,
+      "vote_average": 6.637,
       "providers": [],
       "videos": [
         {
@@ -697,7 +747,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.432,
+      "vote_average": 6.4,
       "providers": [],
       "videos": [
         {
@@ -733,64 +783,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1288445"
     },
     {
-      "id": 1302904,
-      "type": "movie",
-      "title": "Da Magia à Sedução: Feitiço de Amor",
-      "release_date": "2026-09-10",
-      "poster": "https://image.tmdb.org/t/p/w500/uoJvqWGs4702jnqOwe8RABSxT3L.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
-      "overview": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
-      "tagline": "",
-      "runtime": 130,
-      "genres": [
-        "Romance",
-        "Fantasia",
-        "Comédia"
-      ],
-      "vote_average": 6.11,
-      "providers": [],
-      "videos": [
-        {
-          "key": "NWg58fi7w20",
-          "name": "Da Magia À Sedução: Feitiço de Amor l Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "pzQrRD4BD9A",
-          "name": "Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Joey King",
-        "Maisie Williams",
-        "Xolo Maridueña",
-        "Lee Pace",
-        "Dianne Wiest",
-        "Stockard Channing"
-      ],
-      "director": "Susanne Bier",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
-        "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-        "https://image.tmdb.org/t/p/w780/eHVFhyO2YkJPzvrMv2TmVhjPAUJ.jpg",
-        "https://image.tmdb.org/t/p/w780/Ao7Q6CMDiVheAqVyKV8vUI8yata.jpg",
-        "https://image.tmdb.org/t/p/w780/yDgYYuz8jDQCRJbHC3XM7IIGoeR.jpg",
-        "https://image.tmdb.org/t/p/w780/kyrubDEucmnFPqVwVi2mhOGYZ3g.jpg",
-        "https://image.tmdb.org/t/p/w780/phL6LnTXTk1EofA7JDtDUmH6JZA.jpg",
-        "https://image.tmdb.org/t/p/w780/uxGBQkfmTczPp6o1tHpxZovq4MW.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1302904"
-    },
-    {
       "id": 1228834,
       "type": "movie",
       "title": "The Fix",
@@ -804,11 +796,11 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.406,
       "providers": [],
       "videos": [
         {
-          "key": "vH4zs2LnhyE",
+          "key": "9YHuVsKdAIs",
           "name": "THE FIX Official Trailer 2 (2026) Liam Neeson",
           "type": "Trailer",
           "official": false,
@@ -900,7 +892,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.342,
       "providers": [],
       "videos": [
         {
@@ -934,12 +926,12 @@
       "images": [
         "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
         "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+        "https://image.tmdb.org/t/p/w780/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
         "https://image.tmdb.org/t/p/w780/fQpxJXfOm0QSHj3eB8QDjOvYL3t.jpg",
         "https://image.tmdb.org/t/p/w780/wEV9iTPIoiLfTkftCsrI23krsQA.jpg",
         "https://image.tmdb.org/t/p/w780/nfj53Pr6iCk0pZDJKbjYcyftsY5.jpg",
         "https://image.tmdb.org/t/p/w780/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
-        "https://image.tmdb.org/t/p/w780/qe7ip5bsuGGdrEfkKuXpZoJ0beK.jpg",
-        "https://image.tmdb.org/t/p/w780/naDzK2ZuVci6lHUy8OKuDXe8fqM.jpg"
+        "https://image.tmdb.org/t/p/w780/qe7ip5bsuGGdrEfkKuXpZoJ0beK.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1423191"
     },
@@ -957,7 +949,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 5.7,
+      "vote_average": 5.758,
       "providers": [],
       "videos": [
         {
@@ -1043,7 +1035,7 @@
         "Jordan Coleman",
         "Maryna Bennett"
       ],
-      "director": "Peter Spierig",
+      "director": "Michael Spierig",
       "images": [
         "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
         "https://image.tmdb.org/t/p/w780/j5PqG9rD0aUUIKEkGkWt7AaKnRa.jpg",
@@ -1074,8 +1066,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "SwIcphIaLMI",
-          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
+          "key": "DQAUbfAtZLA",
+          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
