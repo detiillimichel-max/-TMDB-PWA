@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T04:57:15.157891+00:00",
+  "updated_at": "2026-09-22T11:39:35.814989+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 7.011,
+      "vote_average": 7.018,
       "providers": [],
       "videos": [
         {
@@ -131,7 +131,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.792,
+      "vote_average": 8.796,
       "providers": [
         {
           "id": 8,
@@ -237,7 +237,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 7.25,
+      "vote_average": 7.2,
       "providers": [
         {
           "id": 8,
@@ -345,7 +345,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.552,
       "providers": [],
       "videos": [
         {
@@ -427,7 +427,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.853,
+      "vote_average": 6.855,
       "providers": [
         {
           "id": 8,
@@ -522,7 +522,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.762,
+      "vote_average": 6.75,
       "providers": [],
       "videos": [
         {
@@ -571,7 +571,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.042,
+      "vote_average": 8.045,
       "providers": [
         {
           "id": 350,
@@ -627,7 +627,7 @@
         "Família",
         "Ação"
       ],
-      "vote_average": 6.8,
+      "vote_average": 6.7,
       "providers": [
         {
           "id": 531,
@@ -796,7 +796,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.421,
       "providers": [],
       "videos": [
         {
@@ -859,10 +859,10 @@
         "Arkira Chantaratananond",
         "Jaden Michael",
         "Riley Davis",
+        "Bergman Freedman",
         "Kate Drummond",
         "Samantha Espie",
-        "Cooper Levy",
-        "Eve Edwards"
+        "Cooper Levy"
       ],
       "director": "Yoko Okumura",
       "images": [
@@ -892,7 +892,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.345,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -997,7 +997,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.718,
+      "vote_average": 6.6,
       "providers": [],
       "videos": [
         {
@@ -1035,7 +1035,7 @@
         "Jordan Coleman",
         "Maryna Bennett"
       ],
-      "director": "Michael Spierig",
+      "director": "Peter Spierig",
       "images": [
         "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
         "https://image.tmdb.org/t/p/w780/j5PqG9rD0aUUIKEkGkWt7AaKnRa.jpg",
