@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T16:58:15.941541+00:00",
+  "updated_at": "2026-09-22T21:20:01.081850+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 7.0,
+      "vote_average": 7.008,
       "providers": [],
       "videos": [
         {
@@ -131,7 +131,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.796,
+      "vote_average": 8.797,
       "providers": [
         {
           "id": 8,
@@ -172,58 +172,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1621552"
     },
     {
-      "id": 813418,
-      "type": "movie",
-      "title": "Hot Spot",
-      "release_date": "2026-08-21",
-      "poster": "https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 101,
-      "genres": [
-        "Ficção científica",
-        "Ação",
-        "Crime",
-        "Fantasia",
-        "Thriller"
-      ],
-      "vote_average": 4.905,
-      "providers": [],
-      "videos": [
-        {
-          "key": "szChgfJUPeo",
-          "name": "Hot Spot - Official Trailer (2026)",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Andrzej Konopka",
-        "Noomi Rapace",
-        "霧島れいか",
-        "Filippa Kaye",
-        "George Aurimas Cris",
-        "Νίκη Σερέτη",
-        "Έκτορας Λιάτσος",
-        "Ράσμη Τσόπελα"
-      ],
-      "director": "Agnieszka Smoczyńska",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
-        "https://image.tmdb.org/t/p/w780/km0vFlBTUjgOIOuqX6nWCYDtSdj.jpg",
-        "https://image.tmdb.org/t/p/w780/yCYp61TkFxLwoNNixkmKL0DHtj1.jpg",
-        "https://image.tmdb.org/t/p/w780/1I3vEYdeamj8OdcydmBOK3kERnv.jpg",
-        "https://image.tmdb.org/t/p/w780/yWPWsyzrFYYs28HrH0R3Fy3ob4h.jpg",
-        "https://image.tmdb.org/t/p/w780/cL4EeH1t6pCrac6whqQWL45vRDa.jpg",
-        "https://image.tmdb.org/t/p/w780/4klWnHQjXI33iaAlZBCikmaZB5W.jpg",
-        "https://image.tmdb.org/t/p/w780/9ERWr6qtZYhAnfYZjQpKRLjwt3w.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/813418"
-    },
-    {
       "id": 1685882,
       "type": "movie",
       "title": "மொத ராத்திரி",
@@ -247,8 +195,8 @@
       ],
       "videos": [
         {
-          "key": "UrWrvwIRnqk",
-          "name": "Modha Rathri | Official Trailer | Anishma Anilkumar, Rishikanth | Netflix India",
+          "key": "SFrKBnj13qI",
+          "name": "Ram and Leela - Official Trailer | Rio Raj | Vartika | Ankit Menon | Ramachandrran Kannan",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -345,7 +293,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.544,
+      "vote_average": 7.535,
       "providers": [],
       "videos": [
         {
@@ -427,7 +375,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.9,
+      "vote_average": 6.86,
       "providers": [
         {
           "id": 8,
@@ -482,12 +430,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.615,
       "providers": [],
       "videos": [
         {
-          "key": "c5FGrGLlRdw",
-          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
+          "key": "M9tHmu0wNHM",
+          "name": "Zip Wire | 2026 | @SignatureUK Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -522,7 +470,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.747,
+      "vote_average": 6.754,
       "providers": [],
       "videos": [
         {
@@ -682,7 +630,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.637,
+      "vote_average": 6.662,
       "providers": [],
       "videos": [
         {
@@ -747,7 +695,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.426,
+      "vote_average": 6.427,
       "providers": [],
       "videos": [
         {
@@ -796,7 +744,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.421,
+      "vote_average": 7.31,
       "providers": [],
       "videos": [
         {
@@ -883,7 +831,7 @@
       "title": "Resident Evil",
       "release_date": "2026-09-17",
       "poster": "https://image.tmdb.org/t/p/w500/gQ76UL64RQe3oHwiwHwODTC23g4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "overview": "Bryan, um tranquilo entregador de órgãos, é enviado para uma entrega noturna no Hospital Geral de Raccoon City. No caminho por uma estrada montanhosa coberta de neve, ele acidentalmente atropela uma mulher desconhecida. Ela sobrevive, mas algo está muito errado. Ao tentar ajudar, Bryan se depara com um surto em larga escala envolvendo mutações horríveis com tentáculos e monstruosidades bioengenheiradas.",
       "tagline": "Uma nova era do mal.",
       "runtime": 90,
@@ -892,7 +840,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.334,
+      "vote_average": 7.331,
       "providers": [],
       "videos": [
         {
@@ -924,8 +872,8 @@
       ],
       "director": "Zach Cregger",
       "images": [
-        "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
         "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+        "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
         "https://image.tmdb.org/t/p/w780/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
         "https://image.tmdb.org/t/p/w780/fQpxJXfOm0QSHj3eB8QDjOvYL3t.jpg",
         "https://image.tmdb.org/t/p/w780/wEV9iTPIoiLfTkftCsrI23krsQA.jpg",
@@ -1047,6 +995,56 @@
         "https://image.tmdb.org/t/p/w780/a0EO86YrLelSwIhCI0kOmOk8TPm.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1101412"
+    },
+    {
+      "id": 1377237,
+      "type": "movie",
+      "title": "Três Horas Para Viver",
+      "release_date": "2026-10-08",
+      "poster": "https://image.tmdb.org/t/p/w500/6DaeQweqmUCdLlw4TC5Sz2xVO6g.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "overview": "Um transportador de elite embarca em uma missão urgente: entregar um órgão vital para salvar a vida de uma garotinha de sete anos. O que parecia ser uma tarefa objetiva logo se transforma em uma corrida frenética contra o tempo quando uma perigosa organização criminosa entra em cena para impedir o sucesso da entrega.",
+      "tagline": "",
+      "runtime": 97,
+      "genres": [
+        "Ação",
+        "Comédia",
+        "Thriller"
+      ],
+      "vote_average": 7.9,
+      "providers": [],
+      "videos": [
+        {
+          "key": "Py9-y_XapJQ",
+          "name": "Trailer Oficial Legendado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Alan Ritchson",
+        "Owen Wilson",
+        "Rodrigo Santoro",
+        "Leila George",
+        "Kate Box",
+        "Adriana Barraza",
+        "Peta Sergeant",
+        "Scarlett Crabtree"
+      ],
+      "director": "Scott Waugh",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+        "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+        "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+        "https://image.tmdb.org/t/p/w780/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg",
+        "https://image.tmdb.org/t/p/w780/zwOuftcrINzFyg27ffn2cevxClC.jpg",
+        "https://image.tmdb.org/t/p/w780/hSYBdRE9b5PRK3BsjEBvXnUZvwM.jpg",
+        "https://image.tmdb.org/t/p/w780/iE07BOqCoKDYcZ1EOls9rMK9797.jpg",
+        "https://image.tmdb.org/t/p/w780/qaRXiwTEpSgoKIkZNYfcmQRgRYk.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1377237"
     },
     {
       "id": 1294189,
