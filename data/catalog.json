@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:39:35.814989+00:00",
+  "updated_at": "2026-09-22T16:58:15.941541+00:00",
   "region": "BR",
   "items": [
     {
@@ -10,14 +10,14 @@
       "poster": "https://image.tmdb.org/t/p/w500/4uuHvSqtAqbFFl0ZgOMx3xbGw1J.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "overview": "Após um misterioso evento cósmico abalar o bairro Oak Street e o transportar dos subúrbios para um lugar desconhecido, a família Platt descobre que sua sobrevivência vai depender da união entre todos para enfrentar um ambiente agora irreconhecível.",
-      "tagline": "",
+      "tagline": "Lá se vai a vizinhança",
       "runtime": 100,
       "genres": [
         "Ficção científica",
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 7.018,
+      "vote_average": 7.0,
       "providers": [],
       "videos": [
         {
@@ -75,7 +75,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 7.268,
+      "vote_average": 7.3,
       "providers": [
         {
           "id": 8,
@@ -247,8 +247,8 @@
       ],
       "videos": [
         {
-          "key": "SFrKBnj13qI",
-          "name": "Ram and Leela - Official Trailer | Rio Raj | Vartika | Ankit Menon | Ramachandrran Kannan",
+          "key": "UrWrvwIRnqk",
+          "name": "Modha Rathri | Official Trailer | Anishma Anilkumar, Rishikanth | Netflix India",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -345,7 +345,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.552,
+      "vote_average": 7.544,
       "providers": [],
       "videos": [
         {
@@ -427,7 +427,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.855,
+      "vote_average": 6.9,
       "providers": [
         {
           "id": 8,
@@ -486,8 +486,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "M9tHmu0wNHM",
-          "name": "Zip Wire | 2026 | @SignatureUK Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
+          "key": "c5FGrGLlRdw",
+          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -522,7 +522,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.75,
+      "vote_average": 6.747,
       "providers": [],
       "videos": [
         {
@@ -571,7 +571,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.045,
+      "vote_average": 8.0,
       "providers": [
         {
           "id": 350,
@@ -747,7 +747,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.4,
+      "vote_average": 6.426,
       "providers": [],
       "videos": [
         {
@@ -892,7 +892,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.334,
       "providers": [],
       "videos": [
         {
@@ -949,7 +949,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 5.643,
+      "vote_average": 5.6,
       "providers": [],
       "videos": [
         {
@@ -1035,7 +1035,7 @@
         "Jordan Coleman",
         "Maryna Bennett"
       ],
-      "director": "Peter Spierig",
+      "director": "Michael Spierig",
       "images": [
         "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
         "https://image.tmdb.org/t/p/w780/j5PqG9rD0aUUIKEkGkWt7AaKnRa.jpg",
