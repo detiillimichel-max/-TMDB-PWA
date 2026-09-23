@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T04:46:14.545678+00:00",
+  "updated_at": "2026-09-23T11:38:01.381238+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 7.017,
+      "vote_average": 7.011,
       "providers": [],
       "videos": [
         {
@@ -131,7 +131,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.797,
+      "vote_average": 8.799,
       "providers": [
         {
           "id": 8,
@@ -235,7 +235,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.774,
+      "vote_average": 6.793,
       "providers": [],
       "videos": [
         {
@@ -470,7 +470,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.753,
+      "vote_average": 6.765,
       "providers": [],
       "videos": [
         {
@@ -519,7 +519,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.0,
+      "vote_average": 8.052,
       "providers": [
         {
           "id": 350,
@@ -630,7 +630,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.662,
+      "vote_average": 6.693,
       "providers": [],
       "videos": [
         {
@@ -695,7 +695,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.427,
+      "vote_average": 6.4,
       "providers": [],
       "videos": [
         {
@@ -744,7 +744,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.31,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -840,7 +840,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.334,
+      "vote_average": 7.313,
       "providers": [],
       "videos": [
         {
@@ -941,12 +941,12 @@
       "backdrop": "https://image.tmdb.org/t/p/w1280/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
       "overview": "O Navy SEAL Jake Harris volta à ação quando um ex-companheiro ameaça o mundo.",
       "tagline": "",
-      "runtime": 97,
+      "runtime": 98,
       "genres": [
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.375,
+      "vote_average": 8.1,
       "providers": [],
       "videos": [
         {
@@ -973,7 +973,10 @@
         "https://image.tmdb.org/t/p/w780/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
         "https://image.tmdb.org/t/p/w780/6M1gVQwezhnUXxQB8lfHBpSyula.jpg",
         "https://image.tmdb.org/t/p/w780/7AArZYRp6zGtbvSbbqoHn9xFp0L.jpg",
-        "https://image.tmdb.org/t/p/w780/u8u2YW9FIdEKlRHJ9qkLWGF8pMV.jpg"
+        "https://image.tmdb.org/t/p/w780/u8u2YW9FIdEKlRHJ9qkLWGF8pMV.jpg",
+        "https://image.tmdb.org/t/p/w780/m5LTXfgzePxIhR4JLMViRGRetMO.jpg",
+        "https://image.tmdb.org/t/p/w780/ujKpwpbgd5759YEprWUn63HidHu.jpg",
+        "https://image.tmdb.org/t/p/w780/kBjVBvz9vHL7c9dbvngMnguyDfn.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1607127"
     },
