@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T21:20:01.081850+00:00",
+  "updated_at": "2026-09-23T04:46:14.545678+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 7.008,
+      "vote_average": 7.017,
       "providers": [],
       "videos": [
         {
@@ -293,7 +293,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.535,
+      "vote_average": 7.533,
       "providers": [],
       "videos": [
         {
@@ -375,7 +375,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.86,
+      "vote_average": 6.859,
       "providers": [
         {
           "id": 8,
@@ -470,7 +470,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.754,
+      "vote_average": 6.753,
       "providers": [],
       "videos": [
         {
@@ -790,12 +790,12 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.417,
+      "vote_average": 6.385,
       "providers": [],
       "videos": [
         {
-          "key": "kZAe71_TuA4",
-          "name": "THE LAST KISS Official Trailer 2026",
+          "key": "4ykGWTkQ1y4",
+          "name": "The Last Kiss (2026) HD Trailer Oficial Subtitulado Español - Slasher - Mckenna Grace",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -840,7 +840,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.331,
+      "vote_average": 7.334,
       "providers": [],
       "videos": [
         {
@@ -897,7 +897,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 5.6,
+      "vote_average": 5.7,
       "providers": [],
       "videos": [
         {
@@ -933,6 +933,51 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1641629"
     },
     {
+      "id": 1607127,
+      "type": "movie",
+      "title": "O Último Tiro Certo",
+      "release_date": "2026-09-22",
+      "poster": "https://image.tmdb.org/t/p/w500/owdiTFWuWq4UxPth6nXNsO6x74Q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+      "overview": "O Navy SEAL Jake Harris volta à ação quando um ex-companheiro ameaça o mundo.",
+      "tagline": "",
+      "runtime": 97,
+      "genres": [
+        "Ação",
+        "Thriller"
+      ],
+      "vote_average": 8.375,
+      "providers": [],
+      "videos": [
+        {
+          "key": "MZuOSHQXC4g",
+          "name": "O Último Tiro Certo | Trailer e onde ver completo",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Scott Adkins",
+        "Steven Cree",
+        "Hannah Ware",
+        "Dolph Lundgren",
+        "ケイン・コスギ",
+        "Neil Linpow",
+        "Ray Fearon",
+        "Tom Dunne"
+      ],
+      "director": "James Nunn",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+        "https://image.tmdb.org/t/p/w780/6M1gVQwezhnUXxQB8lfHBpSyula.jpg",
+        "https://image.tmdb.org/t/p/w780/7AArZYRp6zGtbvSbbqoHn9xFp0L.jpg",
+        "https://image.tmdb.org/t/p/w780/u8u2YW9FIdEKlRHJ9qkLWGF8pMV.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1607127"
+    },
+    {
       "id": 1101412,
       "type": "movie",
       "title": "A Queda 2: No Limite",
@@ -945,7 +990,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.6,
+      "vote_average": 6.419,
       "providers": [],
       "videos": [
         {
@@ -995,56 +1040,6 @@
         "https://image.tmdb.org/t/p/w780/a0EO86YrLelSwIhCI0kOmOk8TPm.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1101412"
-    },
-    {
-      "id": 1377237,
-      "type": "movie",
-      "title": "Três Horas Para Viver",
-      "release_date": "2026-10-08",
-      "poster": "https://image.tmdb.org/t/p/w500/6DaeQweqmUCdLlw4TC5Sz2xVO6g.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-      "overview": "Um transportador de elite embarca em uma missão urgente: entregar um órgão vital para salvar a vida de uma garotinha de sete anos. O que parecia ser uma tarefa objetiva logo se transforma em uma corrida frenética contra o tempo quando uma perigosa organização criminosa entra em cena para impedir o sucesso da entrega.",
-      "tagline": "",
-      "runtime": 97,
-      "genres": [
-        "Ação",
-        "Comédia",
-        "Thriller"
-      ],
-      "vote_average": 7.9,
-      "providers": [],
-      "videos": [
-        {
-          "key": "Py9-y_XapJQ",
-          "name": "Trailer Oficial Legendado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Alan Ritchson",
-        "Owen Wilson",
-        "Rodrigo Santoro",
-        "Leila George",
-        "Kate Box",
-        "Adriana Barraza",
-        "Peta Sergeant",
-        "Scarlett Crabtree"
-      ],
-      "director": "Scott Waugh",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-        "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-        "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
-        "https://image.tmdb.org/t/p/w780/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg",
-        "https://image.tmdb.org/t/p/w780/zwOuftcrINzFyg27ffn2cevxClC.jpg",
-        "https://image.tmdb.org/t/p/w780/hSYBdRE9b5PRK3BsjEBvXnUZvwM.jpg",
-        "https://image.tmdb.org/t/p/w780/iE07BOqCoKDYcZ1EOls9rMK9797.jpg",
-        "https://image.tmdb.org/t/p/w780/qaRXiwTEpSgoKIkZNYfcmQRgRYk.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1377237"
     },
     {
       "id": 1294189,
