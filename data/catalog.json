@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T11:38:01.381238+00:00",
+  "updated_at": "2026-09-23T16:59:57.095940+00:00",
   "region": "BR",
   "items": [
     {
@@ -131,7 +131,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.799,
+      "vote_average": 8.791,
       "providers": [
         {
           "id": 8,
@@ -172,12 +172,64 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1621552"
     },
     {
+      "id": 813418,
+      "type": "movie",
+      "title": "Hot Spot",
+      "release_date": "2026-08-21",
+      "poster": "https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 101,
+      "genres": [
+        "Ficção científica",
+        "Ação",
+        "Crime",
+        "Fantasia",
+        "Thriller"
+      ],
+      "vote_average": 4.905,
+      "providers": [],
+      "videos": [
+        {
+          "key": "szChgfJUPeo",
+          "name": "Hot Spot - Official Trailer (2026)",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Andrzej Konopka",
+        "Noomi Rapace",
+        "霧島れいか",
+        "Filippa Kaye",
+        "George Aurimas Cris",
+        "Νίκη Σερέτη",
+        "Έκτορας Λιάτσος",
+        "Ράσμη Τσόπελα"
+      ],
+      "director": "Agnieszka Smoczyńska",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
+        "https://image.tmdb.org/t/p/w780/km0vFlBTUjgOIOuqX6nWCYDtSdj.jpg",
+        "https://image.tmdb.org/t/p/w780/yCYp61TkFxLwoNNixkmKL0DHtj1.jpg",
+        "https://image.tmdb.org/t/p/w780/1I3vEYdeamj8OdcydmBOK3kERnv.jpg",
+        "https://image.tmdb.org/t/p/w780/yWPWsyzrFYYs28HrH0R3Fy3ob4h.jpg",
+        "https://image.tmdb.org/t/p/w780/cL4EeH1t6pCrac6whqQWL45vRDa.jpg",
+        "https://image.tmdb.org/t/p/w780/4klWnHQjXI33iaAlZBCikmaZB5W.jpg",
+        "https://image.tmdb.org/t/p/w780/9ERWr6qtZYhAnfYZjQpKRLjwt3w.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/813418"
+    },
+    {
       "id": 1685882,
       "type": "movie",
       "title": "மொத ராத்திரி",
       "release_date": "2026-08-21",
-      "poster": "https://image.tmdb.org/t/p/w500/hRWSgz2YbukvpBMUDr9fQ7KxaZh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/11TnS5t4jJrD6Rl0mv6Klckxv7U.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
       "overview": "Sinopse não disponível.",
       "tagline": "",
       "runtime": 141,
@@ -215,6 +267,7 @@
       ],
       "director": "Raja Karuppasamy",
       "images": [
+        "https://image.tmdb.org/t/p/w780/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
         "https://image.tmdb.org/t/p/w780/11TnS5t4jJrD6Rl0mv6Klckxv7U.jpg",
         "https://image.tmdb.org/t/p/w780/aT8Uk5uQKBJ3Syt63SNdlPUwqI9.jpg",
         "https://image.tmdb.org/t/p/w780/xxB9OerCJrJ4gLPkLtEPbRaWWhx.jpg"
@@ -293,7 +346,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.533,
+      "vote_average": 7.524,
       "providers": [],
       "videos": [
         {
@@ -359,62 +412,6 @@
         "https://image.tmdb.org/t/p/w780/lM76hl2H0tmTfsX6VCiCE0mbhz0.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1204680"
-    },
-    {
-      "id": 860508,
-      "type": "movie",
-      "title": "O Homem que Sussurra",
-      "release_date": "2026-08-27",
-      "poster": "https://image.tmdb.org/t/p/w500/umlg3mqkny7opAfPtBLUGYwZ8xF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
-      "overview": "Após o desaparecimento do filho, um viúvo precisa pedir ajuda ao próprio pai: um detetive aposentado que prendeu o assassino em série ligado a esse novo caso.",
-      "tagline": "Se deixar a porta entreaberta, vai ouvir um sussurro na certa.",
-      "runtime": 114,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "vote_average": 6.859,
-      "providers": [
-        {
-          "id": 8,
-          "name": "Netflix",
-          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-        }
-      ],
-      "videos": [
-        {
-          "key": "dmjvv0PiFTY",
-          "name": "O Homem que Sussurra | Trailer oficial | Netflix",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Robert De Niro",
-        "Michelle Monaghan",
-        "Adam Scott",
-        "Acston Luca Porto",
-        "Michael Keaton",
-        "Owen Teague",
-        "Hamish Linklater",
-        "Will Brill"
-      ],
-      "director": "James Ashcroft",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
-        "https://image.tmdb.org/t/p/w780/rHGJWs4XjO88QL4o9PWY618CVY8.jpg",
-        "https://image.tmdb.org/t/p/w780/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
-        "https://image.tmdb.org/t/p/w780/b0EVWmBaUgliBHkrxtvmcVruXAG.jpg",
-        "https://image.tmdb.org/t/p/w780/3qNmFlwdbO7hvdbLgl3FYOoJeAP.jpg",
-        "https://image.tmdb.org/t/p/w780/vxqyAKDjfqlkUWWIJMSfhAnFbNk.jpg",
-        "https://image.tmdb.org/t/p/w780/wxDIeosQo3gRS3KNiVgdwfD0tV1.jpg",
-        "https://image.tmdb.org/t/p/w780/d0krmJICW2EL2rvmsQPotM9YJLR.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/860508"
     },
     {
       "id": 1482547,
@@ -519,7 +516,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.052,
+      "vote_average": 8.047,
       "providers": [
         {
           "id": 350,
@@ -695,7 +692,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.4,
+      "vote_average": 6.424,
       "providers": [],
       "videos": [
         {
@@ -744,7 +741,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
@@ -776,26 +773,26 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1228834"
     },
     {
-      "id": 1318467,
+      "id": 1751701,
       "type": "movie",
-      "title": "The Last Kiss",
+      "title": "After Impact",
       "release_date": "2026-09-15",
-      "poster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
       "overview": "Sinopse não disponível.",
       "tagline": "",
-      "runtime": 97,
+      "runtime": 95,
       "genres": [
-        "Terror",
-        "Mistério",
+        "Ficção científica",
+        "Drama",
         "Thriller"
       ],
-      "vote_average": 6.385,
+      "vote_average": 5.1,
       "providers": [],
       "videos": [
         {
-          "key": "4ykGWTkQ1y4",
-          "name": "The Last Kiss (2026) HD Trailer Oficial Subtitulado Español - Slasher - Mckenna Grace",
+          "key": "g7twsW7XKSM",
+          "name": "After Impact (2026) – Official Trailer | Post-Apocalyptic Sci-Fi Thriller",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -803,27 +800,27 @@
         }
       ],
       "cast": [
-        "Mckenna Grace",
-        "Arkira Chantaratananond",
-        "Jaden Michael",
-        "Riley Davis",
-        "Bergman Freedman",
-        "Kate Drummond",
-        "Samantha Espie",
-        "Cooper Levy"
+        "Michiel Rensen",
+        "Maxie Li",
+        "Riki Antonievich",
+        "Will Clague",
+        "Stephanie Ramlose",
+        "Lee-Ann Dirks",
+        "James Crompton",
+        "Moehau Hodges-Tai"
       ],
-      "director": "Yoko Okumura",
+      "director": "Michiel Rensen",
       "images": [
-        "https://image.tmdb.org/t/p/w780/axlPrPBwdlhcWFnjLLpAH1CEP96.jpg",
-        "https://image.tmdb.org/t/p/w780/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
-        "https://image.tmdb.org/t/p/w780/pcrzyKsfZclcMKM7tIc9NjSIWGU.jpg",
-        "https://image.tmdb.org/t/p/w780/A8qiGvOJxFucIJzJfjv73i0egUW.jpg",
-        "https://image.tmdb.org/t/p/w780/klLupmrAUykQMrmFVBjbr0nreiI.jpg",
-        "https://image.tmdb.org/t/p/w780/q1SUISNJqt57FMv4ctXTlXcdJhR.jpg",
-        "https://image.tmdb.org/t/p/w780/vvqcUxwVggQtFed1DWKPPskkgfG.jpg",
-        "https://image.tmdb.org/t/p/w780/sfPglervmMJYC8vUD370V5bASSp.jpg"
+        "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
+        "https://image.tmdb.org/t/p/w780/H3MffhULPZe5BDxkYZmlgTWocw.jpg",
+        "https://image.tmdb.org/t/p/w780/gTSx5ADg6ju8nHJymRdBMME7dCB.jpg",
+        "https://image.tmdb.org/t/p/w780/fwXkiy9qFbgWoU52LcMnzv8YbQ9.jpg",
+        "https://image.tmdb.org/t/p/w780/hx2ouj1bOznwRQaZBwjb8MpMf2O.jpg",
+        "https://image.tmdb.org/t/p/w780/uAzJdRoD0iN1JTKpWI4MzSpvm5i.jpg",
+        "https://image.tmdb.org/t/p/w780/52CerkXrGxdTzDxF7tdykazbzkf.jpg",
+        "https://image.tmdb.org/t/p/w780/k5kzITAiZXDX7ZiAi1Gj3nXwIxN.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1318467"
+      "tmdb_url": "https://www.themoviedb.org/movie/1751701"
     },
     {
       "id": 1423191,
@@ -840,7 +837,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.313,
+      "vote_average": 7.337,
       "providers": [],
       "videos": [
         {
@@ -897,7 +894,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 5.7,
+      "vote_average": 5.731,
       "providers": [],
       "videos": [
         {
@@ -946,7 +943,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.1,
+      "vote_average": 7.9,
       "providers": [],
       "videos": [
         {
@@ -981,68 +978,48 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1607127"
     },
     {
-      "id": 1101412,
+      "id": 1263337,
       "type": "movie",
-      "title": "A Queda 2: No Limite",
-      "release_date": "2026-10-01",
-      "poster": "https://image.tmdb.org/t/p/w500/xtxEvJACNnbz3WYmJ5mYT1a0KGk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-      "overview": "De luto pela morte de sua irmã Shiloh, Jax Hunter cria um laço com Luce, a amiga corajosa de Shiloh. Juntas, elas enfrentam a perigosa passarela suspensa do Monte Kwan, na Tailândia. Quando um deslizamento de rochas as deixa presas em uma estreita prancha a mais de 3.000 metros de altitude, Jax precisa enfrentar seus medos para sobreviver.",
-      "tagline": "Não olhe para baixo.",
-      "runtime": 98,
+      "title": "Coração Selvagem",
+      "release_date": "2026-09-24",
+      "poster": "https://image.tmdb.org/t/p/w500/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "overview": "Um ex-soldado ferido e seu cão de guerra aposentado lutam para sobreviver na região do Alasca e encontrar o caminho de volta para casa após um acidente aéreo na mata.",
+      "tagline": "Para sobreviver eles precisam um do outro.",
+      "runtime": 101,
       "genres": [
+        "Aventura",
         "Thriller"
       ],
-      "vote_average": 6.419,
+      "vote_average": 7.9,
       "providers": [],
       "videos": [
         {
-          "key": "x_q2-lmkTio",
-          "name": "Trailer Oficial 2 Dublado",
+          "key": "F0jWGqOyQ8g",
+          "name": "Trailer Oficial | LEG",
           "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "En4mRecmx4w",
-          "name": "Trailer Oficial Legendado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "whpOcuDr0Rc",
-          "name": "A Queda 2",
-          "type": "Teaser",
           "official": true,
           "site": "YouTube",
           "source": "tmdb"
         }
       ],
       "cast": [
-        "Harriet Slater",
-        "Arsema Thomas",
-        "Tom Brittney",
-        "Virginia Gardner",
-        "สหจักร บุญธนกิจ",
-        "Korakod Yensuk",
-        "Jordan Coleman",
-        "Maryna Bennett"
+        "Brad Pitt",
+        "J.K. Simmons",
+        "Anna Lambe"
       ],
-      "director": "Michael Spierig",
+      "director": "David Ayer",
       "images": [
-        "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-        "https://image.tmdb.org/t/p/w780/j5PqG9rD0aUUIKEkGkWt7AaKnRa.jpg",
-        "https://image.tmdb.org/t/p/w780/bDQbd4qMy4bYXA4S36XZX5p68LU.jpg",
-        "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
-        "https://image.tmdb.org/t/p/w780/5p7o2MnEgxM93M48wXTsclxBU1.jpg",
-        "https://image.tmdb.org/t/p/w780/o8G95h5yJ5xVVZs1s3mCynmv9IK.jpg",
-        "https://image.tmdb.org/t/p/w780/vSIVptD9l5iqTI2F8WGcWL2nOl1.jpg",
-        "https://image.tmdb.org/t/p/w780/a0EO86YrLelSwIhCI0kOmOk8TPm.jpg"
+        "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+        "https://image.tmdb.org/t/p/w780/nATJytbF2sB8QP4nKQNBUIdZswC.jpg",
+        "https://image.tmdb.org/t/p/w780/ynjkULhYw2427E1Yrrh6GGgIvfZ.jpg",
+        "https://image.tmdb.org/t/p/w780/briCzD66EoEBNGnbwV00N3LrDeA.jpg",
+        "https://image.tmdb.org/t/p/w780/bzi1j7GgxQMOwii5yDI2bsZ1PY6.jpg",
+        "https://image.tmdb.org/t/p/w780/sYZ5m0xjmytwa1YNZeYGK5fye8B.jpg",
+        "https://image.tmdb.org/t/p/w780/jSVSNpMD6u1yCaddJRkh2rngYjH.jpg",
+        "https://image.tmdb.org/t/p/w780/lIDbQxJkHFrsbbg3fnr22xdx4mg.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1101412"
+      "tmdb_url": "https://www.themoviedb.org/movie/1263337"
     },
     {
       "id": 1294189,
