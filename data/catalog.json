@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T11:47:05.193430+00:00",
+  "updated_at": "2026-09-24T17:12:07.010596+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 7.0,
+      "vote_average": 6.999,
       "providers": [],
       "videos": [
         {
@@ -172,28 +172,31 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1621552"
     },
     {
-      "id": 813418,
+      "id": 1685882,
       "type": "movie",
-      "title": "Hot Spot",
+      "title": "மொத ராத்திரி",
       "release_date": "2026-08-21",
-      "poster": "https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
       "overview": "Sinopse não disponível.",
       "tagline": "",
-      "runtime": 101,
+      "runtime": 141,
       "genres": [
-        "Ficção científica",
-        "Ação",
-        "Crime",
-        "Fantasia",
-        "Thriller"
+        "Romance",
+        "Comédia"
       ],
-      "vote_average": 5.087,
-      "providers": [],
+      "vote_average": 7.2,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
       "videos": [
         {
-          "key": "szChgfJUPeo",
-          "name": "Hot Spot - Official Trailer (2026)",
+          "key": "SFrKBnj13qI",
+          "name": "Ram and Leela - Official Trailer | Rio Raj | Vartika | Ankit Menon | Ramachandrran Kannan",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -201,27 +204,27 @@
         }
       ],
       "cast": [
-        "Andrzej Konopka",
-        "Noomi Rapace",
-        "霧島れいか",
-        "Filippa Kaye",
-        "George Aurimas Cris",
-        "Νίκη Σερέτη",
-        "Έκτορας Λιάτσος",
-        "Ράσμη Τσόπελα"
+        "Rishikanth",
+        "Anishma Anilkumar",
+        "Chetan",
+        "A. Venkatesh",
+        "Bagavathi Perumal",
+        "Sangeetha Balan",
+        "Shelly Kishore",
+        "Abdool Lee"
       ],
-      "director": "Agnieszka Smoczyńska",
+      "director": "Raja Karuppasamy",
       "images": [
-        "https://image.tmdb.org/t/p/w780/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
-        "https://image.tmdb.org/t/p/w780/km0vFlBTUjgOIOuqX6nWCYDtSdj.jpg",
-        "https://image.tmdb.org/t/p/w780/yCYp61TkFxLwoNNixkmKL0DHtj1.jpg",
-        "https://image.tmdb.org/t/p/w780/1I3vEYdeamj8OdcydmBOK3kERnv.jpg",
-        "https://image.tmdb.org/t/p/w780/yWPWsyzrFYYs28HrH0R3Fy3ob4h.jpg",
-        "https://image.tmdb.org/t/p/w780/cL4EeH1t6pCrac6whqQWL45vRDa.jpg",
-        "https://image.tmdb.org/t/p/w780/4klWnHQjXI33iaAlZBCikmaZB5W.jpg",
-        "https://image.tmdb.org/t/p/w780/9ERWr6qtZYhAnfYZjQpKRLjwt3w.jpg"
+        "https://image.tmdb.org/t/p/w780/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
+        "https://image.tmdb.org/t/p/w780/11TnS5t4jJrD6Rl0mv6Klckxv7U.jpg",
+        "https://image.tmdb.org/t/p/w780/aT8Uk5uQKBJ3Syt63SNdlPUwqI9.jpg",
+        "https://image.tmdb.org/t/p/w780/xxB9OerCJrJ4gLPkLtEPbRaWWhx.jpg",
+        "https://image.tmdb.org/t/p/w780/vOBDdU3OW3lDEjy9c1Siu07OLnG.jpg",
+        "https://image.tmdb.org/t/p/w780/jjUZKQ43g98nOnloGZcb5MHktBE.jpg",
+        "https://image.tmdb.org/t/p/w780/2lDK4oxqIcR8surznpHCPtMi4iF.jpg",
+        "https://image.tmdb.org/t/p/w780/mvOtq0wPu35N6ecUIlJCsm4J30E.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/movie/813418"
+      "tmdb_url": "https://www.themoviedb.org/movie/1685882"
     },
     {
       "id": 1516698,
@@ -465,7 +468,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.055,
+      "vote_average": 8.053,
       "providers": [
         {
           "id": 350,
@@ -576,7 +579,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.7,
+      "vote_average": 6.667,
       "providers": [],
       "videos": [
         {
@@ -690,12 +693,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.222,
       "providers": [],
       "videos": [
         {
-          "key": "7AlQfgBdcLI",
-          "name": "THE FIX Official Trailer (NEW 2026)",
+          "key": "vH4zs2LnhyE",
+          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -786,7 +789,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.289,
       "providers": [],
       "videos": [
         {
@@ -892,7 +895,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.537,
+      "vote_average": 7.614,
       "providers": [],
       "videos": [
         {
@@ -932,7 +935,7 @@
       "title": "A Hipótese do Amor",
       "release_date": "2026-09-23",
       "poster": "https://image.tmdb.org/t/p/w500/9TQyjZ9PHCiPR8eylF8dulUFreu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fuOMc0cr1ZW5chnXoAOm5hyM8cb.jpg",
       "overview": "Olive é uma brilhante candidata ao doutorado focada em seu futuro no meio acadêmico. Mas quando ela percebe que sua melhor amiga Ahn se apaixonou por seu crush Jeremy, Olive impulsivamente beija o intimidador professor Adam Carlsen para provar que ela superou a paixonite. O que começa como um ato desesperado de amizade se transforma em um relacionamento falso com regras, limites e um acordo mutuamente benéfico. Quando o arranjo deles começa a confundir as linhas entre encenação e realidade, Olive é forçada a testar sua hipótese mais assustadora até agora: a de que o amor pode realmente valer o risco.",
       "tagline": "Nós testamos. Os resultados saíram. A química está lá.",
       "runtime": 112,
@@ -940,7 +943,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.2,
+      "vote_average": 8.1,
       "providers": [],
       "videos": [
         {
@@ -972,14 +975,14 @@
       ],
       "director": "Claire Scanlon",
       "images": [
-        "https://image.tmdb.org/t/p/w780/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
         "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+        "https://image.tmdb.org/t/p/w780/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
         "https://image.tmdb.org/t/p/w780/fuOMc0cr1ZW5chnXoAOm5hyM8cb.jpg",
+        "https://image.tmdb.org/t/p/w780/mJC2Q2agtvxd6RschaQheDpiwwE.jpg",
         "https://image.tmdb.org/t/p/w780/p1Xk8xNHHP1HJx2yGZuREp8Etab.jpg",
         "https://image.tmdb.org/t/p/w780/b17uij6YoqTsWLO3V9NMQmGzTeA.jpg",
         "https://image.tmdb.org/t/p/w780/eHzUOEv6krXfljtz7SA8ryuFFiN.jpg",
-        "https://image.tmdb.org/t/p/w780/cztrDfhRziGVk5SOTsl4Elr0ZgJ.jpg",
-        "https://image.tmdb.org/t/p/w780/m1ukeDE8MS8mU10R9QDQZio1bpH.jpg"
+        "https://image.tmdb.org/t/p/w780/cztrDfhRziGVk5SOTsl4Elr0ZgJ.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1032863"
     },
