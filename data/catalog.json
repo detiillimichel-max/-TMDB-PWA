@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T04:52:05.452349+00:00",
+  "updated_at": "2026-09-24T11:47:05.193430+00:00",
   "region": "BR",
   "items": [
     {
@@ -295,7 +295,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.556,
+      "vote_average": 7.548,
       "providers": [],
       "videos": [
         {
@@ -380,8 +380,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "c5FGrGLlRdw",
-          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
+          "key": "M9tHmu0wNHM",
+          "name": "Zip Wire | 2026 | @SignatureUK Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -416,7 +416,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.754,
+      "vote_average": 6.759,
       "providers": [],
       "videos": [
         {
@@ -465,7 +465,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.053,
+      "vote_average": 8.055,
       "providers": [
         {
           "id": 350,
@@ -694,8 +694,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "vH4zs2LnhyE",
-          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson",
+          "key": "7AlQfgBdcLI",
+          "name": "THE FIX Official Trailer (NEW 2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -736,7 +736,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 5.1,
+      "vote_average": 5.917,
       "providers": [],
       "videos": [
         {
@@ -786,7 +786,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.294,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -935,12 +935,12 @@
       "backdrop": "https://image.tmdb.org/t/p/w1280/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
       "overview": "Olive é uma brilhante candidata ao doutorado focada em seu futuro no meio acadêmico. Mas quando ela percebe que sua melhor amiga Ahn se apaixonou por seu crush Jeremy, Olive impulsivamente beija o intimidador professor Adam Carlsen para provar que ela superou a paixonite. O que começa como um ato desesperado de amizade se transforma em um relacionamento falso com regras, limites e um acordo mutuamente benéfico. Quando o arranjo deles começa a confundir as linhas entre encenação e realidade, Olive é forçada a testar sua hipótese mais assustadora até agora: a de que o amor pode realmente valer o risco.",
       "tagline": "Nós testamos. Os resultados saíram. A química está lá.",
-      "runtime": 110,
+      "runtime": 112,
       "genres": [
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.3,
+      "vote_average": 8.2,
       "providers": [],
       "videos": [
         {
@@ -976,10 +976,10 @@
         "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
         "https://image.tmdb.org/t/p/w780/fuOMc0cr1ZW5chnXoAOm5hyM8cb.jpg",
         "https://image.tmdb.org/t/p/w780/p1Xk8xNHHP1HJx2yGZuREp8Etab.jpg",
+        "https://image.tmdb.org/t/p/w780/b17uij6YoqTsWLO3V9NMQmGzTeA.jpg",
         "https://image.tmdb.org/t/p/w780/eHzUOEv6krXfljtz7SA8ryuFFiN.jpg",
         "https://image.tmdb.org/t/p/w780/cztrDfhRziGVk5SOTsl4Elr0ZgJ.jpg",
-        "https://image.tmdb.org/t/p/w780/m1ukeDE8MS8mU10R9QDQZio1bpH.jpg",
-        "https://image.tmdb.org/t/p/w780/hOJl3NrAl3476QFsUup2uhWMeIu.jpg"
+        "https://image.tmdb.org/t/p/w780/m1ukeDE8MS8mU10R9QDQZio1bpH.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1032863"
     },
