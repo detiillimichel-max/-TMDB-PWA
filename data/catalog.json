@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T04:58:36.393065+00:00",
+  "updated_at": "2026-09-25T11:51:54.014481+00:00",
   "region": "BR",
   "items": [
     {
@@ -107,12 +107,12 @@
       "images": [
         "https://image.tmdb.org/t/p/w780/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
         "https://image.tmdb.org/t/p/w780/u31xcOTIXWYJAZWJ4mChwgwEKu4.jpg",
-        "https://image.tmdb.org/t/p/w780/oil0ZqZHwmrlN9q3KcXVIOOD2ta.jpg",
-        "https://image.tmdb.org/t/p/w780/sd0RKOpnqESIWxU3sZwZhBsgAHl.jpg",
-        "https://image.tmdb.org/t/p/w780/9yGWYRfMh1BWs1trC6SW2KuYi9c.jpg",
-        "https://image.tmdb.org/t/p/w780/96y1bEI6CIvGSzX87koYBd1Zk3Z.jpg",
         "https://image.tmdb.org/t/p/w780/hUUe8L0SC8CjZiXO0q8g0wPrPJV.jpg",
-        "https://image.tmdb.org/t/p/w780/79neWpc30msEyRsQXjgTLM31pSX.jpg"
+        "https://image.tmdb.org/t/p/w780/oil0ZqZHwmrlN9q3KcXVIOOD2ta.jpg",
+        "https://image.tmdb.org/t/p/w780/yofWnMCGqowr14g8zPeXy7QWsa5.jpg",
+        "https://image.tmdb.org/t/p/w780/1SKDDHpID9mJqOBA5zRRPDnhlme.jpg",
+        "https://image.tmdb.org/t/p/w780/sd0RKOpnqESIWxU3sZwZhBsgAHl.jpg",
+        "https://image.tmdb.org/t/p/w780/9yGWYRfMh1BWs1trC6SW2KuYi9c.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1408162"
     },
@@ -131,7 +131,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.794,
+      "vote_average": 8.799,
       "providers": [
         {
           "id": 8,
@@ -298,7 +298,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.547,
+      "vote_average": 7.544,
       "providers": [],
       "videos": [
         {
@@ -468,7 +468,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.052,
+      "vote_average": 8.051,
       "providers": [
         {
           "id": 350,
@@ -644,7 +644,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.454,
+      "vote_average": 6.658,
       "providers": [],
       "videos": [
         {
@@ -693,7 +693,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.222,
+      "vote_average": 7.179,
       "providers": [],
       "videos": [
         {
@@ -789,7 +789,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.289,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -846,7 +846,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 5.613,
+      "vote_average": 5.726,
       "providers": [],
       "videos": [
         {
@@ -895,7 +895,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.756,
+      "vote_average": 7.7,
       "providers": [],
       "videos": [
         {
@@ -943,7 +943,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.101,
+      "vote_average": 8.322,
       "providers": [],
       "videos": [
         {
@@ -1000,7 +1000,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.773,
+      "vote_average": 8.0,
       "providers": [],
       "videos": [
         {
@@ -1015,7 +1015,8 @@
       "cast": [
         "Brad Pitt",
         "J.K. Simmons",
-        "Anna Lambe"
+        "Anna Lambe",
+        "Uber"
       ],
       "director": "David Ayer",
       "images": [
