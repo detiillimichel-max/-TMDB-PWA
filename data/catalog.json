@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T17:12:10.919911+00:00",
+  "updated_at": "2026-09-25T21:35:43.733718+00:00",
   "region": "BR",
   "items": [
     {
@@ -298,7 +298,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.549,
+      "vote_average": 7.555,
       "providers": [],
       "videos": [
         {
@@ -510,62 +510,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1137844"
     },
     {
-      "id": 1506560,
-      "type": "movie",
-      "title": "O Confronto dos Thundermans",
-      "release_date": "2026-09-03",
-      "poster": "https://image.tmdb.org/t/p/w500/6GCxZ7RXjMZbSAd0CGHAfhmpKnL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hDwl0YMxwGhNe7u8wgHHk2Hyw3W.jpg",
-      "overview": "Quando o novo e perigoso poder de Chloe se manifesta, ela é enviada para um internato para jovens super-heróis. A família se divide: Phoebe, Barb e Billy se escondem com ela, enquanto Max, Hank e Nora vão atrás deles, levando a um confronto que decidirá o futuro de todos.",
-      "tagline": "",
-      "runtime": 72,
-      "genres": [
-        "Cinema TV",
-        "Família",
-        "Ação"
-      ],
-      "vote_average": 6.7,
-      "providers": [
-        {
-          "id": 531,
-          "name": "Paramount Plus",
-          "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png"
-        }
-      ],
-      "videos": [
-        {
-          "key": "O-ruLb5sOA8",
-          "name": "O Confronto dos Thundermans | Trailer Oficial | Paramount+ Brasil",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Kira Kosarin",
-        "Jack Griffo",
-        "Maya Le Clark",
-        "Rosa Blasi",
-        "Chris Tallman",
-        "Diego Velazquez",
-        "Addison Riecke",
-        "Daniele Gaither"
-      ],
-      "director": "Trevor Kirschner",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/hDwl0YMxwGhNe7u8wgHHk2Hyw3W.jpg",
-        "https://image.tmdb.org/t/p/w780/tBZMwg5oCJn8P0pStfuOMhhSQD3.jpg",
-        "https://image.tmdb.org/t/p/w780/6yT5O0g8ZXNOm9I5IXLZonZRBgx.jpg",
-        "https://image.tmdb.org/t/p/w780/3Hblh9EAqpRCrXuZjZGC5ZTReHw.jpg",
-        "https://image.tmdb.org/t/p/w780/5Yd1zwmAYYOOjDJI5eGQWIZ0xSA.jpg",
-        "https://image.tmdb.org/t/p/w780/6rF0WIAT5uS1FbJTbXkjw3dBnfQ.jpg",
-        "https://image.tmdb.org/t/p/w780/4c7PB1x53W0wqym7a8KtTqI7gnF.jpg",
-        "https://image.tmdb.org/t/p/w780/8XBkXsmMUK9lxC6zr29Ro67VZ5c.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1506560"
-    },
-    {
       "id": 1440098,
       "type": "movie",
       "title": "Atraídos Pelo Destino",
@@ -644,7 +588,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.699,
+      "vote_average": 6.73,
       "providers": [],
       "videos": [
         {
@@ -743,8 +687,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "g7twsW7XKSM",
-          "name": "After Impact (2026) – Official Trailer | Post-Apocalyptic Sci-Fi Thriller",
+          "key": "ZvQp-AY7RQk",
+          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -789,7 +733,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.293,
+      "vote_average": 7.303,
       "providers": [],
       "videos": [
         {
@@ -846,7 +790,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 5.64,
+      "vote_average": 5.6,
       "providers": [],
       "videos": [
         {
@@ -938,12 +882,12 @@
       "backdrop": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
       "overview": "Olive é uma brilhante candidata ao doutorado focada em seu futuro no meio acadêmico. Mas quando ela percebe que sua melhor amiga Ahn se apaixonou por seu crush Jeremy, Olive impulsivamente beija o intimidador professor Adam Carlsen para provar que ela superou a paixonite. O que começa como um ato desesperado de amizade se transforma em um relacionamento falso com regras, limites e um acordo mutuamente benéfico. Quando o arranjo deles começa a confundir as linhas entre encenação e realidade, Olive é forçada a testar sua hipótese mais assustadora até agora: a de que o amor pode realmente valer o risco.",
       "tagline": "Nós testamos. Os resultados saíram. A química está lá.",
-      "runtime": 112,
+      "runtime": 110,
       "genres": [
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.3,
+      "vote_average": 8.33,
       "providers": [],
       "videos": [
         {
@@ -976,15 +920,54 @@
       "director": "Claire Scanlon",
       "images": [
         "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-        "https://image.tmdb.org/t/p/w780/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
         "https://image.tmdb.org/t/p/w780/fuOMc0cr1ZW5chnXoAOm5hyM8cb.jpg",
+        "https://image.tmdb.org/t/p/w780/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
         "https://image.tmdb.org/t/p/w780/mJC2Q2agtvxd6RschaQheDpiwwE.jpg",
+        "https://image.tmdb.org/t/p/w780/lZT1BjOKWQRIXFYYBRg1z1XyaPW.jpg",
+        "https://image.tmdb.org/t/p/w780/38cZ3Pq8h6BIVYtBkICn6q0ay8e.jpg",
         "https://image.tmdb.org/t/p/w780/p1Xk8xNHHP1HJx2yGZuREp8Etab.jpg",
-        "https://image.tmdb.org/t/p/w780/b17uij6YoqTsWLO3V9NMQmGzTeA.jpg",
-        "https://image.tmdb.org/t/p/w780/eHzUOEv6krXfljtz7SA8ryuFFiN.jpg",
-        "https://image.tmdb.org/t/p/w780/cztrDfhRziGVk5SOTsl4Elr0ZgJ.jpg"
+        "https://image.tmdb.org/t/p/w780/b17uij6YoqTsWLO3V9NMQmGzTeA.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1032863"
+    },
+    {
+      "id": 1580190,
+      "type": "movie",
+      "title": "除暴之路",
+      "release_date": "2026-09-23",
+      "poster": "https://image.tmdb.org/t/p/w500/kgoLu3CCb3pQARy0YWEvijKNSx4.jpg",
+      "backdrop": "",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 0,
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "vote_average": 0,
+      "providers": [],
+      "videos": [
+        {
+          "key": "x-HE-g5YwZE",
+          "name": "功夫女足｜Kung Fu Soccer | Official Trailer | 正式预告片    ｜Coming to GSC starting 13 August 2026 ",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "刘峰超",
+        "房岩",
+        "黄涛",
+        "姚祯",
+        "Guo Feng",
+        "孙彩纶",
+        "淳于珊珊"
+      ],
+      "director": "秦鹏飞",
+      "images": [],
+      "tmdb_url": "https://www.themoviedb.org/movie/1580190"
     },
     {
       "id": 1263337,
@@ -1000,7 +983,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.988,
+      "vote_average": 7.867,
       "providers": [],
       "videos": [
         {
@@ -1048,8 +1031,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "SwIcphIaLMI",
-          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
+          "key": "DQAUbfAtZLA",
+          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
