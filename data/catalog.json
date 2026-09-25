@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T11:51:54.014481+00:00",
+  "updated_at": "2026-09-25T17:12:10.919911+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 7.001,
+      "vote_average": 7.007,
       "providers": [],
       "videos": [
         {
@@ -298,7 +298,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.544,
+      "vote_average": 7.549,
       "providers": [],
       "videos": [
         {
@@ -419,7 +419,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.773,
+      "vote_average": 6.768,
       "providers": [],
       "videos": [
         {
@@ -468,7 +468,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.051,
+      "vote_average": 8.05,
       "providers": [
         {
           "id": 350,
@@ -579,7 +579,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.655,
+      "vote_average": 6.658,
       "providers": [],
       "videos": [
         {
@@ -644,7 +644,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.658,
+      "vote_average": 6.699,
       "providers": [],
       "videos": [
         {
@@ -739,7 +739,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 5.214,
+      "vote_average": 5.722,
       "providers": [],
       "videos": [
         {
@@ -789,7 +789,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.293,
       "providers": [],
       "videos": [
         {
@@ -823,12 +823,12 @@
       "images": [
         "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
         "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+        "https://image.tmdb.org/t/p/w780/ddQKBWvnuiv7J64Z9exsNuze9hZ.jpg",
         "https://image.tmdb.org/t/p/w780/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
         "https://image.tmdb.org/t/p/w780/fQpxJXfOm0QSHj3eB8QDjOvYL3t.jpg",
         "https://image.tmdb.org/t/p/w780/wEV9iTPIoiLfTkftCsrI23krsQA.jpg",
         "https://image.tmdb.org/t/p/w780/nfj53Pr6iCk0pZDJKbjYcyftsY5.jpg",
-        "https://image.tmdb.org/t/p/w780/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
-        "https://image.tmdb.org/t/p/w780/qe7ip5bsuGGdrEfkKuXpZoJ0beK.jpg"
+        "https://image.tmdb.org/t/p/w780/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1423191"
     },
@@ -846,7 +846,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 5.726,
+      "vote_average": 5.64,
       "providers": [],
       "videos": [
         {
@@ -943,7 +943,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.322,
+      "vote_average": 8.3,
       "providers": [],
       "videos": [
         {
@@ -1000,7 +1000,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 8.0,
+      "vote_average": 7.988,
       "providers": [],
       "videos": [
         {
@@ -1015,8 +1015,7 @@
       "cast": [
         "Brad Pitt",
         "J.K. Simmons",
-        "Anna Lambe",
-        "Uber"
+        "Anna Lambe"
       ],
       "director": "David Ayer",
       "images": [
@@ -1049,8 +1048,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "DQAUbfAtZLA",
-          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
+          "key": "SwIcphIaLMI",
+          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
