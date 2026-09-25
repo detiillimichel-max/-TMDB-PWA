@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T21:31:49.416054+00:00",
+  "updated_at": "2026-09-25T04:58:36.393065+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.997,
+      "vote_average": 7.001,
       "providers": [],
       "videos": [
         {
@@ -185,7 +185,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 7.2,
+      "vote_average": 7.6,
       "providers": [
         {
           "id": 8,
@@ -240,7 +240,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.789,
+      "vote_average": 6.817,
       "providers": [],
       "videos": [
         {
@@ -298,7 +298,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.547,
       "providers": [],
       "videos": [
         {
@@ -354,8 +354,8 @@
       ],
       "director": "Dave Green",
       "images": [
-        "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
         "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+        "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
         "https://image.tmdb.org/t/p/w780/s6WNALkMPnBDadiKaS1JdRx9Hnw.jpg",
         "https://image.tmdb.org/t/p/w780/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
         "https://image.tmdb.org/t/p/w780/linZzmvbivJnXAXthvblHZdkkpp.jpg",
@@ -419,7 +419,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.8,
+      "vote_average": 6.773,
       "providers": [],
       "videos": [
         {
@@ -468,7 +468,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.053,
+      "vote_average": 8.052,
       "providers": [
         {
           "id": 350,
@@ -579,7 +579,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.67,
+      "vote_average": 6.655,
       "providers": [],
       "videos": [
         {
@@ -644,7 +644,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.419,
+      "vote_average": 6.454,
       "providers": [],
       "videos": [
         {
@@ -739,12 +739,12 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 5.917,
+      "vote_average": 5.214,
       "providers": [],
       "videos": [
         {
-          "key": "ZvQp-AY7RQk",
-          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
+          "key": "g7twsW7XKSM",
+          "name": "After Impact (2026) – Official Trailer | Post-Apocalyptic Sci-Fi Thriller",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -789,7 +789,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.285,
+      "vote_average": 7.289,
       "providers": [],
       "videos": [
         {
@@ -895,12 +895,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.697,
+      "vote_average": 7.756,
       "providers": [],
       "videos": [
         {
-          "key": "OPHefBZQd4U",
-          "name": "O Último Tiro Certo 2026 Trailer Legendado",
+          "key": "rksitbrcC3w",
+          "name": "O Último Tiro Certo 2026 | Trailer Legendado HD",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -1000,7 +1000,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.696,
+      "vote_average": 7.773,
       "providers": [],
       "videos": [
         {
