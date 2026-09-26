@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T04:58:59.865061+00:00",
+  "updated_at": "2026-09-26T11:26:05.687713+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 7.01,
+      "vote_average": 7.022,
       "providers": [],
       "videos": [
         {
@@ -131,7 +131,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.8,
+      "vote_average": 8.798,
       "providers": [
         {
           "id": 8,
@@ -185,7 +185,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.813,
+      "vote_average": 6.839,
       "providers": [],
       "videos": [
         {
@@ -243,7 +243,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.558,
+      "vote_average": 7.559,
       "providers": [],
       "videos": [
         {
@@ -328,8 +328,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "c5FGrGLlRdw",
-          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
+          "key": "M9tHmu0wNHM",
+          "name": "Zip Wire | 2026 | @SignatureUK Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -364,7 +364,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.772,
+      "vote_average": 6.781,
       "providers": [],
       "videos": [
         {
@@ -398,61 +398,6 @@
         "https://image.tmdb.org/t/p/w780/cjdO83LdYoqLP895GZZAynnH0ch.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1386315"
-    },
-    {
-      "id": 1137844,
-      "type": "movie",
-      "title": "Mayday",
-      "release_date": "2026-09-03",
-      "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-      "overview": "Quando um piloto da Marinha dos EUA, em uma missão ultrassecreta durante a Guerra Fria, fica preso em território inimigo, sua única chance de sobreviver é formar uma aliança com um excêntrico ex-agente da KGB.",
-      "tagline": "Uma amizade cheia de red flags.",
-      "runtime": 111,
-      "genres": [
-        "Ação",
-        "Comédia"
-      ],
-      "vote_average": 8.041,
-      "providers": [
-        {
-          "id": 350,
-          "name": "Apple TV",
-          "logo": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
-        }
-      ],
-      "videos": [
-        {
-          "key": "T3tPGyeq94s",
-          "name": "Trailer oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Ryan Reynolds",
-        "Kenneth Branagh",
-        "Marcin Dorociński",
-        "Мария Бакалова",
-        "David Morse",
-        "Clark Johnson",
-        "Wendy Crewson",
-        "Louis Cancelmi"
-      ],
-      "director": "Jonathan Goldstein",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-        "https://image.tmdb.org/t/p/w780/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
-        "https://image.tmdb.org/t/p/w780/nFNCdoKCDE4Gc27iEBh5yiF7DwX.jpg",
-        "https://image.tmdb.org/t/p/w780/lsouhNVm05pazPBDhpqs0KXNbmz.jpg",
-        "https://image.tmdb.org/t/p/w780/iIn6exNbm1wtMJ1YNybXlSOTNoj.jpg",
-        "https://image.tmdb.org/t/p/w780/cfLeZFOjcPGqgoRhuiono1nJc0i.jpg",
-        "https://image.tmdb.org/t/p/w780/keo5uAMe51geCzgSdIpmGOkB0uK.jpg",
-        "https://image.tmdb.org/t/p/w780/lXTuMnbO2wqi1RLuBK2bxASOFs6.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1137844"
     },
     {
       "id": 1440098,
@@ -514,10 +459,78 @@
         "https://image.tmdb.org/t/p/w780/1ewgN7tG15VPpYbW0CE3UCXabVD.jpg",
         "https://image.tmdb.org/t/p/w780/6IlNGtSdvrE2DhYI5XYi68qT4c7.jpg",
         "https://image.tmdb.org/t/p/w780/qIX2rkU0vOpwSEfBpB5WpqEBfNE.jpg",
-        "https://image.tmdb.org/t/p/w780/qVYjnG4JTzaJXkSweAMawI0uae9.jpg",
-        "https://image.tmdb.org/t/p/w780/ayEhWoIwbMgKTVeZnDRAcx3ZiPI.jpg"
+        "https://image.tmdb.org/t/p/w780/ayEhWoIwbMgKTVeZnDRAcx3ZiPI.jpg",
+        "https://image.tmdb.org/t/p/w780/h4HNbn5EwUhDIYR6Q45g84hxSuN.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1440098"
+    },
+    {
+      "id": 1465063,
+      "type": "movie",
+      "title": "A Ilha Esquecida",
+      "release_date": "2026-09-10",
+      "poster": "https://image.tmdb.org/t/p/w500/4PwgQjZLpIHkDPptgtGekocn78R.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+      "overview": "Jo e Raissa se veem presas no fantástico mundo da ilha esquecida de Nakali. Elas descobrem que seu único caminho para casa pode custar uma vida inteira de memórias e emoções.",
+      "tagline": "Vale a Pena Lutar Pela Sua Melhor Amizade.",
+      "runtime": 98,
+      "genres": [
+        "Animação",
+        "Aventura",
+        "Fantasia",
+        "Comédia",
+        "Família"
+      ],
+      "vote_average": 7.737,
+      "providers": [],
+      "videos": [
+        {
+          "key": "s0PQMwOdeJc",
+          "name": "A Ilha Esquecida - Novo Trailer Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "_cdsnKiW1z8",
+          "name": "Novo Trailer Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "i2YH-_XpPVU",
+          "name": "Trailer Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "H.E.R.",
+        "Liza Soberano",
+        "Dave Franco",
+        "Lea Salonga",
+        "Jenny Slate",
+        "Manny Jacinto",
+        "Dolly de Leon",
+        "Jo Koy"
+      ],
+      "director": "Januel Mercado",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+        "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+        "https://image.tmdb.org/t/p/w780/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
+        "https://image.tmdb.org/t/p/w780/iU2RVy0G99XoDSUHvcQomtif5nP.jpg",
+        "https://image.tmdb.org/t/p/w780/wCsNsAW67lN8GQ32oVzZVgzT0Li.jpg",
+        "https://image.tmdb.org/t/p/w780/acJMSEaUdRgUCj26hk8VAZSFRNf.jpg",
+        "https://image.tmdb.org/t/p/w780/obsM8IyBz3jn8hbru8V5btBRSBk.jpg",
+        "https://image.tmdb.org/t/p/w780/aES4LfrjUhYsj9xF4hOIPfvoIW2.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1465063"
     },
     {
       "id": 1288445,
@@ -533,7 +546,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.761,
+      "vote_average": 6.912,
       "providers": [],
       "videos": [
         {
@@ -582,7 +595,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.179,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -632,8 +645,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "g7twsW7XKSM",
-          "name": "After Impact (2026) – Official Trailer | Post-Apocalyptic Sci-Fi Thriller",
+          "key": "ZvQp-AY7RQk",
+          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -827,12 +840,12 @@
       "backdrop": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
       "overview": "Olive é uma brilhante candidata ao doutorado focada em seu futuro no meio acadêmico. Mas quando ela percebe que sua melhor amiga Ahn se apaixonou por seu crush Jeremy, Olive impulsivamente beija o intimidador professor Adam Carlsen para provar que ela superou a paixonite. O que começa como um ato desesperado de amizade se transforma em um relacionamento falso com regras, limites e um acordo mutuamente benéfico. Quando o arranjo deles começa a confundir as linhas entre encenação e realidade, Olive é forçada a testar sua hipótese mais assustadora até agora: a de que o amor pode realmente valer o risco.",
       "tagline": "Nós testamos. Os resultados saíram. A química está lá.",
-      "runtime": 110,
+      "runtime": 112,
       "genres": [
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.3,
+      "vote_average": 8.361,
       "providers": [],
       "videos": [
         {
@@ -928,7 +941,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.7,
+      "vote_average": 7.717,
       "providers": [],
       "videos": [
         {
@@ -965,7 +978,7 @@
       "type": "movie",
       "title": "Unabomber",
       "release_date": "2026-09-25",
-      "poster": "https://image.tmdb.org/t/p/w500/ichFf4QLI28cQfmAonQpbG2qm3P.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xVRIUBkQvapWRjYwCbPvb0NfH37.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
       "overview": "Este drama inspirado em uma história real mostra como Ted Kaczynski, um prodígio de Harvard, se transformou no infame Unabomber e foi caçado pelo FBI.",
       "tagline": "",
@@ -975,8 +988,14 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 7.16,
-      "providers": [],
+      "vote_average": 7.274,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
       "videos": [
         {
           "key": "5voDVcp1XLY",
@@ -1028,8 +1047,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "SwIcphIaLMI",
-          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
+          "key": "DQAUbfAtZLA",
+          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
