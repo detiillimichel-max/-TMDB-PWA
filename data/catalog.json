@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T21:35:43.733718+00:00",
+  "updated_at": "2026-09-26T04:58:59.865061+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 7.007,
+      "vote_average": 7.01,
       "providers": [],
       "videos": [
         {
@@ -131,7 +131,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.799,
+      "vote_average": 8.8,
       "providers": [
         {
           "id": 8,
@@ -172,61 +172,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1621552"
     },
     {
-      "id": 1685882,
-      "type": "movie",
-      "title": "மொத ராத்திரி",
-      "release_date": "2026-08-21",
-      "poster": "https://image.tmdb.org/t/p/w500/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 141,
-      "genres": [
-        "Romance",
-        "Comédia"
-      ],
-      "vote_average": 7.6,
-      "providers": [
-        {
-          "id": 8,
-          "name": "Netflix",
-          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-        }
-      ],
-      "videos": [
-        {
-          "key": "SFrKBnj13qI",
-          "name": "Ram and Leela - Official Trailer | Rio Raj | Vartika | Ankit Menon | Ramachandrran Kannan",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Rishikanth",
-        "Anishma Anilkumar",
-        "Chetan",
-        "A. Venkatesh",
-        "Bagavathi Perumal",
-        "Sangeetha Balan",
-        "Shelly Kishore",
-        "Abdool Lee"
-      ],
-      "director": "Raja Karuppasamy",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
-        "https://image.tmdb.org/t/p/w780/11TnS5t4jJrD6Rl0mv6Klckxv7U.jpg",
-        "https://image.tmdb.org/t/p/w780/aT8Uk5uQKBJ3Syt63SNdlPUwqI9.jpg",
-        "https://image.tmdb.org/t/p/w780/xxB9OerCJrJ4gLPkLtEPbRaWWhx.jpg",
-        "https://image.tmdb.org/t/p/w780/vOBDdU3OW3lDEjy9c1Siu07OLnG.jpg",
-        "https://image.tmdb.org/t/p/w780/jjUZKQ43g98nOnloGZcb5MHktBE.jpg",
-        "https://image.tmdb.org/t/p/w780/mvOtq0wPu35N6ecUIlJCsm4J30E.jpg",
-        "https://image.tmdb.org/t/p/w780/ySvEu0bTWdEWM6NlFmbSoKi4ndF.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1685882"
-    },
-    {
       "id": 1516698,
       "type": "movie",
       "title": "O Último Nascer do Sol",
@@ -240,7 +185,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.817,
+      "vote_average": 6.813,
       "providers": [],
       "videos": [
         {
@@ -298,7 +243,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.555,
+      "vote_average": 7.558,
       "providers": [],
       "videos": [
         {
@@ -383,8 +328,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "M9tHmu0wNHM",
-          "name": "Zip Wire | 2026 | @SignatureUK Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
+          "key": "c5FGrGLlRdw",
+          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -419,7 +364,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.768,
+      "vote_average": 6.772,
       "providers": [],
       "videos": [
         {
@@ -468,7 +413,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.05,
+      "vote_average": 8.041,
       "providers": [
         {
           "id": 350,
@@ -523,7 +468,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.658,
+      "vote_average": 6.667,
       "providers": [],
       "videos": [
         {
@@ -588,7 +533,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.73,
+      "vote_average": 6.761,
       "providers": [],
       "videos": [
         {
@@ -687,8 +632,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "ZvQp-AY7RQk",
-          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
+          "key": "g7twsW7XKSM",
+          "name": "After Impact (2026) – Official Trailer | Post-Apocalyptic Sci-Fi Thriller",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -733,7 +678,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.303,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -790,7 +735,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 5.6,
+      "vote_average": 5.644,
       "providers": [],
       "videos": [
         {
@@ -839,7 +784,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.7,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
@@ -887,7 +832,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.33,
+      "vote_average": 8.3,
       "providers": [],
       "videos": [
         {
@@ -925,8 +870,8 @@
         "https://image.tmdb.org/t/p/w780/mJC2Q2agtvxd6RschaQheDpiwwE.jpg",
         "https://image.tmdb.org/t/p/w780/lZT1BjOKWQRIXFYYBRg1z1XyaPW.jpg",
         "https://image.tmdb.org/t/p/w780/38cZ3Pq8h6BIVYtBkICn6q0ay8e.jpg",
-        "https://image.tmdb.org/t/p/w780/p1Xk8xNHHP1HJx2yGZuREp8Etab.jpg",
-        "https://image.tmdb.org/t/p/w780/b17uij6YoqTsWLO3V9NMQmGzTeA.jpg"
+        "https://image.tmdb.org/t/p/w780/csNgYnvXJi0XAAln3m7YK44PvDm.jpg",
+        "https://image.tmdb.org/t/p/w780/p1Xk8xNHHP1HJx2yGZuREp8Etab.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1032863"
     },
@@ -983,7 +928,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.867,
+      "vote_average": 7.7,
       "providers": [],
       "videos": [
         {
@@ -998,7 +943,9 @@
       "cast": [
         "Brad Pitt",
         "J.K. Simmons",
-        "Anna Lambe"
+        "Anna Lambe",
+        "Justin Melnick",
+        "Shaun DeZern"
       ],
       "director": "David Ayer",
       "images": [
@@ -1012,6 +959,56 @@
         "https://image.tmdb.org/t/p/w780/lIDbQxJkHFrsbbg3fnr22xdx4mg.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1263337"
+    },
+    {
+      "id": 1492640,
+      "type": "movie",
+      "title": "Unabomber",
+      "release_date": "2026-09-25",
+      "poster": "https://image.tmdb.org/t/p/w500/ichFf4QLI28cQfmAonQpbG2qm3P.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+      "overview": "Este drama inspirado em uma história real mostra como Ted Kaczynski, um prodígio de Harvard, se transformou no infame Unabomber e foi caçado pelo FBI.",
+      "tagline": "",
+      "runtime": 101,
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "vote_average": 7.16,
+      "providers": [],
+      "videos": [
+        {
+          "key": "5voDVcp1XLY",
+          "name": "Unabomber | Trailer oficial | Netflix",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Russell Crowe",
+        "Shailene Woodley",
+        "Jacob Tremblay",
+        "Annabelle Wallis",
+        "Alexander Ludwig",
+        "Marc Menchaca",
+        "Steven Ogg",
+        "Mark Camacho"
+      ],
+      "director": "Janus Metz",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+        "https://image.tmdb.org/t/p/w780/fADahnU1BPuErlIcALx65eJdtQo.jpg",
+        "https://image.tmdb.org/t/p/w780/rWCFHYttXNqtJUFG3IAYkrLHFAp.jpg",
+        "https://image.tmdb.org/t/p/w780/plhba5CxcoLJ4SUxx9kTIh3zrhZ.jpg",
+        "https://image.tmdb.org/t/p/w780/mv0XjCvYXBC5VsIGaAqgCMMDNKW.jpg",
+        "https://image.tmdb.org/t/p/w780/XohTvvPXiGhUKhiQSvmoMTnj2z.jpg",
+        "https://image.tmdb.org/t/p/w780/6hpwxdbXHZd6bPmDlPp5AVGvlE6.jpg",
+        "https://image.tmdb.org/t/p/w780/bVHDem6kgAn2UrENIA3Xr0dNcgN.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1492640"
     },
     {
       "id": 1294189,
@@ -1031,8 +1028,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "DQAUbfAtZLA",
-          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
+          "key": "SwIcphIaLMI",
+          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
