@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T16:24:21.782390+00:00",
+  "updated_at": "2026-09-26T21:11:17.674758+00:00",
   "region": "BR",
   "items": [
     {
@@ -61,62 +61,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1101383"
     },
     {
-      "id": 1408162,
-      "type": "movie",
-      "title": "விஸ்வநாத் & சன்ஸ்",
-      "release_date": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w500/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 161,
-      "genres": [
-        "Drama",
-        "Romance",
-        "Comédia"
-      ],
-      "vote_average": 7.3,
-      "providers": [
-        {
-          "id": 8,
-          "name": "Netflix",
-          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-        }
-      ],
-      "videos": [
-        {
-          "key": "ejX6MHgKAlM",
-          "name": "Vishwanath and Sons Official Trailer (Tamil) | Suriya, Mamitha Baiju | GV Prakash | Venky Atluri",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "சூர்யா",
-        "Mamitha Baiju",
-        "ராதிகா",
-        "रवीना टंडन",
-        "Sunil Reddy",
-        "Harika",
-        "Nassar",
-        "Viva Harsha"
-      ],
-      "director": "Venky Atluri",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
-        "https://image.tmdb.org/t/p/w780/u31xcOTIXWYJAZWJ4mChwgwEKu4.jpg",
-        "https://image.tmdb.org/t/p/w780/hUUe8L0SC8CjZiXO0q8g0wPrPJV.jpg",
-        "https://image.tmdb.org/t/p/w780/oil0ZqZHwmrlN9q3KcXVIOOD2ta.jpg",
-        "https://image.tmdb.org/t/p/w780/yofWnMCGqowr14g8zPeXy7QWsa5.jpg",
-        "https://image.tmdb.org/t/p/w780/1SKDDHpID9mJqOBA5zRRPDnhlme.jpg",
-        "https://image.tmdb.org/t/p/w780/sd0RKOpnqESIWxU3sZwZhBsgAHl.jpg",
-        "https://image.tmdb.org/t/p/w780/9yGWYRfMh1BWs1trC6SW2KuYi9c.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1408162"
-    },
-    {
       "id": 1621552,
       "type": "movie",
       "title": "A Captura",
@@ -131,7 +75,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.795,
+      "vote_average": 8.8,
       "providers": [
         {
           "id": 8,
@@ -185,7 +129,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.851,
+      "vote_average": 6.842,
       "providers": [],
       "videos": [
         {
@@ -400,6 +344,61 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1386315"
     },
     {
+      "id": 1137844,
+      "type": "movie",
+      "title": "Mayday",
+      "release_date": "2026-09-03",
+      "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+      "overview": "Quando um piloto da Marinha dos EUA, em uma missão ultrassecreta durante a Guerra Fria, fica preso em território inimigo, sua única chance de sobreviver é formar uma aliança com um excêntrico ex-agente da KGB.",
+      "tagline": "Uma amizade cheia de red flags.",
+      "runtime": 111,
+      "genres": [
+        "Ação",
+        "Comédia"
+      ],
+      "vote_average": 8.048,
+      "providers": [
+        {
+          "id": 350,
+          "name": "Apple TV",
+          "logo": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "T3tPGyeq94s",
+          "name": "Trailer oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Marcin Dorociński",
+        "Мария Бакалова",
+        "David Morse",
+        "Clark Johnson",
+        "Wendy Crewson",
+        "Louis Cancelmi"
+      ],
+      "director": "Jonathan Goldstein",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+        "https://image.tmdb.org/t/p/w780/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
+        "https://image.tmdb.org/t/p/w780/nFNCdoKCDE4Gc27iEBh5yiF7DwX.jpg",
+        "https://image.tmdb.org/t/p/w780/lsouhNVm05pazPBDhpqs0KXNbmz.jpg",
+        "https://image.tmdb.org/t/p/w780/iIn6exNbm1wtMJ1YNybXlSOTNoj.jpg",
+        "https://image.tmdb.org/t/p/w780/cfLeZFOjcPGqgoRhuiono1nJc0i.jpg",
+        "https://image.tmdb.org/t/p/w780/keo5uAMe51geCzgSdIpmGOkB0uK.jpg",
+        "https://image.tmdb.org/t/p/w780/lXTuMnbO2wqi1RLuBK2bxASOFs6.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1137844"
+    },
+    {
       "id": 1440098,
       "type": "movie",
       "title": "Atraídos Pelo Destino",
@@ -413,7 +412,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.622,
+      "vote_average": 6.649,
       "providers": [],
       "videos": [
         {
@@ -481,7 +480,7 @@
         "Comédia",
         "Família"
       ],
-      "vote_average": 7.737,
+      "vote_average": 7.9,
       "providers": [],
       "videos": [
         {
@@ -513,9 +512,9 @@
         "H.E.R.",
         "Liza Soberano",
         "Dave Franco",
-        "Lea Salonga",
         "Jenny Slate",
         "Manny Jacinto",
+        "Lea Salonga",
         "Dolly de Leon",
         "Jo Koy"
       ],
@@ -595,12 +594,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.083,
       "providers": [],
       "videos": [
         {
-          "key": "SSH9phLePtg",
-          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson, Action, Thriller Movie [4K]",
+          "key": "vH4zs2LnhyE",
+          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -645,8 +644,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "9Sd8cLstef4",
-          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K,POST-APOCALYPTIC SCI-FI THRILLER,#movie #film",
+          "key": "g7twsW7XKSM",
+          "name": "After Impact (2026) – Official Trailer | Post-Apocalyptic Sci-Fi Thriller",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -691,7 +690,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.317,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -748,7 +747,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 5.644,
+      "vote_average": 5.6,
       "providers": [],
       "videos": [
         {
@@ -845,7 +844,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.361,
+      "vote_average": 8.4,
       "providers": [],
       "videos": [
         {
@@ -881,10 +880,10 @@
         "https://image.tmdb.org/t/p/w780/fuOMc0cr1ZW5chnXoAOm5hyM8cb.jpg",
         "https://image.tmdb.org/t/p/w780/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
         "https://image.tmdb.org/t/p/w780/mJC2Q2agtvxd6RschaQheDpiwwE.jpg",
-        "https://image.tmdb.org/t/p/w780/lZT1BjOKWQRIXFYYBRg1z1XyaPW.jpg",
-        "https://image.tmdb.org/t/p/w780/38cZ3Pq8h6BIVYtBkICn6q0ay8e.jpg",
         "https://image.tmdb.org/t/p/w780/csNgYnvXJi0XAAln3m7YK44PvDm.jpg",
-        "https://image.tmdb.org/t/p/w780/p1Xk8xNHHP1HJx2yGZuREp8Etab.jpg"
+        "https://image.tmdb.org/t/p/w780/p1Xk8xNHHP1HJx2yGZuREp8Etab.jpg",
+        "https://image.tmdb.org/t/p/w780/b17uij6YoqTsWLO3V9NMQmGzTeA.jpg",
+        "https://image.tmdb.org/t/p/w780/eHzUOEv6krXfljtz7SA8ryuFFiN.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1032863"
     },
@@ -902,7 +901,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 0,
+      "vote_average": 2.0,
       "providers": [],
       "videos": [
         {
@@ -941,7 +940,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.717,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
@@ -988,7 +987,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 7.274,
+      "vote_average": 7.1,
       "providers": [
         {
           "id": 8,
