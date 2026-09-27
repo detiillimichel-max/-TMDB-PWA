@@ -1,65 +1,7 @@
 {
-  "updated_at": "2026-09-26T21:11:17.674758+00:00",
+  "updated_at": "2026-09-27T05:19:31.724462+00:00",
   "region": "BR",
   "items": [
-    {
-      "id": 1101383,
-      "type": "movie",
-      "title": "O Fim da Rua",
-      "release_date": "2026-08-13",
-      "poster": "https://image.tmdb.org/t/p/w500/4uuHvSqtAqbFFl0ZgOMx3xbGw1J.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "overview": "Após um misterioso evento cósmico abalar o bairro Oak Street e o transportar dos subúrbios para um lugar desconhecido, a família Platt descobre que sua sobrevivência vai depender da união entre todos para enfrentar um ambiente agora irreconhecível.",
-      "tagline": "Lá se vai a vizinhança",
-      "runtime": 100,
-      "genres": [
-        "Ficção científica",
-        "Mistério",
-        "Thriller"
-      ],
-      "vote_average": 7.02,
-      "providers": [],
-      "videos": [
-        {
-          "key": "NtVXvlgaIUQ",
-          "name": "Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "gQPCwZ1qEhw",
-          "name": "Teaser Oficial Dublado",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Anne Hathaway",
-        "Ewan McGregor",
-        "Maisy Stella",
-        "Christian Convery",
-        "Jordan Alexa Davis",
-        "P.J. Byrne",
-        "Hudson Meek",
-        "Anne Gee Byrd"
-      ],
-      "director": "David Robert Mitchell",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "https://image.tmdb.org/t/p/w780/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
-        "https://image.tmdb.org/t/p/w780/hBwfWpZMnto1w2YT9NgRj6WJi6I.jpg",
-        "https://image.tmdb.org/t/p/w780/mJDCrEFKHUqoZe4xyI8CE47pw7P.jpg",
-        "https://image.tmdb.org/t/p/w780/pyuj4HBPUS61UvhN0Qf2szwDjU.jpg",
-        "https://image.tmdb.org/t/p/w780/l2pSvXV5wak53HtRWfctZu5i9hG.jpg",
-        "https://image.tmdb.org/t/p/w780/tSd2a2mQjifR1HPhsTngkYZZeu6.jpg",
-        "https://image.tmdb.org/t/p/w780/UryG4AffHKYrB4D6tmklzU38WQ.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1101383"
-    },
     {
       "id": 1621552,
       "type": "movie",
@@ -75,7 +17,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.8,
+      "vote_average": 8.786,
       "providers": [
         {
           "id": 8,
@@ -129,7 +71,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.842,
+      "vote_average": 6.827,
       "providers": [],
       "videos": [
         {
@@ -187,7 +129,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.56,
+      "vote_average": 7.558,
       "providers": [],
       "videos": [
         {
@@ -308,7 +250,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.771,
+      "vote_average": 6.793,
       "providers": [],
       "videos": [
         {
@@ -357,7 +299,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.048,
+      "vote_average": 8.043,
       "providers": [
         {
           "id": 350,
@@ -412,7 +354,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.649,
+      "vote_average": 6.6,
       "providers": [],
       "videos": [
         {
@@ -480,7 +422,7 @@
         "Comédia",
         "Família"
       ],
-      "vote_average": 7.9,
+      "vote_average": 7.917,
       "providers": [],
       "videos": [
         {
@@ -545,7 +487,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.911,
+      "vote_average": 7.118,
       "providers": [],
       "videos": [
         {
@@ -594,7 +536,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.083,
+      "vote_average": 6.984,
       "providers": [],
       "videos": [
         {
@@ -644,8 +586,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "g7twsW7XKSM",
-          "name": "After Impact (2026) – Official Trailer | Post-Apocalyptic Sci-Fi Thriller",
+          "key": "ZvQp-AY7RQk",
+          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -747,7 +689,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 5.6,
+      "vote_average": 5.5,
       "providers": [],
       "videos": [
         {
@@ -796,12 +738,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
-          "key": "rksitbrcC3w",
-          "name": "O Último Tiro Certo 2026 | Trailer Legendado HD",
+          "key": "OPHefBZQd4U",
+          "name": "O Último Tiro Certo 2026 Trailer Legendado",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -844,7 +786,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.4,
+      "vote_average": 8.224,
       "providers": [],
       "videos": [
         {
@@ -888,15 +830,65 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1032863"
     },
     {
+      "id": 1375441,
+      "type": "movie",
+      "title": "Primetime",
+      "release_date": "2026-09-23",
+      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+      "overview": "Baseado em uma história real, Primetime acompanha o jornalista Chris Hansen, um homem que no ano de 2006 está determinado a tirar a sua emissora da falência iminente. Com a ideia de criar um programa chamado To Catch a Predator, feito para expor criminosos ao vivo, em pouco tempo a produção se torna um sucesso de audiência e muda toda a trajetória da história televisiva. No entanto, quando o hacker Leo descobre um terrível segredo, os papéis podem acabar se invertendo rapidamente.",
+      "tagline": "",
+      "runtime": 110,
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Terror"
+      ],
+      "vote_average": 7.1,
+      "providers": [],
+      "videos": [
+        {
+          "key": "SBry7bmopLA",
+          "name": "Primetime - Official Trailer 2 (2026) Robert Pattinson, Merritt Wever, Skyler Gisondo",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Merritt Wever",
+        "Skyler Gisondo",
+        "Phoebe Bridgers",
+        "Matthew Maher",
+        "Bokeem Woodbine",
+        "Alex Winter",
+        "Anna Faris"
+      ],
+      "director": "Lance Oppenheim",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+        "https://image.tmdb.org/t/p/w780/gLW8slw2HToT0nnSKzHcHNquH9k.jpg",
+        "https://image.tmdb.org/t/p/w780/5k1DoJ71pWD5ydzRGliDyTnKqxt.jpg",
+        "https://image.tmdb.org/t/p/w780/cg2WvuzI9Z3nsrY3ueooPd7izdJ.jpg",
+        "https://image.tmdb.org/t/p/w780/ctcVkl9XHTumleaS6FyLYdRfQ7I.jpg",
+        "https://image.tmdb.org/t/p/w780/jyZATlcINaz6bElq0jTlIcWcYgu.jpg",
+        "https://image.tmdb.org/t/p/w780/6AbVjZT6jk8oLg3XtL8IyZ1JVWc.jpg",
+        "https://image.tmdb.org/t/p/w780/nZdXh3ROffkkCZLK9L4ftc1FJsX.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1375441"
+    },
+    {
       "id": 1580190,
       "type": "movie",
       "title": "除暴之路",
       "release_date": "2026-09-23",
       "poster": "https://image.tmdb.org/t/p/w500/kgoLu3CCb3pQARy0YWEvijKNSx4.jpg",
-      "backdrop": "",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yiUUnJ1vIFGWITzolQioaRVII7m.jpg",
       "overview": "Sinopse não disponível.",
       "tagline": "",
-      "runtime": 0,
+      "runtime": 90,
       "genres": [
         "Drama",
         "Crime"
@@ -940,7 +932,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.574,
       "providers": [],
       "videos": [
         {
@@ -966,9 +958,9 @@
         "https://image.tmdb.org/t/p/w780/ynjkULhYw2427E1Yrrh6GGgIvfZ.jpg",
         "https://image.tmdb.org/t/p/w780/briCzD66EoEBNGnbwV00N3LrDeA.jpg",
         "https://image.tmdb.org/t/p/w780/bzi1j7GgxQMOwii5yDI2bsZ1PY6.jpg",
-        "https://image.tmdb.org/t/p/w780/sYZ5m0xjmytwa1YNZeYGK5fye8B.jpg",
-        "https://image.tmdb.org/t/p/w780/jSVSNpMD6u1yCaddJRkh2rngYjH.jpg",
-        "https://image.tmdb.org/t/p/w780/lIDbQxJkHFrsbbg3fnr22xdx4mg.jpg"
+        "https://image.tmdb.org/t/p/w780/iDEmqBQRNT0gWvLsRLblFB5NJS5.jpg",
+        "https://image.tmdb.org/t/p/w780/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
+        "https://image.tmdb.org/t/p/w780/sYZ5m0xjmytwa1YNZeYGK5fye8B.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1263337"
     },
@@ -987,7 +979,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 7.1,
+      "vote_average": 7.268,
       "providers": [
         {
           "id": 8,
@@ -1046,8 +1038,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "DQAUbfAtZLA",
-          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
+          "key": "SwIcphIaLMI",
+          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
