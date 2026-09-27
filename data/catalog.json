@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T12:03:31.791713+00:00",
+  "updated_at": "2026-09-27T16:58:40.791208+00:00",
   "region": "BR",
   "items": [
     {
@@ -71,7 +71,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.827,
+      "vote_average": 6.803,
       "providers": [],
       "videos": [
         {
@@ -214,8 +214,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "c5FGrGLlRdw",
-          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
+          "key": "M9tHmu0wNHM",
+          "name": "Zip Wire | 2026 | @SignatureUK Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -254,8 +254,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "CkMnwT-t_Fw",
-          "name": "Corrida Contra o Tempo 2026 Trailer Oficial Dublado",
+          "key": "iNUsFMGHpeA",
+          "name": "Resgate dos Mineiros Chilenos Corrida Contra o Tempo 2026 | Trailer Oficial Chilean Mine Rescue",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -286,61 +286,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1386315"
     },
     {
-      "id": 1137844,
-      "type": "movie",
-      "title": "Mayday",
-      "release_date": "2026-09-03",
-      "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-      "overview": "Quando um piloto da Marinha dos EUA, em uma missão ultrassecreta durante a Guerra Fria, fica preso em território inimigo, sua única chance de sobreviver é formar uma aliança com um excêntrico ex-agente da KGB.",
-      "tagline": "Uma amizade cheia de red flags.",
-      "runtime": 111,
-      "genres": [
-        "Ação",
-        "Comédia"
-      ],
-      "vote_average": 8.044,
-      "providers": [
-        {
-          "id": 350,
-          "name": "Apple TV",
-          "logo": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
-        }
-      ],
-      "videos": [
-        {
-          "key": "T3tPGyeq94s",
-          "name": "Trailer oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Ryan Reynolds",
-        "Kenneth Branagh",
-        "Marcin Dorociński",
-        "Мария Бакалова",
-        "David Morse",
-        "Clark Johnson",
-        "Wendy Crewson",
-        "Louis Cancelmi"
-      ],
-      "director": "Jonathan Goldstein",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-        "https://image.tmdb.org/t/p/w780/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
-        "https://image.tmdb.org/t/p/w780/nFNCdoKCDE4Gc27iEBh5yiF7DwX.jpg",
-        "https://image.tmdb.org/t/p/w780/lsouhNVm05pazPBDhpqs0KXNbmz.jpg",
-        "https://image.tmdb.org/t/p/w780/iIn6exNbm1wtMJ1YNybXlSOTNoj.jpg",
-        "https://image.tmdb.org/t/p/w780/cfLeZFOjcPGqgoRhuiono1nJc0i.jpg",
-        "https://image.tmdb.org/t/p/w780/keo5uAMe51geCzgSdIpmGOkB0uK.jpg",
-        "https://image.tmdb.org/t/p/w780/lXTuMnbO2wqi1RLuBK2bxASOFs6.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1137844"
-    },
-    {
       "id": 1440098,
       "type": "movie",
       "title": "Atraídos Pelo Destino",
@@ -354,7 +299,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.644,
+      "vote_average": 6.626,
       "providers": [],
       "videos": [
         {
@@ -422,7 +367,7 @@
         "Comédia",
         "Família"
       ],
-      "vote_average": 7.917,
+      "vote_average": 7.9,
       "providers": [],
       "videos": [
         {
@@ -487,7 +432,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.118,
+      "vote_average": 7.158,
       "providers": [],
       "videos": [
         {
@@ -527,7 +472,7 @@
       "type": "movie",
       "title": "The Fix",
       "release_date": "2026-09-10",
-      "poster": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
       "overview": "Sinopse não disponível.",
       "tagline": "",
@@ -536,7 +481,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.984,
+      "vote_average": 7.015,
       "providers": [],
       "videos": [
         {
@@ -582,12 +527,12 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 5.722,
+      "vote_average": 5.75,
       "providers": [],
       "videos": [
         {
-          "key": "ZvQp-AY7RQk",
-          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
+          "key": "9Sd8cLstef4",
+          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K,POST-APOCALYPTIC SCI-FI THRILLER,#movie #film",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -632,7 +577,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.318,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -689,7 +634,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 5.592,
+      "vote_average": 5.654,
       "providers": [],
       "videos": [
         {
@@ -738,7 +683,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.579,
       "providers": [],
       "videos": [
         {
@@ -786,7 +731,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.274,
+      "vote_average": 8.226,
       "providers": [],
       "videos": [
         {
@@ -935,7 +880,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.652,
+      "vote_average": 7.634,
       "providers": [],
       "videos": [
         {
@@ -1022,6 +967,55 @@
         "https://image.tmdb.org/t/p/w780/bVHDem6kgAn2UrENIA3Xr0dNcgN.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1492640"
+    },
+    {
+      "id": 1377237,
+      "type": "movie",
+      "title": "Três Horas Para Viver",
+      "release_date": "2026-10-08",
+      "poster": "https://image.tmdb.org/t/p/w500/6DaeQweqmUCdLlw4TC5Sz2xVO6g.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "overview": "Um transportador de elite embarca em uma missão urgente: entregar um órgão vital para salvar a vida de uma garotinha de sete anos. O que parecia ser uma tarefa objetiva logo se transforma em uma corrida frenética contra o tempo quando uma perigosa organização criminosa entra em cena para impedir o sucesso da entrega.",
+      "tagline": "",
+      "runtime": 97,
+      "genres": [
+        "Ação",
+        "Comédia"
+      ],
+      "vote_average": 7.6,
+      "providers": [],
+      "videos": [
+        {
+          "key": "Py9-y_XapJQ",
+          "name": "Trailer Oficial Legendado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Alan Ritchson",
+        "Owen Wilson",
+        "Rodrigo Santoro",
+        "Leila George",
+        "Kate Box",
+        "Adriana Barraza",
+        "Peta Sergeant",
+        "Scarlett Crabtree"
+      ],
+      "director": "Scott Waugh",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+        "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+        "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+        "https://image.tmdb.org/t/p/w780/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg",
+        "https://image.tmdb.org/t/p/w780/zwOuftcrINzFyg27ffn2cevxClC.jpg",
+        "https://image.tmdb.org/t/p/w780/hSYBdRE9b5PRK3BsjEBvXnUZvwM.jpg",
+        "https://image.tmdb.org/t/p/w780/iE07BOqCoKDYcZ1EOls9rMK9797.jpg",
+        "https://image.tmdb.org/t/p/w780/qaRXiwTEpSgoKIkZNYfcmQRgRYk.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1377237"
     },
     {
       "id": 1294189,
