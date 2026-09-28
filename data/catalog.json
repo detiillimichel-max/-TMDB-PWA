@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T21:21:47.778287+00:00",
+  "updated_at": "2026-09-28T05:25:04.045415+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.792,
+      "vote_average": 8.797,
       "providers": [
         {
           "id": 8,
@@ -71,7 +71,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.813,
+      "vote_average": 6.8,
       "providers": [],
       "videos": [
         {
@@ -129,7 +129,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.561,
+      "vote_average": 7.556,
       "providers": [],
       "videos": [
         {
@@ -210,12 +210,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.333,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
-          "key": "M9tHmu0wNHM",
-          "name": "Zip Wire | 2026 | @SignatureUK Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
+          "key": "c5FGrGLlRdw",
+          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -250,7 +250,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.793,
+      "vote_average": 6.811,
       "providers": [],
       "videos": [
         {
@@ -299,7 +299,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.626,
+      "vote_average": 6.668,
       "providers": [],
       "videos": [
         {
@@ -367,7 +367,7 @@
         "Comédia",
         "Família"
       ],
-      "vote_average": 7.9,
+      "vote_average": 8.1,
       "providers": [],
       "videos": [
         {
@@ -432,7 +432,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.21,
+      "vote_average": 7.256,
       "providers": [],
       "videos": [
         {
@@ -527,12 +527,12 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 5.75,
+      "vote_average": 6.1,
       "providers": [],
       "videos": [
         {
-          "key": "g7twsW7XKSM",
-          "name": "After Impact (2026) – Official Trailer | Post-Apocalyptic Sci-Fi Thriller",
+          "key": "ZvQp-AY7RQk",
+          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -577,7 +577,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.319,
+      "vote_average": 7.325,
       "providers": [],
       "videos": [
         {
@@ -634,7 +634,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 5.741,
+      "vote_average": 5.879,
       "providers": [],
       "videos": [
         {
@@ -683,7 +683,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.667,
       "providers": [],
       "videos": [
         {
@@ -731,7 +731,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.226,
+      "vote_average": 8.186,
       "providers": [],
       "videos": [
         {
@@ -788,7 +788,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 7.038,
+      "vote_average": 7.1,
       "providers": [],
       "videos": [
         {
@@ -813,13 +813,13 @@
       "director": "Lance Oppenheim",
       "images": [
         "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-        "https://image.tmdb.org/t/p/w780/gLW8slw2HToT0nnSKzHcHNquH9k.jpg",
+        "https://image.tmdb.org/t/p/w780/9m0tVJ6JRIbqwtbJThDPFtAn6CY.jpg",
         "https://image.tmdb.org/t/p/w780/5k1DoJ71pWD5ydzRGliDyTnKqxt.jpg",
         "https://image.tmdb.org/t/p/w780/cg2WvuzI9Z3nsrY3ueooPd7izdJ.jpg",
-        "https://image.tmdb.org/t/p/w780/ctcVkl9XHTumleaS6FyLYdRfQ7I.jpg",
         "https://image.tmdb.org/t/p/w780/jyZATlcINaz6bElq0jTlIcWcYgu.jpg",
         "https://image.tmdb.org/t/p/w780/6AbVjZT6jk8oLg3XtL8IyZ1JVWc.jpg",
-        "https://image.tmdb.org/t/p/w780/nZdXh3ROffkkCZLK9L4ftc1FJsX.jpg"
+        "https://image.tmdb.org/t/p/w780/nZdXh3ROffkkCZLK9L4ftc1FJsX.jpg",
+        "https://image.tmdb.org/t/p/w780/1tJz8e1G21nEuzHlX771MNBRJvM.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1375441"
     },
@@ -879,7 +879,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.634,
+      "vote_average": 7.665,
       "providers": [],
       "videos": [
         {
@@ -927,7 +927,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 7.158,
+      "vote_average": 7.106,
       "providers": [
         {
           "id": 8,
@@ -947,8 +947,8 @@
       ],
       "cast": [
         "Russell Crowe",
-        "Shailene Woodley",
         "Jacob Tremblay",
+        "Shailene Woodley",
         "Annabelle Wallis",
         "Alexander Ludwig",
         "Marc Menchaca",
@@ -980,9 +980,10 @@
       "runtime": 97,
       "genres": [
         "Ação",
-        "Comédia"
+        "Comédia",
+        "Aventura"
       ],
-      "vote_average": 7.688,
+      "vote_average": 7.698,
       "providers": [],
       "videos": [
         {
