@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T05:25:04.045415+00:00",
+  "updated_at": "2026-09-28T13:56:27.541603+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.797,
+      "vote_average": 8.796,
       "providers": [
         {
           "id": 8,
@@ -250,7 +250,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.811,
+      "vote_average": 6.81,
       "providers": [],
       "videos": [
         {
@@ -299,7 +299,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.668,
+      "vote_average": 6.752,
       "providers": [],
       "videos": [
         {
@@ -408,8 +408,8 @@
       "director": "Januel Mercado",
       "images": [
         "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-        "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
         "https://image.tmdb.org/t/p/w780/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
+        "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
         "https://image.tmdb.org/t/p/w780/iU2RVy0G99XoDSUHvcQomtif5nP.jpg",
         "https://image.tmdb.org/t/p/w780/wCsNsAW67lN8GQ32oVzZVgzT0Li.jpg",
         "https://image.tmdb.org/t/p/w780/acJMSEaUdRgUCj26hk8VAZSFRNf.jpg",
@@ -432,7 +432,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.256,
+      "vote_average": 7.279,
       "providers": [],
       "videos": [
         {
@@ -527,12 +527,12 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.1,
+      "vote_average": 6.281,
       "providers": [],
       "videos": [
         {
-          "key": "ZvQp-AY7RQk",
-          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
+          "key": "9Sd8cLstef4",
+          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K,POST-APOCALYPTIC SCI-FI THRILLER,#movie #film",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -577,7 +577,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.325,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -634,7 +634,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 5.879,
+      "vote_average": 5.881,
       "providers": [],
       "videos": [
         {
@@ -683,7 +683,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.667,
+      "vote_average": 7.694,
       "providers": [],
       "videos": [
         {
@@ -731,7 +731,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.186,
+      "vote_average": 8.204,
       "providers": [],
       "videos": [
         {
@@ -788,7 +788,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 7.1,
+      "vote_average": 7.214,
       "providers": [],
       "videos": [
         {
@@ -879,7 +879,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.665,
+      "vote_average": 7.7,
       "providers": [],
       "videos": [
         {
@@ -896,8 +896,7 @@
         "J.K. Simmons",
         "Anna Lambe",
         "Justin Melnick",
-        "Shaun DeZern",
-        "Uber"
+        "Shaun DeZern"
       ],
       "director": "David Ayer",
       "images": [
@@ -927,7 +926,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 7.106,
+      "vote_average": 7.0,
       "providers": [
         {
           "id": 8,
@@ -957,14 +956,14 @@
       ],
       "director": "Janus Metz",
       "images": [
+        "https://image.tmdb.org/t/p/w780/kLqPRuoLtyM6Y7DW6t0CqptIEIB.jpg",
         "https://image.tmdb.org/t/p/w780/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
         "https://image.tmdb.org/t/p/w780/fADahnU1BPuErlIcALx65eJdtQo.jpg",
         "https://image.tmdb.org/t/p/w780/rWCFHYttXNqtJUFG3IAYkrLHFAp.jpg",
         "https://image.tmdb.org/t/p/w780/plhba5CxcoLJ4SUxx9kTIh3zrhZ.jpg",
         "https://image.tmdb.org/t/p/w780/mv0XjCvYXBC5VsIGaAqgCMMDNKW.jpg",
-        "https://image.tmdb.org/t/p/w780/XohTvvPXiGhUKhiQSvmoMTnj2z.jpg",
-        "https://image.tmdb.org/t/p/w780/6hpwxdbXHZd6bPmDlPp5AVGvlE6.jpg",
-        "https://image.tmdb.org/t/p/w780/bVHDem6kgAn2UrENIA3Xr0dNcgN.jpg"
+        "https://image.tmdb.org/t/p/w780/nzg7KDuoEuvXHstjlo4pM9FIX2Y.jpg",
+        "https://image.tmdb.org/t/p/w780/XohTvvPXiGhUKhiQSvmoMTnj2z.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1492640"
     },
@@ -980,10 +979,9 @@
       "runtime": 97,
       "genres": [
         "Ação",
-        "Comédia",
-        "Aventura"
+        "Comédia"
       ],
-      "vote_average": 7.698,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
@@ -1036,8 +1034,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "DQAUbfAtZLA",
-          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
+          "key": "SwIcphIaLMI",
+          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
