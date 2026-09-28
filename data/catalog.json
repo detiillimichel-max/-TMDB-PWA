@@ -1,118 +1,55 @@
 {
-  "updated_at": "2026-09-28T13:56:27.541603+00:00",
+  "updated_at": "2026-09-28T23:17:00.229115+00:00",
   "region": "BR",
   "items": [
     {
-      "id": 1621552,
+      "id": 1422011,
       "type": "movie",
-      "title": "A Captura",
+      "title": "It Ends",
       "release_date": "2026-08-21",
-      "poster": "https://image.tmdb.org/t/p/w500/z1BazG57E5JaNbxQ5kpXt8h8whv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-      "overview": "Dois policiais mexicanos precisam sobreviver às últimas horas de seu turno após cruzarem o caminho de um chefe de cartel implacável.",
-      "tagline": "",
-      "runtime": 91,
+      "poster": "https://image.tmdb.org/t/p/w500/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
+      "overview": "Amigos que procuram comida tarde da noite ficam presos em uma estrada sem fim com terrores sobrenaturais à espreita. Confinados em seu Jeep Cherokee, eles devem decidir se aceitam seu destino ou tentam escapar.",
+      "tagline": "Alguns caminhos errados duram para sempre.",
+      "runtime": 89,
       "genres": [
-        "Crime",
-        "Ação",
-        "Thriller"
+        "Terror",
+        "Mistério"
       ],
-      "vote_average": 8.796,
-      "providers": [
-        {
-          "id": 8,
-          "name": "Netflix",
-          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-        }
-      ],
-      "videos": [
-        {
-          "key": "AooER0ClYtM",
-          "name": "La Captura 2026 Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Alfonso Herrera",
-        "Noé Hernández",
-        "Héctor Kotsifakis",
-        "Paola Fernández",
-        "Gerardo Trejoluna",
-        "Fernando Cuautle",
-        "Alejandra Vázquez De León",
-        "Santiago Colores"
-      ],
-      "director": "Chava Cartas",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-        "https://image.tmdb.org/t/p/w780/raVBwQY4Ru5yt0FDE4zDYSIlFgd.jpg",
-        "https://image.tmdb.org/t/p/w780/etFPzmqXZlHDderOCgg3YjQswT1.jpg",
-        "https://image.tmdb.org/t/p/w780/lu7zUSoDaFbE6527La7ck9w5OdY.jpg",
-        "https://image.tmdb.org/t/p/w780/1hZfswetUfVVIwMlj97tYhqduS9.jpg",
-        "https://image.tmdb.org/t/p/w780/wt4cKsS20mk48HRHyO5CSsy6gBP.jpg",
-        "https://image.tmdb.org/t/p/w780/mrmWgCtkS0jXOBWrEnnNTzwTWmL.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1621552"
-    },
-    {
-      "id": 1516698,
-      "type": "movie",
-      "title": "O Último Nascer do Sol",
-      "release_date": "2026-08-26",
-      "poster": "https://image.tmdb.org/t/p/w500/aUP8lmnCvOUiG0n1ciXaeFEou3j.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
-      "overview": "Ry é uma estudante universitária que convive com uma doença crônica. Durante uma viagem de férias para a ilha de Maiorca com a sua mãe, Ry se apaixona inesperadamente por Julián. À medida que aprende a se entregar ao presente, o agravamento de sua condição de saúde e segredos familiares guardados há anos ameaçam desmoronar tudo antes que o verão chegue ao fim.",
-      "tagline": "Um verão para sentir tudo.",
-      "runtime": 107,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "vote_average": 6.8,
+      "vote_average": 5.4,
       "providers": [],
       "videos": [
         {
-          "key": "mvRvODivXs4",
-          "name": "Trailer Oficial",
+          "key": "dinmUvyPgo8",
+          "name": "It Ends - Official Trailer (2026) Mitchell Cole, Akira Jackson, Noah Toth, Phiehas Yoon",
           "type": "Trailer",
-          "official": true,
+          "official": false,
           "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "Swa2EZuCls8",
-          "name": "É temporada de obsessão",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
+          "source": "youtube_search"
         }
       ],
       "cast": [
-        "Maia Reficco",
-        "Fernando Lindez",
-        "Eva Longoria",
-        "Chloé Sweetlove",
-        "Andrés Velencoso",
-        "Stefanie Martini",
-        "Sabrina Bartlett",
-        "Àlex Peracaula"
+        "Phinehas Yoon",
+        "Akira Jackson",
+        "Noah Toth",
+        "Mitchell Cole",
+        "Jenny Doyle",
+        "Jon Linstad",
+        "Ian Weir",
+        "Alexander Ullom"
       ],
-      "director": "Carlson Young",
+      "director": "Alexander Ullom",
       "images": [
-        "https://image.tmdb.org/t/p/w780/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
-        "https://image.tmdb.org/t/p/w780/5lB7yPaRhJHQ9dx7AnvPUi0GZDU.jpg",
-        "https://image.tmdb.org/t/p/w780/tvY4QPyopLVaRkPVOQb3Y1dyy7f.jpg",
-        "https://image.tmdb.org/t/p/w780/pwLmG6Vv9IMNGGzFCqa8qTUPJG.jpg",
-        "https://image.tmdb.org/t/p/w780/j4KaGXBJl0yTPhSMYJks7JeL1a0.jpg",
-        "https://image.tmdb.org/t/p/w780/3BjJcLtIC7CYiwVjUDBcTRxdQB0.jpg",
-        "https://image.tmdb.org/t/p/w780/hEEXyducpaJCu0kLN8JrpxzN19h.jpg",
-        "https://image.tmdb.org/t/p/w780/l0pVYq6TeaC8qEovFn9yZBsAE2N.jpg"
+        "https://image.tmdb.org/t/p/w780/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
+        "https://image.tmdb.org/t/p/w780/4oPUinF3kg64y2RGH3JkZevVF5r.jpg",
+        "https://image.tmdb.org/t/p/w780/92go2eC1XB8RIf0uLy844ruxB9L.jpg",
+        "https://image.tmdb.org/t/p/w780/tMcdOpssdNMnUBZLVkCLRKUNMET.jpg",
+        "https://image.tmdb.org/t/p/w780/pYMTv7MSRRgVCDJrqHAmdRzIDAA.jpg",
+        "https://image.tmdb.org/t/p/w780/rAuoi863HxNEsaviePvpBxGxBgC.jpg",
+        "https://image.tmdb.org/t/p/w780/9EyJrLp6EMvpj7oldyfahELM8gE.jpg",
+        "https://image.tmdb.org/t/p/w780/rm2NMUoYMtwwM6c4r8GVMqrvFW0.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1516698"
+      "tmdb_url": "https://www.themoviedb.org/movie/1422011"
     },
     {
       "id": 1204680,
@@ -214,8 +151,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "c5FGrGLlRdw",
-          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
+          "key": "M9tHmu0wNHM",
+          "name": "Zip Wire | 2026 | @SignatureUK Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -250,7 +187,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.81,
+      "vote_average": 6.8,
       "providers": [],
       "videos": [
         {
@@ -299,7 +236,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.752,
+      "vote_average": 6.68,
       "providers": [],
       "videos": [
         {
@@ -432,7 +369,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.279,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -527,7 +464,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.281,
+      "vote_average": 6.3,
       "providers": [],
       "videos": [
         {
@@ -577,7 +514,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.336,
       "providers": [],
       "videos": [
         {
@@ -634,7 +571,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 5.881,
+      "vote_average": 5.869,
       "providers": [],
       "videos": [
         {
@@ -683,7 +620,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.694,
+      "vote_average": 7.563,
       "providers": [],
       "videos": [
         {
@@ -731,7 +668,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.204,
+      "vote_average": 8.2,
       "providers": [],
       "videos": [
         {
@@ -783,17 +720,17 @@
       "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
       "overview": "Baseado em uma história real, Primetime acompanha o jornalista Chris Hansen, um homem que no ano de 2006 está determinado a tirar a sua emissora da falência iminente. Com a ideia de criar um programa chamado To Catch a Predator, feito para expor criminosos ao vivo, em pouco tempo a produção se torna um sucesso de audiência e muda toda a trajetória da história televisiva. No entanto, quando o hacker Leo descobre um terrível segredo, os papéis podem acabar se invertendo rapidamente.",
       "tagline": "",
-      "runtime": 110,
+      "runtime": 109,
       "genres": [
         "Crime",
         "Thriller"
       ],
-      "vote_average": 7.214,
+      "vote_average": 7.2,
       "providers": [],
       "videos": [
         {
-          "key": "SBry7bmopLA",
-          "name": "Primetime - Official Trailer 2 (2026) Robert Pattinson, Merritt Wever, Skyler Gisondo",
+          "key": "Y-VJEAtdMaM",
+          "name": "Primetime | Official Trailer Music | A24",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -879,7 +816,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.7,
+      "vote_average": 7.681,
       "providers": [],
       "videos": [
         {
@@ -926,7 +863,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 7.0,
+      "vote_average": 7.003,
       "providers": [
         {
           "id": 8,
@@ -968,11 +905,55 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1492640"
     },
     {
+      "id": 1538457,
+      "type": "movie",
+      "title": "மீசைய முருக்கு 2",
+      "release_date": "2026-09-25",
+      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 138,
+      "genres": [
+        "Comédia",
+        "Romance",
+        "Drama"
+      ],
+      "vote_average": 0,
+      "providers": [],
+      "videos": [
+        {
+          "key": "ped2A3CjEuw",
+          "name": "Meesaya Murukku 2 Official Trailer 🔥 | Hiphop Tamizha | Mass + Comedy + Entertainment | Tamil Movie",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "HipHop Tamizha Adhi",
+        "Ketika Sharma",
+        "Chaithra J Achar",
+        "Ramya Ranganathan",
+        "Harshath Khan",
+        "Shah Ra",
+        "Karunas",
+        "Nassar"
+      ],
+      "director": "HipHop Tamizha Adhi",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
+        "https://image.tmdb.org/t/p/w780/o2r3Pbmx4qIgAkNFZL6yjPZjQaq.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1538457"
+    },
+    {
       "id": 1377237,
       "type": "movie",
       "title": "Três Horas Para Viver",
       "release_date": "2026-10-08",
-      "poster": "https://image.tmdb.org/t/p/w500/6DaeQweqmUCdLlw4TC5Sz2xVO6g.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/vzb3bKOFtciIVSEIsLOZH4uJfxN.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
       "overview": "Um transportador de elite embarca em uma missão urgente: entregar um órgão vital para salvar a vida de uma garotinha de sete anos. O que parecia ser uma tarefa objetiva logo se transforma em uma corrida frenética contra o tempo quando uma perigosa organização criminosa entra em cena para impedir o sucesso da entrega.",
       "tagline": "",
@@ -981,7 +962,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.508,
       "providers": [],
       "videos": [
         {
@@ -1034,8 +1015,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "SwIcphIaLMI",
-          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
+          "key": "DQAUbfAtZLA",
+          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
