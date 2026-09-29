@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T12:54:21.944542+00:00",
+  "updated_at": "2026-09-29T22:16:05.099998+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,12 +16,12 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 5.4,
+      "vote_average": 5.528,
       "providers": [],
       "videos": [
         {
-          "key": "hdrjfz864H0",
-          "name": "IT ENDS — Official Trailer (2026)",
+          "key": "4kyePAQX_mc",
+          "name": "It Ends (2026) | Official Trailer | NEON",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -66,7 +66,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.56,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
@@ -126,10 +126,10 @@
         "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
         "https://image.tmdb.org/t/p/w780/s6WNALkMPnBDadiKaS1JdRx9Hnw.jpg",
         "https://image.tmdb.org/t/p/w780/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
-        "https://image.tmdb.org/t/p/w780/3JDKBHWTSUSl2zVbQQOib9kQhRK.jpg",
         "https://image.tmdb.org/t/p/w780/4TWcVAtljd30qtaUV6DdeqIa1hW.jpg",
         "https://image.tmdb.org/t/p/w780/lM76hl2H0tmTfsX6VCiCE0mbhz0.jpg",
-        "https://image.tmdb.org/t/p/w780/3VcNrhtsIdIbHlKyMx0Oc67KL3Y.jpg"
+        "https://image.tmdb.org/t/p/w780/e9nmnMhCB3Mc9FyO8I1KsNvG0vb.jpg",
+        "https://image.tmdb.org/t/p/w780/jduhFQDNEmRtQCM6EEDCLWiNr1.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1204680"
     },
@@ -174,55 +174,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1482547"
     },
     {
-      "id": 1386315,
-      "type": "movie",
-      "title": "Corrida Contra o Tempo",
-      "release_date": "2026-09-03",
-      "poster": "https://image.tmdb.org/t/p/w500/zPlBUyu9rWhVrdiRfSClwMkmQiT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
-      "overview": "Maia Marten é uma advogada brilhante de Londres, vê a sua vida ruir com uma ligação durante sua corrida matinal que avisa que seu filho foi sequestrado. Para recuperá-lo, ela deve continuar correndo, obedecer a cada comando e não confiar em ninguém. Cada segundo desta corrida testará até onde vai uma mãe para salvar a vida do seu filho.",
-      "tagline": "Uma hora. Uma chance de salvar o filho.",
-      "runtime": 86,
-      "genres": [
-        "Thriller",
-        "Ação"
-      ],
-      "vote_average": 6.814,
-      "providers": [],
-      "videos": [
-        {
-          "key": "CkMnwT-t_Fw",
-          "name": "Corrida Contra o Tempo 2026 Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Gal Gadot",
-        "Damian Lewis",
-        "Rory Wilmot",
-        "Alfred Enoch",
-        "Phoenix Di Sebastiani",
-        "Nathan Kirby",
-        "Hélder Fernandes",
-        "Will Austin"
-      ],
-      "director": "Kevin Macdonald",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
-        "https://image.tmdb.org/t/p/w780/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
-        "https://image.tmdb.org/t/p/w780/3MHeqsDjo9d5AAbhdvyUB32kwGK.jpg",
-        "https://image.tmdb.org/t/p/w780/1KohYajglCHxTgj2NY2WTI7gn9v.jpg",
-        "https://image.tmdb.org/t/p/w780/8Zk4n3aEKor7q9e1j6xu1Awc6Zu.jpg",
-        "https://image.tmdb.org/t/p/w780/yeEkiAx9ZqPXBxZAkUXj7XLIyi2.jpg",
-        "https://image.tmdb.org/t/p/w780/zFE7iFwVEBrjh7gU1VRy8Zo4QQi.jpg",
-        "https://image.tmdb.org/t/p/w780/cjdO83LdYoqLP895GZZAynnH0ch.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1386315"
-    },
-    {
       "id": 1440098,
       "type": "movie",
       "title": "Atraídos Pelo Destino",
@@ -236,7 +187,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.738,
+      "vote_average": 6.767,
       "providers": [],
       "videos": [
         {
@@ -304,7 +255,7 @@
         "Comédia",
         "Família"
       ],
-      "vote_average": 8.2,
+      "vote_average": 8.141,
       "providers": [],
       "videos": [
         {
@@ -369,7 +320,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.332,
+      "vote_average": 7.333,
       "providers": [],
       "videos": [
         {
@@ -418,7 +369,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.176,
+      "vote_average": 7.141,
       "providers": [],
       "videos": [
         {
@@ -468,8 +419,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "9Sd8cLstef4",
-          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K,POST-APOCALYPTIC SCI-FI THRILLER,#movie #film",
+          "key": "HPYM0kFUo5s",
+          "name": "AFTER IMPACT — Official Trailer (2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -514,7 +465,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.348,
+      "vote_average": 7.342,
       "providers": [],
       "videos": [
         {
@@ -550,10 +501,10 @@
         "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
         "https://image.tmdb.org/t/p/w780/ddQKBWvnuiv7J64Z9exsNuze9hZ.jpg",
         "https://image.tmdb.org/t/p/w780/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
+        "https://image.tmdb.org/t/p/w780/ggBkUdWx8KndICMqy4eVnMlDDve.jpg",
         "https://image.tmdb.org/t/p/w780/fQpxJXfOm0QSHj3eB8QDjOvYL3t.jpg",
         "https://image.tmdb.org/t/p/w780/wEV9iTPIoiLfTkftCsrI23krsQA.jpg",
-        "https://image.tmdb.org/t/p/w780/nfj53Pr6iCk0pZDJKbjYcyftsY5.jpg",
-        "https://image.tmdb.org/t/p/w780/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg"
+        "https://image.tmdb.org/t/p/w780/nfj53Pr6iCk0pZDJKbjYcyftsY5.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1423191"
     },
@@ -620,7 +571,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.393,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -668,7 +619,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.142,
+      "vote_average": 8.151,
       "providers": [],
       "videos": [
         {
@@ -723,14 +674,15 @@
       "runtime": 109,
       "genres": [
         "Crime",
-        "Thriller"
+        "Thriller",
+        "Comédia"
       ],
-      "vote_average": 7.167,
+      "vote_average": 7.2,
       "providers": [],
       "videos": [
         {
-          "key": "WY5btzk0w9w",
-          "name": "Primetime | Official Trailer (Robert Pattinson as Chris Hansen, 2026)",
+          "key": "SBry7bmopLA",
+          "name": "Primetime - Official Trailer 2 (2026) Robert Pattinson, Merritt Wever, Skyler Gisondo",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -816,7 +768,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.667,
+      "vote_average": 7.66,
       "providers": [],
       "videos": [
         {
@@ -863,7 +815,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.972,
+      "vote_average": 6.947,
       "providers": [
         {
           "id": 8,
@@ -949,6 +901,62 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1538457"
     },
     {
+      "id": 1248832,
+      "type": "movie",
+      "title": "Digger",
+      "release_date": "2026-10-01",
+      "poster": "https://image.tmdb.org/t/p/w500/2qelG58fO3tOSPrDVzOW8hfxY3V.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "overview": "O homem mais poderoso do mundo embarca em uma missão frenética para provar que é o salvador da humanidade, antes que o desastre desencadeado por ele destrua tudo.",
+      "tagline": "Cave, ou morra.",
+      "runtime": 129,
+      "genres": [
+        "Comédia"
+      ],
+      "vote_average": 7.385,
+      "providers": [],
+      "videos": [
+        {
+          "key": "pMq9k_N7cko",
+          "name": "DIGGER l Trailer Final Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "vrFKMnHvVeQ",
+          "name": "Anúncio do Título",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Riz Ahmed",
+        "John Goodman",
+        "Sandra Hüller",
+        "Michael Stuhlbarg",
+        "Jesse Plemons",
+        "Robert John Burke",
+        "Emma D'Arcy"
+      ],
+      "director": "Alejandro G. Iñárritu",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+        "https://image.tmdb.org/t/p/w780/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
+        "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
+        "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
+        "https://image.tmdb.org/t/p/w780/244Hk4UVxrgdotp0pfkvnW9Iand.jpg",
+        "https://image.tmdb.org/t/p/w780/vlJHTUMyfPw9398oIvcosdNWSSw.jpg",
+        "https://image.tmdb.org/t/p/w780/ihf10k0ANuEpYO7tXnQbkMUCQBf.jpg",
+        "https://image.tmdb.org/t/p/w780/4uxShHLWeYXjhZScH14C5P4z0dj.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1248832"
+    },
+    {
       "id": 1377237,
       "type": "movie",
       "title": "Três Horas Para Viver",
@@ -962,7 +970,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.0,
+      "vote_average": 8.033,
       "providers": [],
       "videos": [
         {
@@ -1015,8 +1023,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "DQAUbfAtZLA",
-          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
+          "key": "SwIcphIaLMI",
+          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -1036,13 +1044,13 @@
       "director": "Mark Vanselow",
       "images": [
         "https://image.tmdb.org/t/p/w780/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
-        "https://image.tmdb.org/t/p/w780/nMoZlmPRslwooZnSU9fo92zvRh6.jpg",
         "https://image.tmdb.org/t/p/w780/nvfYg1NO76F91fEsfjhSlGYTQJa.jpg",
         "https://image.tmdb.org/t/p/w780/qjQqxoibX2jrDqPkkKpp0Sq2XBt.jpg",
         "https://image.tmdb.org/t/p/w780/iALrrdRIDZaQUo14aiIdOrkdfNr.jpg",
         "https://image.tmdb.org/t/p/w780/gZHRDqEGfq4gIiU00pwFzWeCxW6.jpg",
         "https://image.tmdb.org/t/p/w780/6FNhFhoS9cNS9hvZ0DWfIxjrho8.jpg",
-        "https://image.tmdb.org/t/p/w780/rEHXzonklwbyd0xFa7vDtnfVtok.jpg"
+        "https://image.tmdb.org/t/p/w780/rEHXzonklwbyd0xFa7vDtnfVtok.jpg",
+        "https://image.tmdb.org/t/p/w780/gysW6EMJq1DrUk6YSXGHjSeZHRr.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1294189"
     }
