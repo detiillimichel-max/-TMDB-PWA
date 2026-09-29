@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T05:44:46.769680+00:00",
+  "updated_at": "2026-09-29T12:54:21.944542+00:00",
   "region": "BR",
   "items": [
     {
@@ -20,8 +20,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "dinmUvyPgo8",
-          "name": "It Ends - Official Trailer (2026) Mitchell Cole, Akira Jackson, Noah Toth, Phiehas Yoon",
+          "key": "hdrjfz864H0",
+          "name": "IT ENDS — Official Trailer (2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -57,7 +57,7 @@
       "title": "Coyote vs. Acme",
       "release_date": "2026-08-27",
       "poster": "https://image.tmdb.org/t/p/w500/fqnp3doSeUFLGUFIolHVPA41O4E.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7GOW6jod9lLurW5utokAatxg7ql.jpg",
       "overview": "Após décadas de falhas catastróficas com os produtos ACME em sua caçada ao Papa-Léguas, Wile E. Coyote decide que é hora de buscar justiça e processar a corporação. Ao lado de um advogado azarado, Coyote trava uma batalha jurídica épica contra o impiedoso CEO da companhia. Enquanto enfrentam o sistema, a dupla desenvolve uma amizade improvável e luta para provar que a culpa de tantos desastres nunca foi do instinto, mas sim de defeitos de fabricação.",
       "tagline": "A vida toda ele achou que era azar... mas sempre foi culpa da ACME.",
       "runtime": 100,
@@ -66,7 +66,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.554,
+      "vote_average": 7.56,
       "providers": [],
       "videos": [
         {
@@ -122,14 +122,14 @@
       ],
       "director": "Dave Green",
       "images": [
-        "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
         "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+        "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
         "https://image.tmdb.org/t/p/w780/s6WNALkMPnBDadiKaS1JdRx9Hnw.jpg",
         "https://image.tmdb.org/t/p/w780/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
-        "https://image.tmdb.org/t/p/w780/linZzmvbivJnXAXthvblHZdkkpp.jpg",
         "https://image.tmdb.org/t/p/w780/3JDKBHWTSUSl2zVbQQOib9kQhRK.jpg",
         "https://image.tmdb.org/t/p/w780/4TWcVAtljd30qtaUV6DdeqIa1hW.jpg",
-        "https://image.tmdb.org/t/p/w780/lM76hl2H0tmTfsX6VCiCE0mbhz0.jpg"
+        "https://image.tmdb.org/t/p/w780/lM76hl2H0tmTfsX6VCiCE0mbhz0.jpg",
+        "https://image.tmdb.org/t/p/w780/3VcNrhtsIdIbHlKyMx0Oc67KL3Y.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1204680"
     },
@@ -147,7 +147,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.313,
       "providers": [],
       "videos": [
         {
@@ -187,7 +187,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.817,
+      "vote_average": 6.814,
       "providers": [],
       "videos": [
         {
@@ -236,7 +236,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.68,
+      "vote_average": 6.738,
       "providers": [],
       "videos": [
         {
@@ -369,7 +369,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.318,
+      "vote_average": 7.332,
       "providers": [],
       "videos": [
         {
@@ -418,12 +418,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.153,
+      "vote_average": 7.176,
       "providers": [],
       "videos": [
         {
-          "key": "SSH9phLePtg",
-          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson, Action, Thriller Movie [4K]",
+          "key": "vH4zs2LnhyE",
+          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -514,7 +514,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.338,
+      "vote_average": 7.348,
       "providers": [],
       "videos": [
         {
@@ -620,7 +620,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.412,
+      "vote_average": 7.393,
       "providers": [],
       "videos": [
         {
@@ -668,7 +668,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.154,
+      "vote_average": 8.142,
       "providers": [],
       "videos": [
         {
@@ -725,7 +725,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.167,
       "providers": [],
       "videos": [
         {
@@ -816,7 +816,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.658,
+      "vote_average": 7.667,
       "providers": [],
       "videos": [
         {
@@ -863,7 +863,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 7.0,
+      "vote_average": 6.972,
       "providers": [
         {
           "id": 8,
@@ -923,8 +923,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "ped2A3CjEuw",
-          "name": "Meesaya Murukku 2 Official Trailer 🔥 | Hiphop Tamizha | Mass + Comedy + Entertainment | Tamil Movie",
+          "key": "MLtdz9XqplA",
+          "name": "Meesaya Murukku 2 Official Trailer is releasin💥 #entertainment",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -962,7 +962,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 7.508,
+      "vote_average": 8.0,
       "providers": [],
       "videos": [
         {
