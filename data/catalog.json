@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T23:17:00.229115+00:00",
+  "updated_at": "2026-09-29T05:44:46.769680+00:00",
   "region": "BR",
   "items": [
     {
@@ -66,7 +66,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.556,
+      "vote_average": 7.554,
       "providers": [],
       "videos": [
         {
@@ -187,7 +187,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.8,
+      "vote_average": 6.817,
       "providers": [],
       "videos": [
         {
@@ -304,7 +304,7 @@
         "Comédia",
         "Família"
       ],
-      "vote_average": 8.1,
+      "vote_average": 8.2,
       "providers": [],
       "videos": [
         {
@@ -369,7 +369,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.318,
       "providers": [],
       "videos": [
         {
@@ -418,12 +418,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.0,
+      "vote_average": 7.153,
       "providers": [],
       "videos": [
         {
-          "key": "vH4zs2LnhyE",
-          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson",
+          "key": "SSH9phLePtg",
+          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson, Action, Thriller Movie [4K]",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -464,7 +464,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.3,
+      "vote_average": 6.441,
       "providers": [],
       "videos": [
         {
@@ -514,7 +514,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.336,
+      "vote_average": 7.338,
       "providers": [],
       "videos": [
         {
@@ -571,7 +571,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 5.869,
+      "vote_average": 5.839,
       "providers": [],
       "videos": [
         {
@@ -620,7 +620,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.563,
+      "vote_average": 7.412,
       "providers": [],
       "videos": [
         {
@@ -668,7 +668,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.2,
+      "vote_average": 8.154,
       "providers": [],
       "videos": [
         {
@@ -725,12 +725,12 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 7.2,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
-          "key": "Y-VJEAtdMaM",
-          "name": "Primetime | Official Trailer Music | A24",
+          "key": "WY5btzk0w9w",
+          "name": "Primetime | Official Trailer (Robert Pattinson as Chris Hansen, 2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -816,7 +816,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.681,
+      "vote_average": 7.658,
       "providers": [],
       "videos": [
         {
@@ -863,7 +863,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 7.003,
+      "vote_average": 7.0,
       "providers": [
         {
           "id": 8,
