@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T12:35:42.179305+00:00",
+  "updated_at": "2026-09-30T22:16:53.559894+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,12 +16,12 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 5.555,
+      "vote_average": 5.6,
       "providers": [],
       "videos": [
         {
-          "key": "hdrjfz864H0",
-          "name": "IT ENDS — Official Trailer (2026)",
+          "key": "dinmUvyPgo8",
+          "name": "It Ends - Official Trailer (2026) Mitchell Cole, Akira Jackson, Noah Toth, Phiehas Yoon",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -151,8 +151,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "M9tHmu0wNHM",
-          "name": "Zip Wire | 2026 | @SignatureUK Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
+          "key": "c5FGrGLlRdw",
+          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -307,6 +307,55 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1465063"
     },
     {
+      "id": 977942,
+      "type": "movie",
+      "title": "A Revolta",
+      "release_date": "2026-09-10",
+      "poster": "https://image.tmdb.org/t/p/w500/lPVbuSEkLdq9TO9bISWTk1saM4E.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+      "overview": "Enquanto a guerra e a peste devastam a Inglaterra do século XIV, um humilde camponês dá início a uma revolta, reunindo um exército de homens e mulheres do povo para desafiar o poder do rei numa luta desesperada por justiça e sobrevivência.",
+      "tagline": "",
+      "runtime": 127,
+      "genres": [
+        "História",
+        "Drama"
+      ],
+      "vote_average": 7.7,
+      "providers": [],
+      "videos": [
+        {
+          "key": "A2MA-QCwDGU",
+          "name": "A REVOLTA (The Uprising) - Trailer Oficial Legendado PT",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Andrew Garfield",
+        "Jamie Bell",
+        "Stephen Dillane",
+        "Woody Norman",
+        "Tom Hollander",
+        "Cosmo Jarvis",
+        "Thomasin McKenzie",
+        "Jonny Lee Miller"
+      ],
+      "director": "Paul Greengrass",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/9YKDy9xgIopB2qoFZcHYNkFeikh.jpg",
+        "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+        "https://image.tmdb.org/t/p/w780/kAlAFblqBI6aGXItR4DRpT5Tozg.jpg",
+        "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
+        "https://image.tmdb.org/t/p/w780/tK83Q7yoO8GqVZjtKJVeGJyHCQz.jpg",
+        "https://image.tmdb.org/t/p/w780/wkuzxJkJoRS2ApYSiPclfaYBQj2.jpg",
+        "https://image.tmdb.org/t/p/w780/w2iQlj8KaC8LARWkfBXEoxBEWQ3.jpg",
+        "https://image.tmdb.org/t/p/w780/2T6GbjThhxp7OFM27RjIUm1HuHy.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/977942"
+    },
+    {
       "id": 1288445,
       "type": "movie",
       "title": "Código: Vingança",
@@ -369,7 +418,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.113,
+      "vote_average": 7.1,
       "providers": [],
       "videos": [
         {
@@ -401,56 +450,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1228834"
     },
     {
-      "id": 977942,
-      "type": "movie",
-      "title": "The Uprising",
-      "release_date": "2026-09-10",
-      "poster": "https://image.tmdb.org/t/p/w500/wyelfvUoNINgzug19uGBaQqTuQB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-      "overview": "Enquanto a guerra e a peste devastam a Inglaterra do século XIV, um humilde camponês dá início a uma revolta, reunindo um exército de homens e mulheres do povo para desafiar o poder do rei numa luta desesperada por justiça e sobrevivência.",
-      "tagline": "",
-      "runtime": 128,
-      "genres": [
-        "História",
-        "Drama",
-        "Ação"
-      ],
-      "vote_average": 7.6,
-      "providers": [],
-      "videos": [
-        {
-          "key": "o3YOZVvMcys",
-          "name": "The Uprising | Official Trailer (Andrew Garfield, 2026)",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Andrew Garfield",
-        "Jamie Bell",
-        "Stephen Dillane",
-        "Woody Norman",
-        "Tom Hollander",
-        "Cosmo Jarvis",
-        "Thomasin McKenzie",
-        "Jonny Lee Miller"
-      ],
-      "director": "Paul Greengrass",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/9YKDy9xgIopB2qoFZcHYNkFeikh.jpg",
-        "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-        "https://image.tmdb.org/t/p/w780/kAlAFblqBI6aGXItR4DRpT5Tozg.jpg",
-        "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
-        "https://image.tmdb.org/t/p/w780/tK83Q7yoO8GqVZjtKJVeGJyHCQz.jpg",
-        "https://image.tmdb.org/t/p/w780/wkuzxJkJoRS2ApYSiPclfaYBQj2.jpg",
-        "https://image.tmdb.org/t/p/w780/w2iQlj8KaC8LARWkfBXEoxBEWQ3.jpg",
-        "https://image.tmdb.org/t/p/w780/2T6GbjThhxp7OFM27RjIUm1HuHy.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/977942"
-    },
-    {
       "id": 1751701,
       "type": "movie",
       "title": "After Impact",
@@ -469,8 +468,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "9Sd8cLstef4",
-          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K,POST-APOCALYPTIC SCI-FI THRILLER,#movie #film",
+          "key": "ZvQp-AY7RQk",
+          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -515,7 +514,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.335,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -572,7 +571,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.403,
+      "vote_average": 7.424,
       "providers": [],
       "videos": [
         {
@@ -620,7 +619,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.1,
+      "vote_average": 8.122,
       "providers": [],
       "videos": [
         {
@@ -655,11 +654,11 @@
         "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
         "https://image.tmdb.org/t/p/w780/fuOMc0cr1ZW5chnXoAOm5hyM8cb.jpg",
         "https://image.tmdb.org/t/p/w780/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
+        "https://image.tmdb.org/t/p/w780/mAkLUZlsASmNcLHPk81PDtvt0Uj.jpg",
         "https://image.tmdb.org/t/p/w780/mJC2Q2agtvxd6RschaQheDpiwwE.jpg",
         "https://image.tmdb.org/t/p/w780/csNgYnvXJi0XAAln3m7YK44PvDm.jpg",
         "https://image.tmdb.org/t/p/w780/p1Xk8xNHHP1HJx2yGZuREp8Etab.jpg",
-        "https://image.tmdb.org/t/p/w780/b17uij6YoqTsWLO3V9NMQmGzTeA.jpg",
-        "https://image.tmdb.org/t/p/w780/eHzUOEv6krXfljtz7SA8ryuFFiN.jpg"
+        "https://image.tmdb.org/t/p/w780/b17uij6YoqTsWLO3V9NMQmGzTeA.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1032863"
     },
@@ -674,7 +673,6 @@
       "tagline": "",
       "runtime": 110,
       "genres": [
-        "Crime",
         "Thriller",
         "Drama"
       ],
@@ -769,7 +767,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.644,
+      "vote_average": 7.614,
       "providers": [],
       "videos": [
         {
@@ -816,7 +814,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.827,
+      "vote_average": 6.764,
       "providers": [
         {
           "id": 8,
@@ -876,8 +874,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "MLtdz9XqplA",
-          "name": "Meesaya Murukku 2 Official Trailer is releasin💥 #entertainment",
+          "key": "ped2A3CjEuw",
+          "name": "Meesaya Murukku 2 Official Trailer 🔥 | Hiphop Tamizha | Mass + Comedy + Entertainment | Tamil Movie",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -915,7 +913,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -972,7 +970,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.142,
+      "vote_average": 8.18,
       "providers": [],
       "videos": [
         {
@@ -1025,8 +1023,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "SwIcphIaLMI",
-          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
+          "key": "DQAUbfAtZLA",
+          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
