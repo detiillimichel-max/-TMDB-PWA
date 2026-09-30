@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T05:33:39.251645+00:00",
+  "updated_at": "2026-09-30T12:35:42.179305+00:00",
   "region": "BR",
   "items": [
     {
@@ -20,8 +20,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "dinmUvyPgo8",
-          "name": "It Ends - Official Trailer (2026) Mitchell Cole, Akira Jackson, Noah Toth, Phiehas Yoon",
+          "key": "hdrjfz864H0",
+          "name": "IT ENDS — Official Trailer (2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -151,8 +151,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "c5FGrGLlRdw",
-          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
+          "key": "M9tHmu0wNHM",
+          "name": "Zip Wire | 2026 | @SignatureUK Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -255,7 +255,7 @@
         "Comédia",
         "Família"
       ],
-      "vote_average": 8.1,
+      "vote_average": 8.2,
       "providers": [],
       "videos": [
         {
@@ -320,7 +320,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.338,
+      "vote_average": 7.348,
       "providers": [],
       "videos": [
         {
@@ -369,7 +369,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.1,
+      "vote_average": 7.113,
       "providers": [],
       "videos": [
         {
@@ -406,16 +406,16 @@
       "title": "The Uprising",
       "release_date": "2026-09-10",
       "poster": "https://image.tmdb.org/t/p/w500/wyelfvUoNINgzug19uGBaQqTuQB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wkuzxJkJoRS2ApYSiPclfaYBQj2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
       "overview": "Enquanto a guerra e a peste devastam a Inglaterra do século XIV, um humilde camponês dá início a uma revolta, reunindo um exército de homens e mulheres do povo para desafiar o poder do rei numa luta desesperada por justiça e sobrevivência.",
       "tagline": "",
       "runtime": 128,
       "genres": [
-        "Ação",
         "História",
-        "Drama"
+        "Drama",
+        "Ação"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
@@ -440,13 +440,13 @@
       "director": "Paul Greengrass",
       "images": [
         "https://image.tmdb.org/t/p/w780/9YKDy9xgIopB2qoFZcHYNkFeikh.jpg",
-        "https://image.tmdb.org/t/p/w780/wkuzxJkJoRS2ApYSiPclfaYBQj2.jpg",
+        "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
         "https://image.tmdb.org/t/p/w780/kAlAFblqBI6aGXItR4DRpT5Tozg.jpg",
         "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
         "https://image.tmdb.org/t/p/w780/tK83Q7yoO8GqVZjtKJVeGJyHCQz.jpg",
+        "https://image.tmdb.org/t/p/w780/wkuzxJkJoRS2ApYSiPclfaYBQj2.jpg",
         "https://image.tmdb.org/t/p/w780/w2iQlj8KaC8LARWkfBXEoxBEWQ3.jpg",
-        "https://image.tmdb.org/t/p/w780/2T6GbjThhxp7OFM27RjIUm1HuHy.jpg",
-        "https://image.tmdb.org/t/p/w780/2C8N4HJBqvapyrzVLog9FoyFiC6.jpg"
+        "https://image.tmdb.org/t/p/w780/2T6GbjThhxp7OFM27RjIUm1HuHy.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/977942"
     },
@@ -469,8 +469,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "ZvQp-AY7RQk",
-          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
+          "key": "9Sd8cLstef4",
+          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K,POST-APOCALYPTIC SCI-FI THRILLER,#movie #film",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -572,7 +572,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.392,
+      "vote_average": 7.403,
       "providers": [],
       "videos": [
         {
@@ -672,13 +672,13 @@
       "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
       "overview": "Baseado em uma história real, Primetime acompanha o jornalista Chris Hansen, um homem que no ano de 2006 está determinado a tirar a sua emissora da falência iminente. Com a ideia de criar um programa chamado To Catch a Predator, feito para expor criminosos ao vivo, em pouco tempo a produção se torna um sucesso de audiência e muda toda a trajetória da história televisiva. No entanto, quando o hacker Leo descobre um terrível segredo, os papéis podem acabar se invertendo rapidamente.",
       "tagline": "",
-      "runtime": 109,
+      "runtime": 110,
       "genres": [
         "Crime",
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.142,
+      "vote_average": 7.1,
       "providers": [],
       "videos": [
         {
@@ -769,7 +769,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.7,
+      "vote_average": 7.644,
       "providers": [],
       "videos": [
         {
@@ -816,7 +816,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.883,
+      "vote_average": 6.827,
       "providers": [
         {
           "id": 8,
@@ -876,8 +876,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "ped2A3CjEuw",
-          "name": "Meesaya Murukku 2 Official Trailer 🔥 | Hiphop Tamizha | Mass + Comedy + Entertainment | Tamil Movie",
+          "key": "MLtdz9XqplA",
+          "name": "Meesaya Murukku 2 Official Trailer is releasin💥 #entertainment",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -912,7 +912,8 @@
       "tagline": "Cave, ou morra.",
       "runtime": 129,
       "genres": [
-        "Comédia"
+        "Comédia",
+        "Drama"
       ],
       "vote_average": 7.3,
       "providers": [],
@@ -997,12 +998,12 @@
       "images": [
         "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
         "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+        "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
         "https://image.tmdb.org/t/p/w780/w8fEorMTwgMN9h1cgOb3yMggbiu.jpg",
         "https://image.tmdb.org/t/p/w780/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg",
         "https://image.tmdb.org/t/p/w780/zwOuftcrINzFyg27ffn2cevxClC.jpg",
         "https://image.tmdb.org/t/p/w780/hSYBdRE9b5PRK3BsjEBvXnUZvwM.jpg",
-        "https://image.tmdb.org/t/p/w780/iE07BOqCoKDYcZ1EOls9rMK9797.jpg",
-        "https://image.tmdb.org/t/p/w780/qaRXiwTEpSgoKIkZNYfcmQRgRYk.jpg"
+        "https://image.tmdb.org/t/p/w780/iE07BOqCoKDYcZ1EOls9rMK9797.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1377237"
     },
@@ -1024,8 +1025,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "DQAUbfAtZLA",
-          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
+          "key": "SwIcphIaLMI",
+          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -1045,13 +1046,13 @@
       "director": "Mark Vanselow",
       "images": [
         "https://image.tmdb.org/t/p/w780/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+        "https://image.tmdb.org/t/p/w780/nMoZlmPRslwooZnSU9fo92zvRh6.jpg",
         "https://image.tmdb.org/t/p/w780/nvfYg1NO76F91fEsfjhSlGYTQJa.jpg",
         "https://image.tmdb.org/t/p/w780/qjQqxoibX2jrDqPkkKpp0Sq2XBt.jpg",
         "https://image.tmdb.org/t/p/w780/iALrrdRIDZaQUo14aiIdOrkdfNr.jpg",
         "https://image.tmdb.org/t/p/w780/gZHRDqEGfq4gIiU00pwFzWeCxW6.jpg",
         "https://image.tmdb.org/t/p/w780/6FNhFhoS9cNS9hvZ0DWfIxjrho8.jpg",
-        "https://image.tmdb.org/t/p/w780/rEHXzonklwbyd0xFa7vDtnfVtok.jpg",
-        "https://image.tmdb.org/t/p/w780/gysW6EMJq1DrUk6YSXGHjSeZHRr.jpg"
+        "https://image.tmdb.org/t/p/w780/rEHXzonklwbyd0xFa7vDtnfVtok.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1294189"
     }
