@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T22:16:05.099998+00:00",
+  "updated_at": "2026-09-30T05:33:39.251645+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,12 +16,12 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 5.528,
+      "vote_average": 5.555,
       "providers": [],
       "videos": [
         {
-          "key": "4kyePAQX_mc",
-          "name": "It Ends (2026) | Official Trailer | NEON",
+          "key": "dinmUvyPgo8",
+          "name": "It Ends - Official Trailer (2026) Mitchell Cole, Akira Jackson, Noah Toth, Phiehas Yoon",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -147,12 +147,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.313,
+      "vote_average": 7.471,
       "providers": [],
       "videos": [
         {
-          "key": "M9tHmu0wNHM",
-          "name": "Zip Wire | 2026 | @SignatureUK Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
+          "key": "c5FGrGLlRdw",
+          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -187,7 +187,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.767,
+      "vote_average": 6.82,
       "providers": [],
       "videos": [
         {
@@ -255,7 +255,7 @@
         "Comédia",
         "Família"
       ],
-      "vote_average": 8.141,
+      "vote_average": 8.1,
       "providers": [],
       "videos": [
         {
@@ -320,7 +320,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.333,
+      "vote_average": 7.338,
       "providers": [],
       "videos": [
         {
@@ -369,7 +369,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.141,
+      "vote_average": 7.1,
       "providers": [],
       "videos": [
         {
@@ -401,6 +401,56 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1228834"
     },
     {
+      "id": 977942,
+      "type": "movie",
+      "title": "The Uprising",
+      "release_date": "2026-09-10",
+      "poster": "https://image.tmdb.org/t/p/w500/wyelfvUoNINgzug19uGBaQqTuQB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wkuzxJkJoRS2ApYSiPclfaYBQj2.jpg",
+      "overview": "Enquanto a guerra e a peste devastam a Inglaterra do século XIV, um humilde camponês dá início a uma revolta, reunindo um exército de homens e mulheres do povo para desafiar o poder do rei numa luta desesperada por justiça e sobrevivência.",
+      "tagline": "",
+      "runtime": 128,
+      "genres": [
+        "Ação",
+        "História",
+        "Drama"
+      ],
+      "vote_average": 7.4,
+      "providers": [],
+      "videos": [
+        {
+          "key": "o3YOZVvMcys",
+          "name": "The Uprising | Official Trailer (Andrew Garfield, 2026)",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Andrew Garfield",
+        "Jamie Bell",
+        "Stephen Dillane",
+        "Woody Norman",
+        "Tom Hollander",
+        "Cosmo Jarvis",
+        "Thomasin McKenzie",
+        "Jonny Lee Miller"
+      ],
+      "director": "Paul Greengrass",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/9YKDy9xgIopB2qoFZcHYNkFeikh.jpg",
+        "https://image.tmdb.org/t/p/w780/wkuzxJkJoRS2ApYSiPclfaYBQj2.jpg",
+        "https://image.tmdb.org/t/p/w780/kAlAFblqBI6aGXItR4DRpT5Tozg.jpg",
+        "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
+        "https://image.tmdb.org/t/p/w780/tK83Q7yoO8GqVZjtKJVeGJyHCQz.jpg",
+        "https://image.tmdb.org/t/p/w780/w2iQlj8KaC8LARWkfBXEoxBEWQ3.jpg",
+        "https://image.tmdb.org/t/p/w780/2T6GbjThhxp7OFM27RjIUm1HuHy.jpg",
+        "https://image.tmdb.org/t/p/w780/2C8N4HJBqvapyrzVLog9FoyFiC6.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/977942"
+    },
+    {
       "id": 1751701,
       "type": "movie",
       "title": "After Impact",
@@ -419,8 +469,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "HPYM0kFUo5s",
-          "name": "AFTER IMPACT — Official Trailer (2026)",
+          "key": "ZvQp-AY7RQk",
+          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -465,7 +515,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.342,
+      "vote_average": 7.335,
       "providers": [],
       "videos": [
         {
@@ -509,55 +559,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1423191"
     },
     {
-      "id": 1641629,
-      "type": "movie",
-      "title": "Você+Eu - Contra o Mundo",
-      "release_date": "2026-09-18",
-      "poster": "https://image.tmdb.org/t/p/w500/pkNK6BuKjth9ApJxhjKe34KaHe4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
-      "overview": "Alma Lancaster, 18 anos, parece levar uma vida perfeita dentro de uma família rica que acredita que ela estuda direito. Na verdade, a jovem persegue em segredo o sonho: fazer cinema. No campus, Alma encontra Vadim Arcadi, 20 anos, um estudante solitário com um passado sombrio. Forçados a trabalhar juntos em um filme estudantil, Alma e Vadim se enfrentam, se aproximam e acabam se apaixonando contra a própria vontade. Contudo, o relacionamento deles está ameaçado por uma presença externa. Alguém os observa, determinado a separá-los e a revelar segredos que possam fragilizar a história deles tanto quanto o seu futuro.",
-      "tagline": "",
-      "runtime": 93,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "vote_average": 5.839,
-      "providers": [],
-      "videos": [
-        {
-          "key": "ntIM30QpDgc",
-          "name": "Você+Eu - Contra o Mundo | Trailer Oficial | Prime Video",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Vittoria Di Savoia",
-        "Lucas Barski",
-        "Zoé Garcia",
-        "Léo Legrand",
-        "Jean-Yves Berteloot",
-        "Suliane Brahim",
-        "Aymeric Fougeron",
-        "Gabrielle Taittinger"
-      ],
-      "director": "Manon Gaurin",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
-        "https://image.tmdb.org/t/p/w780/9q1nSoOw5Qs89F6TDAD2mPwItdO.jpg",
-        "https://image.tmdb.org/t/p/w780/tWVntLeXNJCT3sX6yZZFzlDvF8.jpg",
-        "https://image.tmdb.org/t/p/w780/b5khNPWewb9lTAD2hTZhbe7QPI2.jpg",
-        "https://image.tmdb.org/t/p/w780/bCuwBQb6XlCrWs7GJxesBZ9QSfC.jpg",
-        "https://image.tmdb.org/t/p/w780/lrfIl8yHxMR6JCVcZToRpiRECr.jpg",
-        "https://image.tmdb.org/t/p/w780/9Yyf2IL93pj8aaQuBm2OpSXiKlx.jpg",
-        "https://image.tmdb.org/t/p/w780/dVts1HMd9pPZUc4rdFAHJ3M6VNp.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1641629"
-    },
-    {
       "id": 1607127,
       "type": "movie",
       "title": "O Último Tiro Certo",
@@ -571,7 +572,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.392,
       "providers": [],
       "videos": [
         {
@@ -619,7 +620,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.151,
+      "vote_average": 8.1,
       "providers": [],
       "videos": [
         {
@@ -675,9 +676,9 @@
       "genres": [
         "Crime",
         "Thriller",
-        "Comédia"
+        "Drama"
       ],
-      "vote_average": 7.2,
+      "vote_average": 7.142,
       "providers": [],
       "videos": [
         {
@@ -768,7 +769,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.66,
+      "vote_average": 7.7,
       "providers": [],
       "videos": [
         {
@@ -815,7 +816,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.947,
+      "vote_average": 6.883,
       "providers": [
         {
           "id": 8,
@@ -875,8 +876,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "MLtdz9XqplA",
-          "name": "Meesaya Murukku 2 Official Trailer is releasin💥 #entertainment",
+          "key": "ped2A3CjEuw",
+          "name": "Meesaya Murukku 2 Official Trailer 🔥 | Hiphop Tamizha | Mass + Comedy + Entertainment | Tamil Movie",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -906,14 +907,14 @@
       "title": "Digger",
       "release_date": "2026-10-01",
       "poster": "https://image.tmdb.org/t/p/w500/2qelG58fO3tOSPrDVzOW8hfxY3V.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
       "overview": "O homem mais poderoso do mundo embarca em uma missão frenética para provar que é o salvador da humanidade, antes que o desastre desencadeado por ele destrua tudo.",
       "tagline": "Cave, ou morra.",
       "runtime": 129,
       "genres": [
         "Comédia"
       ],
-      "vote_average": 7.385,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -945,8 +946,8 @@
       ],
       "director": "Alejandro G. Iñárritu",
       "images": [
-        "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
         "https://image.tmdb.org/t/p/w780/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
+        "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
         "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
         "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
         "https://image.tmdb.org/t/p/w780/244Hk4UVxrgdotp0pfkvnW9Iand.jpg",
@@ -970,7 +971,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.033,
+      "vote_average": 8.142,
       "providers": [],
       "videos": [
         {
@@ -988,15 +989,15 @@
         "Rodrigo Santoro",
         "Leila George",
         "Kate Box",
-        "Adriana Barraza",
         "Peta Sergeant",
-        "Scarlett Crabtree"
+        "Cecilia Toussaint",
+        "Geraldine Hakewill"
       ],
       "director": "Scott Waugh",
       "images": [
         "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
         "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-        "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+        "https://image.tmdb.org/t/p/w780/w8fEorMTwgMN9h1cgOb3yMggbiu.jpg",
         "https://image.tmdb.org/t/p/w780/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg",
         "https://image.tmdb.org/t/p/w780/zwOuftcrINzFyg27ffn2cevxClC.jpg",
         "https://image.tmdb.org/t/p/w780/hSYBdRE9b5PRK3BsjEBvXnUZvwM.jpg",
@@ -1023,8 +1024,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "SwIcphIaLMI",
-          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
+          "key": "DQAUbfAtZLA",
+          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
