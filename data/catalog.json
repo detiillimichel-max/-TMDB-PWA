@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T13:16:23.119728+00:00",
+  "updated_at": "2026-10-01T22:41:59.036472+00:00",
   "region": "BR",
   "items": [
     {
@@ -66,7 +66,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.563,
+      "vote_average": 7.557,
       "providers": [],
       "videos": [
         {
@@ -151,8 +151,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "c5FGrGLlRdw",
-          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
+          "key": "M9tHmu0wNHM",
+          "name": "Zip Wire | 2026 | @SignatureUK Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -320,7 +320,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.372,
+      "vote_average": 7.376,
       "providers": [],
       "videos": [
         {
@@ -356,11 +356,59 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1288445"
     },
     {
+      "id": 1340102,
+      "type": "movie",
+      "title": "Lion Fist",
+      "release_date": "2026-09-10",
+      "poster": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mfevSm3elJX1IqCjBxC7bGl07s2.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 91,
+      "genres": [
+        "Ação"
+      ],
+      "vote_average": 7.86,
+      "providers": [],
+      "videos": [
+        {
+          "key": "BjA78F2Xq6s",
+          "name": "Lion Fist - Official Trailer (2026) Mathis Landwehr",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Mathis Landwehr",
+        "Li Yanlong",
+        "Kurt McKinney",
+        "Keith Cooke",
+        "Brice Akuesson",
+        "David Yeung",
+        "Gary Daniels",
+        "Finja Martens"
+      ],
+      "director": "Taim M. Adams",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/mfevSm3elJX1IqCjBxC7bGl07s2.jpg",
+        "https://image.tmdb.org/t/p/w780/fDag9DUsJTZVWkWnDdccQxFUcfO.jpg",
+        "https://image.tmdb.org/t/p/w780/muliVVazNaTp9XNthDYmgqGHecj.jpg",
+        "https://image.tmdb.org/t/p/w780/1WhXIN0q7O9PgziOE0jh3xAz1Lf.jpg",
+        "https://image.tmdb.org/t/p/w780/h7Qku6nc9xQCQQBSU4I0quaumOP.jpg",
+        "https://image.tmdb.org/t/p/w780/kkPAqkwEBfmQSkDjVtGzSZkqVkj.jpg",
+        "https://image.tmdb.org/t/p/w780/b3iuEpM9HMmAo8pFLVZ12Yc08HA.jpg",
+        "https://image.tmdb.org/t/p/w780/rxgQrcQd4NmMdZv97iz42298WyO.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1340102"
+    },
+    {
       "id": 977942,
       "type": "movie",
       "title": "O Rebelde",
       "release_date": "2026-09-10",
-      "poster": "https://image.tmdb.org/t/p/w500/lPVbuSEkLdq9TO9bISWTk1saM4E.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mfDgS3jVrHX8pCCpiKdFQPShL56.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
       "overview": "Enquanto a guerra e a peste devastam a Inglaterra do século XIV, um humilde camponês dá início a uma revolta, reunindo um exército de homens e mulheres do povo para desafiar o poder do rei numa luta desesperada por justiça e sobrevivência.",
       "tagline": "",
@@ -369,12 +417,12 @@
         "História",
         "Drama"
       ],
-      "vote_average": 8.1,
+      "vote_average": 8.085,
       "providers": [],
       "videos": [
         {
-          "key": "aDfdIhqsAV4",
-          "name": "Rebelde: Temporada 2 | Trailer oficial | Netflix Brasil",
+          "key": "gYNj2QbQ2PY",
+          "name": "Rebelde | Trailer oficial | Netflix",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -418,7 +466,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.1,
+      "vote_average": 7.134,
       "providers": [],
       "videos": [
         {
@@ -464,12 +512,12 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.441,
+      "vote_average": 6.417,
       "providers": [],
       "videos": [
         {
-          "key": "9Sd8cLstef4",
-          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K,POST-APOCALYPTIC SCI-FI THRILLER,#movie #film",
+          "key": "ZvQp-AY7RQk",
+          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -514,7 +562,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.315,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -571,18 +619,9 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.406,
+      "vote_average": 7.4,
       "providers": [],
-      "videos": [
-        {
-          "key": "OPHefBZQd4U",
-          "name": "O Último Tiro Certo 2026 Trailer Legendado",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
+      "videos": [],
       "cast": [
         "Scott Adkins",
         "Steven Cree",
@@ -619,7 +658,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.109,
+      "vote_average": 8.071,
       "providers": [],
       "videos": [
         {
@@ -676,12 +715,12 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.051,
+      "vote_average": 7.0,
       "providers": [],
       "videos": [
         {
-          "key": "nfx439txjnQ",
-          "name": "Primetime - Official Trailer (2026) Robert Pattinson, Merritt Wever, Skyler Gisondo",
+          "key": "WY5btzk0w9w",
+          "name": "Primetime | Official Trailer (Robert Pattinson as Chris Hansen, 2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -712,48 +751,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1375441"
     },
     {
-      "id": 1580190,
-      "type": "movie",
-      "title": "除暴之路",
-      "release_date": "2026-09-23",
-      "poster": "https://image.tmdb.org/t/p/w500/kgoLu3CCb3pQARy0YWEvijKNSx4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/yiUUnJ1vIFGWITzolQioaRVII7m.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 90,
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "vote_average": 2.0,
-      "providers": [],
-      "videos": [
-        {
-          "key": "x-HE-g5YwZE",
-          "name": "功夫女足｜Kung Fu Soccer | Official Trailer | 正式预告片    ｜Coming to GSC starting 13 August 2026 ",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "刘峰超",
-        "房岩",
-        "黄涛",
-        "姚祯",
-        "Guo Feng",
-        "孙彩纶",
-        "淳于珊珊"
-      ],
-      "director": "秦鹏飞",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/pNDN0jXQIpeJNej3z0J7pjcEf7V.jpg",
-        "https://image.tmdb.org/t/p/w780/yiUUnJ1vIFGWITzolQioaRVII7m.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1580190"
-    },
-    {
       "id": 1263337,
       "type": "movie",
       "title": "Coração Selvagem",
@@ -767,7 +764,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.568,
+      "vote_average": 7.587,
       "providers": [],
       "videos": [
         {
@@ -814,7 +811,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.668,
+      "vote_average": 6.7,
       "providers": [
         {
           "id": 8,
@@ -874,8 +871,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "MLtdz9XqplA",
-          "name": "Meesaya Murukku 2 Official Trailer is releasin💥 #entertainment",
+          "key": "lU40CPN7Ww0",
+          "name": "Meesaya Murukku 2 - Official Trailer | Hiphop Tamizha | Khushbu Sundar | ACS Arun Kumar",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -905,7 +902,7 @@
       "title": "Digger",
       "release_date": "2026-10-01",
       "poster": "https://image.tmdb.org/t/p/w500/2qelG58fO3tOSPrDVzOW8hfxY3V.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
       "overview": "O homem mais poderoso do mundo embarca em uma missão frenética para provar que é o salvador da humanidade, antes que o desastre desencadeado por ele destrua tudo.",
       "tagline": "Cave, ou morra.",
       "runtime": 129,
@@ -913,7 +910,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -945,8 +942,8 @@
       ],
       "director": "Alejandro G. Iñárritu",
       "images": [
-        "https://image.tmdb.org/t/p/w780/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
         "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+        "https://image.tmdb.org/t/p/w780/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
         "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
         "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
         "https://image.tmdb.org/t/p/w780/244Hk4UVxrgdotp0pfkvnW9Iand.jpg",
@@ -970,7 +967,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.15,
+      "vote_average": 8.167,
       "providers": [],
       "videos": [
         {
