@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T22:16:53.559894+00:00",
+  "updated_at": "2026-10-01T05:55:06.515886+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,12 +16,12 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 5.6,
+      "vote_average": 5.681,
       "providers": [],
       "videos": [
         {
-          "key": "dinmUvyPgo8",
-          "name": "It Ends - Official Trailer (2026) Mitchell Cole, Akira Jackson, Noah Toth, Phiehas Yoon",
+          "key": "hdrjfz864H0",
+          "name": "IT ENDS — Official Trailer (2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -187,7 +187,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.82,
+      "vote_average": 6.803,
       "providers": [],
       "videos": [
         {
@@ -255,7 +255,7 @@
         "Comédia",
         "Família"
       ],
-      "vote_average": 8.2,
+      "vote_average": 8.189,
       "providers": [],
       "videos": [
         {
@@ -307,55 +307,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1465063"
     },
     {
-      "id": 977942,
-      "type": "movie",
-      "title": "A Revolta",
-      "release_date": "2026-09-10",
-      "poster": "https://image.tmdb.org/t/p/w500/lPVbuSEkLdq9TO9bISWTk1saM4E.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-      "overview": "Enquanto a guerra e a peste devastam a Inglaterra do século XIV, um humilde camponês dá início a uma revolta, reunindo um exército de homens e mulheres do povo para desafiar o poder do rei numa luta desesperada por justiça e sobrevivência.",
-      "tagline": "",
-      "runtime": 127,
-      "genres": [
-        "História",
-        "Drama"
-      ],
-      "vote_average": 7.7,
-      "providers": [],
-      "videos": [
-        {
-          "key": "A2MA-QCwDGU",
-          "name": "A REVOLTA (The Uprising) - Trailer Oficial Legendado PT",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Andrew Garfield",
-        "Jamie Bell",
-        "Stephen Dillane",
-        "Woody Norman",
-        "Tom Hollander",
-        "Cosmo Jarvis",
-        "Thomasin McKenzie",
-        "Jonny Lee Miller"
-      ],
-      "director": "Paul Greengrass",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/9YKDy9xgIopB2qoFZcHYNkFeikh.jpg",
-        "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-        "https://image.tmdb.org/t/p/w780/kAlAFblqBI6aGXItR4DRpT5Tozg.jpg",
-        "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
-        "https://image.tmdb.org/t/p/w780/tK83Q7yoO8GqVZjtKJVeGJyHCQz.jpg",
-        "https://image.tmdb.org/t/p/w780/wkuzxJkJoRS2ApYSiPclfaYBQj2.jpg",
-        "https://image.tmdb.org/t/p/w780/w2iQlj8KaC8LARWkfBXEoxBEWQ3.jpg",
-        "https://image.tmdb.org/t/p/w780/2T6GbjThhxp7OFM27RjIUm1HuHy.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/977942"
-    },
-    {
       "id": 1288445,
       "type": "movie",
       "title": "Código: Vingança",
@@ -369,7 +320,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.348,
+      "vote_average": 7.362,
       "providers": [],
       "videos": [
         {
@@ -403,6 +354,55 @@
         "https://image.tmdb.org/t/p/w780/46gzT6bmkrqyhRYtoeycgRwjrfA.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1288445"
+    },
+    {
+      "id": 977942,
+      "type": "movie",
+      "title": "O Rebelde",
+      "release_date": "2026-09-10",
+      "poster": "https://image.tmdb.org/t/p/w500/lPVbuSEkLdq9TO9bISWTk1saM4E.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+      "overview": "Enquanto a guerra e a peste devastam a Inglaterra do século XIV, um humilde camponês dá início a uma revolta, reunindo um exército de homens e mulheres do povo para desafiar o poder do rei numa luta desesperada por justiça e sobrevivência.",
+      "tagline": "",
+      "runtime": 127,
+      "genres": [
+        "História",
+        "Drama"
+      ],
+      "vote_average": 7.994,
+      "providers": [],
+      "videos": [
+        {
+          "key": "gYNj2QbQ2PY",
+          "name": "Rebelde | Trailer oficial | Netflix",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Andrew Garfield",
+        "Jamie Bell",
+        "Stephen Dillane",
+        "Woody Norman",
+        "Tom Hollander",
+        "Cosmo Jarvis",
+        "Thomasin McKenzie",
+        "Jonny Lee Miller"
+      ],
+      "director": "Paul Greengrass",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/9YKDy9xgIopB2qoFZcHYNkFeikh.jpg",
+        "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+        "https://image.tmdb.org/t/p/w780/kAlAFblqBI6aGXItR4DRpT5Tozg.jpg",
+        "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
+        "https://image.tmdb.org/t/p/w780/tK83Q7yoO8GqVZjtKJVeGJyHCQz.jpg",
+        "https://image.tmdb.org/t/p/w780/wkuzxJkJoRS2ApYSiPclfaYBQj2.jpg",
+        "https://image.tmdb.org/t/p/w780/w2iQlj8KaC8LARWkfBXEoxBEWQ3.jpg",
+        "https://image.tmdb.org/t/p/w780/2T6GbjThhxp7OFM27RjIUm1HuHy.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/977942"
     },
     {
       "id": 1228834,
@@ -468,8 +468,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "ZvQp-AY7RQk",
-          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
+          "key": "9Sd8cLstef4",
+          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K,POST-APOCALYPTIC SCI-FI THRILLER,#movie #film",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -514,7 +514,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.315,
       "providers": [],
       "videos": [
         {
@@ -571,7 +571,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.424,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -619,7 +619,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.122,
+      "vote_average": 8.092,
       "providers": [],
       "videos": [
         {
@@ -676,7 +676,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.1,
+      "vote_average": 7.075,
       "providers": [],
       "videos": [
         {
@@ -767,7 +767,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.614,
+      "vote_average": 7.592,
       "providers": [],
       "videos": [
         {
@@ -814,7 +814,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.764,
+      "vote_average": 6.709,
       "providers": [
         {
           "id": 8,
@@ -874,8 +874,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "ped2A3CjEuw",
-          "name": "Meesaya Murukku 2 Official Trailer 🔥 | Hiphop Tamizha | Mass + Comedy + Entertainment | Tamil Movie",
+          "key": "MLtdz9XqplA",
+          "name": "Meesaya Murukku 2 Official Trailer is releasin💥 #entertainment",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -913,7 +913,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -970,7 +970,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.18,
+      "vote_average": 8.15,
       "providers": [],
       "videos": [
         {
