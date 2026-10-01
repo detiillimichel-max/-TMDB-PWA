@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T05:55:06.515886+00:00",
+  "updated_at": "2026-10-01T13:16:23.119728+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 5.681,
+      "vote_average": 5.7,
       "providers": [],
       "videos": [
         {
@@ -66,7 +66,7 @@
         "Aventura",
         "Família"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.563,
       "providers": [],
       "videos": [
         {
@@ -147,7 +147,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.471,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -187,7 +187,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.803,
+      "vote_average": 6.8,
       "providers": [],
       "videos": [
         {
@@ -255,7 +255,7 @@
         "Comédia",
         "Família"
       ],
-      "vote_average": 8.189,
+      "vote_average": 8.2,
       "providers": [],
       "videos": [
         {
@@ -299,10 +299,10 @@
         "https://image.tmdb.org/t/p/w780/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
         "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
         "https://image.tmdb.org/t/p/w780/iU2RVy0G99XoDSUHvcQomtif5nP.jpg",
-        "https://image.tmdb.org/t/p/w780/wCsNsAW67lN8GQ32oVzZVgzT0Li.jpg",
-        "https://image.tmdb.org/t/p/w780/acJMSEaUdRgUCj26hk8VAZSFRNf.jpg",
-        "https://image.tmdb.org/t/p/w780/obsM8IyBz3jn8hbru8V5btBRSBk.jpg",
-        "https://image.tmdb.org/t/p/w780/aES4LfrjUhYsj9xF4hOIPfvoIW2.jpg"
+        "https://image.tmdb.org/t/p/w780/dhgYR0e9DwPZ7SvlrignZSlGHES.jpg",
+        "https://image.tmdb.org/t/p/w780/8bRpAmoNdH7LKkrCiDOABSLxw8o.jpg",
+        "https://image.tmdb.org/t/p/w780/9tC7T5JLOSENHj5EBoMOc4PiOt.jpg",
+        "https://image.tmdb.org/t/p/w780/cLTGZgo0ndO6T8RqsQZU0ryno6u.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1465063"
     },
@@ -320,7 +320,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.362,
+      "vote_average": 7.372,
       "providers": [],
       "videos": [
         {
@@ -369,12 +369,12 @@
         "História",
         "Drama"
       ],
-      "vote_average": 7.994,
+      "vote_average": 8.1,
       "providers": [],
       "videos": [
         {
-          "key": "gYNj2QbQ2PY",
-          "name": "Rebelde | Trailer oficial | Netflix",
+          "key": "aDfdIhqsAV4",
+          "name": "Rebelde: Temporada 2 | Trailer oficial | Netflix Brasil",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -571,7 +571,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.406,
       "providers": [],
       "videos": [
         {
@@ -619,7 +619,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.092,
+      "vote_average": 8.109,
       "providers": [],
       "videos": [
         {
@@ -676,12 +676,12 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.075,
+      "vote_average": 7.051,
       "providers": [],
       "videos": [
         {
-          "key": "SBry7bmopLA",
-          "name": "Primetime - Official Trailer 2 (2026) Robert Pattinson, Merritt Wever, Skyler Gisondo",
+          "key": "nfx439txjnQ",
+          "name": "Primetime - Official Trailer (2026) Robert Pattinson, Merritt Wever, Skyler Gisondo",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -767,7 +767,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.592,
+      "vote_average": 7.568,
       "providers": [],
       "videos": [
         {
@@ -814,7 +814,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.709,
+      "vote_average": 6.668,
       "providers": [
         {
           "id": 8,
