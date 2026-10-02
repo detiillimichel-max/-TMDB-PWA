@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T05:38:26.471373+00:00",
+  "updated_at": "2026-10-02T12:36:13.836608+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 5.7,
+      "vote_average": 5.758,
       "providers": [],
       "videos": [
         {
@@ -69,8 +69,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "c5FGrGLlRdw",
-          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
+          "key": "M9tHmu0wNHM",
+          "name": "Zip Wire | 2026 | @SignatureUK Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -105,7 +105,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.8,
+      "vote_average": 6.839,
       "providers": [],
       "videos": [
         {
@@ -155,74 +155,6 @@
         "https://image.tmdb.org/t/p/w780/h4HNbn5EwUhDIYR6Q45g84hxSuN.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1440098"
-    },
-    {
-      "id": 1465063,
-      "type": "movie",
-      "title": "A Ilha Esquecida",
-      "release_date": "2026-09-10",
-      "poster": "https://image.tmdb.org/t/p/w500/4PwgQjZLpIHkDPptgtGekocn78R.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-      "overview": "Jo e Raissa se veem presas no fantástico mundo da ilha esquecida de Nakali. Elas descobrem que seu único caminho para casa pode custar uma vida inteira de memórias e emoções.",
-      "tagline": "Vale a Pena Lutar Pela Sua Melhor Amizade.",
-      "runtime": 98,
-      "genres": [
-        "Animação",
-        "Aventura",
-        "Fantasia",
-        "Comédia",
-        "Família"
-      ],
-      "vote_average": 8.2,
-      "providers": [],
-      "videos": [
-        {
-          "key": "s0PQMwOdeJc",
-          "name": "A Ilha Esquecida - Novo Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "_cdsnKiW1z8",
-          "name": "Novo Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "i2YH-_XpPVU",
-          "name": "Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "H.E.R.",
-        "Liza Soberano",
-        "Dave Franco",
-        "Jenny Slate",
-        "Manny Jacinto",
-        "Lea Salonga",
-        "Dolly de Leon",
-        "Jo Koy"
-      ],
-      "director": "Januel Mercado",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-        "https://image.tmdb.org/t/p/w780/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
-        "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
-        "https://image.tmdb.org/t/p/w780/iU2RVy0G99XoDSUHvcQomtif5nP.jpg",
-        "https://image.tmdb.org/t/p/w780/dhgYR0e9DwPZ7SvlrignZSlGHES.jpg",
-        "https://image.tmdb.org/t/p/w780/8bRpAmoNdH7LKkrCiDOABSLxw8o.jpg",
-        "https://image.tmdb.org/t/p/w780/9tC7T5JLOSENHj5EBoMOc4PiOt.jpg",
-        "https://image.tmdb.org/t/p/w780/cLTGZgo0ndO6T8RqsQZU0ryno6u.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1465063"
     },
     {
       "id": 1288445,
@@ -286,7 +218,7 @@
       "genres": [
         "Ação"
       ],
-      "vote_average": 7.86,
+      "vote_average": 7.796,
       "providers": [],
       "videos": [
         {
@@ -335,7 +267,7 @@
         "História",
         "Drama"
       ],
-      "vote_average": 8.009,
+      "vote_average": 8.073,
       "providers": [],
       "videos": [
         {
@@ -362,11 +294,11 @@
         "https://image.tmdb.org/t/p/w780/9YKDy9xgIopB2qoFZcHYNkFeikh.jpg",
         "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
         "https://image.tmdb.org/t/p/w780/kAlAFblqBI6aGXItR4DRpT5Tozg.jpg",
+        "https://image.tmdb.org/t/p/w780/nB3W0e2ZncVjG4xaJauRQgaTcut.jpg",
         "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
         "https://image.tmdb.org/t/p/w780/tK83Q7yoO8GqVZjtKJVeGJyHCQz.jpg",
         "https://image.tmdb.org/t/p/w780/wkuzxJkJoRS2ApYSiPclfaYBQj2.jpg",
-        "https://image.tmdb.org/t/p/w780/w2iQlj8KaC8LARWkfBXEoxBEWQ3.jpg",
-        "https://image.tmdb.org/t/p/w780/2T6GbjThhxp7OFM27RjIUm1HuHy.jpg"
+        "https://image.tmdb.org/t/p/w780/w2iQlj8KaC8LARWkfBXEoxBEWQ3.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/977942"
     },
@@ -434,8 +366,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "9Sd8cLstef4",
-          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K,POST-APOCALYPTIC SCI-FI THRILLER,#movie #film",
+          "key": "ZvQp-AY7RQk",
+          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -524,55 +456,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1423191"
     },
     {
-      "id": 1641629,
-      "type": "movie",
-      "title": "Você+Eu - Contra o Mundo",
-      "release_date": "2026-09-18",
-      "poster": "https://image.tmdb.org/t/p/w500/pkNK6BuKjth9ApJxhjKe34KaHe4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
-      "overview": "Alma Lancaster, 18 anos, parece levar uma vida perfeita dentro de uma família rica que acredita que ela estuda direito. Na verdade, a jovem persegue em segredo o sonho: fazer cinema. No campus, Alma encontra Vadim Arcadi, 20 anos, um estudante solitário com um passado sombrio. Forçados a trabalhar juntos em um filme estudantil, Alma e Vadim se enfrentam, se aproximam e acabam se apaixonando contra a própria vontade. Contudo, o relacionamento deles está ameaçado por uma presença externa. Alguém os observa, determinado a separá-los e a revelar segredos que possam fragilizar a história deles tanto quanto o seu futuro.",
-      "tagline": "",
-      "runtime": 93,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "vote_average": 5.7,
-      "providers": [],
-      "videos": [
-        {
-          "key": "ntIM30QpDgc",
-          "name": "Você+Eu - Contra o Mundo | Trailer Oficial | Prime Video",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Vittoria Di Savoia",
-        "Lucas Barski",
-        "Zoé Garcia",
-        "Léo Legrand",
-        "Jean-Yves Berteloot",
-        "Suliane Brahim",
-        "Aymeric Fougeron",
-        "Gabrielle Taittinger"
-      ],
-      "director": "Manon Gaurin",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
-        "https://image.tmdb.org/t/p/w780/9q1nSoOw5Qs89F6TDAD2mPwItdO.jpg",
-        "https://image.tmdb.org/t/p/w780/tWVntLeXNJCT3sX6yZZFzlDvF8.jpg",
-        "https://image.tmdb.org/t/p/w780/b5khNPWewb9lTAD2hTZhbe7QPI2.jpg",
-        "https://image.tmdb.org/t/p/w780/bCuwBQb6XlCrWs7GJxesBZ9QSfC.jpg",
-        "https://image.tmdb.org/t/p/w780/lrfIl8yHxMR6JCVcZToRpiRECr.jpg",
-        "https://image.tmdb.org/t/p/w780/9Yyf2IL93pj8aaQuBm2OpSXiKlx.jpg",
-        "https://image.tmdb.org/t/p/w780/dVts1HMd9pPZUc4rdFAHJ3M6VNp.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1641629"
-    },
-    {
       "id": 1607127,
       "type": "movie",
       "title": "O Último Tiro Certo",
@@ -634,7 +517,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.069,
+      "vote_average": 8.074,
       "providers": [],
       "videos": [
         {
@@ -691,7 +574,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 6.967,
+      "vote_average": 7.0,
       "providers": [],
       "videos": [
         {
@@ -740,7 +623,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.578,
+      "vote_average": 7.581,
       "providers": [],
       "videos": [
         {
@@ -787,7 +670,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.708,
+      "vote_average": 6.664,
       "providers": [
         {
           "id": 8,
@@ -847,8 +730,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "MLtdz9XqplA",
-          "name": "Meesaya Murukku 2 Official Trailer is releasin💥 #entertainment",
+          "key": "ped2A3CjEuw",
+          "name": "Meesaya Murukku 2 Official Trailer 🔥 | Hiphop Tamizha | Mass + Comedy + Entertainment | Tamil Movie",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -919,15 +802,99 @@
       "director": "Alejandro G. Iñárritu",
       "images": [
         "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+        "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
         "https://image.tmdb.org/t/p/w780/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
         "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
-        "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
         "https://image.tmdb.org/t/p/w780/244Hk4UVxrgdotp0pfkvnW9Iand.jpg",
         "https://image.tmdb.org/t/p/w780/vlJHTUMyfPw9398oIvcosdNWSSw.jpg",
         "https://image.tmdb.org/t/p/w780/ihf10k0ANuEpYO7tXnQbkMUCQBf.jpg",
         "https://image.tmdb.org/t/p/w780/4uxShHLWeYXjhZScH14C5P4z0dj.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1248832"
+    },
+    {
+      "id": 1599191,
+      "type": "movie",
+      "title": "Renegade Immortal: Batalha dos Imortais",
+      "release_date": "2026-10-01",
+      "poster": "https://image.tmdb.org/t/p/w500/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 0,
+      "genres": [
+        "Animação",
+        "Ação",
+        "Aventura",
+        "Fantasia"
+      ],
+      "vote_average": 7.8,
+      "providers": [],
+      "videos": [
+        {
+          "key": "aeRwoIZSN7s",
+          "name": "Renegade Immortal New Movie :Battle of Imprisoned Immortal Official Trailer (pv)|wang lin ×li muwen.",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "史泽鲲"
+      ],
+      "director": "石头熊",
+      "images": [],
+      "tmdb_url": "https://www.themoviedb.org/movie/1599191"
+    },
+    {
+      "id": 1283515,
+      "type": "movie",
+      "title": "Verity",
+      "release_date": "2026-10-01",
+      "poster": "https://image.tmdb.org/t/p/w500/6Qf3sylInJeyK0fFTfjprnGIXCF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+      "overview": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
+      "tagline": "Não há luz para onde estamos indo.",
+      "runtime": 114,
+      "genres": [
+        "Mistério",
+        "Thriller"
+      ],
+      "vote_average": 6.79,
+      "providers": [],
+      "videos": [
+        {
+          "key": "z0srCgRUpBY",
+          "name": "Verity | Teaser Oficial | Dublado",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Dakota Johnson",
+        "Anne Hathaway",
+        "Josh Hartnett",
+        "Brady Wagner",
+        "Ismael Cruz Cordova",
+        "Ирина Дворовенко",
+        "Sienna Kulovitz",
+        "K.K. Moggie"
+      ],
+      "director": "Michael Showalter",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+        "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+        "https://image.tmdb.org/t/p/w780/zrGI2Lm89fgR5ntysKLmEPgNrdV.jpg",
+        "https://image.tmdb.org/t/p/w780/b1y7n7PwuxlVaLrDBESrAqdRehx.jpg",
+        "https://image.tmdb.org/t/p/w780/ugwkKEXBlQAXxbBbbYeOLN0J20U.jpg",
+        "https://image.tmdb.org/t/p/w780/2upfBtX4LgTcEuLI6bZuWlVv3U3.jpg",
+        "https://image.tmdb.org/t/p/w780/sSPreWTXybWDgfNvKoL9E4sahqH.jpg",
+        "https://image.tmdb.org/t/p/w780/odyuHRcXn5pwV4uaDUUrFR8p4PN.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1283515"
     },
     {
       "id": 1377237,
@@ -943,7 +910,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.167,
+      "vote_average": 8.269,
       "providers": [],
       "videos": [
         {
