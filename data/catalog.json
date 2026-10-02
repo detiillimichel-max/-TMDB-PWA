@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T22:41:59.036472+00:00",
+  "updated_at": "2026-10-02T05:38:26.471373+00:00",
   "region": "BR",
   "items": [
     {
@@ -52,88 +52,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1422011"
     },
     {
-      "id": 1204680,
-      "type": "movie",
-      "title": "Coyote vs. Acme",
-      "release_date": "2026-08-27",
-      "poster": "https://image.tmdb.org/t/p/w500/fqnp3doSeUFLGUFIolHVPA41O4E.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-      "overview": "Após décadas de falhas catastróficas com os produtos ACME em sua caçada ao Papa-Léguas, Wile E. Coyote decide que é hora de buscar justiça e processar a corporação. Ao lado de um advogado azarado, Coyote trava uma batalha jurídica épica contra o impiedoso CEO da companhia. Enquanto enfrentam o sistema, a dupla desenvolve uma amizade improvável e luta para provar que a culpa de tantos desastres nunca foi do instinto, mas sim de defeitos de fabricação.",
-      "tagline": "A vida toda ele achou que era azar... mas sempre foi culpa da ACME.",
-      "runtime": 100,
-      "genres": [
-        "Comédia",
-        "Aventura",
-        "Família"
-      ],
-      "vote_average": 7.557,
-      "providers": [],
-      "videos": [
-        {
-          "key": "kmXiNzZmV7s",
-          "name": "Spot 30\" Dublado",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "LbWn84vBMMs",
-          "name": "Trailer Oficial 2 Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "zN3z58qv7XM",
-          "name": "Teaser Oficial Legendado",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "HSzpEnza5Mk",
-          "name": "Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "Nw8RJL3_ADU",
-          "name": "Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Will Forte",
-        "Lana Condor",
-        "John Cena",
-        "Tone Bell",
-        "Martha Kelly",
-        "Luis Guzmán",
-        "P.J. Byrne",
-        "John Early"
-      ],
-      "director": "Dave Green",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-        "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-        "https://image.tmdb.org/t/p/w780/s6WNALkMPnBDadiKaS1JdRx9Hnw.jpg",
-        "https://image.tmdb.org/t/p/w780/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
-        "https://image.tmdb.org/t/p/w780/4TWcVAtljd30qtaUV6DdeqIa1hW.jpg",
-        "https://image.tmdb.org/t/p/w780/lM76hl2H0tmTfsX6VCiCE0mbhz0.jpg",
-        "https://image.tmdb.org/t/p/w780/e9nmnMhCB3Mc9FyO8I1KsNvG0vb.jpg",
-        "https://image.tmdb.org/t/p/w780/jduhFQDNEmRtQCM6EEDCLWiNr1.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1204680"
-    },
-    {
       "id": 1482547,
       "type": "movie",
       "title": "Zip Wire",
@@ -151,8 +69,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "M9tHmu0wNHM",
-          "name": "Zip Wire | 2026 | @SignatureUK Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
+          "key": "c5FGrGLlRdw",
+          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -320,7 +238,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.376,
+      "vote_average": 7.383,
       "providers": [],
       "videos": [
         {
@@ -372,8 +290,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "BjA78F2Xq6s",
-          "name": "Lion Fist - Official Trailer (2026) Mathis Landwehr",
+          "key": "cQ4dYWc5Jlw",
+          "name": "✨ Official Trailer :- Lion Fist (2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -417,7 +335,7 @@
         "História",
         "Drama"
       ],
-      "vote_average": 8.085,
+      "vote_average": 8.009,
       "providers": [],
       "videos": [
         {
@@ -466,7 +384,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.134,
+      "vote_average": 7.179,
       "providers": [],
       "videos": [
         {
@@ -516,8 +434,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "ZvQp-AY7RQk",
-          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
+          "key": "9Sd8cLstef4",
+          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K,POST-APOCALYPTIC SCI-FI THRILLER,#movie #film",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -606,6 +524,55 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1423191"
     },
     {
+      "id": 1641629,
+      "type": "movie",
+      "title": "Você+Eu - Contra o Mundo",
+      "release_date": "2026-09-18",
+      "poster": "https://image.tmdb.org/t/p/w500/pkNK6BuKjth9ApJxhjKe34KaHe4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+      "overview": "Alma Lancaster, 18 anos, parece levar uma vida perfeita dentro de uma família rica que acredita que ela estuda direito. Na verdade, a jovem persegue em segredo o sonho: fazer cinema. No campus, Alma encontra Vadim Arcadi, 20 anos, um estudante solitário com um passado sombrio. Forçados a trabalhar juntos em um filme estudantil, Alma e Vadim se enfrentam, se aproximam e acabam se apaixonando contra a própria vontade. Contudo, o relacionamento deles está ameaçado por uma presença externa. Alguém os observa, determinado a separá-los e a revelar segredos que possam fragilizar a história deles tanto quanto o seu futuro.",
+      "tagline": "",
+      "runtime": 93,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "vote_average": 5.7,
+      "providers": [],
+      "videos": [
+        {
+          "key": "ntIM30QpDgc",
+          "name": "Você+Eu - Contra o Mundo | Trailer Oficial | Prime Video",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Vittoria Di Savoia",
+        "Lucas Barski",
+        "Zoé Garcia",
+        "Léo Legrand",
+        "Jean-Yves Berteloot",
+        "Suliane Brahim",
+        "Aymeric Fougeron",
+        "Gabrielle Taittinger"
+      ],
+      "director": "Manon Gaurin",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+        "https://image.tmdb.org/t/p/w780/9q1nSoOw5Qs89F6TDAD2mPwItdO.jpg",
+        "https://image.tmdb.org/t/p/w780/tWVntLeXNJCT3sX6yZZFzlDvF8.jpg",
+        "https://image.tmdb.org/t/p/w780/b5khNPWewb9lTAD2hTZhbe7QPI2.jpg",
+        "https://image.tmdb.org/t/p/w780/bCuwBQb6XlCrWs7GJxesBZ9QSfC.jpg",
+        "https://image.tmdb.org/t/p/w780/lrfIl8yHxMR6JCVcZToRpiRECr.jpg",
+        "https://image.tmdb.org/t/p/w780/9Yyf2IL93pj8aaQuBm2OpSXiKlx.jpg",
+        "https://image.tmdb.org/t/p/w780/dVts1HMd9pPZUc4rdFAHJ3M6VNp.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1641629"
+    },
+    {
       "id": 1607127,
       "type": "movie",
       "title": "O Último Tiro Certo",
@@ -619,9 +586,18 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.414,
       "providers": [],
-      "videos": [],
+      "videos": [
+        {
+          "key": "OPHefBZQd4U",
+          "name": "O Último Tiro Certo 2026 Trailer Legendado",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
       "cast": [
         "Scott Adkins",
         "Steven Cree",
@@ -658,7 +634,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.071,
+      "vote_average": 8.069,
       "providers": [],
       "videos": [
         {
@@ -715,7 +691,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.0,
+      "vote_average": 6.967,
       "providers": [],
       "videos": [
         {
@@ -764,7 +740,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.587,
+      "vote_average": 7.578,
       "providers": [],
       "videos": [
         {
@@ -811,7 +787,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.7,
+      "vote_average": 6.708,
       "providers": [
         {
           "id": 8,
@@ -871,8 +847,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "lU40CPN7Ww0",
-          "name": "Meesaya Murukku 2 - Official Trailer | Hiphop Tamizha | Khushbu Sundar | ACS Arun Kumar",
+          "key": "MLtdz9XqplA",
+          "name": "Meesaya Murukku 2 Official Trailer is releasin💥 #entertainment",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -910,7 +886,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.7,
       "providers": [],
       "videos": [
         {
