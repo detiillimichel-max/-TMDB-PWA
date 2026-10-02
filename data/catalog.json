@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T12:36:13.836608+00:00",
+  "updated_at": "2026-10-02T22:14:59.034953+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 5.758,
+      "vote_average": 5.7,
       "providers": [],
       "videos": [
         {
@@ -69,8 +69,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "M9tHmu0wNHM",
-          "name": "Zip Wire | 2026 | @SignatureUK Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
+          "key": "c5FGrGLlRdw",
+          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -105,7 +105,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 6.839,
+      "vote_average": 6.8,
       "providers": [],
       "videos": [
         {
@@ -170,7 +170,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.383,
+      "vote_average": 7.379,
       "providers": [],
       "videos": [
         {
@@ -218,7 +218,7 @@
       "genres": [
         "Ação"
       ],
-      "vote_average": 7.796,
+      "vote_average": 7.875,
       "providers": [],
       "videos": [
         {
@@ -267,7 +267,7 @@
         "História",
         "Drama"
       ],
-      "vote_average": 8.073,
+      "vote_average": 7.884,
       "providers": [],
       "videos": [
         {
@@ -308,7 +308,7 @@
       "title": "The Fix",
       "release_date": "2026-09-10",
       "poster": "https://image.tmdb.org/t/p/w500/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
       "overview": "Sinopse não disponível.",
       "tagline": "",
       "runtime": 142,
@@ -316,7 +316,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.179,
+      "vote_average": 7.011,
       "providers": [],
       "videos": [
         {
@@ -340,8 +340,8 @@
       ],
       "director": "Guy Moshe",
       "images": [
-        "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
         "https://image.tmdb.org/t/p/w780/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
+        "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
         "https://image.tmdb.org/t/p/w780/oDgN5zsiISnLZKixkzvRIfUOXgC.jpg",
         "https://image.tmdb.org/t/p/w780/bQQ3UGOJcCTRjVAjOwR17eQuwJC.jpg"
       ],
@@ -469,7 +469,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.414,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -517,7 +517,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.074,
+      "vote_average": 8.1,
       "providers": [],
       "videos": [
         {
@@ -623,7 +623,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.581,
+      "vote_average": 7.604,
       "providers": [],
       "videos": [
         {
@@ -670,7 +670,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.664,
+      "vote_average": 6.6,
       "providers": [
         {
           "id": 8,
@@ -730,8 +730,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "ped2A3CjEuw",
-          "name": "Meesaya Murukku 2 Official Trailer 🔥 | Hiphop Tamizha | Mass + Comedy + Entertainment | Tamil Movie",
+          "key": "MLtdz9XqplA",
+          "name": "Meesaya Murukku 2 Official Trailer is releasin💥 #entertainment",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -769,7 +769,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.7,
+      "vote_average": 7.707,
       "providers": [],
       "videos": [
         {
@@ -828,7 +828,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 7.8,
+      "vote_average": 7.833,
       "providers": [],
       "videos": [
         {
@@ -844,7 +844,11 @@
         "史泽鲲"
       ],
       "director": "石头熊",
-      "images": [],
+      "images": [
+        "https://image.tmdb.org/t/p/w780/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
+        "https://image.tmdb.org/t/p/w780/mEbLMHjSCOsa9lABDpDcRrCtyiM.jpg",
+        "https://image.tmdb.org/t/p/w780/c4TkvRGVrghFY2qFKJ0SUwqtAiW.jpg"
+      ],
       "tmdb_url": "https://www.themoviedb.org/movie/1599191"
     },
     {
@@ -853,7 +857,7 @@
       "title": "Verity",
       "release_date": "2026-10-01",
       "poster": "https://image.tmdb.org/t/p/w500/6Qf3sylInJeyK0fFTfjprnGIXCF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
       "overview": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
       "tagline": "Não há luz para onde estamos indo.",
       "runtime": 114,
@@ -861,7 +865,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.79,
+      "vote_average": 6.8,
       "providers": [],
       "videos": [
         {
@@ -910,7 +914,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.269,
+      "vote_average": 8.3,
       "providers": [],
       "videos": [
         {
