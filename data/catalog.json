@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T11:40:35.026425+00:00",
+  "updated_at": "2026-10-03T16:18:18.997557+00:00",
   "region": "BR",
   "items": [
     {
@@ -65,7 +65,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.656,
+      "vote_average": 7.857,
       "providers": [],
       "videos": [
         {
@@ -92,71 +92,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1482547"
     },
     {
-      "id": 1440098,
-      "type": "movie",
-      "title": "Atraídos Pelo Destino",
-      "release_date": "2026-09-09",
-      "poster": "https://image.tmdb.org/t/p/w500/99OB0p7ah8wyTphLHrghSJXtmr5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-      "overview": "Marfil, filha de um empresário espanhol, vê sua vida em Nova York virar de cabeça para baixo quando é sequestrada e libertada sem nenhuma explicação. O pai dela contrata Sebastián Moore para ser seu guarda-costas e, forçados a passar cada minuto do dia juntos, uma atração inevitável surge entre eles em um mundo onde nada é o que parece. Baseado no livro de Mercedes Ron, autora da saga \"Culpados\".",
-      "tagline": "Ele foi contratado para protegê-la. Apaixonar-se por ela nunca fez parte do acordo.",
-      "runtime": 104,
-      "genres": [
-        "Romance",
-        "Thriller"
-      ],
-      "vote_average": 6.809,
-      "providers": [],
-      "videos": [
-        {
-          "key": "aGJkwKC5NgI",
-          "name": "Atraídos Pelo Destino | Trailer Oficial | Prime Video",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "-IQhr0CiBFM",
-          "name": "Atraídos pelo Destino | Cena Exclusiva | Prime Video",
-          "type": "Clip",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "gQYBeDetwNk",
-          "name": "Atraidos pelo Destino | Teaser Oficial | Prime Video",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Ester Expósito",
-        "Hugo Diego Garcia",
-        "Pablo Molinero",
-        "Lluís Homar",
-        "Joaquín Ferreira",
-        "Zoe Bonafonte",
-        "Majo Gámez",
-        "João Bettencourt"
-      ],
-      "director": "Óscar Pedraza",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-        "https://image.tmdb.org/t/p/w780/uPkl3mUqzY2ghPfbNORi4gjn7Nj.jpg",
-        "https://image.tmdb.org/t/p/w780/oZkk6B15Ak4uTa2aVrJaDmSk3Xl.jpg",
-        "https://image.tmdb.org/t/p/w780/1ewgN7tG15VPpYbW0CE3UCXabVD.jpg",
-        "https://image.tmdb.org/t/p/w780/6IlNGtSdvrE2DhYI5XYi68qT4c7.jpg",
-        "https://image.tmdb.org/t/p/w780/qIX2rkU0vOpwSEfBpB5WpqEBfNE.jpg",
-        "https://image.tmdb.org/t/p/w780/ayEhWoIwbMgKTVeZnDRAcx3ZiPI.jpg",
-        "https://image.tmdb.org/t/p/w780/h4HNbn5EwUhDIYR6Q45g84hxSuN.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1440098"
-    },
-    {
       "id": 1288445,
       "type": "movie",
       "title": "Código: Vingança",
@@ -170,7 +105,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.397,
+      "vote_average": 7.393,
       "providers": [],
       "videos": [
         {
@@ -218,7 +153,7 @@
       "genres": [
         "Ação"
       ],
-      "vote_average": 7.875,
+      "vote_average": 7.9,
       "providers": [],
       "videos": [
         {
@@ -267,7 +202,7 @@
         "História",
         "Drama"
       ],
-      "vote_average": 7.894,
+      "vote_average": 7.869,
       "providers": [],
       "videos": [
         {
@@ -362,12 +297,12 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.5,
+      "vote_average": 6.475,
       "providers": [],
       "videos": [
         {
-          "key": "ZvQp-AY7RQk",
-          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
+          "key": "9Sd8cLstef4",
+          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K,POST-APOCALYPTIC SCI-FI THRILLER,#movie #film",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -578,8 +513,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "nfx439txjnQ",
-          "name": "Primetime - Official Trailer (2026) Robert Pattinson, Merritt Wever, Skyler Gisondo",
+          "key": "SBry7bmopLA",
+          "name": "Primetime - Official Trailer 2 (2026) Robert Pattinson, Merritt Wever, Skyler Gisondo",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -623,7 +558,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.551,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -730,8 +665,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "MLtdz9XqplA",
-          "name": "Meesaya Murukku 2 Official Trailer is releasin💥 #entertainment",
+          "key": "lU40CPN7Ww0",
+          "name": "Meesaya Murukku 2 - Official Trailer | Hiphop Tamizha | Khushbu Sundar | ACS Arun Kumar",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -756,6 +691,51 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1538457"
     },
     {
+      "id": 1556321,
+      "type": "movie",
+      "title": "ธี่หยด: สมิงเขาขวาง",
+      "release_date": "2026-09-29",
+      "poster": "https://image.tmdb.org/t/p/w500/tOhbvoTC10Nf9WTBI1EIwaXz9Et.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
+      "overview": "Ambientado na década de 1960 em Kanchanaburi, na Tailândia, acompanhe o soldado Yak e o Sargento Paphan em uma missão de resgate na densa floresta de Khao Khwang. Lá, eles enfrentam o lendário Saming, um espírito de tigre devorador de homens que consegue assumir a forma humana.",
+      "tagline": "",
+      "runtime": 111,
+      "genres": [
+        "Terror",
+        "Thriller",
+        "Ação"
+      ],
+      "vote_average": 0,
+      "providers": [],
+      "videos": [
+        {
+          "key": "_6ItzNmUo4A",
+          "name": "ธี่หยด: สมิงเขาขวาง | Official Trailer ตัวอย่างสุดท้าย",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "ณเดชน์ คูกิมิยะ",
+        "องอาจ เจียมเจริญพรกุล",
+        "เมลดา สุศรี",
+        "วิชญ์ภาส สุเมตติกุล",
+        "สหจักร บุญธนกิจ",
+        "อัครินทร์ อัครนิธิเมธรัฐ",
+        "ชูพงษ์ ช่างปรุง",
+        "Chanintorn Jitpreeda"
+      ],
+      "director": "ณฤทธิ์ ยุวบูรณ์",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
+        "https://image.tmdb.org/t/p/w780/8bEKkBsj0Xhpct20LFHXhKYO0Jb.jpg",
+        "https://image.tmdb.org/t/p/w780/vJxeJSN2c5eNFdJABPuJ7VUJSSb.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1556321"
+    },
+    {
       "id": 1248832,
       "type": "movie",
       "title": "Digger",
@@ -769,7 +749,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.405,
       "providers": [],
       "videos": [
         {
@@ -828,12 +808,12 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 7.857,
+      "vote_average": 7.8,
       "providers": [],
       "videos": [
         {
-          "key": "pvrJrX2ATDk",
-          "name": "Renegade Immortal — Live Action Cinematic Trailer (2026)",
+          "key": "aeRwoIZSN7s",
+          "name": "Renegade Immortal New Movie :Battle of Imprisoned Immortal Official Trailer (pv)|wang lin ×li muwen.",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
