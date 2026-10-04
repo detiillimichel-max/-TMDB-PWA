@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T21:14:58.184531+00:00",
+  "updated_at": "2026-10-04T05:54:19.761213+00:00",
   "region": "BR",
   "items": [
     {
@@ -20,8 +20,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "dinmUvyPgo8",
-          "name": "It Ends - Official Trailer (2026) Mitchell Cole, Akira Jackson, Noah Toth, Phiehas Yoon",
+          "key": "hdrjfz864H0",
+          "name": "IT ENDS — Official Trailer (2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -65,12 +65,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.857,
+      "vote_average": 7.977,
       "providers": [],
       "videos": [
         {
-          "key": "M9tHmu0wNHM",
-          "name": "Zip Wire | 2026 | @SignatureUK Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
+          "key": "c5FGrGLlRdw",
+          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -92,25 +92,44 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1482547"
     },
     {
-      "id": 1288445,
+      "id": 1465063,
       "type": "movie",
-      "title": "Código: Vingança",
+      "title": "A Ilha Esquecida",
       "release_date": "2026-09-10",
-      "poster": "https://image.tmdb.org/t/p/w500/gVZgjKIsXZOT3cNZm5PJZBtQRaG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "overview": "Após testemunhar o assassinato de seu chefe bilionário e ser injustamente incriminado pelo crime, Cole Reed embarca em um navio cargueiro em uma cruzada solitária para vingar a morte do chefe. No entanto, à medida que avança em sua missão, ele descobre que está no centro de uma perigosa conspiração internacional.",
-      "tagline": "Há sangue na água.",
-      "runtime": 95,
+      "poster": "https://image.tmdb.org/t/p/w500/4PwgQjZLpIHkDPptgtGekocn78R.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+      "overview": "Jo e Raissa se veem presas no fantástico mundo da ilha esquecida de Nakali. Elas descobrem que seu único caminho para casa pode custar uma vida inteira de memórias e emoções.",
+      "tagline": "Vale a Pena Lutar Pela Sua Melhor Amizade.",
+      "runtime": 98,
       "genres": [
-        "Ação",
-        "Thriller"
+        "Animação",
+        "Aventura",
+        "Fantasia",
+        "Comédia",
+        "Família"
       ],
-      "vote_average": 7.393,
+      "vote_average": 8.25,
       "providers": [],
       "videos": [
         {
-          "key": "7d-59W5VriA",
-          "name": "Código: Vingança | Trailer Oficial Dublado",
+          "key": "s0PQMwOdeJc",
+          "name": "A Ilha Esquecida - Novo Trailer Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "_cdsnKiW1z8",
+          "name": "Novo Trailer Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "i2YH-_XpPVU",
+          "name": "Trailer Oficial",
           "type": "Trailer",
           "official": true,
           "site": "YouTube",
@@ -118,27 +137,27 @@
         }
       ],
       "cast": [
-        "Jason Statham",
-        "Annabelle Wallis",
-        "Roland Møller",
-        "Ramon Tikaram",
-        "Arnas Fedaravičius",
-        "Jason Wong",
-        "Adrian Lester",
-        "Chaneil Kular"
+        "H.E.R.",
+        "Liza Soberano",
+        "Dave Franco",
+        "Jenny Slate",
+        "Manny Jacinto",
+        "Lea Salonga",
+        "Dolly de Leon",
+        "Jo Koy"
       ],
-      "director": "Jean-François Richet",
+      "director": "Januel Mercado",
       "images": [
-        "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-        "https://image.tmdb.org/t/p/w780/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
-        "https://image.tmdb.org/t/p/w780/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
-        "https://image.tmdb.org/t/p/w780/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
-        "https://image.tmdb.org/t/p/w780/xYro90dW4z7es4JG1vo1bmZ0lUN.jpg",
-        "https://image.tmdb.org/t/p/w780/rjZ3QSoiSOzCFOP69kBCbt7Ptk2.jpg",
-        "https://image.tmdb.org/t/p/w780/3z389fuNipHKlev4ZdYPUTMQK4t.jpg",
-        "https://image.tmdb.org/t/p/w780/46gzT6bmkrqyhRYtoeycgRwjrfA.jpg"
+        "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+        "https://image.tmdb.org/t/p/w780/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
+        "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+        "https://image.tmdb.org/t/p/w780/iU2RVy0G99XoDSUHvcQomtif5nP.jpg",
+        "https://image.tmdb.org/t/p/w780/dhgYR0e9DwPZ7SvlrignZSlGHES.jpg",
+        "https://image.tmdb.org/t/p/w780/8bRpAmoNdH7LKkrCiDOABSLxw8o.jpg",
+        "https://image.tmdb.org/t/p/w780/9tC7T5JLOSENHj5EBoMOc4PiOt.jpg",
+        "https://image.tmdb.org/t/p/w780/cLTGZgo0ndO6T8RqsQZU0ryno6u.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1288445"
+      "tmdb_url": "https://www.themoviedb.org/movie/1465063"
     },
     {
       "id": 1340102,
@@ -202,7 +221,7 @@
         "História",
         "Drama"
       ],
-      "vote_average": 7.8,
+      "vote_average": 7.852,
       "providers": [],
       "videos": [
         {
@@ -242,7 +261,7 @@
       "type": "movie",
       "title": "The Fix",
       "release_date": "2026-09-10",
-      "poster": "https://image.tmdb.org/t/p/w500/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
       "overview": "Sinopse não disponível.",
       "tagline": "",
@@ -251,7 +270,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.011,
+      "vote_average": 7.076,
       "providers": [],
       "videos": [
         {
@@ -301,8 +320,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "9Sd8cLstef4",
-          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K,POST-APOCALYPTIC SCI-FI THRILLER,#movie #film",
+          "key": "ZvQp-AY7RQk",
+          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -347,7 +366,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.311,
+      "vote_average": 7.305,
       "providers": [],
       "videos": [
         {
@@ -404,7 +423,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.483,
       "providers": [],
       "videos": [
         {
@@ -452,7 +471,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.058,
+      "vote_average": 8.038,
       "providers": [],
       "videos": [
         {
@@ -509,12 +528,12 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.0,
+      "vote_average": 7.056,
       "providers": [],
       "videos": [
         {
-          "key": "SBry7bmopLA",
-          "name": "Primetime - Official Trailer 2 (2026) Robert Pattinson, Merritt Wever, Skyler Gisondo",
+          "key": "WY5btzk0w9w",
+          "name": "Primetime | Official Trailer (Robert Pattinson as Chris Hansen, 2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -605,7 +624,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.59,
+      "vote_average": 6.577,
       "providers": [
         {
           "id": 8,
@@ -665,8 +684,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "vv4B9NmKZcI",
-          "name": "Meesaya Murukku 2 - Official Trailer | Hiphop Tamizha | Khushbu Sundar | ACS Arun Kumar #Shorts",
+          "key": "MLtdz9XqplA",
+          "name": "Meesaya Murukku 2 Official Trailer is releasin💥 #entertainment",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -749,7 +768,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.322,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -808,7 +827,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 7.944,
+      "vote_average": 7.35,
       "providers": [],
       "videos": [
         {
@@ -852,7 +871,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.578,
+      "vote_average": 6.634,
       "providers": [],
       "videos": [
         {
@@ -876,14 +895,14 @@
       ],
       "director": "Michael Showalter",
       "images": [
-        "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
         "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+        "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
         "https://image.tmdb.org/t/p/w780/zrGI2Lm89fgR5ntysKLmEPgNrdV.jpg",
         "https://image.tmdb.org/t/p/w780/b1y7n7PwuxlVaLrDBESrAqdRehx.jpg",
+        "https://image.tmdb.org/t/p/w780/5fUn1vVAhFayRMxLKmY2Fly9CWz.jpg",
         "https://image.tmdb.org/t/p/w780/ugwkKEXBlQAXxbBbbYeOLN0J20U.jpg",
         "https://image.tmdb.org/t/p/w780/2upfBtX4LgTcEuLI6bZuWlVv3U3.jpg",
-        "https://image.tmdb.org/t/p/w780/sSPreWTXybWDgfNvKoL9E4sahqH.jpg",
-        "https://image.tmdb.org/t/p/w780/odyuHRcXn5pwV4uaDUUrFR8p4PN.jpg"
+        "https://image.tmdb.org/t/p/w780/sSPreWTXybWDgfNvKoL9E4sahqH.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1283515"
     },
@@ -901,7 +920,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.257,
+      "vote_average": 8.276,
       "providers": [],
       "videos": [
         {
