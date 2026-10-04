@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T12:22:38.012207+00:00",
+  "updated_at": "2026-10-04T21:26:01.211146+00:00",
   "region": "BR",
   "items": [
     {
@@ -92,71 +92,47 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1482547"
     },
     {
-      "id": 1465063,
+      "id": 1712451,
       "type": "movie",
-      "title": "A Ilha Esquecida",
-      "release_date": "2026-09-10",
-      "poster": "https://image.tmdb.org/t/p/w500/4PwgQjZLpIHkDPptgtGekocn78R.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-      "overview": "Jo e Raissa se veem presas no fantástico mundo da ilha esquecida de Nakali. Elas descobrem que seu único caminho para casa pode custar uma vida inteira de memórias e emoções.",
-      "tagline": "Vale a Pena Lutar Pela Sua Melhor Amizade.",
-      "runtime": 98,
+      "title": "Resident Dead",
+      "release_date": "2026-09-04",
+      "poster": "https://image.tmdb.org/t/p/w500/yX8ziNTZ5aOszJ3l4R3BlT2gBIa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yKx5gYrYgakKZuUWAsuFDStBroy.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 89,
       "genres": [
-        "Animação",
-        "Aventura",
-        "Fantasia",
-        "Comédia"
+        "Terror"
       ],
-      "vote_average": 8.2,
+      "vote_average": 5.3,
       "providers": [],
       "videos": [
         {
-          "key": "s0PQMwOdeJc",
-          "name": "A Ilha Esquecida - Novo Trailer Oficial",
+          "key": "54YKyY87lw4",
+          "name": "RESIDENT DEAD Official Trailer (2026) | John Scott Wells Horror",
           "type": "Trailer",
-          "official": true,
+          "official": false,
           "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "_cdsnKiW1z8",
-          "name": "Novo Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "i2YH-_XpPVU",
-          "name": "Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
+          "source": "youtube_search"
         }
       ],
       "cast": [
-        "H.E.R.",
-        "Liza Soberano",
-        "Dave Franco",
-        "Jenny Slate",
-        "Manny Jacinto",
-        "Lea Salonga",
-        "Dolly de Leon",
-        "Jo Koy"
+        "John Wells",
+        "Isabel Ramirez",
+        "Thandiwe McMillan",
+        "Hamid-Reza Benjamin Thompson",
+        "Jarod Brock",
+        "Sai Piña",
+        "Chase Breithoff",
+        "Rob Eubanks"
       ],
-      "director": "Januel Mercado",
+      "director": "Ryan Ebert",
       "images": [
-        "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-        "https://image.tmdb.org/t/p/w780/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
-        "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
-        "https://image.tmdb.org/t/p/w780/iU2RVy0G99XoDSUHvcQomtif5nP.jpg",
-        "https://image.tmdb.org/t/p/w780/dhgYR0e9DwPZ7SvlrignZSlGHES.jpg",
-        "https://image.tmdb.org/t/p/w780/8bRpAmoNdH7LKkrCiDOABSLxw8o.jpg",
-        "https://image.tmdb.org/t/p/w780/9tC7T5JLOSENHj5EBoMOc4PiOt.jpg",
-        "https://image.tmdb.org/t/p/w780/cLTGZgo0ndO6T8RqsQZU0ryno6u.jpg"
+        "https://image.tmdb.org/t/p/w780/yKx5gYrYgakKZuUWAsuFDStBroy.jpg",
+        "https://image.tmdb.org/t/p/w780/jWaSezmTaSToNYR7sKO6onLqHVV.jpg",
+        "https://image.tmdb.org/t/p/w780/473QygJr1AdPJbl1IXYi2bxVcfL.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1465063"
+      "tmdb_url": "https://www.themoviedb.org/movie/1712451"
     },
     {
       "id": 1340102,
@@ -171,7 +147,7 @@
       "genres": [
         "Ação"
       ],
-      "vote_average": 7.758,
+      "vote_average": 7.765,
       "providers": [],
       "videos": [
         {
@@ -220,7 +196,7 @@
         "História",
         "Drama"
       ],
-      "vote_average": 7.9,
+      "vote_average": 7.906,
       "providers": [],
       "videos": [
         {
@@ -269,12 +245,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.1,
+      "vote_average": 7.106,
       "providers": [],
       "videos": [
         {
-          "key": "vH4zs2LnhyE",
-          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson",
+          "key": "SSH9phLePtg",
+          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson, Action, Thriller Movie [4K]",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -315,12 +291,12 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.409,
+      "vote_average": 6.4,
       "providers": [],
       "videos": [
         {
-          "key": "ZvQp-AY7RQk",
-          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
+          "key": "g7twsW7XKSM",
+          "name": "After Impact (2026) – Official Trailer | Post-Apocalyptic Sci-Fi Thriller",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -365,7 +341,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.307,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -422,7 +398,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.427,
+      "vote_average": 7.484,
       "providers": [],
       "videos": [
         {
@@ -470,7 +446,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.047,
+      "vote_average": 8.038,
       "providers": [],
       "videos": [
         {
@@ -527,7 +503,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 6.982,
+      "vote_average": 7.0,
       "providers": [],
       "videos": [
         {
@@ -576,7 +552,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.533,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -603,8 +579,8 @@
         "https://image.tmdb.org/t/p/w780/briCzD66EoEBNGnbwV00N3LrDeA.jpg",
         "https://image.tmdb.org/t/p/w780/bzi1j7GgxQMOwii5yDI2bsZ1PY6.jpg",
         "https://image.tmdb.org/t/p/w780/iDEmqBQRNT0gWvLsRLblFB5NJS5.jpg",
-        "https://image.tmdb.org/t/p/w780/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
-        "https://image.tmdb.org/t/p/w780/sYZ5m0xjmytwa1YNZeYGK5fye8B.jpg"
+        "https://image.tmdb.org/t/p/w780/nlqHh1zGH8HYERr4eRICN9ligk.jpg",
+        "https://image.tmdb.org/t/p/w780/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1263337"
     },
@@ -623,7 +599,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.59,
+      "vote_average": 6.586,
       "providers": [
         {
           "id": 8,
@@ -767,7 +743,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.405,
+      "vote_average": 7.39,
       "providers": [],
       "videos": [
         {
@@ -826,12 +802,12 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 7.591,
+      "vote_average": 7.8,
       "providers": [],
       "videos": [
         {
-          "key": "aeRwoIZSN7s",
-          "name": "Renegade Immortal New Movie :Battle of Imprisoned Immortal Official Trailer (pv)|wang lin ×li muwen.",
+          "key": "pvrJrX2ATDk",
+          "name": "Renegade Immortal — Live Action Cinematic Trailer (2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -862,7 +838,7 @@
       "title": "Verity",
       "release_date": "2026-10-01",
       "poster": "https://image.tmdb.org/t/p/w500/6Qf3sylInJeyK0fFTfjprnGIXCF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
       "overview": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
       "tagline": "Não há luz para onde estamos indo.",
       "runtime": 114,
@@ -919,7 +895,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.273,
+      "vote_average": 8.269,
       "providers": [],
       "videos": [
         {
@@ -993,13 +969,7 @@
       "director": "Mark Vanselow",
       "images": [
         "https://image.tmdb.org/t/p/w780/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
-        "https://image.tmdb.org/t/p/w780/nMoZlmPRslwooZnSU9fo92zvRh6.jpg",
-        "https://image.tmdb.org/t/p/w780/nvfYg1NO76F91fEsfjhSlGYTQJa.jpg",
-        "https://image.tmdb.org/t/p/w780/qjQqxoibX2jrDqPkkKpp0Sq2XBt.jpg",
-        "https://image.tmdb.org/t/p/w780/iALrrdRIDZaQUo14aiIdOrkdfNr.jpg",
-        "https://image.tmdb.org/t/p/w780/gZHRDqEGfq4gIiU00pwFzWeCxW6.jpg",
-        "https://image.tmdb.org/t/p/w780/6FNhFhoS9cNS9hvZ0DWfIxjrho8.jpg",
-        "https://image.tmdb.org/t/p/w780/rEHXzonklwbyd0xFa7vDtnfVtok.jpg"
+        "https://image.tmdb.org/t/p/w780/9f0SZYEElYbjj9syw5aZREnfeDt.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1294189"
     }
