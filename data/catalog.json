@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T21:26:01.211146+00:00",
+  "updated_at": "2026-10-05T05:41:16.748191+00:00",
   "region": "BR",
   "items": [
     {
@@ -65,7 +65,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.936,
+      "vote_average": 7.656,
       "providers": [],
       "videos": [
         {
@@ -108,8 +108,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "54YKyY87lw4",
-          "name": "RESIDENT DEAD Official Trailer (2026) | John Scott Wells Horror",
+          "key": "JcomtVcP20M",
+          "name": "RESIDENT DEAD Official Trailer 2026 Zombies Movie 1080p",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -118,13 +118,13 @@
       ],
       "cast": [
         "John Wells",
+        "Harmeet Dhanoa",
         "Isabel Ramirez",
         "Thandiwe McMillan",
         "Hamid-Reza Benjamin Thompson",
         "Jarod Brock",
         "Sai Piña",
-        "Chase Breithoff",
-        "Rob Eubanks"
+        "Chase Breithoff"
       ],
       "director": "Ryan Ebert",
       "images": [
@@ -151,8 +151,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "BjA78F2Xq6s",
-          "name": "Lion Fist - Official Trailer (2026) Mathis Landwehr",
+          "key": "cQ4dYWc5Jlw",
+          "name": "✨ Official Trailer :- Lion Fist (2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -194,9 +194,10 @@
       "runtime": 127,
       "genres": [
         "História",
-        "Drama"
+        "Drama",
+        "Ação"
       ],
-      "vote_average": 7.906,
+      "vote_average": 7.95,
       "providers": [],
       "videos": [
         {
@@ -245,12 +246,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.106,
+      "vote_average": 7.087,
       "providers": [],
       "videos": [
         {
-          "key": "SSH9phLePtg",
-          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson, Action, Thriller Movie [4K]",
+          "key": "vH4zs2LnhyE",
+          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -291,7 +292,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.4,
+      "vote_average": 6.217,
       "providers": [],
       "videos": [
         {
@@ -341,7 +342,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.304,
       "providers": [],
       "videos": [
         {
@@ -398,7 +399,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.484,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -446,7 +447,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.038,
+      "vote_average": 8.0,
       "providers": [],
       "videos": [
         {
@@ -503,7 +504,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.0,
+      "vote_average": 6.888,
       "providers": [],
       "videos": [
         {
@@ -521,9 +522,9 @@
         "Merritt Wever",
         "Phoebe Bridgers",
         "Matthew Maher",
+        "Victor Brunette",
         "Bokeem Woodbine",
-        "Alex Winter",
-        "Anna Faris"
+        "Michael Chachere"
       ],
       "director": "Lance Oppenheim",
       "images": [
@@ -552,7 +553,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.537,
       "providers": [],
       "videos": [
         {
@@ -599,7 +600,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.586,
+      "vote_average": 6.57,
       "providers": [
         {
           "id": 8,
@@ -743,7 +744,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.39,
+      "vote_average": 7.489,
       "providers": [],
       "videos": [
         {
@@ -806,8 +807,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "pvrJrX2ATDk",
-          "name": "Renegade Immortal — Live Action Cinematic Trailer (2026)",
+          "key": "aeRwoIZSN7s",
+          "name": "Renegade Immortal New Movie :Battle of Imprisoned Immortal Official Trailer (pv)|wang lin ×li muwen.",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -838,7 +839,7 @@
       "title": "Verity",
       "release_date": "2026-10-01",
       "poster": "https://image.tmdb.org/t/p/w500/6Qf3sylInJeyK0fFTfjprnGIXCF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
       "overview": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
       "tagline": "Não há luz para onde estamos indo.",
       "runtime": 114,
@@ -846,7 +847,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.6,
+      "vote_average": 6.649,
       "providers": [],
       "videos": [
         {
@@ -895,7 +896,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.269,
+      "vote_average": 8.321,
       "providers": [],
       "videos": [
         {
