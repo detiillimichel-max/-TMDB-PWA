@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T05:41:16.748191+00:00",
+  "updated_at": "2026-10-05T14:40:48.431581+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,12 +16,12 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 5.675,
+      "vote_average": 5.695,
       "providers": [],
       "videos": [
         {
-          "key": "hdrjfz864H0",
-          "name": "IT ENDS — Official Trailer (2026)",
+          "key": "dinmUvyPgo8",
+          "name": "It Ends - Official Trailer (2026) Mitchell Cole, Akira Jackson, Noah Toth, Phiehas Yoon",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -65,7 +65,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.656,
+      "vote_average": 7.635,
       "providers": [],
       "videos": [
         {
@@ -108,8 +108,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "JcomtVcP20M",
-          "name": "RESIDENT DEAD Official Trailer 2026 Zombies Movie 1080p",
+          "key": "yEgW1K7I66Q",
+          "name": "RESIDENT DEAD Official Trailer 2026",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -151,8 +151,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "cQ4dYWc5Jlw",
-          "name": "✨ Official Trailer :- Lion Fist (2026)",
+          "key": "BjA78F2Xq6s",
+          "name": "Lion Fist - Official Trailer (2026) Mathis Landwehr",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -197,7 +197,7 @@
         "Drama",
         "Ação"
       ],
-      "vote_average": 7.95,
+      "vote_average": 7.9,
       "providers": [],
       "videos": [
         {
@@ -296,8 +296,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "g7twsW7XKSM",
-          "name": "After Impact (2026) – Official Trailer | Post-Apocalyptic Sci-Fi Thriller",
+          "key": "ZvQp-AY7RQk",
+          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K.. #movie #trailer4k",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -342,7 +342,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.304,
+      "vote_average": 7.301,
       "providers": [],
       "videos": [
         {
@@ -399,7 +399,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.495,
       "providers": [],
       "videos": [
         {
@@ -447,7 +447,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.0,
+      "vote_average": 8.066,
       "providers": [],
       "videos": [
         {
@@ -491,55 +491,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1032863"
     },
     {
-      "id": 1375441,
-      "type": "movie",
-      "title": "Primetime",
-      "release_date": "2026-09-23",
-      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-      "overview": "Baseado em uma história real, Primetime acompanha o jornalista Chris Hansen, um homem que no ano de 2006 está determinado a tirar a sua emissora da falência iminente. Com a ideia de criar um programa chamado To Catch a Predator, feito para expor criminosos ao vivo, em pouco tempo a produção se torna um sucesso de audiência e muda toda a trajetória da história televisiva. No entanto, quando o hacker Leo descobre um terrível segredo, os papéis podem acabar se invertendo rapidamente.",
-      "tagline": "",
-      "runtime": 110,
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "vote_average": 6.888,
-      "providers": [],
-      "videos": [
-        {
-          "key": "SBry7bmopLA",
-          "name": "Primetime - Official Trailer 2 (2026) Robert Pattinson, Merritt Wever, Skyler Gisondo",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Robert Pattinson",
-        "Skyler Gisondo",
-        "Merritt Wever",
-        "Phoebe Bridgers",
-        "Matthew Maher",
-        "Victor Brunette",
-        "Bokeem Woodbine",
-        "Michael Chachere"
-      ],
-      "director": "Lance Oppenheim",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-        "https://image.tmdb.org/t/p/w780/9m0tVJ6JRIbqwtbJThDPFtAn6CY.jpg",
-        "https://image.tmdb.org/t/p/w780/5k1DoJ71pWD5ydzRGliDyTnKqxt.jpg",
-        "https://image.tmdb.org/t/p/w780/cg2WvuzI9Z3nsrY3ueooPd7izdJ.jpg",
-        "https://image.tmdb.org/t/p/w780/jyZATlcINaz6bElq0jTlIcWcYgu.jpg",
-        "https://image.tmdb.org/t/p/w780/6AbVjZT6jk8oLg3XtL8IyZ1JVWc.jpg",
-        "https://image.tmdb.org/t/p/w780/nZdXh3ROffkkCZLK9L4ftc1FJsX.jpg",
-        "https://image.tmdb.org/t/p/w780/1tJz8e1G21nEuzHlX771MNBRJvM.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1375441"
-    },
-    {
       "id": 1263337,
       "type": "movie",
       "title": "Coração Selvagem",
@@ -553,7 +504,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.537,
+      "vote_average": 7.548,
       "providers": [],
       "videos": [
         {
@@ -586,6 +537,53 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1263337"
     },
     {
+      "id": 1229906,
+      "type": "movie",
+      "title": "Family",
+      "release_date": "2026-09-25",
+      "poster": "https://image.tmdb.org/t/p/w500/cTXGUz1Mle56A6vAK2GAf1j8Wtn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wXMsCAtOr27zaZLb1Nv63JFpQiV.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 95,
+      "genres": [
+        "Drama",
+        "Terror"
+      ],
+      "vote_average": 10.0,
+      "providers": [],
+      "videos": [
+        {
+          "key": "-KtSRduK0V8",
+          "name": "Família 2026 | Trailer Oficial 4K Family",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Ruth Wilson",
+        "Ben Chaplin",
+        "Cameron Dawson Gray",
+        "Allan Corduner",
+        "Ryan Lucy",
+        "Beau McConnell"
+      ],
+      "director": "Benjamin Finkel",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/wXMsCAtOr27zaZLb1Nv63JFpQiV.jpg",
+        "https://image.tmdb.org/t/p/w780/v3gDiL3hpiD96KRuL5BXf7BFW3T.jpg",
+        "https://image.tmdb.org/t/p/w780/7kbmiHiKpofTxHerlfqbHXd4L9Z.jpg",
+        "https://image.tmdb.org/t/p/w780/maAx43LmGFvN1ZGk0e2MMSRAphs.jpg",
+        "https://image.tmdb.org/t/p/w780/atQh9ZhXZJiNC5P9zB1j3fojSnO.jpg",
+        "https://image.tmdb.org/t/p/w780/zC6PVkXlTKDhThohbLl2qycCcjI.jpg",
+        "https://image.tmdb.org/t/p/w780/bXJ0a7ZVtEE1C0f3IczMXPJadZJ.jpg",
+        "https://image.tmdb.org/t/p/w780/yh6G6me5zPVFNLM6g9870J0VieU.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1229906"
+    },
+    {
       "id": 1492640,
       "type": "movie",
       "title": "Unabomber",
@@ -600,7 +598,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.57,
+      "vote_average": 6.589,
       "providers": [
         {
           "id": 8,
@@ -744,7 +742,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.489,
+      "vote_average": 7.555,
       "providers": [],
       "videos": [
         {
@@ -839,7 +837,7 @@
       "title": "Verity",
       "release_date": "2026-10-01",
       "poster": "https://image.tmdb.org/t/p/w500/6Qf3sylInJeyK0fFTfjprnGIXCF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
       "overview": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
       "tagline": "Não há luz para onde estamos indo.",
       "runtime": 114,
@@ -847,7 +845,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.649,
+      "vote_average": 6.672,
       "providers": [],
       "videos": [
         {
@@ -871,8 +869,8 @@
       ],
       "director": "Michael Showalter",
       "images": [
-        "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
         "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+        "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
         "https://image.tmdb.org/t/p/w780/zrGI2Lm89fgR5ntysKLmEPgNrdV.jpg",
         "https://image.tmdb.org/t/p/w780/b1y7n7PwuxlVaLrDBESrAqdRehx.jpg",
         "https://image.tmdb.org/t/p/w780/5fUn1vVAhFayRMxLKmY2Fly9CWz.jpg",
@@ -896,7 +894,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.321,
+      "vote_average": 8.328,
       "providers": [],
       "videos": [
         {
