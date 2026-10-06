@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T06:21:48.317289+00:00",
+  "updated_at": "2026-10-06T18:22:58.189724+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.627,
+      "vote_average": 7.662,
       "providers": [],
       "videos": [
         {
@@ -86,71 +86,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1712451"
     },
     {
-      "id": 1440098,
-      "type": "movie",
-      "title": "Atraídos Pelo Destino",
-      "release_date": "2026-09-09",
-      "poster": "https://image.tmdb.org/t/p/w500/99OB0p7ah8wyTphLHrghSJXtmr5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-      "overview": "Marfil, filha de um empresário espanhol, vê sua vida em Nova York virar de cabeça para baixo quando é sequestrada e libertada sem nenhuma explicação. O pai dela contrata Sebastián Moore para ser seu guarda-costas e, forçados a passar cada minuto do dia juntos, uma atração inevitável surge entre eles em um mundo onde nada é o que parece. Baseado no livro de Mercedes Ron, autora da saga \"Culpados\".",
-      "tagline": "Ele foi contratado para protegê-la. Apaixonar-se por ela nunca fez parte do acordo.",
-      "runtime": 104,
-      "genres": [
-        "Romance",
-        "Thriller"
-      ],
-      "vote_average": 6.91,
-      "providers": [],
-      "videos": [
-        {
-          "key": "aGJkwKC5NgI",
-          "name": "Atraídos Pelo Destino | Trailer Oficial | Prime Video",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "-IQhr0CiBFM",
-          "name": "Atraídos pelo Destino | Cena Exclusiva | Prime Video",
-          "type": "Clip",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "gQYBeDetwNk",
-          "name": "Atraidos pelo Destino | Teaser Oficial | Prime Video",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Ester Expósito",
-        "Hugo Diego Garcia",
-        "Pablo Molinero",
-        "Lluís Homar",
-        "Joaquín Ferreira",
-        "Zoe Bonafonte",
-        "Majo Gámez",
-        "João Bettencourt"
-      ],
-      "director": "Óscar Pedraza",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-        "https://image.tmdb.org/t/p/w780/uPkl3mUqzY2ghPfbNORi4gjn7Nj.jpg",
-        "https://image.tmdb.org/t/p/w780/oZkk6B15Ak4uTa2aVrJaDmSk3Xl.jpg",
-        "https://image.tmdb.org/t/p/w780/1ewgN7tG15VPpYbW0CE3UCXabVD.jpg",
-        "https://image.tmdb.org/t/p/w780/6IlNGtSdvrE2DhYI5XYi68qT4c7.jpg",
-        "https://image.tmdb.org/t/p/w780/qIX2rkU0vOpwSEfBpB5WpqEBfNE.jpg",
-        "https://image.tmdb.org/t/p/w780/ayEhWoIwbMgKTVeZnDRAcx3ZiPI.jpg",
-        "https://image.tmdb.org/t/p/w780/h4HNbn5EwUhDIYR6Q45g84hxSuN.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1440098"
-    },
-    {
       "id": 1340102,
       "type": "movie",
       "title": "Lion Fist",
@@ -163,7 +98,7 @@
       "genres": [
         "Ação"
       ],
-      "vote_average": 7.829,
+      "vote_average": 7.889,
       "providers": [],
       "videos": [
         {
@@ -213,7 +148,7 @@
         "Drama",
         "Ação"
       ],
-      "vote_average": 7.988,
+      "vote_average": 8.027,
       "providers": [],
       "videos": [
         {
@@ -253,7 +188,7 @@
       "type": "movie",
       "title": "The Fix",
       "release_date": "2026-09-10",
-      "poster": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/a1j5writymMPFPyOhBT7s1xX6v6.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
       "overview": "Sinopse não disponível.",
       "tagline": "",
@@ -262,7 +197,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.021,
+      "vote_average": 6.91,
       "providers": [],
       "videos": [
         {
@@ -308,7 +243,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.2,
+      "vote_average": 6.167,
       "providers": [],
       "videos": [
         {
@@ -358,7 +293,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.305,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -415,7 +350,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.436,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -463,7 +398,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.068,
+      "vote_average": 8.067,
       "providers": [],
       "videos": [
         {
@@ -520,7 +455,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.504,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -566,7 +501,7 @@
         "Drama",
         "Terror"
       ],
-      "vote_average": 10.0,
+      "vote_average": 6.667,
       "providers": [],
       "videos": [
         {
@@ -614,7 +549,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.6,
+      "vote_average": 6.569,
       "providers": [
         {
           "id": 8,
@@ -674,8 +609,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "MLtdz9XqplA",
-          "name": "Meesaya Murukku 2 Official Trailer is releasin💥 #entertainment",
+          "key": "lU40CPN7Ww0",
+          "name": "Meesaya Murukku 2 - Official Trailer | Hiphop Tamizha | Khushbu Sundar | ACS Arun Kumar",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -758,7 +693,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -821,8 +756,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "aeRwoIZSN7s",
-          "name": "Renegade Immortal New Movie :Battle of Imprisoned Immortal Official Trailer (pv)|wang lin ×li muwen.",
+          "key": "uc5_5d8uTjA",
+          "name": "✨Renegade Immortal Movie 2: Battle of Immortal Slayer trailer #donghua #chineseanimation #shorts",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -861,7 +796,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.554,
+      "vote_average": 6.5,
       "providers": [],
       "videos": [
         {
@@ -897,12 +832,65 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1283515"
     },
     {
+      "id": 1458857,
+      "type": "movie",
+      "title": "Cartas de Redenção",
+      "release_date": "2026-10-02",
+      "poster": "https://image.tmdb.org/t/p/w500/kDFNGzkXZPJPXXy1hdO4Do4X3Wh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+      "overview": "Quando Anika, uma jovem mãe solo que luta para manter sua família, começa a trocar cartas com Carousel, um detento cumprindo pena, uma improvável ligação se forma à distância e acaba evoluindo de forma inesperada. O vínculo entre eles dá início a uma jornada de amor e redenção, trazendo à tona a esperança de deixar seus passados conturbados para trás e mostrando que até os relacionamentos mais improváveis podem transformar vidas e oferecer uma segunda chance de ser feliz.",
+      "tagline": "",
+      "runtime": 108,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "vote_average": 7.3,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "OWisRK_xtRk",
+          "name": "Cartas de Redenção, de Tyler Perry | Trailer oficial | Netflix",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Naomi Baker",
+        "Jay Reeves",
+        "Tamberla Perry",
+        "Karen Obilom",
+        "Jasmine Sargent",
+        "Danielle Moné Truitt"
+      ],
+      "director": "Tyler Perry",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/jhlA7tXeynux7WktY4XGOiYNwCK.jpg",
+        "https://image.tmdb.org/t/p/w780/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+        "https://image.tmdb.org/t/p/w780/v0ISFucS8zUoBCS8f06Y8A09UyL.jpg",
+        "https://image.tmdb.org/t/p/w780/mqz5t8PgmqXGiWsVuQXAqDkNO2F.jpg",
+        "https://image.tmdb.org/t/p/w780/9RGCe8MIULnPOJLvf9z3NzmdKWE.jpg",
+        "https://image.tmdb.org/t/p/w780/aem9JB02DQch6tcB8WzdNbRoYLY.jpg",
+        "https://image.tmdb.org/t/p/w780/jm7QxVSWxJkf5kWQ14yg8l52zg3.jpg",
+        "https://image.tmdb.org/t/p/w780/gp3QPMduqSD5F9y9JRaw4agIW8A.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1458857"
+    },
+    {
       "id": 1377237,
       "type": "movie",
       "title": "Três Horas Para Viver",
       "release_date": "2026-10-08",
       "poster": "https://image.tmdb.org/t/p/w500/vzb3bKOFtciIVSEIsLOZH4uJfxN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
       "overview": "Um transportador de elite embarca em uma missão urgente: entregar um órgão vital para salvar a vida de uma garotinha de sete anos. O que parecia ser uma tarefa objetiva logo se transforma em uma corrida frenética contra o tempo quando uma perigosa organização criminosa entra em cena para impedir o sucesso da entrega.",
       "tagline": "",
       "runtime": 97,
@@ -934,8 +922,8 @@
       ],
       "director": "Scott Waugh",
       "images": [
-        "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
         "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+        "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
         "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
         "https://image.tmdb.org/t/p/w780/w8fEorMTwgMN9h1cgOb3yMggbiu.jpg",
         "https://image.tmdb.org/t/p/w780/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg",
