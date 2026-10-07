@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T13:24:58.666171+00:00",
+  "updated_at": "2026-10-07T23:05:57.259866+00:00",
   "region": "BR",
   "items": [
     {
@@ -20,8 +20,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "M9tHmu0wNHM",
-          "name": "Zip Wire | 2026 | @SignatureUK Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
+          "key": "c5FGrGLlRdw",
+          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -59,8 +59,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "i7DlsDPq_eQ",
-          "name": "RESIDENT DEAD Official Trailer (2026) Zombies Movie",
+          "key": "54YKyY87lw4",
+          "name": "RESIDENT DEAD Official Trailer (2026) | John Scott Wells Horror",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -98,7 +98,7 @@
       "genres": [
         "Ação"
       ],
-      "vote_average": 7.946,
+      "vote_average": 7.842,
       "providers": [],
       "videos": [
         {
@@ -148,12 +148,12 @@
         "Drama",
         "Ação"
       ],
-      "vote_average": 7.988,
+      "vote_average": 7.977,
       "providers": [],
       "videos": [
         {
-          "key": "gYNj2QbQ2PY",
-          "name": "Rebelde | Trailer oficial | Netflix",
+          "key": "aDfdIhqsAV4",
+          "name": "Rebelde: Temporada 2 | Trailer oficial | Netflix Brasil",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -190,14 +190,14 @@
       "release_date": "2026-09-10",
       "poster": "https://image.tmdb.org/t/p/w500/a1j5writymMPFPyOhBT7s1xX6v6.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
-      "overview": "Sinopse não disponível.",
+      "overview": "Desiludidos com o fim da guerra no Afeganistão, um grupo de ex-agentes da CIA, em desgraça e marcados pela guerra, parte para Teerã com o objetivo de realizar um golpe que mudará suas vidas.",
       "tagline": "",
       "runtime": 142,
       "genres": [
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.91,
+      "vote_average": 6.9,
       "providers": [],
       "videos": [
         {
@@ -350,7 +350,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.366,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -398,7 +398,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.043,
+      "vote_average": 8.0,
       "providers": [],
       "videos": [
         {
@@ -455,7 +455,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.458,
+      "vote_average": 7.455,
       "providers": [],
       "videos": [
         {
@@ -501,7 +501,7 @@
         "Drama",
         "Terror"
       ],
-      "vote_average": 6.4,
+      "vote_average": 6.333,
       "providers": [],
       "videos": [
         {
@@ -549,7 +549,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.565,
+      "vote_average": 6.6,
       "providers": [
         {
           "id": 8,
@@ -589,50 +589,6 @@
         "https://image.tmdb.org/t/p/w780/XohTvvPXiGhUKhiQSvmoMTnj2z.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1492640"
-    },
-    {
-      "id": 1538457,
-      "type": "movie",
-      "title": "மீசைய முருக்கு 2",
-      "release_date": "2026-09-25",
-      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 138,
-      "genres": [
-        "Comédia",
-        "Romance",
-        "Drama"
-      ],
-      "vote_average": 0,
-      "providers": [],
-      "videos": [
-        {
-          "key": "lU40CPN7Ww0",
-          "name": "Meesaya Murukku 2 - Official Trailer | Hiphop Tamizha | Khushbu Sundar | ACS Arun Kumar",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "HipHop Tamizha Adhi",
-        "Ketika Sharma",
-        "Chaithra J Achar",
-        "Ramya Ranganathan",
-        "Harshath Khan",
-        "Shah Ra",
-        "Karunas",
-        "Nassar"
-      ],
-      "director": "HipHop Tamizha Adhi",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
-        "https://image.tmdb.org/t/p/w780/o2r3Pbmx4qIgAkNFZL6yjPZjQaq.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1538457"
     },
     {
       "id": 1556321,
@@ -680,6 +636,70 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1556321"
     },
     {
+      "id": 1101412,
+      "type": "movie",
+      "title": "A Queda 2: No Limite",
+      "release_date": "2026-10-01",
+      "poster": "https://image.tmdb.org/t/p/w500/xtxEvJACNnbz3WYmJ5mYT1a0KGk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cPCgLDNCCUwtsedr181DtrlaDWx.jpg",
+      "overview": "De luto pela morte de sua irmã Shiloh, Jax Hunter cria um laço com Luce, a amiga corajosa de Shiloh. Juntas, elas enfrentam a perigosa passarela suspensa do Monte Kwan, na Tailândia. Quando um deslizamento de rochas as deixa presas em uma estreita prancha a mais de 3.000 metros de altitude, Jax precisa enfrentar seus medos para sobreviver.",
+      "tagline": "Não olhe para baixo.",
+      "runtime": 100,
+      "genres": [
+        "Thriller"
+      ],
+      "vote_average": 6.874,
+      "providers": [],
+      "videos": [
+        {
+          "key": "x_q2-lmkTio",
+          "name": "Trailer Oficial 2 Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "En4mRecmx4w",
+          "name": "Trailer Oficial Legendado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "whpOcuDr0Rc",
+          "name": "A Queda 2",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Harriet Slater",
+        "Arsema Thomas",
+        "Tom Brittney",
+        "Virginia Gardner",
+        "สหจักร บุญธนกิจ",
+        "Korakod Yensuk",
+        "Jordan Coleman",
+        "Maryna Bennett"
+      ],
+      "director": "Michael Spierig",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/zwHsEcRcazZCxTWs9Glwo9qWZ0F.jpg",
+        "https://image.tmdb.org/t/p/w780/7EV1WNgenluosQkFUXtbciWPN0A.jpg",
+        "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+        "https://image.tmdb.org/t/p/w780/cPCgLDNCCUwtsedr181DtrlaDWx.jpg",
+        "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+        "https://image.tmdb.org/t/p/w780/j5PqG9rD0aUUIKEkGkWt7AaKnRa.jpg",
+        "https://image.tmdb.org/t/p/w780/bDQbd4qMy4bYXA4S36XZX5p68LU.jpg",
+        "https://image.tmdb.org/t/p/w780/o8G95h5yJ5xVVZs1s3mCynmv9IK.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1101412"
+    },
+    {
       "id": 1248832,
       "type": "movie",
       "title": "Digger",
@@ -693,7 +713,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.527,
       "providers": [],
       "videos": [
         {
@@ -756,8 +776,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "pvrJrX2ATDk",
-          "name": "Renegade Immortal — Live Action Cinematic Trailer (2026)",
+          "key": "aeRwoIZSN7s",
+          "name": "Renegade Immortal New Movie :Battle of Imprisoned Immortal Official Trailer (pv)|wang lin ×li muwen.",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -788,7 +808,7 @@
       "title": "Verity",
       "release_date": "2026-10-01",
       "poster": "https://image.tmdb.org/t/p/w500/6Qf3sylInJeyK0fFTfjprnGIXCF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
       "overview": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
       "tagline": "Não há luz para onde estamos indo.",
       "runtime": 114,
@@ -796,7 +816,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.436,
+      "vote_average": 6.434,
       "providers": [],
       "videos": [
         {
@@ -820,8 +840,8 @@
       ],
       "director": "Michael Showalter",
       "images": [
-        "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
         "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+        "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
         "https://image.tmdb.org/t/p/w780/zrGI2Lm89fgR5ntysKLmEPgNrdV.jpg",
         "https://image.tmdb.org/t/p/w780/b1y7n7PwuxlVaLrDBESrAqdRehx.jpg",
         "https://image.tmdb.org/t/p/w780/5fUn1vVAhFayRMxLKmY2Fly9CWz.jpg",
@@ -845,7 +865,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 7.438,
+      "vote_average": 7.4,
       "providers": [
         {
           "id": 8,
@@ -898,7 +918,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.3,
+      "vote_average": 8.332,
       "providers": [],
       "videos": [
         {
