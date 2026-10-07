@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T18:22:58.189724+00:00",
+  "updated_at": "2026-10-07T06:01:00.991636+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.662,
+      "vote_average": 7.696,
       "providers": [],
       "videos": [
         {
@@ -59,8 +59,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "54YKyY87lw4",
-          "name": "RESIDENT DEAD Official Trailer (2026) | John Scott Wells Horror",
+          "key": "yEgW1K7I66Q",
+          "name": "RESIDENT DEAD Official Trailer 2026",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -98,12 +98,12 @@
       "genres": [
         "Ação"
       ],
-      "vote_average": 7.889,
+      "vote_average": 7.946,
       "providers": [],
       "videos": [
         {
-          "key": "BjA78F2Xq6s",
-          "name": "Lion Fist - Official Trailer (2026) Mathis Landwehr",
+          "key": "cQ4dYWc5Jlw",
+          "name": "✨ Official Trailer :- Lion Fist (2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -148,12 +148,12 @@
         "Drama",
         "Ação"
       ],
-      "vote_average": 8.027,
+      "vote_average": 8.013,
       "providers": [],
       "videos": [
         {
-          "key": "aDfdIhqsAV4",
-          "name": "Rebelde: Temporada 2 | Trailer oficial | Netflix Brasil",
+          "key": "gYNj2QbQ2PY",
+          "name": "Rebelde | Trailer oficial | Netflix",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -235,7 +235,7 @@
       "release_date": "2026-09-15",
       "poster": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
-      "overview": "Sinopse não disponível.",
+      "overview": "Depois de herdar a enorme estufa de seu pai quando um asteróide ameaça a Terra, Ethan enfrenta traição e isolamento. Sobrevivendo ao impacto no bunker de sua família, maltratado e desesperado, uma voz no rádio revela que não está sozinho.",
       "tagline": "",
       "runtime": 95,
       "genres": [
@@ -243,7 +243,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.167,
+      "vote_average": 6.2,
       "providers": [],
       "videos": [
         {
@@ -293,7 +293,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.31,
       "providers": [],
       "videos": [
         {
@@ -398,7 +398,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.067,
+      "vote_average": 8.04,
       "providers": [],
       "videos": [
         {
@@ -455,7 +455,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.46,
       "providers": [],
       "videos": [
         {
@@ -501,7 +501,7 @@
         "Drama",
         "Terror"
       ],
-      "vote_average": 6.667,
+      "vote_average": 6.5,
       "providers": [],
       "videos": [
         {
@@ -549,7 +549,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.569,
+      "vote_average": 6.571,
       "providers": [
         {
           "id": 8,
@@ -796,7 +796,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.5,
+      "vote_average": 6.438,
       "providers": [],
       "videos": [
         {
@@ -809,8 +809,8 @@
         }
       ],
       "cast": [
-        "Dakota Johnson",
         "Anne Hathaway",
+        "Dakota Johnson",
         "Josh Hartnett",
         "Brady Wagner",
         "Ismael Cruz Cordova",
@@ -845,7 +845,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.373,
       "providers": [
         {
           "id": 8,
