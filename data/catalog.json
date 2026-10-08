@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T23:05:57.259866+00:00",
+  "updated_at": "2026-10-08T06:05:17.342083+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.671,
+      "vote_average": 7.653,
       "providers": [],
       "videos": [
         {
@@ -148,12 +148,12 @@
         "Drama",
         "Ação"
       ],
-      "vote_average": 7.977,
+      "vote_average": 7.99,
       "providers": [],
       "videos": [
         {
-          "key": "aDfdIhqsAV4",
-          "name": "Rebelde: Temporada 2 | Trailer oficial | Netflix Brasil",
+          "key": "gYNj2QbQ2PY",
+          "name": "Rebelde | Trailer oficial | Netflix",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -224,7 +224,11 @@
         "https://image.tmdb.org/t/p/w780/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
         "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
         "https://image.tmdb.org/t/p/w780/oDgN5zsiISnLZKixkzvRIfUOXgC.jpg",
-        "https://image.tmdb.org/t/p/w780/bQQ3UGOJcCTRjVAjOwR17eQuwJC.jpg"
+        "https://image.tmdb.org/t/p/w780/bQQ3UGOJcCTRjVAjOwR17eQuwJC.jpg",
+        "https://image.tmdb.org/t/p/w780/5mjdi586DOBohaPvGZ7Jy80EZX2.jpg",
+        "https://image.tmdb.org/t/p/w780/A1aR8aTGglmJrvS3MltbdxGtsTC.jpg",
+        "https://image.tmdb.org/t/p/w780/2xaJ2foqoGK7h2oH18HExDoXGLE.jpg",
+        "https://image.tmdb.org/t/p/w780/vzSS4AFSlpKMNRJnInlcasfc4Ru.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1228834"
     },
@@ -293,7 +297,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.315,
       "providers": [],
       "videos": [
         {
@@ -350,7 +354,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.345,
       "providers": [],
       "videos": [
         {
@@ -380,7 +384,8 @@
         "https://image.tmdb.org/t/p/w780/7AArZYRp6zGtbvSbbqoHn9xFp0L.jpg",
         "https://image.tmdb.org/t/p/w780/m5LTXfgzePxIhR4JLMViRGRetMO.jpg",
         "https://image.tmdb.org/t/p/w780/ujKpwpbgd5759YEprWUn63HidHu.jpg",
-        "https://image.tmdb.org/t/p/w780/kBjVBvz9vHL7c9dbvngMnguyDfn.jpg"
+        "https://image.tmdb.org/t/p/w780/kBjVBvz9vHL7c9dbvngMnguyDfn.jpg",
+        "https://image.tmdb.org/t/p/w780/2ByCsL2tGAtxQsHYF2SYTtnKm8t.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1607127"
     },
@@ -398,7 +403,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.0,
+      "vote_average": 8.053,
       "providers": [],
       "videos": [
         {
@@ -455,7 +460,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.455,
+      "vote_average": 7.457,
       "providers": [],
       "videos": [
         {
@@ -549,7 +554,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.6,
+      "vote_average": 6.554,
       "providers": [
         {
           "id": 8,
@@ -641,14 +646,14 @@
       "title": "A Queda 2: No Limite",
       "release_date": "2026-10-01",
       "poster": "https://image.tmdb.org/t/p/w500/xtxEvJACNnbz3WYmJ5mYT1a0KGk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/cPCgLDNCCUwtsedr181DtrlaDWx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
       "overview": "De luto pela morte de sua irmã Shiloh, Jax Hunter cria um laço com Luce, a amiga corajosa de Shiloh. Juntas, elas enfrentam a perigosa passarela suspensa do Monte Kwan, na Tailândia. Quando um deslizamento de rochas as deixa presas em uma estreita prancha a mais de 3.000 metros de altitude, Jax precisa enfrentar seus medos para sobreviver.",
       "tagline": "Não olhe para baixo.",
       "runtime": 100,
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.874,
+      "vote_average": 7.034,
       "providers": [],
       "videos": [
         {
@@ -713,7 +718,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.527,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
@@ -816,7 +821,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.434,
+      "vote_average": 6.4,
       "providers": [],
       "videos": [
         {
@@ -865,7 +870,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.587,
       "providers": [
         {
           "id": 8,
@@ -918,7 +923,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.332,
+      "vote_average": 8.3,
       "providers": [],
       "videos": [
         {
