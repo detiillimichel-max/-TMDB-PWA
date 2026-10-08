@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:30:41.399653+00:00",
+  "updated_at": "2026-10-08T23:21:33.279319+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.63,
+      "vote_average": 7.608,
       "providers": [],
       "videos": [
         {
@@ -55,7 +55,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.875,
+      "vote_average": 6.7,
       "providers": [],
       "videos": [
         {
@@ -98,12 +98,12 @@
       "genres": [
         "Ação"
       ],
-      "vote_average": 7.842,
+      "vote_average": 7.725,
       "providers": [],
       "videos": [
         {
-          "key": "BjA78F2Xq6s",
-          "name": "Lion Fist - Official Trailer (2026) Mathis Landwehr",
+          "key": "cQ4dYWc5Jlw",
+          "name": "✨ Official Trailer :- Lion Fist (2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -148,7 +148,7 @@
         "Drama",
         "Ação"
       ],
-      "vote_average": 8.006,
+      "vote_average": 7.99,
       "providers": [],
       "videos": [
         {
@@ -197,11 +197,11 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.833,
+      "vote_average": 6.76,
       "providers": [],
       "videos": [
         {
-          "key": "9YHuVsKdAIs",
+          "key": "vH4zs2LnhyE",
           "name": "THE FIX Official Trailer 2 (2026) Liam Neeson",
           "type": "Trailer",
           "official": false,
@@ -297,7 +297,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.317,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -403,7 +403,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.056,
+      "vote_average": 8.06,
       "providers": [],
       "videos": [
         {
@@ -460,7 +460,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.452,
+      "vote_average": 7.433,
       "providers": [],
       "videos": [
         {
@@ -477,7 +477,8 @@
         "J.K. Simmons",
         "Anna Lambe",
         "Justin Melnick",
-        "Shaun DeZern"
+        "Shaun DeZern",
+        "Uber"
       ],
       "director": "David Ayer",
       "images": [
@@ -491,53 +492,6 @@
         "https://image.tmdb.org/t/p/w780/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1263337"
-    },
-    {
-      "id": 1229906,
-      "type": "movie",
-      "title": "Family",
-      "release_date": "2026-09-25",
-      "poster": "https://image.tmdb.org/t/p/w500/cTXGUz1Mle56A6vAK2GAf1j8Wtn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wXMsCAtOr27zaZLb1Nv63JFpQiV.jpg",
-      "overview": "Verão de 2002. Ao ver como seu pai imperador adoece, Johanna, de 11 anos, invoca um bom espírito para salvá-lo. Mas algo maligno responde à sua chamada.",
-      "tagline": "",
-      "runtime": 95,
-      "genres": [
-        "Drama",
-        "Terror"
-      ],
-      "vote_average": 6.333,
-      "providers": [],
-      "videos": [
-        {
-          "key": "-KtSRduK0V8",
-          "name": "Família 2026 | Trailer Oficial 4K Family",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Ruth Wilson",
-        "Ben Chaplin",
-        "Cameron Dawson Gray",
-        "Allan Corduner",
-        "Ryan Lucy",
-        "Beau McConnell"
-      ],
-      "director": "Benjamin Finkel",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/wXMsCAtOr27zaZLb1Nv63JFpQiV.jpg",
-        "https://image.tmdb.org/t/p/w780/v3gDiL3hpiD96KRuL5BXf7BFW3T.jpg",
-        "https://image.tmdb.org/t/p/w780/7kbmiHiKpofTxHerlfqbHXd4L9Z.jpg",
-        "https://image.tmdb.org/t/p/w780/maAx43LmGFvN1ZGk0e2MMSRAphs.jpg",
-        "https://image.tmdb.org/t/p/w780/atQh9ZhXZJiNC5P9zB1j3fojSnO.jpg",
-        "https://image.tmdb.org/t/p/w780/zC6PVkXlTKDhThohbLl2qycCcjI.jpg",
-        "https://image.tmdb.org/t/p/w780/bXJ0a7ZVtEE1C0f3IczMXPJadZJ.jpg",
-        "https://image.tmdb.org/t/p/w780/yh6G6me5zPVFNLM6g9870J0VieU.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1229906"
     },
     {
       "id": 1492640,
@@ -554,7 +508,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.567,
+      "vote_average": 6.553,
       "providers": [
         {
           "id": 8,
@@ -646,14 +600,14 @@
       "title": "A Queda 2: No Limite",
       "release_date": "2026-10-01",
       "poster": "https://image.tmdb.org/t/p/w500/xtxEvJACNnbz3WYmJ5mYT1a0KGk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
       "overview": "De luto pela morte de sua irmã Shiloh, Jax Hunter cria um laço com Luce, a amiga corajosa de Shiloh. Juntas, elas enfrentam a perigosa passarela suspensa do Monte Kwan, na Tailândia. Quando um deslizamento de rochas as deixa presas em uma estreita prancha a mais de 3.000 metros de altitude, Jax precisa enfrentar seus medos para sobreviver.",
       "tagline": "Não olhe para baixo.",
       "runtime": 100,
       "genres": [
         "Thriller"
       ],
-      "vote_average": 7.166,
+      "vote_average": 7.134,
       "providers": [],
       "videos": [
         {
@@ -695,11 +649,11 @@
       "images": [
         "https://image.tmdb.org/t/p/w780/zwHsEcRcazZCxTWs9Glwo9qWZ0F.jpg",
         "https://image.tmdb.org/t/p/w780/7EV1WNgenluosQkFUXtbciWPN0A.jpg",
-        "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
-        "https://image.tmdb.org/t/p/w780/cPCgLDNCCUwtsedr181DtrlaDWx.jpg",
         "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+        "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
         "https://image.tmdb.org/t/p/w780/j5PqG9rD0aUUIKEkGkWt7AaKnRa.jpg",
         "https://image.tmdb.org/t/p/w780/bDQbd4qMy4bYXA4S36XZX5p68LU.jpg",
+        "https://image.tmdb.org/t/p/w780/cPCgLDNCCUwtsedr181DtrlaDWx.jpg",
         "https://image.tmdb.org/t/p/w780/o8G95h5yJ5xVVZs1s3mCynmv9IK.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1101412"
@@ -718,7 +672,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.519,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -762,6 +716,56 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1248832"
     },
     {
+      "id": 1284046,
+      "type": "movie",
+      "title": "Protocolo de Extermínio",
+      "release_date": "2026-10-01",
+      "poster": "https://image.tmdb.org/t/p/w500/S8yJg9VlcDRB55CFIBAF7V2lZ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+      "overview": "Uma sniper precisa lutar sozinha contra um esquadrão de soldados geneticamente modificados no meio do deserto para salvar sua filha pequena.",
+      "tagline": "Lenda do UFC e supersoldado nas telonas!",
+      "runtime": 92,
+      "genres": [
+        "Ação",
+        "Terror",
+        "Thriller"
+      ],
+      "vote_average": 5.742,
+      "providers": [],
+      "videos": [
+        {
+          "key": "yCrHVd7B4PA",
+          "name": "PROTOCOLO DE EXTERMÍNIO | Trailer Oficial Legendado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Adria Arjona",
+        "Dan Stevens",
+        "Eric Wareheim",
+        "Reginald VelJohnson",
+        "Michael Biehn",
+        "Blake Kennedy",
+        "Alex Pereira",
+        "Drew Starkey"
+      ],
+      "director": "Adam Wingard",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+        "https://image.tmdb.org/t/p/w780/clePZhqOSzNyjfuFBpOrziLEFzb.jpg",
+        "https://image.tmdb.org/t/p/w780/ewe8HWEMBpACziYjcDkNN7uUxa5.jpg",
+        "https://image.tmdb.org/t/p/w780/2R9i31zXuaE4tNBtaPjdXO9yB9y.jpg",
+        "https://image.tmdb.org/t/p/w780/uCSrlUqRLGNOwdnLwBJPir1R4vg.jpg",
+        "https://image.tmdb.org/t/p/w780/89cNknUheIEla75Zpr2G55bADT7.jpg",
+        "https://image.tmdb.org/t/p/w780/274xWEa3VGK433RElJ1d9pqeA1r.jpg",
+        "https://image.tmdb.org/t/p/w780/f4Hb8yppkIIlFqVqe1xE6UuR6w3.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1284046"
+    },
+    {
       "id": 1599191,
       "type": "movie",
       "title": "Renegade Immortal: Batalha dos Imortais",
@@ -781,8 +785,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "uc5_5d8uTjA",
-          "name": "✨Renegade Immortal Movie 2: Battle of Immortal Slayer trailer #donghua #chineseanimation #shorts",
+          "key": "pvrJrX2ATDk",
+          "name": "Renegade Immortal — Live Action Cinematic Trailer (2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -821,7 +825,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.44,
+      "vote_average": 6.471,
       "providers": [],
       "videos": [
         {
@@ -834,8 +838,8 @@
         }
       ],
       "cast": [
-        "Anne Hathaway",
         "Dakota Johnson",
+        "Anne Hathaway",
         "Josh Hartnett",
         "Brady Wagner",
         "Ismael Cruz Cordova",
@@ -870,7 +874,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 7.621,
+      "vote_average": 7.655,
       "providers": [
         {
           "id": 8,
