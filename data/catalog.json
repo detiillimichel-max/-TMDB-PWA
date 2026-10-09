@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T23:21:33.279319+00:00",
+  "updated_at": "2026-10-09T06:09:36.222870+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.608,
+      "vote_average": 7.513,
       "providers": [],
       "videos": [
         {
@@ -148,7 +148,7 @@
         "Drama",
         "Ação"
       ],
-      "vote_average": 7.99,
+      "vote_average": 7.971,
       "providers": [],
       "videos": [
         {
@@ -354,7 +354,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.37,
       "providers": [],
       "videos": [
         {
@@ -508,7 +508,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.553,
+      "vote_average": 6.559,
       "providers": [
         {
           "id": 8,
@@ -607,7 +607,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 7.134,
+      "vote_average": 7.159,
       "providers": [],
       "videos": [
         {
@@ -672,7 +672,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.52,
       "providers": [],
       "videos": [
         {
@@ -705,8 +705,8 @@
       "director": "Alejandro G. Iñárritu",
       "images": [
         "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-        "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
         "https://image.tmdb.org/t/p/w780/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
+        "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
         "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
         "https://image.tmdb.org/t/p/w780/244Hk4UVxrgdotp0pfkvnW9Iand.jpg",
         "https://image.tmdb.org/t/p/w780/vlJHTUMyfPw9398oIvcosdNWSSw.jpg",
@@ -730,7 +730,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.742,
+      "vote_average": 5.721,
       "providers": [],
       "videos": [
         {
@@ -781,12 +781,12 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.464,
       "providers": [],
       "videos": [
         {
-          "key": "pvrJrX2ATDk",
-          "name": "Renegade Immortal — Live Action Cinematic Trailer (2026)",
+          "key": "aeRwoIZSN7s",
+          "name": "Renegade Immortal New Movie :Battle of Imprisoned Immortal Official Trailer (pv)|wang lin ×li muwen.",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -825,7 +825,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.471,
+      "vote_average": 6.5,
       "providers": [],
       "videos": [
         {
@@ -874,7 +874,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 7.655,
+      "vote_average": 7.696,
       "providers": [
         {
           "id": 8,
@@ -927,7 +927,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.3,
+      "vote_average": 8.297,
       "providers": [],
       "videos": [
         {
