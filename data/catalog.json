@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T06:09:36.222870+00:00",
+  "updated_at": "2026-10-09T13:18:16.032358+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.513,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -55,7 +55,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 6.7,
+      "vote_average": 6.8,
       "providers": [],
       "videos": [
         {
@@ -148,7 +148,7 @@
         "Drama",
         "Ação"
       ],
-      "vote_average": 7.971,
+      "vote_average": 7.979,
       "providers": [],
       "videos": [
         {
@@ -354,7 +354,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.37,
+      "vote_average": 7.395,
       "providers": [],
       "videos": [
         {
@@ -403,7 +403,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.06,
+      "vote_average": 8.056,
       "providers": [],
       "videos": [
         {
@@ -607,7 +607,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 7.159,
+      "vote_average": 7.174,
       "providers": [],
       "videos": [
         {
@@ -645,16 +645,16 @@
         "Jordan Coleman",
         "Maryna Bennett"
       ],
-      "director": "Michael Spierig",
+      "director": "Peter Spierig",
       "images": [
-        "https://image.tmdb.org/t/p/w780/zwHsEcRcazZCxTWs9Glwo9qWZ0F.jpg",
-        "https://image.tmdb.org/t/p/w780/7EV1WNgenluosQkFUXtbciWPN0A.jpg",
+        "https://image.tmdb.org/t/p/w780/JzTmH0s7caaS20YyBQd3XFlHHp.jpg",
         "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
         "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
         "https://image.tmdb.org/t/p/w780/j5PqG9rD0aUUIKEkGkWt7AaKnRa.jpg",
         "https://image.tmdb.org/t/p/w780/bDQbd4qMy4bYXA4S36XZX5p68LU.jpg",
-        "https://image.tmdb.org/t/p/w780/cPCgLDNCCUwtsedr181DtrlaDWx.jpg",
-        "https://image.tmdb.org/t/p/w780/o8G95h5yJ5xVVZs1s3mCynmv9IK.jpg"
+        "https://image.tmdb.org/t/p/w780/zwHsEcRcazZCxTWs9Glwo9qWZ0F.jpg",
+        "https://image.tmdb.org/t/p/w780/7EV1WNgenluosQkFUXtbciWPN0A.jpg",
+        "https://image.tmdb.org/t/p/w780/cPCgLDNCCUwtsedr181DtrlaDWx.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1101412"
     },
@@ -672,7 +672,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.52,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -785,8 +785,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "aeRwoIZSN7s",
-          "name": "Renegade Immortal New Movie :Battle of Imprisoned Immortal Official Trailer (pv)|wang lin ×li muwen.",
+          "key": "pvrJrX2ATDk",
+          "name": "Renegade Immortal — Live Action Cinematic Trailer (2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -874,7 +874,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 7.696,
+      "vote_average": 7.7,
       "providers": [
         {
           "id": 8,
@@ -927,7 +927,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.297,
+      "vote_average": 8.3,
       "providers": [],
       "videos": [
         {
