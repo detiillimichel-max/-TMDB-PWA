@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T13:18:16.032358+00:00",
+  "updated_at": "2026-10-09T22:39:11.379805+00:00",
   "region": "BR",
   "items": [
     {
@@ -148,7 +148,7 @@
         "Drama",
         "Ação"
       ],
-      "vote_average": 7.979,
+      "vote_average": 7.956,
       "providers": [],
       "videos": [
         {
@@ -197,7 +197,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.76,
+      "vote_average": 6.783,
       "providers": [],
       "videos": [
         {
@@ -247,7 +247,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.2,
+      "vote_average": 6.0,
       "providers": [],
       "videos": [
         {
@@ -297,7 +297,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.332,
       "providers": [],
       "videos": [
         {
@@ -354,7 +354,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.395,
+      "vote_average": 7.344,
       "providers": [],
       "videos": [
         {
@@ -403,7 +403,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.056,
+      "vote_average": 8.01,
       "providers": [],
       "videos": [
         {
@@ -460,7 +460,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.433,
+      "vote_average": 7.427,
       "providers": [],
       "videos": [
         {
@@ -494,60 +494,50 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1263337"
     },
     {
-      "id": 1492640,
+      "id": 1280300,
       "type": "movie",
-      "title": "Unabomber",
-      "release_date": "2026-09-25",
-      "poster": "https://image.tmdb.org/t/p/w500/xVRIUBkQvapWRjYwCbPvb0NfH37.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-      "overview": "Este drama inspirado em uma história real mostra como Ted Kaczynski, um prodígio de Harvard, se transformou no infame Unabomber e foi caçado pelo FBI.",
+      "title": "The Whistler",
+      "release_date": "2026-09-24",
+      "poster": "https://image.tmdb.org/t/p/w500/sX8tqkFR1aqZaLQ4Jgb8jEMB4RN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg",
+      "overview": "Sinopse não disponível.",
       "tagline": "",
-      "runtime": 101,
+      "runtime": 97,
       "genres": [
-        "Thriller",
-        "Drama",
-        "Crime"
+        "Mistério",
+        "Terror",
+        "Thriller"
       ],
-      "vote_average": 6.559,
-      "providers": [
-        {
-          "id": 8,
-          "name": "Netflix",
-          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-        }
-      ],
+      "vote_average": 1.0,
+      "providers": [],
       "videos": [
         {
-          "key": "5voDVcp1XLY",
-          "name": "Unabomber | Trailer oficial | Netflix",
+          "key": "GsbhZOibDHA",
+          "name": "The Whistler (2026) Poseido/El Silbon - HD Trailer Oficial Subtitulado Español - Venezuela - Terror",
           "type": "Trailer",
-          "official": true,
+          "official": false,
           "site": "YouTube",
-          "source": "tmdb"
+          "source": "youtube_search"
         }
       ],
       "cast": [
-        "Russell Crowe",
-        "Jacob Tremblay",
-        "Shailene Woodley",
-        "Annabelle Wallis",
-        "Alexander Ludwig",
-        "Marc Menchaca",
-        "Steven Ogg",
-        "Mark Camacho"
+        "Juan Pablo Raba",
+        "Diane Guerrero",
+        "Indhira Serrano",
+        "Laureano Olivares",
+        "Laura Sofía Domínguez",
+        "Diego Landaeta",
+        "Carlos Velasquez",
+        "Norberto Rivera"
       ],
-      "director": "Janus Metz",
+      "director": "Diego Velasco",
       "images": [
-        "https://image.tmdb.org/t/p/w780/kLqPRuoLtyM6Y7DW6t0CqptIEIB.jpg",
-        "https://image.tmdb.org/t/p/w780/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-        "https://image.tmdb.org/t/p/w780/fADahnU1BPuErlIcALx65eJdtQo.jpg",
-        "https://image.tmdb.org/t/p/w780/rWCFHYttXNqtJUFG3IAYkrLHFAp.jpg",
-        "https://image.tmdb.org/t/p/w780/plhba5CxcoLJ4SUxx9kTIh3zrhZ.jpg",
-        "https://image.tmdb.org/t/p/w780/mv0XjCvYXBC5VsIGaAqgCMMDNKW.jpg",
-        "https://image.tmdb.org/t/p/w780/nzg7KDuoEuvXHstjlo4pM9FIX2Y.jpg",
-        "https://image.tmdb.org/t/p/w780/XohTvvPXiGhUKhiQSvmoMTnj2z.jpg"
+        "https://image.tmdb.org/t/p/w780/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg",
+        "https://image.tmdb.org/t/p/w780/qx0Jki3XnHVWIXmd7gOcqjXSf0S.jpg",
+        "https://image.tmdb.org/t/p/w780/hehKiJJdyEL0nRz3UXP34ctqA1R.jpg",
+        "https://image.tmdb.org/t/p/w780/bgMD95c7IUVgzAWYbcoxRXidtFI.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1492640"
+      "tmdb_url": "https://www.themoviedb.org/movie/1280300"
     },
     {
       "id": 1556321,
@@ -607,7 +597,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 7.174,
+      "vote_average": 7.175,
       "providers": [],
       "videos": [
         {
@@ -730,7 +720,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.721,
+      "vote_average": 5.725,
       "providers": [],
       "videos": [
         {
@@ -781,12 +771,12 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 7.464,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
-          "key": "pvrJrX2ATDk",
-          "name": "Renegade Immortal — Live Action Cinematic Trailer (2026)",
+          "key": "pr39G29-tOM",
+          "name": "Renegade Immortal: Battle of the Immortal Slayer | Trailer",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -825,7 +815,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.5,
+      "vote_average": 6.447,
       "providers": [],
       "videos": [
         {
@@ -861,31 +851,40 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1283515"
     },
     {
-      "id": 1458857,
+      "id": 1400837,
       "type": "movie",
-      "title": "Cartas de Redenção",
-      "release_date": "2026-10-02",
-      "poster": "https://image.tmdb.org/t/p/w500/kDFNGzkXZPJPXXy1hdO4Do4X3Wh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
-      "overview": "Quando Anika, uma jovem mãe solo que luta para manter sua família, começa a trocar cartas com Carousel, um detento cumprindo pena, uma improvável ligação se forma à distância e acaba evoluindo de forma inesperada. O vínculo entre eles dá início a uma jornada de amor e redenção, trazendo à tona a esperança de deixar seus passados conturbados para trás e mostrando que até os relacionamentos mais improváveis podem transformar vidas e oferecer uma segunda chance de ser feliz.",
-      "tagline": "",
-      "runtime": 108,
+      "title": "Outra Mamãe",
+      "release_date": "2026-10-08",
+      "poster": "https://image.tmdb.org/t/p/w500/j6eXMsykSZnXJT20YTdsdS9PXPj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
+      "overview": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
+      "tagline": "Sua mamãe não vai te salvar.",
+      "runtime": 93,
       "genres": [
-        "Romance",
-        "Drama"
+        "Terror"
       ],
-      "vote_average": 7.7,
-      "providers": [
-        {
-          "id": 8,
-          "name": "Netflix",
-          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-        }
-      ],
+      "vote_average": 6.6,
+      "providers": [],
       "videos": [
         {
-          "key": "OWisRK_xtRk",
-          "name": "Cartas de Redenção, de Tyler Perry | Trailer oficial | Netflix",
+          "key": "a74ZT4Ncess",
+          "name": "Outra Mamãe | Trailer 2 - Dublado (Universal Pictures) - HD",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "zBf1b5WtiBs",
+          "name": "Outra Mamãe | Trailer (Universal Pictures) - HD",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "WmupdT0zZwM",
+          "name": "Outra Mamãe | Trailer Dublado (Universal Pictures) - HD",
           "type": "Trailer",
           "official": true,
           "site": "YouTube",
@@ -893,25 +892,27 @@
         }
       ],
       "cast": [
-        "Naomi Baker",
-        "Jay Reeves",
-        "Tamberla Perry",
-        "Karen Obilom",
-        "Jasmine Sargent",
-        "Danielle Moné Truitt"
+        "Jessica Chastain",
+        "Arabella Olivia Clark",
+        "Jay Duplass",
+        "Dichen Lachman",
+        "Arian Moayed",
+        "Karen Allen",
+        "Sean Kaufman",
+        "Adam Silver"
       ],
-      "director": "Tyler Perry",
+      "director": "Rob Savage",
       "images": [
-        "https://image.tmdb.org/t/p/w780/jhlA7tXeynux7WktY4XGOiYNwCK.jpg",
-        "https://image.tmdb.org/t/p/w780/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
-        "https://image.tmdb.org/t/p/w780/v0ISFucS8zUoBCS8f06Y8A09UyL.jpg",
-        "https://image.tmdb.org/t/p/w780/mqz5t8PgmqXGiWsVuQXAqDkNO2F.jpg",
-        "https://image.tmdb.org/t/p/w780/9RGCe8MIULnPOJLvf9z3NzmdKWE.jpg",
-        "https://image.tmdb.org/t/p/w780/aem9JB02DQch6tcB8WzdNbRoYLY.jpg",
-        "https://image.tmdb.org/t/p/w780/jm7QxVSWxJkf5kWQ14yg8l52zg3.jpg",
-        "https://image.tmdb.org/t/p/w780/gp3QPMduqSD5F9y9JRaw4agIW8A.jpg"
+        "https://image.tmdb.org/t/p/w780/yf5EKtrTKM8pla1TpNA5TsZgoTp.jpg",
+        "https://image.tmdb.org/t/p/w780/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
+        "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+        "https://image.tmdb.org/t/p/w780/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
+        "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+        "https://image.tmdb.org/t/p/w780/6R9ENxzYX60nC2B1ldaYzxsTwjN.jpg",
+        "https://image.tmdb.org/t/p/w780/w8IKrH1azdXwxpmE2oMqhUcnsG6.jpg",
+        "https://image.tmdb.org/t/p/w780/qHURF5fju9HYpnEdEj3D4HH8C7q.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1458857"
+      "tmdb_url": "https://www.themoviedb.org/movie/1400837"
     },
     {
       "id": 1377237,
@@ -927,7 +928,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.3,
+      "vote_average": 8.294,
       "providers": [],
       "videos": [
         {
