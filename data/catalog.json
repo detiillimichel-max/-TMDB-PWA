@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T05:53:51.026125+00:00",
+  "updated_at": "2026-10-10T12:33:03.321077+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,11 +16,11 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.519,
       "providers": [],
       "videos": [
         {
-          "key": "lz_Nt7a5ZMI",
+          "key": "c5FGrGLlRdw",
           "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
@@ -59,8 +59,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "54YKyY87lw4",
-          "name": "RESIDENT DEAD Official Trailer (2026) | John Scott Wells Horror",
+          "key": "i7DlsDPq_eQ",
+          "name": "RESIDENT DEAD Official Trailer (2026) Zombies Movie",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -102,8 +102,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "cQ4dYWc5Jlw",
-          "name": "✨ Official Trailer :- Lion Fist (2026)",
+          "key": "BjA78F2Xq6s",
+          "name": "Lion Fist - Official Trailer (2026) Mathis Landwehr",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -148,7 +148,7 @@
         "Drama",
         "Ação"
       ],
-      "vote_average": 7.957,
+      "vote_average": 7.9,
       "providers": [],
       "videos": [
         {
@@ -297,7 +297,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.323,
       "providers": [],
       "videos": [
         {
@@ -403,7 +403,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.011,
+      "vote_average": 8.018,
       "providers": [],
       "videos": [
         {
@@ -494,52 +494,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1263337"
     },
     {
-      "id": 1280300,
-      "type": "movie",
-      "title": "The Whistler",
-      "release_date": "2026-09-24",
-      "poster": "https://image.tmdb.org/t/p/w500/sX8tqkFR1aqZaLQ4Jgb8jEMB4RN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 97,
-      "genres": [
-        "Mistério",
-        "Terror",
-        "Thriller"
-      ],
-      "vote_average": 5.5,
-      "providers": [],
-      "videos": [
-        {
-          "key": "EpZ28ybST7Y",
-          "name": "THE WHISTLER – Official Trailer 2026  Thriller Movie First Look",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Juan Pablo Raba",
-        "Diane Guerrero",
-        "Indhira Serrano",
-        "Laureano Olivares",
-        "Laura Sofía Domínguez",
-        "Diego Landaeta",
-        "Carlos Velasquez",
-        "Norberto Rivera"
-      ],
-      "director": "Diego Velasco",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg",
-        "https://image.tmdb.org/t/p/w780/qx0Jki3XnHVWIXmd7gOcqjXSf0S.jpg",
-        "https://image.tmdb.org/t/p/w780/hehKiJJdyEL0nRz3UXP34ctqA1R.jpg",
-        "https://image.tmdb.org/t/p/w780/bgMD95c7IUVgzAWYbcoxRXidtFI.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1280300"
-    },
-    {
       "id": 1556321,
       "type": "movie",
       "title": "Death Whisperer: Saming the Werebeast",
@@ -597,7 +551,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 7.158,
+      "vote_average": 7.202,
       "providers": [],
       "videos": [
         {
@@ -720,7 +674,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.8,
+      "vote_average": 5.812,
       "providers": [],
       "videos": [
         {
@@ -851,6 +805,62 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1283515"
     },
     {
+      "id": 1148365,
+      "type": "movie",
+      "title": "Matchbox - O Filme",
+      "release_date": "2026-10-05",
+      "poster": "https://image.tmdb.org/t/p/w500/hgPJA0NTmXYpPA3cgh4ZrI1PubL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+      "overview": "Quando um grupo de antigos amigos de infância se reencontra, o encontro toma um rumo inesperado ao se depararem com uma perigosa trama internacional e precisarem salvar o mundo.",
+      "tagline": "Salve o mundo, traga seus amigos.",
+      "runtime": 127,
+      "genres": [
+        "Ação",
+        "Comédia",
+        "Aventura"
+      ],
+      "vote_average": 7.675,
+      "providers": [
+        {
+          "id": 350,
+          "name": "Apple TV",
+          "logo": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "ayRffYn4SQE",
+          "name": "Trailer oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "John Cena",
+        "Jessica Biel",
+        "Sam Richardson",
+        "Arturo Castro",
+        "Teyonah Parris",
+        "Corey Stoll",
+        "Bill Camp",
+        "گلشیفته فراهانی"
+      ],
+      "director": "Sam Hargrave",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/8LYMGmljj3gfhyHaMjqeylVjWEZ.jpg",
+        "https://image.tmdb.org/t/p/w780/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
+        "https://image.tmdb.org/t/p/w780/oOofgKLAWUhHGohxXdRm3yLOWYw.jpg",
+        "https://image.tmdb.org/t/p/w780/e1EqWOQAp5mc5QUsCCGoeOixnfH.jpg",
+        "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+        "https://image.tmdb.org/t/p/w780/pgirSzilULweZ9RsXLw1DjfNebw.jpg",
+        "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
+        "https://image.tmdb.org/t/p/w780/bDHCTnzeWqNEajyFPhyRnWo0E4O.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1148365"
+    },
+    {
       "id": 1400837,
       "type": "movie",
       "title": "Outra Mamãe",
@@ -863,7 +873,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 6.364,
+      "vote_average": 6.27,
       "providers": [],
       "videos": [
         {
@@ -928,7 +938,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.298,
+      "vote_average": 8.292,
       "providers": [],
       "videos": [
         {
