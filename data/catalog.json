@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T12:33:03.321077+00:00",
+  "updated_at": "2026-10-10T21:45:09.969955+00:00",
   "region": "BR",
   "items": [
     {
@@ -55,12 +55,12 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 6.8,
+      "vote_average": 5.929,
       "providers": [],
       "videos": [
         {
-          "key": "i7DlsDPq_eQ",
-          "name": "RESIDENT DEAD Official Trailer (2026) Zombies Movie",
+          "key": "54YKyY87lw4",
+          "name": "RESIDENT DEAD Official Trailer (2026) | John Scott Wells Horror",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -84,54 +84,6 @@
         "https://image.tmdb.org/t/p/w780/473QygJr1AdPJbl1IXYi2bxVcfL.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1712451"
-    },
-    {
-      "id": 1340102,
-      "type": "movie",
-      "title": "Lion Fist",
-      "release_date": "2026-09-10",
-      "poster": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mfevSm3elJX1IqCjBxC7bGl07s2.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 91,
-      "genres": [
-        "Ação"
-      ],
-      "vote_average": 7.725,
-      "providers": [],
-      "videos": [
-        {
-          "key": "BjA78F2Xq6s",
-          "name": "Lion Fist - Official Trailer (2026) Mathis Landwehr",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Mathis Landwehr",
-        "Li Yanlong",
-        "Kurt McKinney",
-        "Keith Cooke",
-        "Brice Akuesson",
-        "David Yeung",
-        "Gary Daniels",
-        "Finja Martens"
-      ],
-      "director": "Taim M. Adams",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/mfevSm3elJX1IqCjBxC7bGl07s2.jpg",
-        "https://image.tmdb.org/t/p/w780/fDag9DUsJTZVWkWnDdccQxFUcfO.jpg",
-        "https://image.tmdb.org/t/p/w780/muliVVazNaTp9XNthDYmgqGHecj.jpg",
-        "https://image.tmdb.org/t/p/w780/1WhXIN0q7O9PgziOE0jh3xAz1Lf.jpg",
-        "https://image.tmdb.org/t/p/w780/h7Qku6nc9xQCQQBSU4I0quaumOP.jpg",
-        "https://image.tmdb.org/t/p/w780/kkPAqkwEBfmQSkDjVtGzSZkqVkj.jpg",
-        "https://image.tmdb.org/t/p/w780/b3iuEpM9HMmAo8pFLVZ12Yc08HA.jpg",
-        "https://image.tmdb.org/t/p/w780/rxgQrcQd4NmMdZv97iz42298WyO.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1340102"
     },
     {
       "id": 977942,
@@ -341,55 +293,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1423191"
     },
     {
-      "id": 1607127,
-      "type": "movie",
-      "title": "O Último Tiro Certo",
-      "release_date": "2026-09-22",
-      "poster": "https://image.tmdb.org/t/p/w500/owdiTFWuWq4UxPth6nXNsO6x74Q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-      "overview": "O Navy SEAL Jake Harris volta à ação quando um ex-companheiro ameaça o mundo.",
-      "tagline": "",
-      "runtime": 98,
-      "genres": [
-        "Ação",
-        "Thriller"
-      ],
-      "vote_average": 7.394,
-      "providers": [],
-      "videos": [
-        {
-          "key": "OPHefBZQd4U",
-          "name": "O Último Tiro Certo 2026 Trailer Legendado",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Scott Adkins",
-        "Steven Cree",
-        "Hannah Ware",
-        "Dolph Lundgren",
-        "ケイン・コスギ",
-        "Neil Linpow",
-        "Ray Fearon",
-        "Tom Dunne"
-      ],
-      "director": "James Nunn",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/u8u2YW9FIdEKlRHJ9qkLWGF8pMV.jpg",
-        "https://image.tmdb.org/t/p/w780/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-        "https://image.tmdb.org/t/p/w780/6M1gVQwezhnUXxQB8lfHBpSyula.jpg",
-        "https://image.tmdb.org/t/p/w780/7AArZYRp6zGtbvSbbqoHn9xFp0L.jpg",
-        "https://image.tmdb.org/t/p/w780/m5LTXfgzePxIhR4JLMViRGRetMO.jpg",
-        "https://image.tmdb.org/t/p/w780/ujKpwpbgd5759YEprWUn63HidHu.jpg",
-        "https://image.tmdb.org/t/p/w780/kBjVBvz9vHL7c9dbvngMnguyDfn.jpg",
-        "https://image.tmdb.org/t/p/w780/2ByCsL2tGAtxQsHYF2SYTtnKm8t.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1607127"
-    },
-    {
       "id": 1032863,
       "type": "movie",
       "title": "A Hipótese do Amor",
@@ -403,7 +306,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.018,
+      "vote_average": 8.017,
       "providers": [],
       "videos": [
         {
@@ -460,7 +363,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.44,
+      "vote_average": 7.398,
       "providers": [],
       "videos": [
         {
@@ -494,6 +397,52 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1263337"
     },
     {
+      "id": 1280300,
+      "type": "movie",
+      "title": "The Whistler",
+      "release_date": "2026-09-24",
+      "poster": "https://image.tmdb.org/t/p/w500/sX8tqkFR1aqZaLQ4Jgb8jEMB4RN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 97,
+      "genres": [
+        "Mistério",
+        "Terror",
+        "Thriller"
+      ],
+      "vote_average": 5.0,
+      "providers": [],
+      "videos": [
+        {
+          "key": "EpZ28ybST7Y",
+          "name": "THE WHISTLER – Official Trailer 2026  Thriller Movie First Look",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Juan Pablo Raba",
+        "Diane Guerrero",
+        "Indhira Serrano",
+        "Laureano Olivares",
+        "Laura Sofía Domínguez",
+        "Diego Landaeta",
+        "Carlos Velasquez",
+        "Norberto Rivera"
+      ],
+      "director": "Diego Velasco",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg",
+        "https://image.tmdb.org/t/p/w780/qx0Jki3XnHVWIXmd7gOcqjXSf0S.jpg",
+        "https://image.tmdb.org/t/p/w780/hehKiJJdyEL0nRz3UXP34ctqA1R.jpg",
+        "https://image.tmdb.org/t/p/w780/bgMD95c7IUVgzAWYbcoxRXidtFI.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1280300"
+    },
+    {
       "id": 1556321,
       "type": "movie",
       "title": "Death Whisperer: Saming the Werebeast",
@@ -508,7 +457,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 0,
+      "vote_average": 7.0,
       "providers": [],
       "videos": [
         {
@@ -551,7 +500,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 7.202,
+      "vote_average": 7.211,
       "providers": [],
       "videos": [
         {
@@ -616,7 +565,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.495,
       "providers": [],
       "videos": [
         {
@@ -648,9 +597,9 @@
       ],
       "director": "Alejandro G. Iñárritu",
       "images": [
+        "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
         "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
         "https://image.tmdb.org/t/p/w780/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
-        "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
         "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
         "https://image.tmdb.org/t/p/w780/244Hk4UVxrgdotp0pfkvnW9Iand.jpg",
         "https://image.tmdb.org/t/p/w780/vlJHTUMyfPw9398oIvcosdNWSSw.jpg",
@@ -674,7 +623,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.812,
+      "vote_average": 5.741,
       "providers": [],
       "videos": [
         {
@@ -761,7 +710,7 @@
       "title": "Verity",
       "release_date": "2026-10-01",
       "poster": "https://image.tmdb.org/t/p/w500/6Qf3sylInJeyK0fFTfjprnGIXCF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
       "overview": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
       "tagline": "Não há luz para onde estamos indo.",
       "runtime": 114,
@@ -769,7 +718,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.424,
+      "vote_average": 6.4,
       "providers": [],
       "videos": [
         {
@@ -819,7 +768,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.675,
+      "vote_average": 7.582,
       "providers": [
         {
           "id": 350,
@@ -854,9 +803,9 @@
         "https://image.tmdb.org/t/p/w780/oOofgKLAWUhHGohxXdRm3yLOWYw.jpg",
         "https://image.tmdb.org/t/p/w780/e1EqWOQAp5mc5QUsCCGoeOixnfH.jpg",
         "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-        "https://image.tmdb.org/t/p/w780/pgirSzilULweZ9RsXLw1DjfNebw.jpg",
         "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
-        "https://image.tmdb.org/t/p/w780/bDHCTnzeWqNEajyFPhyRnWo0E4O.jpg"
+        "https://image.tmdb.org/t/p/w780/bDHCTnzeWqNEajyFPhyRnWo0E4O.jpg",
+        "https://image.tmdb.org/t/p/w780/wZvUZAl4rIwHbkRhEJKvl1v4Awl.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
@@ -866,14 +815,14 @@
       "title": "Outra Mamãe",
       "release_date": "2026-10-08",
       "poster": "https://image.tmdb.org/t/p/w500/j6eXMsykSZnXJT20YTdsdS9PXPj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
       "overview": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
       "tagline": "Sua mamãe não vai te salvar.",
       "runtime": 93,
       "genres": [
         "Terror"
       ],
-      "vote_average": 6.27,
+      "vote_average": 6.2,
       "providers": [],
       "videos": [
         {
@@ -913,11 +862,11 @@
       ],
       "director": "Rob Savage",
       "images": [
+        "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
         "https://image.tmdb.org/t/p/w780/yf5EKtrTKM8pla1TpNA5TsZgoTp.jpg",
         "https://image.tmdb.org/t/p/w780/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
-        "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-        "https://image.tmdb.org/t/p/w780/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
         "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+        "https://image.tmdb.org/t/p/w780/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
         "https://image.tmdb.org/t/p/w780/6R9ENxzYX60nC2B1ldaYzxsTwjN.jpg",
         "https://image.tmdb.org/t/p/w780/w8IKrH1azdXwxpmE2oMqhUcnsG6.jpg",
         "https://image.tmdb.org/t/p/w780/qHURF5fju9HYpnEdEj3D4HH8C7q.jpg"
@@ -938,7 +887,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.292,
+      "vote_average": 8.291,
       "providers": [],
       "videos": [
         {
@@ -972,6 +921,61 @@
         "https://image.tmdb.org/t/p/w780/iE07BOqCoKDYcZ1EOls9rMK9797.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1377237"
+    },
+    {
+      "id": 1236045,
+      "type": "movie",
+      "title": "Sobrevivência",
+      "release_date": "2026-10-09",
+      "poster": "https://image.tmdb.org/t/p/w500/62vtHEyzKhFRuEOLLiQfPi60mSs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "overview": "O filho de um candidato a prefeito de Los Angeles é sequestrado. Agora, ele e a esposa tentam conseguir o dinheiro do resgate e tomam decisões arriscadas.",
+      "tagline": "",
+      "runtime": 109,
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "vote_average": 7.1,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "cCQ6deXxzVE",
+          "name": "Sobrevivência | Trailer oficial | Netflix",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Ben Affleck",
+        "Kerry Washington",
+        "Gillian Anderson",
+        "Steven Yeun",
+        "Adriana Paz",
+        "Luis Gerardo Méndez",
+        "Christopher Woodley",
+        "Jacob Estrada"
+      ],
+      "director": "Ben Affleck",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+        "https://image.tmdb.org/t/p/w780/5yzM78Tp8nYwSCQtyRcmnHmCn5C.jpg",
+        "https://image.tmdb.org/t/p/w780/swcmyUx5lbtPB2Qd8S2VuPK901i.jpg",
+        "https://image.tmdb.org/t/p/w780/44iewfUtvjptzIL09s63rdI0HCc.jpg",
+        "https://image.tmdb.org/t/p/w780/gMLzZ5CrVqyK7PV1neq1VneBJH1.jpg",
+        "https://image.tmdb.org/t/p/w780/f01Xpmo9BYHWmFEoUG9BrsXFSCL.jpg",
+        "https://image.tmdb.org/t/p/w780/7MDpRHFY6c0sQT3eMKfOMAs3QLm.jpg",
+        "https://image.tmdb.org/t/p/w780/kKGPbovCWsFJ6xcDUOdnqHVEzgY.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1236045"
     },
     {
       "id": 1294189,
