@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T05:47:49.900789+00:00",
+  "updated_at": "2026-10-11T12:51:09.703190+00:00",
   "region": "BR",
   "items": [
     {
@@ -20,7 +20,7 @@
       "providers": [],
       "videos": [
         {
-          "key": "lz_Nt7a5ZMI",
+          "key": "c5FGrGLlRdw",
           "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
@@ -100,12 +100,12 @@
         "Drama",
         "Ação"
       ],
-      "vote_average": 7.9,
+      "vote_average": 7.94,
       "providers": [],
       "videos": [
         {
-          "key": "gYNj2QbQ2PY",
-          "name": "Rebelde | Trailer oficial | Netflix",
+          "key": "aDfdIhqsAV4",
+          "name": "Rebelde: Temporada 2 | Trailer oficial | Netflix Brasil",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -306,7 +306,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.023,
+      "vote_average": 8.033,
       "providers": [],
       "videos": [
         {
@@ -363,7 +363,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.397,
+      "vote_average": 7.412,
       "providers": [],
       "videos": [
         {
@@ -500,7 +500,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 7.236,
+      "vote_average": 7.306,
       "providers": [],
       "videos": [
         {
@@ -538,7 +538,7 @@
         "Jordan Coleman",
         "Maryna Bennett"
       ],
-      "director": "Michael Spierig",
+      "director": "Peter Spierig",
       "images": [
         "https://image.tmdb.org/t/p/w780/JzTmH0s7caaS20YyBQd3XFlHHp.jpg",
         "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
@@ -565,7 +565,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.509,
+      "vote_average": 7.529,
       "providers": [],
       "videos": [
         {
@@ -623,7 +623,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.714,
+      "vote_average": 5.733,
       "providers": [],
       "videos": [
         {
@@ -676,7 +676,16 @@
       ],
       "vote_average": 7.633,
       "providers": [],
-      "videos": [],
+      "videos": [
+        {
+          "key": "pr39G29-tOM",
+          "name": "Renegade Immortal: Battle of the Immortal Slayer | Trailer",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
       "cast": [
         "史泽鲲",
         "Li Jiaxiang",
@@ -750,7 +759,7 @@
       "title": "Matchbox - O Filme",
       "release_date": "2026-10-05",
       "poster": "https://image.tmdb.org/t/p/w500/hgPJA0NTmXYpPA3cgh4ZrI1PubL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4N2Ur9ald3D1rncUzmskcwe9PCK.jpg",
       "overview": "Quando um grupo de antigos amigos de infância se reencontra, o encontro toma um rumo inesperado ao se depararem com uma perigosa trama internacional e precisarem salvar o mundo.",
       "tagline": "Salve o mundo, traga seus amigos.",
       "runtime": 127,
@@ -759,7 +768,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.8,
+      "vote_average": 7.821,
       "providers": [
         {
           "id": 350,
@@ -780,12 +789,12 @@
       "cast": [
         "John Cena",
         "Jessica Biel",
-        "Sam Richardson",
         "Arturo Castro",
+        "Sam Richardson",
         "Teyonah Parris",
-        "Corey Stoll",
-        "Bill Camp",
-        "گلشیفته فراهانی"
+        "Danai Gurira",
+        "گلشیفته فراهانی",
+        "Corey Stoll"
       ],
       "director": "Sam Hargrave",
       "images": [
@@ -793,10 +802,10 @@
         "https://image.tmdb.org/t/p/w780/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
         "https://image.tmdb.org/t/p/w780/oOofgKLAWUhHGohxXdRm3yLOWYw.jpg",
         "https://image.tmdb.org/t/p/w780/e1EqWOQAp5mc5QUsCCGoeOixnfH.jpg",
+        "https://image.tmdb.org/t/p/w780/4N2Ur9ald3D1rncUzmskcwe9PCK.jpg",
+        "https://image.tmdb.org/t/p/w780/caXP8VwAFVmrsJG6s1nO9NikxRI.jpg",
         "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-        "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
-        "https://image.tmdb.org/t/p/w780/bDHCTnzeWqNEajyFPhyRnWo0E4O.jpg",
-        "https://image.tmdb.org/t/p/w780/wZvUZAl4rIwHbkRhEJKvl1v4Awl.jpg"
+        "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
@@ -843,11 +852,11 @@
       ],
       "cast": [
         "Jessica Chastain",
-        "Arabella Olivia Clark",
         "Jay Duplass",
-        "Dichen Lachman",
-        "Arian Moayed",
+        "Arabella Olivia Clark",
         "Karen Allen",
+        "Arian Moayed",
+        "Dichen Lachman",
         "Sean Kaufman",
         "Adam Silver"
       ],
@@ -878,7 +887,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.302,
+      "vote_average": 8.3,
       "providers": [],
       "videos": [
         {
@@ -927,7 +936,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.235,
+      "vote_average": 7.503,
       "providers": [
         {
           "id": 8,
@@ -986,8 +995,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "SwIcphIaLMI",
-          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
+          "key": "DQAUbfAtZLA",
+          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
