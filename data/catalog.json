@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T21:45:09.969955+00:00",
+  "updated_at": "2026-10-11T05:47:49.900789+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,11 +16,11 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.519,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
-          "key": "c5FGrGLlRdw",
+          "key": "lz_Nt7a5ZMI",
           "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
           "type": "Trailer",
           "official": false,
@@ -47,7 +47,7 @@
       "type": "movie",
       "title": "Resident Dead",
       "release_date": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w500/yX8ziNTZ5aOszJ3l4R3BlT2gBIa.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/qKhMVWwFikSUzOpkhOl35GBLkGH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/yKx5gYrYgakKZuUWAsuFDStBroy.jpg",
       "overview": "Sinopse não disponível.",
       "tagline": "",
@@ -55,7 +55,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.929,
+      "vote_average": 5.9,
       "providers": [],
       "videos": [
         {
@@ -149,7 +149,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.783,
+      "vote_average": 6.773,
       "providers": [],
       "videos": [
         {
@@ -249,7 +249,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.323,
+      "vote_average": 7.329,
       "providers": [],
       "videos": [
         {
@@ -306,7 +306,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.017,
+      "vote_average": 8.023,
       "providers": [],
       "videos": [
         {
@@ -363,7 +363,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.398,
+      "vote_average": 7.397,
       "providers": [],
       "videos": [
         {
@@ -500,7 +500,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 7.211,
+      "vote_average": 7.236,
       "providers": [],
       "videos": [
         {
@@ -565,7 +565,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.495,
+      "vote_average": 7.509,
       "providers": [],
       "videos": [
         {
@@ -597,9 +597,9 @@
       ],
       "director": "Alejandro G. Iñárritu",
       "images": [
-        "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
         "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
         "https://image.tmdb.org/t/p/w780/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
+        "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
         "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
         "https://image.tmdb.org/t/p/w780/244Hk4UVxrgdotp0pfkvnW9Iand.jpg",
         "https://image.tmdb.org/t/p/w780/vlJHTUMyfPw9398oIvcosdNWSSw.jpg",
@@ -623,7 +623,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.741,
+      "vote_average": 5.714,
       "providers": [],
       "videos": [
         {
@@ -674,18 +674,9 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.633,
       "providers": [],
-      "videos": [
-        {
-          "key": "pr39G29-tOM",
-          "name": "Renegade Immortal: Battle of the Immortal Slayer | Trailer",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
+      "videos": [],
       "cast": [
         "史泽鲲",
         "Li Jiaxiang",
@@ -718,7 +709,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.4,
+      "vote_average": 6.417,
       "providers": [],
       "videos": [
         {
@@ -742,8 +733,8 @@
       ],
       "director": "Michael Showalter",
       "images": [
-        "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
         "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+        "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
         "https://image.tmdb.org/t/p/w780/zrGI2Lm89fgR5ntysKLmEPgNrdV.jpg",
         "https://image.tmdb.org/t/p/w780/b1y7n7PwuxlVaLrDBESrAqdRehx.jpg",
         "https://image.tmdb.org/t/p/w780/5fUn1vVAhFayRMxLKmY2Fly9CWz.jpg",
@@ -768,7 +759,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.582,
+      "vote_average": 7.8,
       "providers": [
         {
           "id": 350,
@@ -822,7 +813,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 6.2,
+      "vote_average": 5.8,
       "providers": [],
       "videos": [
         {
@@ -864,12 +855,12 @@
       "images": [
         "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
         "https://image.tmdb.org/t/p/w780/yf5EKtrTKM8pla1TpNA5TsZgoTp.jpg",
-        "https://image.tmdb.org/t/p/w780/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
+        "https://image.tmdb.org/t/p/w780/qHURF5fju9HYpnEdEj3D4HH8C7q.jpg",
+        "https://image.tmdb.org/t/p/w780/AflbdtwHm1FOXKCFtn8wKaQsAjR.jpg",
+        "https://image.tmdb.org/t/p/w780/oxnzKR0Ag5f35JYiYGs4lTqTG5Q.jpg",
+        "https://image.tmdb.org/t/p/w780/fqK74DYEkAuvMJXozxiqSujCQU4.jpg",
         "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-        "https://image.tmdb.org/t/p/w780/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
-        "https://image.tmdb.org/t/p/w780/6R9ENxzYX60nC2B1ldaYzxsTwjN.jpg",
-        "https://image.tmdb.org/t/p/w780/w8IKrH1azdXwxpmE2oMqhUcnsG6.jpg",
-        "https://image.tmdb.org/t/p/w780/qHURF5fju9HYpnEdEj3D4HH8C7q.jpg"
+        "https://image.tmdb.org/t/p/w780/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1400837"
     },
@@ -887,7 +878,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.291,
+      "vote_average": 8.302,
       "providers": [],
       "videos": [
         {
@@ -936,7 +927,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.1,
+      "vote_average": 7.235,
       "providers": [
         {
           "id": 8,
@@ -995,8 +986,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "DQAUbfAtZLA",
-          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
+          "key": "SwIcphIaLMI",
+          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
