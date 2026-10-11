@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T12:51:09.703190+00:00",
+  "updated_at": "2026-10-11T21:58:48.570852+00:00",
   "region": "BR",
   "items": [
     {
@@ -59,8 +59,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "54YKyY87lw4",
-          "name": "RESIDENT DEAD Official Trailer (2026) | John Scott Wells Horror",
+          "key": "i7DlsDPq_eQ",
+          "name": "RESIDENT DEAD Official Trailer (2026) Zombies Movie",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -100,12 +100,12 @@
         "Drama",
         "Ação"
       ],
-      "vote_average": 7.94,
+      "vote_average": 7.9,
       "providers": [],
       "videos": [
         {
-          "key": "aDfdIhqsAV4",
-          "name": "Rebelde: Temporada 2 | Trailer oficial | Netflix Brasil",
+          "key": "gYNj2QbQ2PY",
+          "name": "Rebelde | Trailer oficial | Netflix",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -149,7 +149,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.773,
+      "vote_average": 6.781,
       "providers": [],
       "videos": [
         {
@@ -249,7 +249,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.329,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -293,6 +293,55 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1423191"
     },
     {
+      "id": 1607127,
+      "type": "movie",
+      "title": "O Último Tiro Certo",
+      "release_date": "2026-09-22",
+      "poster": "https://image.tmdb.org/t/p/w500/owdiTFWuWq4UxPth6nXNsO6x74Q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+      "overview": "O Navy SEAL Jake Harris volta à ação quando um ex-companheiro ameaça o mundo.",
+      "tagline": "",
+      "runtime": 98,
+      "genres": [
+        "Ação",
+        "Thriller"
+      ],
+      "vote_average": 7.429,
+      "providers": [],
+      "videos": [
+        {
+          "key": "OPHefBZQd4U",
+          "name": "O Último Tiro Certo 2026 Trailer Legendado",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Scott Adkins",
+        "Steven Cree",
+        "Hannah Ware",
+        "Dolph Lundgren",
+        "ケイン・コスギ",
+        "Neil Linpow",
+        "Ray Fearon",
+        "Tom Dunne"
+      ],
+      "director": "James Nunn",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/u8u2YW9FIdEKlRHJ9qkLWGF8pMV.jpg",
+        "https://image.tmdb.org/t/p/w780/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+        "https://image.tmdb.org/t/p/w780/6M1gVQwezhnUXxQB8lfHBpSyula.jpg",
+        "https://image.tmdb.org/t/p/w780/7AArZYRp6zGtbvSbbqoHn9xFp0L.jpg",
+        "https://image.tmdb.org/t/p/w780/m5LTXfgzePxIhR4JLMViRGRetMO.jpg",
+        "https://image.tmdb.org/t/p/w780/ujKpwpbgd5759YEprWUn63HidHu.jpg",
+        "https://image.tmdb.org/t/p/w780/kBjVBvz9vHL7c9dbvngMnguyDfn.jpg",
+        "https://image.tmdb.org/t/p/w780/2ByCsL2tGAtxQsHYF2SYTtnKm8t.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1607127"
+    },
+    {
       "id": 1032863,
       "type": "movie",
       "title": "A Hipótese do Amor",
@@ -306,7 +355,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.033,
+      "vote_average": 8.037,
       "providers": [],
       "videos": [
         {
@@ -363,7 +412,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.412,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -381,7 +430,9 @@
         "Anna Lambe",
         "Justin Melnick",
         "Shaun DeZern",
-        "Uber"
+        "Uber",
+        "Seeka",
+        "Ryker"
       ],
       "director": "David Ayer",
       "images": [
@@ -500,7 +551,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 7.306,
+      "vote_average": 7.303,
       "providers": [],
       "videos": [
         {
@@ -565,7 +616,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.529,
+      "vote_average": 7.543,
       "providers": [],
       "videos": [
         {
@@ -623,7 +674,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.733,
+      "vote_average": 5.764,
       "providers": [],
       "videos": [
         {
@@ -659,52 +710,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1284046"
     },
     {
-      "id": 1599191,
-      "type": "movie",
-      "title": "Renegade Immortal: Batalha dos Imortais",
-      "release_date": "2026-10-01",
-      "poster": "https://image.tmdb.org/t/p/w500/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 0,
-      "genres": [
-        "Animação",
-        "Ação",
-        "Aventura",
-        "Fantasia"
-      ],
-      "vote_average": 7.633,
-      "providers": [],
-      "videos": [
-        {
-          "key": "pr39G29-tOM",
-          "name": "Renegade Immortal: Battle of the Immortal Slayer | Trailer",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "史泽鲲",
-        "Li Jiaxiang",
-        "刘思岑",
-        "Guan Shuai",
-        "Si Xi",
-        "杨厚垚",
-        "张如麟",
-        "柳知萧"
-      ],
-      "director": "石头熊",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
-        "https://image.tmdb.org/t/p/w780/mEbLMHjSCOsa9lABDpDcRrCtyiM.jpg",
-        "https://image.tmdb.org/t/p/w780/c4TkvRGVrghFY2qFKJ0SUwqtAiW.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1599191"
-    },
-    {
       "id": 1283515,
       "type": "movie",
       "title": "Verity",
@@ -718,7 +723,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.417,
+      "vote_average": 6.434,
       "providers": [],
       "videos": [
         {
@@ -768,7 +773,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.821,
+      "vote_average": 7.77,
       "providers": [
         {
           "id": 350,
@@ -822,7 +827,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.8,
+      "vote_average": 5.782,
       "providers": [],
       "videos": [
         {
@@ -887,7 +892,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.3,
+      "vote_average": 8.317,
       "providers": [],
       "videos": [
         {
@@ -936,7 +941,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.503,
+      "vote_average": 7.367,
       "providers": [
         {
           "id": 8,
@@ -967,13 +972,13 @@
       "director": "Ben Affleck",
       "images": [
         "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+        "https://image.tmdb.org/t/p/w780/zah47IGR7eNJud8UQTTfVYNPIgW.jpg",
+        "https://image.tmdb.org/t/p/w780/cGJYmcBTbuEaOCJGXsU6MUej9HN.jpg",
         "https://image.tmdb.org/t/p/w780/5yzM78Tp8nYwSCQtyRcmnHmCn5C.jpg",
         "https://image.tmdb.org/t/p/w780/swcmyUx5lbtPB2Qd8S2VuPK901i.jpg",
         "https://image.tmdb.org/t/p/w780/44iewfUtvjptzIL09s63rdI0HCc.jpg",
         "https://image.tmdb.org/t/p/w780/gMLzZ5CrVqyK7PV1neq1VneBJH1.jpg",
-        "https://image.tmdb.org/t/p/w780/f01Xpmo9BYHWmFEoUG9BrsXFSCL.jpg",
-        "https://image.tmdb.org/t/p/w780/7MDpRHFY6c0sQT3eMKfOMAs3QLm.jpg",
-        "https://image.tmdb.org/t/p/w780/kKGPbovCWsFJ6xcDUOdnqHVEzgY.jpg"
+        "https://image.tmdb.org/t/p/w780/f01Xpmo9BYHWmFEoUG9BrsXFSCL.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1236045"
     },
