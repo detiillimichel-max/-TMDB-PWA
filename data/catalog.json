@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T21:58:48.570852+00:00",
+  "updated_at": "2026-10-12T05:59:16.369670+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.43,
       "providers": [],
       "videos": [
         {
@@ -59,8 +59,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "i7DlsDPq_eQ",
-          "name": "RESIDENT DEAD Official Trailer (2026) Zombies Movie",
+          "key": "54YKyY87lw4",
+          "name": "RESIDENT DEAD Official Trailer (2026) | John Scott Wells Horror",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -100,7 +100,7 @@
         "Drama",
         "Ação"
       ],
-      "vote_average": 7.9,
+      "vote_average": 7.981,
       "providers": [],
       "videos": [
         {
@@ -249,7 +249,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.33,
       "providers": [],
       "videos": [
         {
@@ -293,55 +293,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1423191"
     },
     {
-      "id": 1607127,
-      "type": "movie",
-      "title": "O Último Tiro Certo",
-      "release_date": "2026-09-22",
-      "poster": "https://image.tmdb.org/t/p/w500/owdiTFWuWq4UxPth6nXNsO6x74Q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-      "overview": "O Navy SEAL Jake Harris volta à ação quando um ex-companheiro ameaça o mundo.",
-      "tagline": "",
-      "runtime": 98,
-      "genres": [
-        "Ação",
-        "Thriller"
-      ],
-      "vote_average": 7.429,
-      "providers": [],
-      "videos": [
-        {
-          "key": "OPHefBZQd4U",
-          "name": "O Último Tiro Certo 2026 Trailer Legendado",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Scott Adkins",
-        "Steven Cree",
-        "Hannah Ware",
-        "Dolph Lundgren",
-        "ケイン・コスギ",
-        "Neil Linpow",
-        "Ray Fearon",
-        "Tom Dunne"
-      ],
-      "director": "James Nunn",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/u8u2YW9FIdEKlRHJ9qkLWGF8pMV.jpg",
-        "https://image.tmdb.org/t/p/w780/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-        "https://image.tmdb.org/t/p/w780/6M1gVQwezhnUXxQB8lfHBpSyula.jpg",
-        "https://image.tmdb.org/t/p/w780/7AArZYRp6zGtbvSbbqoHn9xFp0L.jpg",
-        "https://image.tmdb.org/t/p/w780/m5LTXfgzePxIhR4JLMViRGRetMO.jpg",
-        "https://image.tmdb.org/t/p/w780/ujKpwpbgd5759YEprWUn63HidHu.jpg",
-        "https://image.tmdb.org/t/p/w780/kBjVBvz9vHL7c9dbvngMnguyDfn.jpg",
-        "https://image.tmdb.org/t/p/w780/2ByCsL2tGAtxQsHYF2SYTtnKm8t.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1607127"
-    },
-    {
       "id": 1032863,
       "type": "movie",
       "title": "A Hipótese do Amor",
@@ -355,7 +306,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.037,
+      "vote_average": 8.06,
       "providers": [],
       "videos": [
         {
@@ -412,7 +363,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.436,
       "providers": [],
       "videos": [
         {
@@ -551,7 +502,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 7.303,
+      "vote_average": 7.361,
       "providers": [],
       "videos": [
         {
@@ -589,7 +540,7 @@
         "Jordan Coleman",
         "Maryna Bennett"
       ],
-      "director": "Peter Spierig",
+      "director": "Michael Spierig",
       "images": [
         "https://image.tmdb.org/t/p/w780/JzTmH0s7caaS20YyBQd3XFlHHp.jpg",
         "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
@@ -616,7 +567,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.543,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -674,7 +625,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.764,
+      "vote_average": 5.8,
       "providers": [],
       "videos": [
         {
@@ -723,7 +674,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.434,
+      "vote_average": 6.438,
       "providers": [],
       "videos": [
         {
@@ -736,8 +687,8 @@
         }
       ],
       "cast": [
-        "Dakota Johnson",
         "Anne Hathaway",
+        "Dakota Johnson",
         "Josh Hartnett",
         "Brady Wagner",
         "Ismael Cruz Cordova",
@@ -773,7 +724,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.77,
+      "vote_average": 7.824,
       "providers": [
         {
           "id": 350,
@@ -827,7 +778,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.782,
+      "vote_average": 5.789,
       "providers": [],
       "videos": [
         {
@@ -892,7 +843,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.317,
+      "vote_average": 8.319,
       "providers": [],
       "videos": [
         {
@@ -941,7 +892,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.367,
+      "vote_average": 7.444,
       "providers": [
         {
           "id": 8,
@@ -981,6 +932,56 @@
         "https://image.tmdb.org/t/p/w780/f01Xpmo9BYHWmFEoUG9BrsXFSCL.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1236045"
+    },
+    {
+      "id": 1742441,
+      "type": "movie",
+      "title": "V/H/S/Mixtape",
+      "release_date": "2026-10-09",
+      "poster": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mpB4pgtUcc7rCLxvlknzCbAQQEE.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 98,
+      "genres": [
+        "Terror",
+        "Música",
+        "Thriller"
+      ],
+      "vote_average": 4.1,
+      "providers": [],
+      "videos": [
+        {
+          "key": "qHJBNUhFGMI",
+          "name": "V/H/S/MIXTAPE | Official Trailer (2026) 4K",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Mike Derks",
+        "Michael Bishop",
+        "Brad Roberts",
+        "Casey Orr",
+        "Bob Gorman",
+        "Josh Willis",
+        "Christopher Romero Sosa",
+        "Barbara Crampton"
+      ],
+      "director": "David Moreau",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/mpB4pgtUcc7rCLxvlknzCbAQQEE.jpg",
+        "https://image.tmdb.org/t/p/w780/8fTUkzzgrJXThCK0dLY5Pb2V9uM.jpg",
+        "https://image.tmdb.org/t/p/w780/sEfhjRXFJqxwO50Dpe6HNLLU2aY.jpg",
+        "https://image.tmdb.org/t/p/w780/6hNFtImgvQZjRw8OxScyzPIx8hW.jpg",
+        "https://image.tmdb.org/t/p/w780/bC8zhz6jZO4pa4lGtHriNGdtKWY.jpg",
+        "https://image.tmdb.org/t/p/w780/yeGO5vvfwMc4HLJJHIN2vvtvPX0.jpg",
+        "https://image.tmdb.org/t/p/w780/yIDZiYea2Bah1yLYz14jlC89WJ5.jpg",
+        "https://image.tmdb.org/t/p/w780/ggzLEvPqBkSY03936i3lrS476Xj.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1742441"
     },
     {
       "id": 1294189,
