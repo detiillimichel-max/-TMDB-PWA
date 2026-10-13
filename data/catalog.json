@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T14:12:50.738937+00:00",
+  "updated_at": "2026-10-13T22:45:32.749549+00:00",
   "region": "BR",
   "items": [
     {
@@ -59,8 +59,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "yEgW1K7I66Q",
-          "name": "RESIDENT DEAD Official Trailer 2026",
+          "key": "54YKyY87lw4",
+          "name": "RESIDENT DEAD Official Trailer (2026) | John Scott Wells Horror",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -86,6 +86,64 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1712451"
     },
     {
+      "id": 1302904,
+      "type": "movie",
+      "title": "Da Magia à Sedução: Feitiço de Amor",
+      "release_date": "2026-09-10",
+      "poster": "https://image.tmdb.org/t/p/w500/6xb6fv7MluhncJkNU6VtUWCBz3S.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
+      "overview": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
+      "tagline": "",
+      "runtime": 130,
+      "genres": [
+        "Romance",
+        "Fantasia",
+        "Comédia"
+      ],
+      "vote_average": 6.3,
+      "providers": [],
+      "videos": [
+        {
+          "key": "NWg58fi7w20",
+          "name": "Da Magia À Sedução: Feitiço de Amor l Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "pzQrRD4BD9A",
+          "name": "Trailer Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Joey King",
+        "Maisie Williams",
+        "Xolo Maridueña",
+        "Lee Pace",
+        "Dianne Wiest",
+        "Stockard Channing"
+      ],
+      "director": "Susanne Bier",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
+        "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+        "https://image.tmdb.org/t/p/w780/eHVFhyO2YkJPzvrMv2TmVhjPAUJ.jpg",
+        "https://image.tmdb.org/t/p/w780/yDgYYuz8jDQCRJbHC3XM7IIGoeR.jpg",
+        "https://image.tmdb.org/t/p/w780/kyrubDEucmnFPqVwVi2mhOGYZ3g.jpg",
+        "https://image.tmdb.org/t/p/w780/phL6LnTXTk1EofA7JDtDUmH6JZA.jpg",
+        "https://image.tmdb.org/t/p/w780/uxGBQkfmTczPp6o1tHpxZovq4MW.jpg",
+        "https://image.tmdb.org/t/p/w780/tII744wDlEZuNZEgSdQZqhuUuk2.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1302904"
+    },
+    {
       "id": 977942,
       "type": "movie",
       "title": "O Rebelde",
@@ -104,8 +162,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "gYNj2QbQ2PY",
-          "name": "Rebelde | Trailer oficial | Netflix",
+          "key": "OZhPiC0pnSk",
+          "name": "The Boroughs Jubilacion Rebelde (2026) HD Trailer Oficial Subtitulado Español - Serie",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -249,7 +307,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.31,
+      "vote_average": 7.309,
       "providers": [],
       "videos": [
         {
@@ -306,7 +364,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.059,
+      "vote_average": 8.025,
       "providers": [],
       "videos": [
         {
@@ -350,55 +408,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1032863"
     },
     {
-      "id": 1263337,
-      "type": "movie",
-      "title": "Coração Selvagem",
-      "release_date": "2026-09-24",
-      "poster": "https://image.tmdb.org/t/p/w500/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "overview": "Um ex-soldado ferido e seu cão de guerra aposentado lutam para sobreviver na região do Alasca e encontrar o caminho de volta para casa após um acidente aéreo na mata.",
-      "tagline": "Para sobreviver eles precisam um do outro.",
-      "runtime": 101,
-      "genres": [
-        "Aventura",
-        "Thriller"
-      ],
-      "vote_average": 7.453,
-      "providers": [],
-      "videos": [
-        {
-          "key": "F0jWGqOyQ8g",
-          "name": "Trailer Oficial | LEG",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Brad Pitt",
-        "J.K. Simmons",
-        "Anna Lambe",
-        "Justin Melnick",
-        "Shaun DeZern",
-        "Uber",
-        "Seeka",
-        "Ryker"
-      ],
-      "director": "David Ayer",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-        "https://image.tmdb.org/t/p/w780/nATJytbF2sB8QP4nKQNBUIdZswC.jpg",
-        "https://image.tmdb.org/t/p/w780/ynjkULhYw2427E1Yrrh6GGgIvfZ.jpg",
-        "https://image.tmdb.org/t/p/w780/briCzD66EoEBNGnbwV00N3LrDeA.jpg",
-        "https://image.tmdb.org/t/p/w780/bzi1j7GgxQMOwii5yDI2bsZ1PY6.jpg",
-        "https://image.tmdb.org/t/p/w780/iDEmqBQRNT0gWvLsRLblFB5NJS5.jpg",
-        "https://image.tmdb.org/t/p/w780/nlqHh1zGH8HYERr4eRICN9ligk.jpg",
-        "https://image.tmdb.org/t/p/w780/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1263337"
-    },
-    {
       "id": 1280300,
       "type": "movie",
       "title": "The Whistler",
@@ -417,8 +426,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "Q8OqFhfZ3ts",
-          "name": "THE WHISTLER Official Trailer (2026) Horror Movie [4K]",
+          "key": "EpZ28ybST7Y",
+          "name": "THE WHISTLER – Official Trailer 2026  Thriller Movie First Look",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -445,51 +454,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1280300"
     },
     {
-      "id": 1556321,
-      "type": "movie",
-      "title": "Death Whisperer: Saming the Werebeast",
-      "release_date": "2026-09-29",
-      "poster": "https://image.tmdb.org/t/p/w500/tOhbvoTC10Nf9WTBI1EIwaXz9Et.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
-      "overview": "Ambientado na década de 1960 em Kanchanaburi, na Tailândia, acompanhe o soldado Yak e o Sargento Paphan em uma missão de resgate na densa floresta de Khao Khwang. Lá, eles enfrentam o lendário Saming, um espírito de tigre devorador de homens que consegue assumir a forma humana.",
-      "tagline": "",
-      "runtime": 111,
-      "genres": [
-        "Terror",
-        "Thriller",
-        "Ação"
-      ],
-      "vote_average": 7.0,
-      "providers": [],
-      "videos": [
-        {
-          "key": "eOkUnRDfFgE",
-          "name": "Quỷ Ăn Tạng 4: Hổ Tinh | DEATH WHISPERER: SAMING THE WEREBEAST | OFFICIAL TRAILER | DKKC 09.10.2026",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "ณเดชน์ คูกิมิยะ",
-        "องอาจ เจียมเจริญพรกุล",
-        "เมลดา สุศรี",
-        "วิชญ์ภาส สุเมตติกุล",
-        "สหจักร บุญธนกิจ",
-        "อัครินทร์ อัครนิธิเมธรัฐ",
-        "ชูพงษ์ ช่างปรุง",
-        "Chanintorn Jitpreeda"
-      ],
-      "director": "ณฤทธิ์ ยุวบูรณ์",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
-        "https://image.tmdb.org/t/p/w780/8bEKkBsj0Xhpct20LFHXhKYO0Jb.jpg",
-        "https://image.tmdb.org/t/p/w780/vJxeJSN2c5eNFdJABPuJ7VUJSSb.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1556321"
-    },
-    {
       "id": 1101412,
       "type": "movie",
       "title": "A Queda 2: No Limite",
@@ -502,7 +466,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 7.32,
+      "vote_average": 7.31,
       "providers": [],
       "videos": [
         {
@@ -540,7 +504,7 @@
         "Jordan Coleman",
         "Maryna Bennett"
       ],
-      "director": "Michael Spierig",
+      "director": "Peter Spierig",
       "images": [
         "https://image.tmdb.org/t/p/w780/JzTmH0s7caaS20YyBQd3XFlHHp.jpg",
         "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
@@ -567,7 +531,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.471,
+      "vote_average": 7.475,
       "providers": [],
       "videos": [
         {
@@ -661,6 +625,55 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1284046"
     },
     {
+      "id": 1283515,
+      "type": "movie",
+      "title": "Verity",
+      "release_date": "2026-10-01",
+      "poster": "https://image.tmdb.org/t/p/w500/6Qf3sylInJeyK0fFTfjprnGIXCF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+      "overview": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
+      "tagline": "Não há luz para onde estamos indo.",
+      "runtime": 114,
+      "genres": [
+        "Mistério",
+        "Thriller"
+      ],
+      "vote_average": 6.339,
+      "providers": [],
+      "videos": [
+        {
+          "key": "z0srCgRUpBY",
+          "name": "Verity | Teaser Oficial | Dublado",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Anne Hathaway",
+        "Dakota Johnson",
+        "Josh Hartnett",
+        "Brady Wagner",
+        "Ismael Cruz Cordova",
+        "Ирина Дворовенко",
+        "Sienna Kulovitz",
+        "K.K. Moggie"
+      ],
+      "director": "Michael Showalter",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+        "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+        "https://image.tmdb.org/t/p/w780/zrGI2Lm89fgR5ntysKLmEPgNrdV.jpg",
+        "https://image.tmdb.org/t/p/w780/b1y7n7PwuxlVaLrDBESrAqdRehx.jpg",
+        "https://image.tmdb.org/t/p/w780/5fUn1vVAhFayRMxLKmY2Fly9CWz.jpg",
+        "https://image.tmdb.org/t/p/w780/ugwkKEXBlQAXxbBbbYeOLN0J20U.jpg",
+        "https://image.tmdb.org/t/p/w780/2upfBtX4LgTcEuLI6bZuWlVv3U3.jpg",
+        "https://image.tmdb.org/t/p/w780/sSPreWTXybWDgfNvKoL9E4sahqH.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1283515"
+    },
+    {
       "id": 1148365,
       "type": "movie",
       "title": "Matchbox - O Filme",
@@ -675,7 +688,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.972,
+      "vote_average": 7.917,
       "providers": [
         {
           "id": 350,
@@ -729,7 +742,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.96,
+      "vote_average": 6.005,
       "providers": [],
       "videos": [
         {
@@ -786,7 +799,7 @@
       "title": "Três Horas Para Viver",
       "release_date": "2026-10-08",
       "poster": "https://image.tmdb.org/t/p/w500/vzb3bKOFtciIVSEIsLOZH4uJfxN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
       "overview": "Um transportador de elite embarca em uma missão urgente: entregar um órgão vital para salvar a vida de uma garotinha de sete anos. O que parecia ser uma tarefa objetiva logo se transforma em uma corrida frenética contra o tempo quando uma perigosa organização criminosa entra em cena para impedir o sucesso da entrega.",
       "tagline": "",
       "runtime": 97,
@@ -794,7 +807,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.3,
+      "vote_average": 8.307,
       "providers": [],
       "videos": [
         {
@@ -818,8 +831,8 @@
       ],
       "director": "Scott Waugh",
       "images": [
-        "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
         "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+        "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
         "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
         "https://image.tmdb.org/t/p/w780/w8fEorMTwgMN9h1cgOb3yMggbiu.jpg",
         "https://image.tmdb.org/t/p/w780/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg",
@@ -895,7 +908,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.399,
+      "vote_average": 7.371,
       "providers": [
         {
           "id": 8,
