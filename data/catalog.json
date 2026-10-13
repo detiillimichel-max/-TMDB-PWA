@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T00:40:39.985738+00:00",
+  "updated_at": "2026-10-13T14:12:50.738937+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.444,
+      "vote_average": 7.41,
       "providers": [],
       "videos": [
         {
@@ -59,8 +59,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "54YKyY87lw4",
-          "name": "RESIDENT DEAD Official Trailer (2026) | John Scott Wells Horror",
+          "key": "yEgW1K7I66Q",
+          "name": "RESIDENT DEAD Official Trailer 2026",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -100,7 +100,7 @@
         "Drama",
         "Ação"
       ],
-      "vote_average": 8.0,
+      "vote_average": 7.989,
       "providers": [],
       "videos": [
         {
@@ -149,7 +149,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.8,
+      "vote_average": 6.839,
       "providers": [],
       "videos": [
         {
@@ -249,7 +249,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.308,
+      "vote_average": 7.31,
       "providers": [],
       "videos": [
         {
@@ -306,7 +306,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.056,
+      "vote_average": 8.059,
       "providers": [],
       "videos": [
         {
@@ -350,6 +350,55 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1032863"
     },
     {
+      "id": 1263337,
+      "type": "movie",
+      "title": "Coração Selvagem",
+      "release_date": "2026-09-24",
+      "poster": "https://image.tmdb.org/t/p/w500/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "overview": "Um ex-soldado ferido e seu cão de guerra aposentado lutam para sobreviver na região do Alasca e encontrar o caminho de volta para casa após um acidente aéreo na mata.",
+      "tagline": "Para sobreviver eles precisam um do outro.",
+      "runtime": 101,
+      "genres": [
+        "Aventura",
+        "Thriller"
+      ],
+      "vote_average": 7.453,
+      "providers": [],
+      "videos": [
+        {
+          "key": "F0jWGqOyQ8g",
+          "name": "Trailer Oficial | LEG",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Brad Pitt",
+        "J.K. Simmons",
+        "Anna Lambe",
+        "Justin Melnick",
+        "Shaun DeZern",
+        "Uber",
+        "Seeka",
+        "Ryker"
+      ],
+      "director": "David Ayer",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+        "https://image.tmdb.org/t/p/w780/nATJytbF2sB8QP4nKQNBUIdZswC.jpg",
+        "https://image.tmdb.org/t/p/w780/ynjkULhYw2427E1Yrrh6GGgIvfZ.jpg",
+        "https://image.tmdb.org/t/p/w780/briCzD66EoEBNGnbwV00N3LrDeA.jpg",
+        "https://image.tmdb.org/t/p/w780/bzi1j7GgxQMOwii5yDI2bsZ1PY6.jpg",
+        "https://image.tmdb.org/t/p/w780/iDEmqBQRNT0gWvLsRLblFB5NJS5.jpg",
+        "https://image.tmdb.org/t/p/w780/nlqHh1zGH8HYERr4eRICN9ligk.jpg",
+        "https://image.tmdb.org/t/p/w780/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1263337"
+    },
+    {
       "id": 1280300,
       "type": "movie",
       "title": "The Whistler",
@@ -368,8 +417,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "EpZ28ybST7Y",
-          "name": "THE WHISTLER – Official Trailer 2026  Thriller Movie First Look",
+          "key": "Q8OqFhfZ3ts",
+          "name": "THE WHISTLER Official Trailer (2026) Horror Movie [4K]",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -453,7 +502,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 7.294,
+      "vote_average": 7.32,
       "providers": [],
       "videos": [
         {
@@ -518,7 +567,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.461,
+      "vote_average": 7.471,
       "providers": [],
       "videos": [
         {
@@ -612,61 +661,12 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1284046"
     },
     {
-      "id": 1283515,
-      "type": "movie",
-      "title": "Verity",
-      "release_date": "2026-10-01",
-      "poster": "https://image.tmdb.org/t/p/w500/6Qf3sylInJeyK0fFTfjprnGIXCF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-      "overview": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
-      "tagline": "Não há luz para onde estamos indo.",
-      "runtime": 114,
-      "genres": [
-        "Mistério",
-        "Thriller"
-      ],
-      "vote_average": 6.399,
-      "providers": [],
-      "videos": [
-        {
-          "key": "z0srCgRUpBY",
-          "name": "Verity | Teaser Oficial | Dublado",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Anne Hathaway",
-        "Dakota Johnson",
-        "Josh Hartnett",
-        "Brady Wagner",
-        "Ismael Cruz Cordova",
-        "Ирина Дворовенко",
-        "Sienna Kulovitz",
-        "K.K. Moggie"
-      ],
-      "director": "Michael Showalter",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-        "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-        "https://image.tmdb.org/t/p/w780/zrGI2Lm89fgR5ntysKLmEPgNrdV.jpg",
-        "https://image.tmdb.org/t/p/w780/b1y7n7PwuxlVaLrDBESrAqdRehx.jpg",
-        "https://image.tmdb.org/t/p/w780/5fUn1vVAhFayRMxLKmY2Fly9CWz.jpg",
-        "https://image.tmdb.org/t/p/w780/ugwkKEXBlQAXxbBbbYeOLN0J20U.jpg",
-        "https://image.tmdb.org/t/p/w780/2upfBtX4LgTcEuLI6bZuWlVv3U3.jpg",
-        "https://image.tmdb.org/t/p/w780/sSPreWTXybWDgfNvKoL9E4sahqH.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1283515"
-    },
-    {
       "id": 1148365,
       "type": "movie",
       "title": "Matchbox - O Filme",
       "release_date": "2026-10-05",
       "poster": "https://image.tmdb.org/t/p/w500/hgPJA0NTmXYpPA3cgh4ZrI1PubL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4N2Ur9ald3D1rncUzmskcwe9PCK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
       "overview": "Quando um grupo de antigos amigos de infância se reencontra, o encontro toma um rumo inesperado ao se depararem com uma perigosa trama internacional e precisarem salvar o mundo.",
       "tagline": "Salve o mundo, traga seus amigos.",
       "runtime": 127,
@@ -675,7 +675,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.916,
+      "vote_average": 7.972,
       "providers": [
         {
           "id": 350,
@@ -709,10 +709,10 @@
         "https://image.tmdb.org/t/p/w780/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
         "https://image.tmdb.org/t/p/w780/oOofgKLAWUhHGohxXdRm3yLOWYw.jpg",
         "https://image.tmdb.org/t/p/w780/e1EqWOQAp5mc5QUsCCGoeOixnfH.jpg",
-        "https://image.tmdb.org/t/p/w780/4N2Ur9ald3D1rncUzmskcwe9PCK.jpg",
-        "https://image.tmdb.org/t/p/w780/caXP8VwAFVmrsJG6s1nO9NikxRI.jpg",
         "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-        "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg"
+        "https://image.tmdb.org/t/p/w780/vJlFR2PEioavrz17QbC56r76V9F.jpg",
+        "https://image.tmdb.org/t/p/w780/4N2Ur9ald3D1rncUzmskcwe9PCK.jpg",
+        "https://image.tmdb.org/t/p/w780/caXP8VwAFVmrsJG6s1nO9NikxRI.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
@@ -729,7 +729,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.854,
+      "vote_average": 5.96,
       "providers": [],
       "videos": [
         {
@@ -794,7 +794,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.316,
+      "vote_average": 8.3,
       "providers": [],
       "videos": [
         {
@@ -843,7 +843,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 8.125,
+      "vote_average": 8.1,
       "providers": [
         {
           "id": 8,
@@ -895,7 +895,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.371,
+      "vote_average": 7.399,
       "providers": [
         {
           "id": 8,
@@ -948,10 +948,9 @@
       "runtime": 98,
       "genres": [
         "Terror",
-        "Música",
-        "Thriller"
+        "Música"
       ],
-      "vote_average": 4.067,
+      "vote_average": 4.4,
       "providers": [],
       "videos": [
         {
