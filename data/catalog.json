@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T15:27:06.459870+00:00",
+  "updated_at": "2026-10-13T00:40:39.985738+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.43,
+      "vote_average": 7.444,
       "providers": [],
       "videos": [
         {
@@ -100,7 +100,7 @@
         "Drama",
         "Ação"
       ],
-      "vote_average": 7.974,
+      "vote_average": 8.0,
       "providers": [],
       "videos": [
         {
@@ -199,7 +199,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.0,
+      "vote_average": 5.808,
       "providers": [],
       "videos": [
         {
@@ -249,7 +249,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.306,
+      "vote_average": 7.308,
       "providers": [],
       "videos": [
         {
@@ -368,8 +368,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "GsbhZOibDHA",
-          "name": "The Whistler (2026) Poseido/El Silbon - HD Trailer Oficial Subtitulado Español - Venezuela - Terror",
+          "key": "EpZ28ybST7Y",
+          "name": "THE WHISTLER – Official Trailer 2026  Thriller Movie First Look",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -453,7 +453,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 7.296,
+      "vote_average": 7.294,
       "providers": [],
       "videos": [
         {
@@ -518,7 +518,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.533,
+      "vote_average": 7.461,
       "providers": [],
       "videos": [
         {
@@ -576,7 +576,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.796,
+      "vote_average": 5.8,
       "providers": [],
       "videos": [
         {
@@ -625,7 +625,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.433,
+      "vote_average": 6.399,
       "providers": [],
       "videos": [
         {
@@ -675,7 +675,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.93,
+      "vote_average": 7.916,
       "providers": [
         {
           "id": 350,
@@ -729,7 +729,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.797,
+      "vote_average": 5.854,
       "providers": [],
       "videos": [
         {
@@ -794,7 +794,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.312,
+      "vote_average": 8.316,
       "providers": [],
       "videos": [
         {
@@ -843,7 +843,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 8.333,
+      "vote_average": 8.125,
       "providers": [
         {
           "id": 8,
@@ -895,7 +895,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.463,
+      "vote_average": 7.371,
       "providers": [
         {
           "id": 8,
@@ -928,9 +928,9 @@
         "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg",
         "https://image.tmdb.org/t/p/w780/zah47IGR7eNJud8UQTTfVYNPIgW.jpg",
         "https://image.tmdb.org/t/p/w780/5yzM78Tp8nYwSCQtyRcmnHmCn5C.jpg",
+        "https://image.tmdb.org/t/p/w780/cGJYmcBTbuEaOCJGXsU6MUej9HN.jpg",
         "https://image.tmdb.org/t/p/w780/swcmyUx5lbtPB2Qd8S2VuPK901i.jpg",
         "https://image.tmdb.org/t/p/w780/44iewfUtvjptzIL09s63rdI0HCc.jpg",
-        "https://image.tmdb.org/t/p/w780/cGJYmcBTbuEaOCJGXsU6MUej9HN.jpg",
         "https://image.tmdb.org/t/p/w780/gMLzZ5CrVqyK7PV1neq1VneBJH1.jpg",
         "https://image.tmdb.org/t/p/w780/f01Xpmo9BYHWmFEoUG9BrsXFSCL.jpg"
       ],
@@ -943,7 +943,7 @@
       "release_date": "2026-10-09",
       "poster": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/mpB4pgtUcc7rCLxvlknzCbAQQEE.jpg",
-      "overview": "Sinopse não disponível.",
+      "overview": "Ele apresenta uma nova antologia na qual música e som se tornam uma fonte de terror.",
       "tagline": "",
       "runtime": 98,
       "genres": [
@@ -951,7 +951,7 @@
         "Música",
         "Thriller"
       ],
-      "vote_average": 4.1,
+      "vote_average": 4.067,
       "providers": [],
       "videos": [
         {
