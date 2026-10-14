@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T17:11:32.635917+00:00",
+  "updated_at": "2026-10-14T21:41:54.277734+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.41,
+      "vote_average": 7.44,
       "providers": [],
       "videos": [
         {
@@ -100,7 +100,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 6.372,
+      "vote_average": 6.381,
       "providers": [],
       "videos": [
         {
@@ -135,11 +135,11 @@
         "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
         "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
         "https://image.tmdb.org/t/p/w780/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
+        "https://image.tmdb.org/t/p/w780/67LSrBqOThpQVPttjfAVTaHQ2tR.jpg",
+        "https://image.tmdb.org/t/p/w780/2bkIFTkV1YKyyuY5p21nOjZKSne.jpg",
         "https://image.tmdb.org/t/p/w780/eHVFhyO2YkJPzvrMv2TmVhjPAUJ.jpg",
         "https://image.tmdb.org/t/p/w780/yDgYYuz8jDQCRJbHC3XM7IIGoeR.jpg",
-        "https://image.tmdb.org/t/p/w780/kyrubDEucmnFPqVwVi2mhOGYZ3g.jpg",
-        "https://image.tmdb.org/t/p/w780/phL6LnTXTk1EofA7JDtDUmH6JZA.jpg",
-        "https://image.tmdb.org/t/p/w780/uxGBQkfmTczPp6o1tHpxZovq4MW.jpg"
+        "https://image.tmdb.org/t/p/w780/kyrubDEucmnFPqVwVi2mhOGYZ3g.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1302904"
     },
@@ -207,7 +207,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.8,
+      "vote_average": 6.825,
       "providers": [],
       "videos": [
         {
@@ -261,8 +261,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "LvNJZmaHqVA",
-          "name": "After Impact | Official Trailer (2026) — On Digital SEPTEMBER 15",
+          "key": "g7twsW7XKSM",
+          "name": "After Impact (2026) – Official Trailer | Post-Apocalyptic Sci-Fi Thriller",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -307,7 +307,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.308,
       "providers": [],
       "videos": [
         {
@@ -364,7 +364,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.032,
+      "vote_average": 8.027,
       "providers": [],
       "videos": [
         {
@@ -406,55 +406,6 @@
         "https://image.tmdb.org/t/p/w780/b17uij6YoqTsWLO3V9NMQmGzTeA.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1032863"
-    },
-    {
-      "id": 1263337,
-      "type": "movie",
-      "title": "Coração Selvagem",
-      "release_date": "2026-09-24",
-      "poster": "https://image.tmdb.org/t/p/w500/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "overview": "Um ex-soldado ferido e seu cão de guerra aposentado lutam para sobreviver na região do Alasca e encontrar o caminho de volta para casa após um acidente aéreo na mata.",
-      "tagline": "Para sobreviver eles precisam um do outro.",
-      "runtime": 101,
-      "genres": [
-        "Aventura",
-        "Thriller"
-      ],
-      "vote_average": 7.396,
-      "providers": [],
-      "videos": [
-        {
-          "key": "F0jWGqOyQ8g",
-          "name": "Trailer Oficial | LEG",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Brad Pitt",
-        "J.K. Simmons",
-        "Anna Lambe",
-        "Justin Melnick",
-        "Shaun DeZern",
-        "Uber",
-        "Seeka",
-        "Ryker"
-      ],
-      "director": "David Ayer",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-        "https://image.tmdb.org/t/p/w780/nATJytbF2sB8QP4nKQNBUIdZswC.jpg",
-        "https://image.tmdb.org/t/p/w780/ynjkULhYw2427E1Yrrh6GGgIvfZ.jpg",
-        "https://image.tmdb.org/t/p/w780/briCzD66EoEBNGnbwV00N3LrDeA.jpg",
-        "https://image.tmdb.org/t/p/w780/bzi1j7GgxQMOwii5yDI2bsZ1PY6.jpg",
-        "https://image.tmdb.org/t/p/w780/iDEmqBQRNT0gWvLsRLblFB5NJS5.jpg",
-        "https://image.tmdb.org/t/p/w780/nlqHh1zGH8HYERr4eRICN9ligk.jpg",
-        "https://image.tmdb.org/t/p/w780/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1263337"
     },
     {
       "id": 1280300,
@@ -515,7 +466,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.303,
       "providers": [],
       "videos": [
         {
@@ -553,7 +504,7 @@
         "Jordan Coleman",
         "Maryna Bennett"
       ],
-      "director": "Michael Spierig",
+      "director": "Peter Spierig",
       "images": [
         "https://image.tmdb.org/t/p/w780/JzTmH0s7caaS20YyBQd3XFlHHp.jpg",
         "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
@@ -580,7 +531,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.481,
+      "vote_average": 7.483,
       "providers": [],
       "videos": [
         {
@@ -638,7 +589,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.8,
+      "vote_average": 5.776,
       "providers": [],
       "videos": [
         {
@@ -674,6 +625,55 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1284046"
     },
     {
+      "id": 1283515,
+      "type": "movie",
+      "title": "Verity",
+      "release_date": "2026-10-01",
+      "poster": "https://image.tmdb.org/t/p/w500/6Qf3sylInJeyK0fFTfjprnGIXCF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+      "overview": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
+      "tagline": "Não há luz para onde estamos indo.",
+      "runtime": 114,
+      "genres": [
+        "Mistério",
+        "Thriller"
+      ],
+      "vote_average": 6.335,
+      "providers": [],
+      "videos": [
+        {
+          "key": "z0srCgRUpBY",
+          "name": "Verity | Teaser Oficial | Dublado",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Anne Hathaway",
+        "Dakota Johnson",
+        "Josh Hartnett",
+        "Brady Wagner",
+        "Ismael Cruz Cordova",
+        "Ирина Дворовенко",
+        "Sienna Kulovitz",
+        "K.K. Moggie"
+      ],
+      "director": "Michael Showalter",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+        "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+        "https://image.tmdb.org/t/p/w780/zrGI2Lm89fgR5ntysKLmEPgNrdV.jpg",
+        "https://image.tmdb.org/t/p/w780/b1y7n7PwuxlVaLrDBESrAqdRehx.jpg",
+        "https://image.tmdb.org/t/p/w780/ugwkKEXBlQAXxbBbbYeOLN0J20U.jpg",
+        "https://image.tmdb.org/t/p/w780/2upfBtX4LgTcEuLI6bZuWlVv3U3.jpg",
+        "https://image.tmdb.org/t/p/w780/sSPreWTXybWDgfNvKoL9E4sahqH.jpg",
+        "https://image.tmdb.org/t/p/w780/odyuHRcXn5pwV4uaDUUrFR8p4PN.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1283515"
+    },
+    {
       "id": 1148365,
       "type": "movie",
       "title": "Matchbox - O Filme",
@@ -688,7 +688,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.913,
+      "vote_average": 7.894,
       "providers": [
         {
           "id": 350,
@@ -807,7 +807,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.287,
+      "vote_average": 8.286,
       "providers": [],
       "videos": [
         {
@@ -908,7 +908,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.346,
+      "vote_average": 7.283,
       "providers": [
         {
           "id": 8,
