@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T11:53:20.434963+00:00",
+  "updated_at": "2026-10-14T17:11:32.635917+00:00",
   "region": "BR",
   "items": [
     {
@@ -100,7 +100,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 6.4,
+      "vote_average": 6.372,
       "providers": [],
       "videos": [
         {
@@ -162,8 +162,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "OZhPiC0pnSk",
-          "name": "The Boroughs Jubilacion Rebelde (2026) HD Trailer Oficial Subtitulado Español - Serie",
+          "key": "gYNj2QbQ2PY",
+          "name": "Rebelde | Trailer oficial | Netflix",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -421,7 +421,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.421,
+      "vote_average": 7.396,
       "providers": [],
       "videos": [
         {
@@ -515,7 +515,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 7.303,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -553,7 +553,7 @@
         "Jordan Coleman",
         "Maryna Bennett"
       ],
-      "director": "Peter Spierig",
+      "director": "Michael Spierig",
       "images": [
         "https://image.tmdb.org/t/p/w780/JzTmH0s7caaS20YyBQd3XFlHHp.jpg",
         "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
@@ -662,8 +662,8 @@
       ],
       "director": "Adam Wingard",
       "images": [
-        "https://image.tmdb.org/t/p/w780/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
         "https://image.tmdb.org/t/p/w780/clePZhqOSzNyjfuFBpOrziLEFzb.jpg",
+        "https://image.tmdb.org/t/p/w780/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
         "https://image.tmdb.org/t/p/w780/ewe8HWEMBpACziYjcDkNN7uUxa5.jpg",
         "https://image.tmdb.org/t/p/w780/g5wfsAMLeA2FFyqlPtJPLptyrR6.jpg",
         "https://image.tmdb.org/t/p/w780/v0PUPVPKt2mGtUW7eNcdcv5LHhW.jpg",
@@ -679,7 +679,7 @@
       "title": "Matchbox - O Filme",
       "release_date": "2026-10-05",
       "poster": "https://image.tmdb.org/t/p/w500/hgPJA0NTmXYpPA3cgh4ZrI1PubL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/roawIpy5sigBB7LsU4AJDw70jPo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
       "overview": "Quando um grupo de antigos amigos de infância se reencontra, o encontro toma um rumo inesperado ao se depararem com uma perigosa trama internacional e precisarem salvar o mundo.",
       "tagline": "Salve o mundo, traga seus amigos.",
       "runtime": 127,
@@ -688,7 +688,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.92,
+      "vote_average": 7.913,
       "providers": [
         {
           "id": 350,
@@ -718,14 +718,14 @@
       ],
       "director": "Sam Hargrave",
       "images": [
-        "https://image.tmdb.org/t/p/w780/roawIpy5sigBB7LsU4AJDw70jPo.jpg",
         "https://image.tmdb.org/t/p/w780/8LYMGmljj3gfhyHaMjqeylVjWEZ.jpg",
         "https://image.tmdb.org/t/p/w780/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
         "https://image.tmdb.org/t/p/w780/oOofgKLAWUhHGohxXdRm3yLOWYw.jpg",
         "https://image.tmdb.org/t/p/w780/e1EqWOQAp5mc5QUsCCGoeOixnfH.jpg",
         "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
-        "https://image.tmdb.org/t/p/w780/5o4K5VFbeLYJI8nMCcZ232R4IuV.jpg",
-        "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg"
+        "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+        "https://image.tmdb.org/t/p/w780/vJlFR2PEioavrz17QbC56r76V9F.jpg",
+        "https://image.tmdb.org/t/p/w780/roawIpy5sigBB7LsU4AJDw70jPo.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
@@ -807,7 +807,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.291,
+      "vote_average": 8.287,
       "providers": [],
       "videos": [
         {
@@ -866,8 +866,8 @@
       ],
       "videos": [
         {
-          "key": "Wb1Pb7bFHCM",
-          "name": "Notícias em Perigo | Trailer, sinopse e onde assistir",
+          "key": "7FngoJqA2tk",
+          "name": "Conexão perigosa 2026 Trailer Oficial Dublado",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -908,7 +908,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.35,
+      "vote_average": 7.346,
       "providers": [
         {
           "id": 8,
@@ -1016,8 +1016,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "SwIcphIaLMI",
-          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
+          "key": "DQAUbfAtZLA",
+          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
