@@ -1,47 +1,7 @@
 {
-  "updated_at": "2026-10-15T17:01:42.291689+00:00",
+  "updated_at": "2026-10-15T21:23:38.015465+00:00",
   "region": "BR",
   "items": [
-    {
-      "id": 1482547,
-      "type": "movie",
-      "title": "Zip Wire",
-      "release_date": "2026-08-31",
-      "poster": "https://image.tmdb.org/t/p/w500/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/sbkkAtymJaH5UzExiK974uPzCY4.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 95,
-      "genres": [
-        "Ação",
-        "Thriller"
-      ],
-      "vote_average": 7.44,
-      "providers": [],
-      "videos": [
-        {
-          "key": "c5FGrGLlRdw",
-          "name": "Zip Wire | 2026 | Official Trailer | MyAnna Buring, Joseph Millson, Saffron Burrows",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "MyAnna Buring",
-        "Joseph Millson",
-        "Saffron Burrows",
-        "Michael Amariah",
-        "Silvia Presente"
-      ],
-      "director": "Howard J. Ford",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/sbkkAtymJaH5UzExiK974uPzCY4.jpg",
-        "https://image.tmdb.org/t/p/w780/kgPsYvHiqk3XRfTXlPrTXwa6BQo.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1482547"
-    },
     {
       "id": 1712451,
       "type": "movie",
@@ -100,7 +60,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 6.331,
+      "vote_average": 6.4,
       "providers": [],
       "videos": [
         {
@@ -158,12 +118,12 @@
         "Drama",
         "História"
       ],
-      "vote_average": 7.9,
+      "vote_average": 7.942,
       "providers": [],
       "videos": [
         {
-          "key": "gYNj2QbQ2PY",
-          "name": "Rebelde | Trailer oficial | Netflix",
+          "key": "OZhPiC0pnSk",
+          "name": "The Boroughs Jubilacion Rebelde (2026) HD Trailer Oficial Subtitulado Español - Serie",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -199,7 +159,7 @@
       "title": "The Fix",
       "release_date": "2026-09-10",
       "poster": "https://image.tmdb.org/t/p/w500/a1j5writymMPFPyOhBT7s1xX6v6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
       "overview": "Desiludidos com o fim da guerra no Afeganistão, um grupo de ex-agentes da CIA, em desgraça e marcados pela guerra, parte para Teerã com o objetivo de realizar um golpe que mudará suas vidas.",
       "tagline": "",
       "runtime": 142,
@@ -207,11 +167,11 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.831,
+      "vote_average": 6.8,
       "providers": [],
       "videos": [
         {
-          "key": "9YHuVsKdAIs",
+          "key": "vH4zs2LnhyE",
           "name": "THE FIX Official Trailer 2 (2026) Liam Neeson",
           "type": "Trailer",
           "official": false,
@@ -241,6 +201,51 @@
         "https://image.tmdb.org/t/p/w780/vzSS4AFSlpKMNRJnInlcasfc4Ru.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1228834"
+    },
+    {
+      "id": 1375161,
+      "type": "movie",
+      "title": "Don't Move",
+      "release_date": "2026-09-11",
+      "poster": "https://image.tmdb.org/t/p/w500/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1b0RrVxLAMhfT0vQXfWtDLwg1ke.jpg",
+      "overview": "Megan Forrester se junta ao seu grupo da igreja em um acampamento após perder sua família em um trágico acidente. A viagem toma um rumo diferente quando o grupo acaba por engano em uma área da floresta alvo de um predador perigoso.",
+      "tagline": "",
+      "runtime": 94,
+      "genres": [
+        "Terror",
+        "Thriller"
+      ],
+      "vote_average": 5.385,
+      "providers": [],
+      "videos": [
+        {
+          "key": "wfx3MjMV6x4",
+          "name": "Don&#39;t Move (2026) | Official Trailer",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Lyndsy Fonseca",
+        "Russ",
+        "Tom Cavanagh",
+        "Hunter King",
+        "Joseph Lee Anderson",
+        "Rob Riggle",
+        "Brian Quinn",
+        "Matt Biedel"
+      ],
+      "director": "Maclain Nelson",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/hRjS4aEJbFmvr0O9fQszUIdle5E.jpg",
+        "https://image.tmdb.org/t/p/w780/1b0RrVxLAMhfT0vQXfWtDLwg1ke.jpg",
+        "https://image.tmdb.org/t/p/w780/1b0wNCRLYT3mGwvHyTEbqOk98Ix.jpg",
+        "https://image.tmdb.org/t/p/w780/xFYqT8hpZUPRBm3A5cS4AK2Ee7j.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1375161"
     },
     {
       "id": 1751701,
@@ -466,7 +471,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 7.28,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -531,7 +536,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.493,
+      "vote_average": 7.489,
       "providers": [],
       "videos": [
         {
@@ -589,7 +594,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.704,
+      "vote_average": 5.7,
       "providers": [],
       "videos": [
         {
@@ -625,55 +630,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1284046"
     },
     {
-      "id": 1283515,
-      "type": "movie",
-      "title": "Verity",
-      "release_date": "2026-10-01",
-      "poster": "https://image.tmdb.org/t/p/w500/6Qf3sylInJeyK0fFTfjprnGIXCF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-      "overview": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
-      "tagline": "Não há luz para onde estamos indo.",
-      "runtime": 114,
-      "genres": [
-        "Mistério",
-        "Thriller"
-      ],
-      "vote_average": 6.364,
-      "providers": [],
-      "videos": [
-        {
-          "key": "z0srCgRUpBY",
-          "name": "Verity | Teaser Oficial | Dublado",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Anne Hathaway",
-        "Dakota Johnson",
-        "Josh Hartnett",
-        "Brady Wagner",
-        "Ismael Cruz Cordova",
-        "Ирина Дворовенко",
-        "Sienna Kulovitz",
-        "K.K. Moggie"
-      ],
-      "director": "Michael Showalter",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-        "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-        "https://image.tmdb.org/t/p/w780/zrGI2Lm89fgR5ntysKLmEPgNrdV.jpg",
-        "https://image.tmdb.org/t/p/w780/b1y7n7PwuxlVaLrDBESrAqdRehx.jpg",
-        "https://image.tmdb.org/t/p/w780/ugwkKEXBlQAXxbBbbYeOLN0J20U.jpg",
-        "https://image.tmdb.org/t/p/w780/2upfBtX4LgTcEuLI6bZuWlVv3U3.jpg",
-        "https://image.tmdb.org/t/p/w780/sSPreWTXybWDgfNvKoL9E4sahqH.jpg",
-        "https://image.tmdb.org/t/p/w780/odyuHRcXn5pwV4uaDUUrFR8p4PN.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1283515"
-    },
-    {
       "id": 1148365,
       "type": "movie",
       "title": "Matchbox - O Filme",
@@ -688,7 +644,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.9,
+      "vote_average": 7.864,
       "providers": [
         {
           "id": 350,
@@ -807,7 +763,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.299,
+      "vote_average": 8.302,
       "providers": [],
       "videos": [
         {
@@ -866,8 +822,8 @@
       ],
       "videos": [
         {
-          "key": "la4037Z24SQ",
-          "name": "No Rastro do Perigo 2025 Trailer Oficial Legendado",
+          "key": "7FngoJqA2tk",
+          "name": "Conexão perigosa 2026 Trailer Oficial Dublado",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -963,7 +919,7 @@
         "Terror",
         "Música"
       ],
-      "vote_average": 4.444,
+      "vote_average": 4.35,
       "providers": [],
       "videos": [
         {
@@ -997,6 +953,71 @@
         "https://image.tmdb.org/t/p/w780/ggzLEvPqBkSY03936i3lrS476Xj.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1742441"
+    },
+    {
+      "id": 1153576,
+      "type": "movie",
+      "title": "Street Fighter",
+      "release_date": "2026-10-15",
+      "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+      "overview": "Em 1993, os lutadores afastados Ryu e Ken Masters são colocados de volta em combate quando a misteriosa Chun-Li os recruta para o próximo Torneio do Guerreiro Global, uma briga brutal de socos, destinos e fúria. Porém, por trás dessa batalha por glória está uma conspiração mortal que os força a se enfrentarem entre si e seus demônios do passado.",
+      "tagline": "You Win",
+      "runtime": 119,
+      "genres": [
+        "Ação",
+        "Fantasia"
+      ],
+      "vote_average": 6.5,
+      "providers": [],
+      "videos": [
+        {
+          "key": "kcjEOsxg1FY",
+          "name": "Street Fighter | Novo Trailer | DUB | Paramount Pictures Brasil",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "v2OqsnruLfI",
+          "name": "Street Fighter | Trailer Oficial | DUB | Paramount Pictures Brasil",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "f8W8CrdZd8o",
+          "name": "Trailer Teaser",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Andrew Koji",
+        "Noah Centineo",
+        "Callina Liang",
+        "David Dastmalchian",
+        "Eric Andre",
+        "Andrew Schulz",
+        "Mel Jarnson",
+        "Cody Rhodes"
+      ],
+      "director": "Kitao Sakurai",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/5YfPIIMzGBkIjHt3PTXBWyfBTGS.jpg",
+        "https://image.tmdb.org/t/p/w780/DSOLReBGAwtN6AkrdkPiknd01z.jpg",
+        "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+        "https://image.tmdb.org/t/p/w780/k0cEoowzTwxYCTRI7gV6nqPF1ds.jpg",
+        "https://image.tmdb.org/t/p/w780/bA6twMcGZtV2cQRQA3ZTMQPJznU.jpg",
+        "https://image.tmdb.org/t/p/w780/zlZA2IMP9FthpYTA1CC9Gj7vl1o.jpg",
+        "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
+        "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1153576"
     },
     {
       "id": 1294189,
