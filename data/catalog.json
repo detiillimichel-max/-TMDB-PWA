@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T21:23:38.015465+00:00",
+  "updated_at": "2026-10-16T04:33:08.079694+00:00",
   "region": "BR",
   "items": [
     {
@@ -60,7 +60,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 6.4,
+      "vote_average": 6.5,
       "providers": [],
       "videos": [
         {
@@ -118,12 +118,12 @@
         "Drama",
         "História"
       ],
-      "vote_average": 7.942,
+      "vote_average": 7.94,
       "providers": [],
       "videos": [
         {
-          "key": "OZhPiC0pnSk",
-          "name": "The Boroughs Jubilacion Rebelde (2026) HD Trailer Oficial Subtitulado Español - Serie",
+          "key": "gYNj2QbQ2PY",
+          "name": "Rebelde | Trailer oficial | Netflix",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -192,13 +192,13 @@
       "director": "Guy Moshe",
       "images": [
         "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+        "https://image.tmdb.org/t/p/w780/6Fodrm6mAeGXMbkBJknsDEMfJxu.jpg",
         "https://image.tmdb.org/t/p/w780/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
-        "https://image.tmdb.org/t/p/w780/oDgN5zsiISnLZKixkzvRIfUOXgC.jpg",
         "https://image.tmdb.org/t/p/w780/bQQ3UGOJcCTRjVAjOwR17eQuwJC.jpg",
+        "https://image.tmdb.org/t/p/w780/oDgN5zsiISnLZKixkzvRIfUOXgC.jpg",
         "https://image.tmdb.org/t/p/w780/5mjdi586DOBohaPvGZ7Jy80EZX2.jpg",
         "https://image.tmdb.org/t/p/w780/A1aR8aTGglmJrvS3MltbdxGtsTC.jpg",
-        "https://image.tmdb.org/t/p/w780/2xaJ2foqoGK7h2oH18HExDoXGLE.jpg",
-        "https://image.tmdb.org/t/p/w780/vzSS4AFSlpKMNRJnInlcasfc4Ru.jpg"
+        "https://image.tmdb.org/t/p/w780/2xaJ2foqoGK7h2oH18HExDoXGLE.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1228834"
     },
@@ -220,8 +220,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "wfx3MjMV6x4",
-          "name": "Don&#39;t Move (2026) | Official Trailer",
+          "key": "FwoYYKyJo1g",
+          "name": "Don’t Move Official Trailer (2026) - In Theaters September 11",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -266,8 +266,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "LvNJZmaHqVA",
-          "name": "After Impact | Official Trailer (2026) — On Digital SEPTEMBER 15",
+          "key": "9Sd8cLstef4",
+          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K,POST-APOCALYPTIC SCI-FI THRILLER,#movie #film",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -312,7 +312,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.315,
+      "vote_average": 7.33,
       "providers": [],
       "videos": [
         {
@@ -369,7 +369,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 8.02,
+      "vote_average": 8.015,
       "providers": [],
       "videos": [
         {
@@ -464,7 +464,7 @@
       "title": "A Queda 2: No Limite",
       "release_date": "2026-10-01",
       "poster": "https://image.tmdb.org/t/p/w500/xtxEvJACNnbz3WYmJ5mYT1a0KGk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
       "overview": "De luto pela morte de sua irmã Shiloh, Jax Hunter cria um laço com Luce, a amiga corajosa de Shiloh. Juntas, elas enfrentam a perigosa passarela suspensa do Monte Kwan, na Tailândia. Quando um deslizamento de rochas as deixa presas em uma estreita prancha a mais de 3.000 metros de altitude, Jax precisa enfrentar seus medos para sobreviver.",
       "tagline": "Não olhe para baixo.",
       "runtime": 100,
@@ -511,14 +511,14 @@
       ],
       "director": "Michael Spierig",
       "images": [
+        "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+        "https://image.tmdb.org/t/p/w780/a5G1eG0Cqy7hoV22reB1vVqBfYA.jpg",
+        "https://image.tmdb.org/t/p/w780/ehLnWR6RYRwCm8GF2ji8IU11vyH.jpg",
         "https://image.tmdb.org/t/p/w780/JzTmH0s7caaS20YyBQd3XFlHHp.jpg",
         "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
         "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
         "https://image.tmdb.org/t/p/w780/j5PqG9rD0aUUIKEkGkWt7AaKnRa.jpg",
-        "https://image.tmdb.org/t/p/w780/bDQbd4qMy4bYXA4S36XZX5p68LU.jpg",
-        "https://image.tmdb.org/t/p/w780/zwHsEcRcazZCxTWs9Glwo9qWZ0F.jpg",
-        "https://image.tmdb.org/t/p/w780/7EV1WNgenluosQkFUXtbciWPN0A.jpg",
-        "https://image.tmdb.org/t/p/w780/cPCgLDNCCUwtsedr181DtrlaDWx.jpg"
+        "https://image.tmdb.org/t/p/w780/bDQbd4qMy4bYXA4S36XZX5p68LU.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1101412"
     },
@@ -536,7 +536,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.489,
+      "vote_average": 7.501,
       "providers": [],
       "videos": [
         {
@@ -594,7 +594,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.7,
+      "vote_average": 5.745,
       "providers": [],
       "videos": [
         {
@@ -644,7 +644,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.864,
+      "vote_average": 7.884,
       "providers": [
         {
           "id": 350,
@@ -698,7 +698,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.956,
+      "vote_average": 5.9,
       "providers": [],
       "videos": [
         {
@@ -763,7 +763,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.302,
+      "vote_average": 8.301,
       "providers": [],
       "videos": [
         {
@@ -864,7 +864,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.2,
+      "vote_average": 7.232,
       "providers": [
         {
           "id": 8,
@@ -919,7 +919,7 @@
         "Terror",
         "Música"
       ],
-      "vote_average": 4.35,
+      "vote_average": 4.452,
       "providers": [],
       "videos": [
         {
@@ -968,7 +968,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.5,
+      "vote_average": 6.446,
       "providers": [],
       "videos": [
         {
@@ -1037,8 +1037,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "SwIcphIaLMI",
-          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
+          "key": "DQAUbfAtZLA",
+          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
