@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T11:25:28.576898+00:00",
+  "updated_at": "2026-10-16T16:40:14.977909+00:00",
   "region": "BR",
   "items": [
     {
@@ -19,8 +19,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "54YKyY87lw4",
-          "name": "RESIDENT DEAD Official Trailer (2026) | John Scott Wells Horror",
+          "key": "M1vupS1Tzfg",
+          "name": "RESIDENT DEAD || Official Trailer || The Asylum Movie Channel",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -60,7 +60,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 6.672,
+      "vote_average": 6.687,
       "providers": [],
       "videos": [
         {
@@ -171,8 +171,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "vH4zs2LnhyE",
-          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson",
+          "key": "7AlQfgBdcLI",
+          "name": "THE FIX Official Trailer (NEW 2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -220,8 +220,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "FwoYYKyJo1g",
-          "name": "Don’t Move Official Trailer (2026) - In Theaters September 11",
+          "key": "wfx3MjMV6x4",
+          "name": "Don&#39;t Move (2026) | Official Trailer",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -312,7 +312,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.332,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -356,63 +356,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1423191"
     },
     {
-      "id": 1032863,
-      "type": "movie",
-      "title": "A Hipótese do Amor",
-      "release_date": "2026-09-23",
-      "poster": "https://image.tmdb.org/t/p/w500/9TQyjZ9PHCiPR8eylF8dulUFreu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "overview": "Olive é uma brilhante candidata ao doutorado focada em seu futuro no meio acadêmico. Mas quando ela percebe que sua melhor amiga Ahn se apaixonou por seu crush Jeremy, Olive impulsivamente beija o intimidador professor Adam Carlsen para provar que ela superou a paixonite. O que começa como um ato desesperado de amizade se transforma em um relacionamento falso com regras, limites e um acordo mutuamente benéfico. Quando o arranjo deles começa a confundir as linhas entre encenação e realidade, Olive é forçada a testar sua hipótese mais assustadora até agora: a de que o amor pode realmente valer o risco.",
-      "tagline": "Nós testamos. Os resultados saíram. A química está lá.",
-      "runtime": 112,
-      "genres": [
-        "Romance",
-        "Comédia"
-      ],
-      "vote_average": 8.015,
-      "providers": [],
-      "videos": [
-        {
-          "key": "AaEL6VCdXsE",
-          "name": "Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "svMApbXRqQk",
-          "name": "Treaser Oficial",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Lili Reinhart",
-        "Tom Bateman",
-        "Rachel Marsh",
-        "Jaboukie Young-White",
-        "Nicholas Duvernay",
-        "Arty Froushan",
-        "Jeananne Goossen",
-        "Aladeen Tawfeek"
-      ],
-      "director": "Claire Scanlon",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-        "https://image.tmdb.org/t/p/w780/fuOMc0cr1ZW5chnXoAOm5hyM8cb.jpg",
-        "https://image.tmdb.org/t/p/w780/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
-        "https://image.tmdb.org/t/p/w780/mAkLUZlsASmNcLHPk81PDtvt0Uj.jpg",
-        "https://image.tmdb.org/t/p/w780/mJC2Q2agtvxd6RschaQheDpiwwE.jpg",
-        "https://image.tmdb.org/t/p/w780/csNgYnvXJi0XAAln3m7YK44PvDm.jpg",
-        "https://image.tmdb.org/t/p/w780/p1Xk8xNHHP1HJx2yGZuREp8Etab.jpg",
-        "https://image.tmdb.org/t/p/w780/b17uij6YoqTsWLO3V9NMQmGzTeA.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1032863"
-    },
-    {
       "id": 1280300,
       "type": "movie",
       "title": "The Whistler",
@@ -431,8 +374,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "EpZ28ybST7Y",
-          "name": "THE WHISTLER – Official Trailer 2026  Thriller Movie First Look",
+          "key": "Q8OqFhfZ3ts",
+          "name": "THE WHISTLER Official Trailer (2026) Horror Movie [4K]",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -471,7 +414,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.281,
       "providers": [],
       "videos": [
         {
@@ -536,7 +479,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.501,
+      "vote_average": 7.499,
       "providers": [],
       "videos": [
         {
@@ -644,7 +587,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.9,
+      "vote_average": 7.909,
       "providers": [
         {
           "id": 350,
@@ -686,6 +629,55 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
     {
+      "id": 1381078,
+      "type": "movie",
+      "title": "O Amor de Sua Vida",
+      "release_date": "2026-10-07",
+      "poster": "https://image.tmdb.org/t/p/w500/noVjD52nAvgPK2XtVZSej1nFzin.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+      "overview": "Maya, uma enfermeira inteligente e irônica, é envolvida por um amor envolvente, que coloca sua vida em uma trajetória que ela nunca teria imaginado.",
+      "tagline": "",
+      "runtime": 111,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "vote_average": 6.5,
+      "providers": [],
+      "videos": [
+        {
+          "key": "5or5ZBxgqX0",
+          "name": "Amor da Minha Vida | Trailer Oficial | Disney+",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Aaron Pierre",
+        "Patrick Schwarzenegger",
+        "Gabriel Basso",
+        "Catherine Keener",
+        "Tamara Lawrance",
+        "Corey Johnson",
+        "Michael Shelford"
+      ],
+      "director": "Rachel Morrison",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+        "https://image.tmdb.org/t/p/w780/uE4qESNLo6jQrKjnUiNE42hrn1Z.jpg",
+        "https://image.tmdb.org/t/p/w780/79GJ5BmbjCfoWnRGEcg42QPSdQf.jpg",
+        "https://image.tmdb.org/t/p/w780/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+        "https://image.tmdb.org/t/p/w780/mTUWpyf15tLs4YLvy3nirbn6xA9.jpg",
+        "https://image.tmdb.org/t/p/w780/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg",
+        "https://image.tmdb.org/t/p/w780/7RrnaX9AkAXxCVE6PpxIfbcVVBC.jpg",
+        "https://image.tmdb.org/t/p/w780/xWmWfmMCRvVyv7I8fYcB7m7boCi.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1381078"
+    },
+    {
       "id": 1400837,
       "type": "movie",
       "title": "Outra Mamãe",
@@ -698,7 +690,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.9,
+      "vote_average": 5.888,
       "providers": [],
       "videos": [
         {
@@ -763,7 +755,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.301,
+      "vote_average": 8.304,
       "providers": [],
       "videos": [
         {
@@ -822,8 +814,8 @@
       ],
       "videos": [
         {
-          "key": "7FngoJqA2tk",
-          "name": "Conexão perigosa 2026 Trailer Oficial Dublado",
+          "key": "Wb1Pb7bFHCM",
+          "name": "Notícias em Perigo | Trailer, sinopse e onde assistir",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -864,7 +856,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.189,
+      "vote_average": 7.2,
       "providers": [
         {
           "id": 8,
@@ -1037,8 +1029,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "SwIcphIaLMI",
-          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
+          "key": "DQAUbfAtZLA",
+          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
