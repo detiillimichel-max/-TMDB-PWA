@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T04:33:08.079694+00:00",
+  "updated_at": "2026-10-16T11:25:28.576898+00:00",
   "region": "BR",
   "items": [
     {
@@ -60,7 +60,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 6.5,
+      "vote_average": 6.672,
       "providers": [],
       "videos": [
         {
@@ -216,7 +216,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.385,
+      "vote_average": 5.156,
       "providers": [],
       "videos": [
         {
@@ -262,12 +262,12 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 5.833,
+      "vote_average": 5.8,
       "providers": [],
       "videos": [
         {
-          "key": "9Sd8cLstef4",
-          "name": "🎬 AFTER IMPACT (2026) — OFFICIAL TRAILER 4K,POST-APOCALYPTIC SCI-FI THRILLER,#movie #film",
+          "key": "g7twsW7XKSM",
+          "name": "After Impact (2026) – Official Trailer | Post-Apocalyptic Sci-Fi Thriller",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -312,7 +312,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.33,
+      "vote_average": 7.332,
       "providers": [],
       "videos": [
         {
@@ -509,7 +509,7 @@
         "Jordan Coleman",
         "Maryna Bennett"
       ],
-      "director": "Michael Spierig",
+      "director": "Peter Spierig",
       "images": [
         "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
         "https://image.tmdb.org/t/p/w780/a5G1eG0Cqy7hoV22reB1vVqBfYA.jpg",
@@ -594,7 +594,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.745,
+      "vote_average": 5.716,
       "providers": [],
       "videos": [
         {
@@ -635,7 +635,7 @@
       "title": "Matchbox - O Filme",
       "release_date": "2026-10-05",
       "poster": "https://image.tmdb.org/t/p/w500/hgPJA0NTmXYpPA3cgh4ZrI1PubL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
       "overview": "Quando um grupo de antigos amigos de infância se reencontra, o encontro toma um rumo inesperado ao se depararem com uma perigosa trama internacional e precisarem salvar o mundo.",
       "tagline": "Salve o mundo, traga seus amigos.",
       "runtime": 127,
@@ -644,7 +644,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.884,
+      "vote_average": 7.9,
       "providers": [
         {
           "id": 350,
@@ -678,10 +678,10 @@
         "https://image.tmdb.org/t/p/w780/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
         "https://image.tmdb.org/t/p/w780/oOofgKLAWUhHGohxXdRm3yLOWYw.jpg",
         "https://image.tmdb.org/t/p/w780/e1EqWOQAp5mc5QUsCCGoeOixnfH.jpg",
-        "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
         "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
         "https://image.tmdb.org/t/p/w780/vJlFR2PEioavrz17QbC56r76V9F.jpg",
-        "https://image.tmdb.org/t/p/w780/roawIpy5sigBB7LsU4AJDw70jPo.jpg"
+        "https://image.tmdb.org/t/p/w780/roawIpy5sigBB7LsU4AJDw70jPo.jpg",
+        "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
@@ -864,7 +864,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.232,
+      "vote_average": 7.189,
       "providers": [
         {
           "id": 8,
@@ -919,7 +919,7 @@
         "Terror",
         "Música"
       ],
-      "vote_average": 4.452,
+      "vote_average": 4.696,
       "providers": [],
       "videos": [
         {
@@ -968,7 +968,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.446,
+      "vote_average": 6.5,
       "providers": [],
       "videos": [
         {
@@ -1037,8 +1037,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "DQAUbfAtZLA",
-          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
+          "key": "SwIcphIaLMI",
+          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
