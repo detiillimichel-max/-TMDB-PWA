@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T21:09:41.050410+00:00",
+  "updated_at": "2026-10-17T04:27:14.499893+00:00",
   "region": "BR",
   "items": [
     {
@@ -19,8 +19,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "54YKyY87lw4",
-          "name": "RESIDENT DEAD Official Trailer (2026) | John Scott Wells Horror",
+          "key": "i7DlsDPq_eQ",
+          "name": "RESIDENT DEAD Official Trailer (2026) Zombies Movie",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -60,7 +60,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 6.741,
+      "vote_average": 6.784,
       "providers": [],
       "videos": [
         {
@@ -108,7 +108,7 @@
       "type": "movie",
       "title": "O Rebelde",
       "release_date": "2026-09-10",
-      "poster": "https://image.tmdb.org/t/p/w500/mfDgS3jVrHX8pCCpiKdFQPShL56.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/kvE28LKAjRlkf2x3G6BmSCYyOk7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
       "overview": "Enquanto a guerra e a peste devastam a Inglaterra do século XIV, um humilde camponês dá início a uma revolta, reunindo um exército de homens e mulheres do povo para desafiar o poder do rei numa luta desesperada por justiça e sobrevivência.",
       "tagline": "",
@@ -118,12 +118,12 @@
         "Drama",
         "História"
       ],
-      "vote_average": 7.94,
+      "vote_average": 7.949,
       "providers": [],
       "videos": [
         {
-          "key": "aDfdIhqsAV4",
-          "name": "Rebelde: Temporada 2 | Trailer oficial | Netflix Brasil",
+          "key": "gYNj2QbQ2PY",
+          "name": "Rebelde | Trailer oficial | Netflix",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -167,7 +167,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.8,
+      "vote_average": 6.715,
       "providers": [],
       "videos": [
         {
@@ -216,7 +216,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.156,
+      "vote_average": 5.088,
       "providers": [],
       "videos": [
         {
@@ -312,7 +312,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.32,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -374,8 +374,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "GsbhZOibDHA",
-          "name": "The Whistler (2026) Poseido/El Silbon - HD Trailer Oficial Subtitulado Español - Venezuela - Terror",
+          "key": "EpZ28ybST7Y",
+          "name": "THE WHISTLER – Official Trailer 2026  Thriller Movie First Look",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -402,70 +402,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1280300"
     },
     {
-      "id": 1101412,
-      "type": "movie",
-      "title": "A Queda 2: No Limite",
-      "release_date": "2026-10-01",
-      "poster": "https://image.tmdb.org/t/p/w500/xtxEvJACNnbz3WYmJ5mYT1a0KGk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-      "overview": "De luto pela morte de sua irmã Shiloh, Jax Hunter cria um laço com Luce, a amiga corajosa de Shiloh. Juntas, elas enfrentam a perigosa passarela suspensa do Monte Kwan, na Tailândia. Quando um deslizamento de rochas as deixa presas em uma estreita prancha a mais de 3.000 metros de altitude, Jax precisa enfrentar seus medos para sobreviver.",
-      "tagline": "Não olhe para baixo.",
-      "runtime": 100,
-      "genres": [
-        "Thriller"
-      ],
-      "vote_average": 7.281,
-      "providers": [],
-      "videos": [
-        {
-          "key": "x_q2-lmkTio",
-          "name": "Trailer Oficial 2 Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "En4mRecmx4w",
-          "name": "Trailer Oficial Legendado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "whpOcuDr0Rc",
-          "name": "A Queda 2",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Harriet Slater",
-        "Arsema Thomas",
-        "Tom Brittney",
-        "Virginia Gardner",
-        "สหจักร บุญธนกิจ",
-        "Korakod Yensuk",
-        "Jordan Coleman",
-        "Maryna Bennett"
-      ],
-      "director": "Peter Spierig",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-        "https://image.tmdb.org/t/p/w780/a5G1eG0Cqy7hoV22reB1vVqBfYA.jpg",
-        "https://image.tmdb.org/t/p/w780/ehLnWR6RYRwCm8GF2ji8IU11vyH.jpg",
-        "https://image.tmdb.org/t/p/w780/JzTmH0s7caaS20YyBQd3XFlHHp.jpg",
-        "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-        "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
-        "https://image.tmdb.org/t/p/w780/j5PqG9rD0aUUIKEkGkWt7AaKnRa.jpg",
-        "https://image.tmdb.org/t/p/w780/bDQbd4qMy4bYXA4S36XZX5p68LU.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1101412"
-    },
-    {
       "id": 1248832,
       "type": "movie",
       "title": "Digger",
@@ -479,7 +415,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.499,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -537,7 +473,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.716,
+      "vote_average": 5.676,
       "providers": [],
       "videos": [
         {
@@ -587,7 +523,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.909,
+      "vote_average": 7.899,
       "providers": [
         {
           "id": 350,
@@ -642,12 +578,12 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.5,
+      "vote_average": 6.681,
       "providers": [],
       "videos": [
         {
-          "key": "ZNLHXYO_e6I",
-          "name": "(Quase) O Amor da Minha Vida Trailer Oficial Legendado 2026 | Estourando Trailers",
+          "key": "9ZaWkndD7VI",
+          "name": "O Amor de Sua Vida | Trailer + onde assistir completov",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -690,7 +626,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.914,
+      "vote_average": 5.9,
       "providers": [],
       "videos": [
         {
@@ -755,7 +691,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.3,
+      "vote_average": 8.298,
       "providers": [],
       "videos": [
         {
@@ -814,8 +750,8 @@
       ],
       "videos": [
         {
-          "key": "AxT7BhNANIU",
-          "name": "APOCALYPSE Z: New World Official Trailer (2026) Prime Video",
+          "key": "7FngoJqA2tk",
+          "name": "Conexão perigosa 2026 Trailer Oficial Dublado",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -856,7 +792,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.168,
+      "vote_average": 7.153,
       "providers": [
         {
           "id": 8,
@@ -911,7 +847,7 @@
         "Terror",
         "Música"
       ],
-      "vote_average": 4.696,
+      "vote_average": 4.7,
       "providers": [],
       "videos": [
         {
@@ -954,13 +890,13 @@
       "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
       "overview": "Em 1993, os lutadores afastados Ryu e Ken Masters são colocados de volta em combate quando a misteriosa Chun-Li os recruta para o próximo Torneio do Guerreiro Global, uma briga brutal de socos, destinos e fúria. Porém, por trás dessa batalha por glória está uma conspiração mortal que os força a se enfrentarem entre si e seus demônios do passado.",
-      "tagline": "You Win",
+      "tagline": "Preparar. Apontar. Lutar.",
       "runtime": 119,
       "genres": [
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.229,
+      "vote_average": 6.148,
       "providers": [],
       "videos": [
         {
@@ -1010,6 +946,55 @@
         "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1153576"
+    },
+    {
+      "id": 1561726,
+      "type": "movie",
+      "title": "Masterplan",
+      "release_date": "2026-10-16",
+      "poster": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+      "overview": "Quando um ladrão lendário decide roubar a Mona Lisa, ele recruta dois jovens para ajudá-lo: Chiara, especialista italiana em crimes cibernéticos, e Jay, especialista francês em explosivos. Eles só não sabem que ele é pai dos dois. Em meio a um reencontro caótico, a nova família terá que aprender a trabalhar em equipe – e tentar não se matar - se quiser ter chances de realizar o roubo do século.",
+      "tagline": "",
+      "runtime": 109,
+      "genres": [
+        "Ação",
+        "Thriller"
+      ],
+      "vote_average": 6.806,
+      "providers": [],
+      "videos": [
+        {
+          "key": "6ztecE1RWPc",
+          "name": "MASTERPLAN | Official Trailer (2026) 4K",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Stanley Tucci",
+        "Simona Tabasco",
+        "Victor Belmondo",
+        "Eliott Margueron",
+        "Bruno Bilotta",
+        "Barbara Lo Gaglio",
+        "Etienne Guillou-Kervern",
+        "Srbo Markovic"
+      ],
+      "director": "Thomas Vincent",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+        "https://image.tmdb.org/t/p/w780/nhJab93yQdDJa7btFEu9MQ8s2OG.jpg",
+        "https://image.tmdb.org/t/p/w780/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
+        "https://image.tmdb.org/t/p/w780/2Je5EainyrNszCyhF07Pfkm3m5f.jpg",
+        "https://image.tmdb.org/t/p/w780/bapL59rfXz56C0U9eZg8ezAm8vw.jpg",
+        "https://image.tmdb.org/t/p/w780/dOv2JBMmwcw7TL5auBeBoIbhoO8.jpg",
+        "https://image.tmdb.org/t/p/w780/hk80hYdJ6MEPy4jDxc0TqHCb6wH.jpg",
+        "https://image.tmdb.org/t/p/w780/nLEgcdXBj8JH6BtuB3w5W7Jc41T.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1561726"
     },
     {
       "id": 1294189,
