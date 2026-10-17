@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T04:27:14.499893+00:00",
+  "updated_at": "2026-10-17T10:45:13.688750+00:00",
   "region": "BR",
   "items": [
     {
@@ -60,7 +60,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 6.784,
+      "vote_average": 6.8,
       "providers": [],
       "videos": [
         {
@@ -118,7 +118,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 7.949,
+      "vote_average": 7.95,
       "providers": [],
       "videos": [
         {
@@ -216,7 +216,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.088,
+      "vote_average": 5.1,
       "providers": [],
       "videos": [
         {
@@ -250,7 +250,7 @@
     {
       "id": 1751701,
       "type": "movie",
-      "title": "After Impact",
+      "title": "אחרי הפגיעה",
       "release_date": "2026-09-15",
       "poster": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
@@ -312,7 +312,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.307,
       "providers": [],
       "videos": [
         {
@@ -374,8 +374,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "EpZ28ybST7Y",
-          "name": "THE WHISTLER – Official Trailer 2026  Thriller Movie First Look",
+          "key": "GsbhZOibDHA",
+          "name": "The Whistler (2026) Poseido/El Silbon - HD Trailer Oficial Subtitulado Español - Venezuela - Terror",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -473,7 +473,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.676,
+      "vote_average": 5.7,
       "providers": [],
       "videos": [
         {
@@ -523,7 +523,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.899,
+      "vote_average": 7.918,
       "providers": [
         {
           "id": 350,
@@ -553,14 +553,14 @@
       ],
       "director": "Sam Hargrave",
       "images": [
-        "https://image.tmdb.org/t/p/w780/8LYMGmljj3gfhyHaMjqeylVjWEZ.jpg",
         "https://image.tmdb.org/t/p/w780/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
         "https://image.tmdb.org/t/p/w780/oOofgKLAWUhHGohxXdRm3yLOWYw.jpg",
-        "https://image.tmdb.org/t/p/w780/e1EqWOQAp5mc5QUsCCGoeOixnfH.jpg",
         "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
         "https://image.tmdb.org/t/p/w780/vJlFR2PEioavrz17QbC56r76V9F.jpg",
         "https://image.tmdb.org/t/p/w780/roawIpy5sigBB7LsU4AJDw70jPo.jpg",
-        "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg"
+        "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
+        "https://image.tmdb.org/t/p/w780/4N2Ur9ald3D1rncUzmskcwe9PCK.jpg",
+        "https://image.tmdb.org/t/p/w780/caXP8VwAFVmrsJG6s1nO9NikxRI.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
@@ -578,12 +578,12 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.681,
+      "vote_average": 6.814,
       "providers": [],
       "videos": [
         {
-          "key": "9ZaWkndD7VI",
-          "name": "O Amor de Sua Vida | Trailer + onde assistir completov",
+          "key": "7QTEa7Y4A5U",
+          "name": "(Quase) O Amor da Minha Vida | Trailer Oficial Legendado",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -626,7 +626,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.9,
+      "vote_average": 5.921,
       "providers": [],
       "videos": [
         {
@@ -691,7 +691,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.298,
+      "vote_average": 8.299,
       "providers": [],
       "videos": [
         {
@@ -750,8 +750,8 @@
       ],
       "videos": [
         {
-          "key": "7FngoJqA2tk",
-          "name": "Conexão perigosa 2026 Trailer Oficial Dublado",
+          "key": "lhqX_FZmbhI",
+          "name": "The Highest Stakes (2026) | Official Trailer | Paramount Movies",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -792,7 +792,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.153,
+      "vote_average": 7.145,
       "providers": [
         {
           "id": 8,
@@ -845,9 +845,10 @@
       "runtime": 98,
       "genres": [
         "Terror",
-        "Música"
+        "Música",
+        "Thriller"
       ],
-      "vote_average": 4.7,
+      "vote_average": 5.0,
       "providers": [],
       "videos": [
         {
@@ -896,7 +897,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.148,
+      "vote_average": 6.214,
       "providers": [],
       "videos": [
         {
@@ -936,14 +937,14 @@
       ],
       "director": "Kitao Sakurai",
       "images": [
-        "https://image.tmdb.org/t/p/w780/5YfPIIMzGBkIjHt3PTXBWyfBTGS.jpg",
-        "https://image.tmdb.org/t/p/w780/DSOLReBGAwtN6AkrdkPiknd01z.jpg",
+        "https://image.tmdb.org/t/p/w780/2N52ohNrvnlXJ6S2MK5k4ok5zqU.jpg",
         "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
         "https://image.tmdb.org/t/p/w780/k0cEoowzTwxYCTRI7gV6nqPF1ds.jpg",
+        "https://image.tmdb.org/t/p/w780/5YfPIIMzGBkIjHt3PTXBWyfBTGS.jpg",
+        "https://image.tmdb.org/t/p/w780/DSOLReBGAwtN6AkrdkPiknd01z.jpg",
         "https://image.tmdb.org/t/p/w780/bA6twMcGZtV2cQRQA3ZTMQPJznU.jpg",
         "https://image.tmdb.org/t/p/w780/zlZA2IMP9FthpYTA1CC9Gj7vl1o.jpg",
-        "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
-        "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg"
+        "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1153576"
     },
