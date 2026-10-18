@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T20:37:16.209311+00:00",
+  "updated_at": "2026-10-18T04:34:58.411015+00:00",
   "region": "BR",
   "items": [
     {
@@ -60,7 +60,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 6.85,
+      "vote_average": 6.9,
       "providers": [],
       "videos": [
         {
@@ -118,7 +118,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 7.956,
+      "vote_average": 7.935,
       "providers": [],
       "videos": [
         {
@@ -216,7 +216,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.1,
+      "vote_average": 5.286,
       "providers": [],
       "videos": [
         {
@@ -262,7 +262,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 5.8,
+      "vote_average": 5.63,
       "providers": [],
       "videos": [
         {
@@ -312,7 +312,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.308,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -369,7 +369,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.407,
+      "vote_average": 7.409,
       "providers": [],
       "videos": [
         {
@@ -464,7 +464,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.483,
+      "vote_average": 7.49,
       "providers": [],
       "videos": [
         {
@@ -508,56 +508,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1248832"
     },
     {
-      "id": 1284046,
-      "type": "movie",
-      "title": "Protocolo de Extermínio",
-      "release_date": "2026-10-01",
-      "poster": "https://image.tmdb.org/t/p/w500/S8yJg9VlcDRB55CFIBAF7V2lZ3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/clePZhqOSzNyjfuFBpOrziLEFzb.jpg",
-      "overview": "Uma sniper precisa lutar sozinha contra um esquadrão de soldados geneticamente modificados no meio do deserto para salvar sua filha pequena.",
-      "tagline": "Lenda do UFC e supersoldado nas telonas!",
-      "runtime": 92,
-      "genres": [
-        "Ação",
-        "Terror",
-        "Thriller"
-      ],
-      "vote_average": 5.7,
-      "providers": [],
-      "videos": [
-        {
-          "key": "yCrHVd7B4PA",
-          "name": "PROTOCOLO DE EXTERMÍNIO | Trailer Oficial Legendado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Adria Arjona",
-        "Dan Stevens",
-        "Eric Wareheim",
-        "Reginald VelJohnson",
-        "Michael Biehn",
-        "Blake Kennedy",
-        "Alex Pereira",
-        "Drew Starkey"
-      ],
-      "director": "Adam Wingard",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/clePZhqOSzNyjfuFBpOrziLEFzb.jpg",
-        "https://image.tmdb.org/t/p/w780/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
-        "https://image.tmdb.org/t/p/w780/ewe8HWEMBpACziYjcDkNN7uUxa5.jpg",
-        "https://image.tmdb.org/t/p/w780/1jrDzYLt7qGSoZJhBOdRqOarjF9.jpg",
-        "https://image.tmdb.org/t/p/w780/g5wfsAMLeA2FFyqlPtJPLptyrR6.jpg",
-        "https://image.tmdb.org/t/p/w780/v0PUPVPKt2mGtUW7eNcdcv5LHhW.jpg",
-        "https://image.tmdb.org/t/p/w780/m7B2KMAh5umDaVC4EzCdkKJVyLc.jpg",
-        "https://image.tmdb.org/t/p/w780/vKTOfgLaZnx19cFbVvUVQ8M2oc0.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1284046"
-    },
-    {
       "id": 1148365,
       "type": "movie",
       "title": "Matchbox - O Filme",
@@ -572,7 +522,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.85,
+      "vote_average": 7.817,
       "providers": [
         {
           "id": 350,
@@ -612,6 +562,55 @@
         "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
+    },
+    {
+      "id": 1381078,
+      "type": "movie",
+      "title": "O Amor de Sua Vida",
+      "release_date": "2026-10-07",
+      "poster": "https://image.tmdb.org/t/p/w500/noVjD52nAvgPK2XtVZSej1nFzin.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+      "overview": "Maya, uma enfermeira inteligente e irônica, é envolvida por um amor envolvente, que coloca sua vida em uma trajetória que ela nunca teria imaginado.",
+      "tagline": "",
+      "runtime": 111,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "vote_average": 6.875,
+      "providers": [],
+      "videos": [
+        {
+          "key": "ZNLHXYO_e6I",
+          "name": "(Quase) O Amor da Minha Vida Trailer Oficial Legendado 2026 | Estourando Trailers",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Aaron Pierre",
+        "Patrick Schwarzenegger",
+        "Gabriel Basso",
+        "Catherine Keener",
+        "Tamara Lawrance",
+        "Corey Johnson",
+        "Michael Shelford"
+      ],
+      "director": "Rachel Morrison",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+        "https://image.tmdb.org/t/p/w780/uE4qESNLo6jQrKjnUiNE42hrn1Z.jpg",
+        "https://image.tmdb.org/t/p/w780/79GJ5BmbjCfoWnRGEcg42QPSdQf.jpg",
+        "https://image.tmdb.org/t/p/w780/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+        "https://image.tmdb.org/t/p/w780/mTUWpyf15tLs4YLvy3nirbn6xA9.jpg",
+        "https://image.tmdb.org/t/p/w780/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg",
+        "https://image.tmdb.org/t/p/w780/7RrnaX9AkAXxCVE6PpxIfbcVVBC.jpg",
+        "https://image.tmdb.org/t/p/w780/xWmWfmMCRvVyv7I8fYcB7m7boCi.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1381078"
     },
     {
       "id": 1400837,
@@ -691,7 +690,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 8.1,
+      "vote_average": 7.9,
       "providers": [
         {
           "id": 8,
@@ -743,7 +742,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.1,
+      "vote_average": 7.065,
       "providers": [
         {
           "id": 8,
@@ -799,7 +798,7 @@
         "Música",
         "Thriller"
       ],
-      "vote_average": 5.0,
+      "vote_average": 4.86,
       "providers": [],
       "videos": [
         {
@@ -839,7 +838,7 @@
       "type": "movie",
       "title": "Street Fighter",
       "release_date": "2026-10-15",
-      "poster": "https://image.tmdb.org/t/p/w500/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
       "overview": "Em 1993, os lutadores afastados Ryu e Ken Masters são colocados de volta em combate quando a misteriosa Chun-Li os recruta para o próximo Torneio do Guerreiro Global, uma briga brutal de socos, destinos e fúria. Porém, por trás dessa batalha por glória está uma conspiração mortal que os força a se enfrentarem entre si e seus demônios do passado.",
       "tagline": "Preparar. Apontar. Lutar.",
@@ -848,7 +847,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.355,
+      "vote_average": 6.203,
       "providers": [],
       "videos": [
         {
@@ -881,10 +880,10 @@
         "Noah Centineo",
         "Callina Liang",
         "David Dastmalchian",
-        "Eric Andre",
-        "Andrew Schulz",
         "Mel Jarnson",
-        "Cody Rhodes"
+        "Cody Rhodes",
+        "विद्युत जामवाल",
+        "Olivier Richters"
       ],
       "director": "Kitao Sakurai",
       "images": [
@@ -913,12 +912,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.021,
+      "vote_average": 7.098,
       "providers": [],
       "videos": [
         {
-          "key": "G-Opt1b7sro",
-          "name": "MASTERPLAN Official Trailer (NEW 2026)",
+          "key": "6ztecE1RWPc",
+          "name": "MASTERPLAN | Official Trailer (2026) 4K",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -1005,7 +1004,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.309,
+      "vote_average": 8.314,
       "providers": [],
       "videos": [
         {
