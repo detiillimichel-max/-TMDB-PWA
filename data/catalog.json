@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T11:06:36.620454+00:00",
+  "updated_at": "2026-10-18T15:53:06.929478+00:00",
   "region": "BR",
   "items": [
     {
@@ -248,56 +248,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1375161"
     },
     {
-      "id": 1751701,
-      "type": "movie",
-      "title": "After Impact",
-      "release_date": "2026-09-15",
-      "poster": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
-      "overview": "Depois de herdar a enorme estufa de seu pai quando um asteróide ameaça a Terra, Ethan enfrenta traição e isolamento. Sobrevivendo ao impacto no bunker de sua família, maltratado e desesperado, uma voz no rádio revela que não está sozinho.",
-      "tagline": "",
-      "runtime": 95,
-      "genres": [
-        "Ficção científica",
-        "Drama",
-        "Thriller"
-      ],
-      "vote_average": 5.63,
-      "providers": [],
-      "videos": [
-        {
-          "key": "LvNJZmaHqVA",
-          "name": "After Impact | Official Trailer (2026) — On Digital SEPTEMBER 15",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Michiel Rensen",
-        "Maxie Li",
-        "Riki Antonievich",
-        "Will Clague",
-        "Stephanie Ramlose",
-        "Lee-Ann Dirks",
-        "James Crompton",
-        "Moehau Hodges-Tai"
-      ],
-      "director": "Michiel Rensen",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
-        "https://image.tmdb.org/t/p/w780/H3MffhULPZe5BDxkYZmlgTWocw.jpg",
-        "https://image.tmdb.org/t/p/w780/gTSx5ADg6ju8nHJymRdBMME7dCB.jpg",
-        "https://image.tmdb.org/t/p/w780/fwXkiy9qFbgWoU52LcMnzv8YbQ9.jpg",
-        "https://image.tmdb.org/t/p/w780/hx2ouj1bOznwRQaZBwjb8MpMf2O.jpg",
-        "https://image.tmdb.org/t/p/w780/uAzJdRoD0iN1JTKpWI4MzSpvm5i.jpg",
-        "https://image.tmdb.org/t/p/w780/52CerkXrGxdTzDxF7tdykazbzkf.jpg",
-        "https://image.tmdb.org/t/p/w780/k5kzITAiZXDX7ZiAi1Gj3nXwIxN.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1751701"
-    },
-    {
       "id": 1423191,
       "type": "movie",
       "title": "Resident Evil",
@@ -405,52 +355,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1263337"
     },
     {
-      "id": 1280300,
-      "type": "movie",
-      "title": "The Whistler",
-      "release_date": "2026-09-24",
-      "poster": "https://image.tmdb.org/t/p/w500/sX8tqkFR1aqZaLQ4Jgb8jEMB4RN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 97,
-      "genres": [
-        "Mistério",
-        "Terror",
-        "Thriller"
-      ],
-      "vote_average": 5.2,
-      "providers": [],
-      "videos": [
-        {
-          "key": "EpZ28ybST7Y",
-          "name": "THE WHISTLER – Official Trailer 2026  Thriller Movie First Look",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Juan Pablo Raba",
-        "Diane Guerrero",
-        "Indhira Serrano",
-        "Laureano Olivares",
-        "Laura Sofía Domínguez",
-        "Diego Landaeta",
-        "Carlos Velasquez",
-        "Norberto Rivera"
-      ],
-      "director": "Diego Velasco",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg",
-        "https://image.tmdb.org/t/p/w780/qx0Jki3XnHVWIXmd7gOcqjXSf0S.jpg",
-        "https://image.tmdb.org/t/p/w780/hehKiJJdyEL0nRz3UXP34ctqA1R.jpg",
-        "https://image.tmdb.org/t/p/w780/bgMD95c7IUVgzAWYbcoxRXidtFI.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1280300"
-    },
-    {
       "id": 1248832,
       "type": "movie",
       "title": "Digger",
@@ -464,7 +368,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.49,
+      "vote_average": 7.479,
       "providers": [],
       "videos": [
         {
@@ -522,7 +426,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.806,
+      "vote_average": 7.829,
       "providers": [
         {
           "id": 350,
@@ -577,7 +481,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.908,
+      "vote_average": 6.726,
       "providers": [],
       "videos": [
         {
@@ -625,7 +529,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.9,
+      "vote_average": 5.923,
       "providers": [],
       "videos": [
         {
@@ -834,12 +738,76 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1742441"
     },
     {
+      "id": 1255833,
+      "type": "movie",
+      "title": "Dentro da Baleia",
+      "release_date": "2026-10-15",
+      "poster": "https://image.tmdb.org/t/p/w500/66fDoNVCtPrP6jIqMpV1sUEcciw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+      "overview": "Um jovem mergulhador resolveu buscar os restos mortais do seu pai em alto mar, mas no meio dessa triste aventura é capturado por uma baleia cachalote de 25 metros e 60 toneladas. Restando apenas uma hora de oxigênio, ele terá que fazer de tudo para encontrar uma forma de ir embora e seguir a sua vida, mas para isso terá que enfrentar uma grande jornada física e emocional para que ele consiga redescobrir a sua vontade de viver após a vivência do luto.",
+      "tagline": "Prenda a respiração",
+      "runtime": 106,
+      "genres": [
+        "Thriller"
+      ],
+      "vote_average": 6.8,
+      "providers": [],
+      "videos": [
+        {
+          "key": "wMXc-OYZ_FA",
+          "name": "Dentro Da Baleia | Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "HyL9HZITB0E",
+          "name": "Dentro Da Baleia | Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "OmsZmwtQrcU",
+          "name": "Teaser Oficial Dublado",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Austin Abrams",
+        "Josh Brolin",
+        "Elisabeth Shue",
+        "John Ortiz",
+        "Jane Levy",
+        "Emily Rudd",
+        "Kamy D. Bruder",
+        "Mark Meloro Jr."
+      ],
+      "director": "Brian Duffield",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/jXOw7R5qKs0j7IK51dlmxIKczoG.jpg",
+        "https://image.tmdb.org/t/p/w780/nquG8mnqhMkGYLtii8whsYoOo9o.jpg",
+        "https://image.tmdb.org/t/p/w780/fsE7L0jNibJswnZuQM5mphJQ0t2.jpg",
+        "https://image.tmdb.org/t/p/w780/2eRdzgxbWtu1iiSrIZLu8QXd0nB.jpg",
+        "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+        "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
+        "https://image.tmdb.org/t/p/w780/svfHop8LVC3bJeWygf3X5FibG4G.jpg",
+        "https://image.tmdb.org/t/p/w780/bLh5H56dArWutckFNTRd2kjMBSw.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1255833"
+    },
+    {
       "id": 1153576,
       "type": "movie",
       "title": "Street Fighter",
       "release_date": "2026-10-15",
-      "poster": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/6gWmrC2GyDbUM1ET5EBg9lxBi7S.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/k0cEoowzTwxYCTRI7gV6nqPF1ds.jpg",
       "overview": "Em 1993, os lutadores afastados Ryu e Ken Masters são colocados de volta em combate quando a misteriosa Chun-Li os recruta para o próximo Torneio do Guerreiro Global, uma briga brutal de socos, destinos e fúria. Porém, por trás dessa batalha por glória está uma conspiração mortal que os força a se enfrentarem entre si e seus demônios do passado.",
       "tagline": "Preparar. Apontar. Lutar.",
       "runtime": 119,
@@ -847,7 +815,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.203,
+      "vote_average": 6.333,
       "providers": [],
       "videos": [
         {
@@ -887,14 +855,14 @@
       ],
       "director": "Kitao Sakurai",
       "images": [
-        "https://image.tmdb.org/t/p/w780/6kJENBnZsVZuhYTSR3zZi6FUe30.jpg",
-        "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
         "https://image.tmdb.org/t/p/w780/k0cEoowzTwxYCTRI7gV6nqPF1ds.jpg",
+        "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
+        "https://image.tmdb.org/t/p/w780/6kJENBnZsVZuhYTSR3zZi6FUe30.jpg",
         "https://image.tmdb.org/t/p/w780/5YfPIIMzGBkIjHt3PTXBWyfBTGS.jpg",
         "https://image.tmdb.org/t/p/w780/DSOLReBGAwtN6AkrdkPiknd01z.jpg",
         "https://image.tmdb.org/t/p/w780/bA6twMcGZtV2cQRQA3ZTMQPJznU.jpg",
         "https://image.tmdb.org/t/p/w780/zlZA2IMP9FthpYTA1CC9Gj7vl1o.jpg",
-        "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg"
+        "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1153576"
     },
@@ -912,7 +880,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.269,
+      "vote_average": 7.246,
       "providers": [],
       "videos": [
         {
@@ -965,8 +933,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "DQAUbfAtZLA",
-          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
+          "key": "SwIcphIaLMI",
+          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -1004,7 +972,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.335,
+      "vote_average": 8.327,
       "providers": [],
       "videos": [
         {
@@ -1038,6 +1006,51 @@
         "https://image.tmdb.org/t/p/w780/hSYBdRE9b5PRK3BsjEBvXnUZvwM.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1377237"
+    },
+    {
+      "id": 1476746,
+      "type": "movie",
+      "title": "A Última Entrega",
+      "release_date": "2026-12-03",
+      "poster": "https://image.tmdb.org/t/p/w500/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 99,
+      "genres": [
+        "Ação",
+        "Thriller"
+      ],
+      "vote_average": 6.333,
+      "providers": [],
+      "videos": [
+        {
+          "key": "fVFIhOfErfU",
+          "name": "Trailer - A Última Entrega - Noite da Pipoca 2026",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Dennis Quaid",
+        "Jean Reno",
+        "Sky Katz",
+        "Jim Klock",
+        "Leonidas Gulaptis",
+        "Elsa Mollien",
+        "Gabriel 'G-Rod' Rodriguez",
+        "Dominick LaRuffa Jr."
+      ],
+      "director": "Babak Najafi",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
+        "https://image.tmdb.org/t/p/w780/rzxBvCix5Ebl3KYPIXpD8hy64uE.jpg",
+        "https://image.tmdb.org/t/p/w780/xZivJ9jshaFoxuPZ2BiJ9SBrNTc.jpg",
+        "https://image.tmdb.org/t/p/w780/g5Kdx4dCt2RYROLEZZMjbbtBuoF.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1476746"
     }
   ]
 }
