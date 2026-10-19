@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T13:16:59.096500+00:00",
+  "updated_at": "2026-10-19T22:22:00.203128+00:00",
   "region": "BR",
   "items": [
     {
@@ -19,8 +19,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "M1vupS1Tzfg",
-          "name": "RESIDENT DEAD || Official Trailer || The Asylum Movie Channel",
+          "key": "i7DlsDPq_eQ",
+          "name": "RESIDENT DEAD Official Trailer (2026) Zombies Movie",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -60,7 +60,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 6.99,
+      "vote_average": 7.0,
       "providers": [],
       "videos": [
         {
@@ -262,7 +262,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.306,
       "providers": [],
       "videos": [
         {
@@ -306,55 +306,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1423191"
     },
     {
-      "id": 1263337,
-      "type": "movie",
-      "title": "Coração Selvagem",
-      "release_date": "2026-09-24",
-      "poster": "https://image.tmdb.org/t/p/w500/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "overview": "Um ex-soldado ferido e seu cão de guerra aposentado lutam para sobreviver na região do Alasca e encontrar o caminho de volta para casa após um acidente aéreo na mata.",
-      "tagline": "Para sobreviver eles precisam um do outro.",
-      "runtime": 101,
-      "genres": [
-        "Aventura",
-        "Thriller"
-      ],
-      "vote_average": 7.396,
-      "providers": [],
-      "videos": [
-        {
-          "key": "F0jWGqOyQ8g",
-          "name": "Trailer Oficial | LEG",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Brad Pitt",
-        "J.K. Simmons",
-        "Anna Lambe",
-        "Justin Melnick",
-        "Shaun DeZern",
-        "Uber",
-        "Seeka",
-        "Ryker"
-      ],
-      "director": "David Ayer",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-        "https://image.tmdb.org/t/p/w780/nATJytbF2sB8QP4nKQNBUIdZswC.jpg",
-        "https://image.tmdb.org/t/p/w780/ynjkULhYw2427E1Yrrh6GGgIvfZ.jpg",
-        "https://image.tmdb.org/t/p/w780/briCzD66EoEBNGnbwV00N3LrDeA.jpg",
-        "https://image.tmdb.org/t/p/w780/bzi1j7GgxQMOwii5yDI2bsZ1PY6.jpg",
-        "https://image.tmdb.org/t/p/w780/iDEmqBQRNT0gWvLsRLblFB5NJS5.jpg",
-        "https://image.tmdb.org/t/p/w780/nlqHh1zGH8HYERr4eRICN9ligk.jpg",
-        "https://image.tmdb.org/t/p/w780/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1263337"
-    },
-    {
       "id": 1148365,
       "type": "movie",
       "title": "Matchbox - O Filme",
@@ -369,7 +320,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.8,
+      "vote_average": 7.785,
       "providers": [
         {
           "id": 350,
@@ -424,12 +375,12 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.853,
+      "vote_average": 6.869,
       "providers": [],
       "videos": [
         {
-          "key": "9ZaWkndD7VI",
-          "name": "O Amor de Sua Vida | Trailer + onde assistir completov",
+          "key": "ZNLHXYO_e6I",
+          "name": "(Quase) O Amor da Minha Vida Trailer Oficial Legendado 2026 | Estourando Trailers",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -472,7 +423,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.977,
+      "vote_average": 6.0,
       "providers": [],
       "videos": [
         {
@@ -537,7 +488,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 7.9,
+      "vote_average": 7.417,
       "providers": [
         {
           "id": 8,
@@ -644,7 +595,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 8.329,
+      "vote_average": 8.281,
       "providers": [
         {
           "id": 350,
@@ -797,7 +748,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.75,
+      "vote_average": 6.8,
       "providers": [],
       "videos": [
         {
@@ -862,7 +813,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.2,
+      "vote_average": 6.253,
       "providers": [],
       "videos": [
         {
@@ -927,7 +878,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.179,
+      "vote_average": 7.051,
       "providers": [],
       "videos": [
         {
@@ -1019,7 +970,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.345,
+      "vote_average": 8.338,
       "providers": [],
       "videos": [
         {
@@ -1053,6 +1004,51 @@
         "https://image.tmdb.org/t/p/w780/hSYBdRE9b5PRK3BsjEBvXnUZvwM.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1377237"
+    },
+    {
+      "id": 1476746,
+      "type": "movie",
+      "title": "A Última Entrega",
+      "release_date": "2026-12-03",
+      "poster": "https://image.tmdb.org/t/p/w500/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 99,
+      "genres": [
+        "Ação",
+        "Thriller"
+      ],
+      "vote_average": 5.907,
+      "providers": [],
+      "videos": [
+        {
+          "key": "fVFIhOfErfU",
+          "name": "Trailer - A Última Entrega - Noite da Pipoca 2026",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Dennis Quaid",
+        "Jean Reno",
+        "Sky Katz",
+        "Jim Klock",
+        "Leonidas Gulaptis",
+        "Elsa Mollien",
+        "Gabriel 'G-Rod' Rodriguez",
+        "Dominick LaRuffa Jr."
+      ],
+      "director": "Babak Najafi",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
+        "https://image.tmdb.org/t/p/w780/rzxBvCix5Ebl3KYPIXpD8hy64uE.jpg",
+        "https://image.tmdb.org/t/p/w780/xZivJ9jshaFoxuPZ2BiJ9SBrNTc.jpg",
+        "https://image.tmdb.org/t/p/w780/g5Kdx4dCt2RYROLEZZMjbbtBuoF.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1476746"
     }
   ]
 }
