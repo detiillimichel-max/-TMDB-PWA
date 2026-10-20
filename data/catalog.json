@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T04:51:47.257691+00:00",
+  "updated_at": "2026-10-20T11:38:08.602909+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.026,
+      "vote_average": 7.0,
       "providers": [],
       "videos": [
         {
@@ -74,7 +74,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.7,
+      "vote_average": 6.625,
       "providers": [],
       "videos": [
         {
@@ -127,8 +127,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "wfx3MjMV6x4",
-          "name": "Don&#39;t Move (2026) | Official Trailer",
+          "key": "FwoYYKyJo1g",
+          "name": "Don’t Move Official Trailer (2026) - In Theaters September 11",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -169,7 +169,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.307,
+      "vote_average": 7.306,
       "providers": [],
       "videos": [
         {
@@ -226,7 +226,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.492,
       "providers": [],
       "videos": [
         {
@@ -284,7 +284,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.76,
+      "vote_average": 7.8,
       "providers": [
         {
           "id": 350,
@@ -314,14 +314,14 @@
       ],
       "director": "Sam Hargrave",
       "images": [
+        "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
         "https://image.tmdb.org/t/p/w780/8LYMGmljj3gfhyHaMjqeylVjWEZ.jpg",
         "https://image.tmdb.org/t/p/w780/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
         "https://image.tmdb.org/t/p/w780/oOofgKLAWUhHGohxXdRm3yLOWYw.jpg",
         "https://image.tmdb.org/t/p/w780/e1EqWOQAp5mc5QUsCCGoeOixnfH.jpg",
-        "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-        "https://image.tmdb.org/t/p/w780/vJlFR2PEioavrz17QbC56r76V9F.jpg",
-        "https://image.tmdb.org/t/p/w780/roawIpy5sigBB7LsU4AJDw70jPo.jpg",
-        "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg"
+        "https://image.tmdb.org/t/p/w780/dbixfjL3yu6lrwzFyeaTH5jArN4.jpg",
+        "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
+        "https://image.tmdb.org/t/p/w780/vJlFR2PEioavrz17QbC56r76V9F.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
@@ -339,7 +339,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.869,
+      "vote_average": 6.905,
       "providers": [],
       "videos": [
         {
@@ -387,7 +387,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 6.0,
+      "vote_average": 5.985,
       "providers": [],
       "videos": [
         {
@@ -504,7 +504,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.001,
+      "vote_average": 7.033,
       "providers": [
         {
           "id": 8,
@@ -611,9 +611,11 @@
       "tagline": "Prenda a respiração",
       "runtime": 106,
       "genres": [
-        "Thriller"
+        "Thriller",
+        "Terror",
+        "Drama"
       ],
-      "vote_average": 6.672,
+      "vote_average": 6.6,
       "providers": [],
       "videos": [
         {
@@ -678,7 +680,7 @@
         "Drama",
         "Romance"
       ],
-      "vote_average": 7.354,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -735,7 +737,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.267,
+      "vote_average": 6.27,
       "providers": [],
       "videos": [
         {
@@ -800,7 +802,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.124,
+      "vote_average": 7.14,
       "providers": [],
       "videos": [
         {
@@ -825,13 +827,13 @@
       "director": "Thomas Vincent",
       "images": [
         "https://image.tmdb.org/t/p/w780/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+        "https://image.tmdb.org/t/p/w780/b1TssUuZZ9WwgIxBvY8XUimQ4dB.jpg",
         "https://image.tmdb.org/t/p/w780/nhJab93yQdDJa7btFEu9MQ8s2OG.jpg",
         "https://image.tmdb.org/t/p/w780/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
         "https://image.tmdb.org/t/p/w780/2Je5EainyrNszCyhF07Pfkm3m5f.jpg",
         "https://image.tmdb.org/t/p/w780/bapL59rfXz56C0U9eZg8ezAm8vw.jpg",
         "https://image.tmdb.org/t/p/w780/dOv2JBMmwcw7TL5auBeBoIbhoO8.jpg",
-        "https://image.tmdb.org/t/p/w780/hk80hYdJ6MEPy4jDxc0TqHCb6wH.jpg",
-        "https://image.tmdb.org/t/p/w780/nLEgcdXBj8JH6BtuB3w5W7Jc41T.jpg"
+        "https://image.tmdb.org/t/p/w780/hk80hYdJ6MEPy4jDxc0TqHCb6wH.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1561726"
     },
@@ -897,7 +899,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.939,
+      "vote_average": 6.9,
       "providers": [],
       "videos": [
         {
@@ -997,7 +999,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.338,
+      "vote_average": 8.339,
       "providers": [],
       "videos": [
         {
