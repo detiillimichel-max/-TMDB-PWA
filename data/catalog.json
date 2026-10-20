@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T11:38:08.602909+00:00",
+  "updated_at": "2026-10-20T17:07:20.278568+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.0,
+      "vote_average": 7.037,
       "providers": [],
       "videos": [
         {
@@ -123,12 +123,12 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.5,
+      "vote_average": 5.375,
       "providers": [],
       "videos": [
         {
-          "key": "FwoYYKyJo1g",
-          "name": "Don’t Move Official Trailer (2026) - In Theaters September 11",
+          "key": "wfx3MjMV6x4",
+          "name": "Don&#39;t Move (2026) | Official Trailer",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -169,7 +169,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.306,
+      "vote_average": 7.301,
       "providers": [],
       "videos": [
         {
@@ -284,7 +284,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.8,
+      "vote_average": 7.767,
       "providers": [
         {
           "id": 350,
@@ -339,12 +339,12 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.905,
+      "vote_average": 6.8,
       "providers": [],
       "videos": [
         {
-          "key": "ZNLHXYO_e6I",
-          "name": "(Quase) O Amor da Minha Vida Trailer Oficial Legendado 2026 | Estourando Trailers",
+          "key": "CQcqHjp9b6M",
+          "name": "Amor da Minha Vida | Nova Temporada | Trailer Oficial | Disney+",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -363,14 +363,14 @@
       ],
       "director": "Rachel Morrison",
       "images": [
+        "https://image.tmdb.org/t/p/w780/f1jZDs4dJoFXxazmpBKGmId2hFU.jpg",
         "https://image.tmdb.org/t/p/w780/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
         "https://image.tmdb.org/t/p/w780/uE4qESNLo6jQrKjnUiNE42hrn1Z.jpg",
         "https://image.tmdb.org/t/p/w780/79GJ5BmbjCfoWnRGEcg42QPSdQf.jpg",
         "https://image.tmdb.org/t/p/w780/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
         "https://image.tmdb.org/t/p/w780/mTUWpyf15tLs4YLvy3nirbn6xA9.jpg",
         "https://image.tmdb.org/t/p/w780/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg",
-        "https://image.tmdb.org/t/p/w780/7RrnaX9AkAXxCVE6PpxIfbcVVBC.jpg",
-        "https://image.tmdb.org/t/p/w780/xWmWfmMCRvVyv7I8fYcB7m7boCi.jpg"
+        "https://image.tmdb.org/t/p/w780/7RrnaX9AkAXxCVE6PpxIfbcVVBC.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1381078"
     },
@@ -462,8 +462,8 @@
       ],
       "videos": [
         {
-          "key": "7FngoJqA2tk",
-          "name": "Conexão perigosa 2026 Trailer Oficial Dublado",
+          "key": "Wb1Pb7bFHCM",
+          "name": "Notícias em Perigo | Trailer, sinopse e onde assistir",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -504,7 +504,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.033,
+      "vote_average": 7.038,
       "providers": [
         {
           "id": 8,
@@ -559,7 +559,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 8.327,
+      "vote_average": 8.308,
       "providers": [
         {
           "id": 350,
@@ -802,7 +802,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.14,
+      "vote_average": 7.054,
       "providers": [],
       "videos": [
         {
@@ -999,7 +999,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.339,
+      "vote_average": 8.331,
       "providers": [],
       "videos": [
         {
