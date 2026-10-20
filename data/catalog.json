@@ -1,50 +1,7 @@
 {
-  "updated_at": "2026-10-19T22:22:00.203128+00:00",
+  "updated_at": "2026-10-20T04:51:47.257691+00:00",
   "region": "BR",
   "items": [
-    {
-      "id": 1712451,
-      "type": "movie",
-      "title": "Resident Dead",
-      "release_date": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w500/qKhMVWwFikSUzOpkhOl35GBLkGH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/yKx5gYrYgakKZuUWAsuFDStBroy.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 89,
-      "genres": [
-        "Terror"
-      ],
-      "vote_average": 5.6,
-      "providers": [],
-      "videos": [
-        {
-          "key": "i7DlsDPq_eQ",
-          "name": "RESIDENT DEAD Official Trailer (2026) Zombies Movie",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "John Wells",
-        "Isabel Ramirez",
-        "Thandiwe McMillan",
-        "Hamid-Reza Benjamin Thompson",
-        "Jarod Brock",
-        "Sai Piña",
-        "Chase Breithoff",
-        "Rob Eubanks"
-      ],
-      "director": "Ryan Ebert",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/yKx5gYrYgakKZuUWAsuFDStBroy.jpg",
-        "https://image.tmdb.org/t/p/w780/jWaSezmTaSToNYR7sKO6onLqHVV.jpg",
-        "https://image.tmdb.org/t/p/w780/473QygJr1AdPJbl1IXYi2bxVcfL.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1712451"
-    },
     {
       "id": 1302904,
       "type": "movie",
@@ -60,7 +17,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.0,
+      "vote_average": 7.026,
       "providers": [],
       "videos": [
         {
@@ -104,56 +61,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1302904"
     },
     {
-      "id": 977942,
-      "type": "movie",
-      "title": "O Rebelde",
-      "release_date": "2026-09-10",
-      "poster": "https://image.tmdb.org/t/p/w500/kvE28LKAjRlkf2x3G6BmSCYyOk7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-      "overview": "Enquanto a guerra e a peste devastam a Inglaterra do século XIV, um humilde camponês dá início a uma revolta, reunindo um exército de homens e mulheres do povo para desafiar o poder do rei numa luta desesperada por justiça e sobrevivência.",
-      "tagline": "",
-      "runtime": 127,
-      "genres": [
-        "Ação",
-        "Drama",
-        "História"
-      ],
-      "vote_average": 7.9,
-      "providers": [],
-      "videos": [
-        {
-          "key": "gYNj2QbQ2PY",
-          "name": "Rebelde | Trailer oficial | Netflix",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Andrew Garfield",
-        "Jamie Bell",
-        "Stephen Dillane",
-        "Woody Norman",
-        "Tom Hollander",
-        "Cosmo Jarvis",
-        "Thomasin McKenzie",
-        "Jonny Lee Miller"
-      ],
-      "director": "Paul Greengrass",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/9YKDy9xgIopB2qoFZcHYNkFeikh.jpg",
-        "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-        "https://image.tmdb.org/t/p/w780/kAlAFblqBI6aGXItR4DRpT5Tozg.jpg",
-        "https://image.tmdb.org/t/p/w780/nB3W0e2ZncVjG4xaJauRQgaTcut.jpg",
-        "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
-        "https://image.tmdb.org/t/p/w780/tK83Q7yoO8GqVZjtKJVeGJyHCQz.jpg",
-        "https://image.tmdb.org/t/p/w780/wkuzxJkJoRS2ApYSiPclfaYBQj2.jpg",
-        "https://image.tmdb.org/t/p/w780/w2iQlj8KaC8LARWkfBXEoxBEWQ3.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/977942"
-    },
-    {
       "id": 1228834,
       "type": "movie",
       "title": "The Fix",
@@ -167,7 +74,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.75,
+      "vote_average": 6.7,
       "providers": [],
       "videos": [
         {
@@ -262,7 +169,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.306,
+      "vote_average": 7.307,
       "providers": [],
       "videos": [
         {
@@ -306,6 +213,63 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1423191"
     },
     {
+      "id": 1248832,
+      "type": "movie",
+      "title": "Digger",
+      "release_date": "2026-10-01",
+      "poster": "https://image.tmdb.org/t/p/w500/2qelG58fO3tOSPrDVzOW8hfxY3V.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "overview": "O homem mais poderoso do mundo embarca em uma missão frenética para provar que é o salvador da humanidade, antes que o desastre desencadeado por ele destrua tudo.",
+      "tagline": "Cave, ou morra.",
+      "runtime": 129,
+      "genres": [
+        "Comédia",
+        "Drama"
+      ],
+      "vote_average": 7.5,
+      "providers": [],
+      "videos": [
+        {
+          "key": "pMq9k_N7cko",
+          "name": "DIGGER l Trailer Final Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "vrFKMnHvVeQ",
+          "name": "Anúncio do Título",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Riz Ahmed",
+        "John Goodman",
+        "Sandra Hüller",
+        "Michael Stuhlbarg",
+        "Jesse Plemons",
+        "Robert John Burke",
+        "Emma D'Arcy"
+      ],
+      "director": "Alejandro G. Iñárritu",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+        "https://image.tmdb.org/t/p/w780/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
+        "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
+        "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
+        "https://image.tmdb.org/t/p/w780/244Hk4UVxrgdotp0pfkvnW9Iand.jpg",
+        "https://image.tmdb.org/t/p/w780/vlJHTUMyfPw9398oIvcosdNWSSw.jpg",
+        "https://image.tmdb.org/t/p/w780/ihf10k0ANuEpYO7tXnQbkMUCQBf.jpg",
+        "https://image.tmdb.org/t/p/w780/4uxShHLWeYXjhZScH14C5P4z0dj.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1248832"
+    },
+    {
       "id": 1148365,
       "type": "movie",
       "title": "Matchbox - O Filme",
@@ -320,7 +284,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.785,
+      "vote_average": 7.76,
       "providers": [
         {
           "id": 350,
@@ -540,7 +504,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 6.999,
+      "vote_average": 7.001,
       "providers": [
         {
           "id": 8,
@@ -595,7 +559,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 8.281,
+      "vote_average": 8.327,
       "providers": [
         {
           "id": 350,
@@ -637,105 +601,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1288069"
     },
     {
-      "id": 1742441,
-      "type": "movie",
-      "title": "V/H/S/Mixtape",
-      "release_date": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mpB4pgtUcc7rCLxvlknzCbAQQEE.jpg",
-      "overview": "Ele apresenta uma nova antologia na qual música e som se tornam uma fonte de terror.",
-      "tagline": "",
-      "runtime": 98,
-      "genres": [
-        "Terror",
-        "Música",
-        "Thriller"
-      ],
-      "vote_average": 4.717,
-      "providers": [],
-      "videos": [
-        {
-          "key": "qHJBNUhFGMI",
-          "name": "V/H/S/MIXTAPE | Official Trailer (2026) 4K",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Mike Derks",
-        "Michael Bishop",
-        "Brad Roberts",
-        "Casey Orr",
-        "Bob Gorman",
-        "Josh Willis",
-        "Christopher Romero Sosa",
-        "Barbara Crampton"
-      ],
-      "director": "David Moreau",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/mpB4pgtUcc7rCLxvlknzCbAQQEE.jpg",
-        "https://image.tmdb.org/t/p/w780/8fTUkzzgrJXThCK0dLY5Pb2V9uM.jpg",
-        "https://image.tmdb.org/t/p/w780/sEfhjRXFJqxwO50Dpe6HNLLU2aY.jpg",
-        "https://image.tmdb.org/t/p/w780/6hNFtImgvQZjRw8OxScyzPIx8hW.jpg",
-        "https://image.tmdb.org/t/p/w780/bC8zhz6jZO4pa4lGtHriNGdtKWY.jpg",
-        "https://image.tmdb.org/t/p/w780/yeGO5vvfwMc4HLJJHIN2vvtvPX0.jpg",
-        "https://image.tmdb.org/t/p/w780/yIDZiYea2Bah1yLYz14jlC89WJ5.jpg",
-        "https://image.tmdb.org/t/p/w780/ggzLEvPqBkSY03936i3lrS476Xj.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1742441"
-    },
-    {
-      "id": 1234139,
-      "type": "movie",
-      "title": "ஜெயிலர் 2",
-      "release_date": "2026-10-14",
-      "poster": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zpHTOdRl7GEPqFsDGqsN6Hi9Ylt.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 163,
-      "genres": [
-        "Ação",
-        "Comédia"
-      ],
-      "vote_average": 8.0,
-      "providers": [],
-      "videos": [
-        {
-          "key": "FW_PPcr1sPE",
-          "name": "JAILER 2 - Official Trailer | Superstar Rajinikanth | Sun Pictures | Anirudh | Nelson",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "ரஜினிகாந்த்",
-        "S. J. Suryah",
-        "Suraj Venjaramoodu",
-        "Ramya Krishnan",
-        "Vidya Balan",
-        "Namo Narayanan",
-        "யோகி பாபு",
-        "Mirnaa"
-      ],
-      "director": "நெல்சன் திலீப்குமார்",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/zpHTOdRl7GEPqFsDGqsN6Hi9Ylt.jpg",
-        "https://image.tmdb.org/t/p/w780/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
-        "https://image.tmdb.org/t/p/w780/556BFX63Q73jTghqg1g3JPNzCDO.jpg",
-        "https://image.tmdb.org/t/p/w780/ceclu0D2psC5VTIkhcHJ3a4iBsI.jpg",
-        "https://image.tmdb.org/t/p/w780/paGuGyEysCn49NOP8xfXipxp1qk.jpg",
-        "https://image.tmdb.org/t/p/w780/jiepYPH25Cff5aFNn57KCiSszxQ.jpg",
-        "https://image.tmdb.org/t/p/w780/cJtT4dxFpHPTVk2MiOqUXM6Rg0D.jpg",
-        "https://image.tmdb.org/t/p/w780/3jCLCnbLDVxAbZJSieD1tnWCVKg.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1234139"
-    },
-    {
       "id": 1255833,
       "type": "movie",
       "title": "Dentro da Baleia",
@@ -748,7 +613,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.8,
+      "vote_average": 6.672,
       "providers": [],
       "videos": [
         {
@@ -800,6 +665,63 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1255833"
     },
     {
+      "id": 1503762,
+      "type": "movie",
+      "title": "Razão e Sensibilidade",
+      "release_date": "2026-10-15",
+      "poster": "https://image.tmdb.org/t/p/w500/kuSSXcjitZy1LLGGoB9XqLBPCYl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
+      "overview": "Uma nova e irresistível releitura do icônico romance “Razão e Sensibilidade”, de Jane Austen: uma história encantadora, espirituosa e com a qual é fácil se identificar, sobre amor e irmandade.",
+      "tagline": "Ser agradável nunca fez bem a nenhuma mulher.",
+      "runtime": 125,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "vote_average": 7.354,
+      "providers": [],
+      "videos": [
+        {
+          "key": "GRk4QPveYBY",
+          "name": "Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "Ue8ltp4ekgU",
+          "name": "Trailer Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Daisy Edgar-Jones",
+        "Esmé Creed-Miles",
+        "Bodhi Rae Breathnach",
+        "Caitríona Balfe",
+        "Fiona Shaw",
+        "George MacKay",
+        "Herbert Nordrum",
+        "Frank Dillane"
+      ],
+      "director": "Georgia Oakley",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
+        "https://image.tmdb.org/t/p/w780/3pGQKeOyN9cTAP723kdMwwPTRNl.jpg",
+        "https://image.tmdb.org/t/p/w780/rv6dwE4SXAT5f00Ks8YL2kFvnLA.jpg",
+        "https://image.tmdb.org/t/p/w780/7wufnyNo5uhkosKXEp8iITX5ar3.jpg",
+        "https://image.tmdb.org/t/p/w780/jzc5EP97QK8nbTjCeu1MixExYWT.jpg",
+        "https://image.tmdb.org/t/p/w780/bXRoEdk3zmkS4LfKu9cRBGbvI6o.jpg",
+        "https://image.tmdb.org/t/p/w780/oUcOngCWc6hFDmxufNBeIawkv9a.jpg",
+        "https://image.tmdb.org/t/p/w780/fbmXXiF81j4j0Vo6ih9kc299wIh.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1503762"
+    },
+    {
       "id": 1153576,
       "type": "movie",
       "title": "Street Fighter",
@@ -813,7 +735,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.253,
+      "vote_average": 6.267,
       "providers": [],
       "videos": [
         {
@@ -878,7 +800,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.051,
+      "vote_average": 7.124,
       "providers": [],
       "videos": [
         {
@@ -895,10 +817,10 @@
         "Simona Tabasco",
         "Victor Belmondo",
         "Eliott Margueron",
-        "Bruno Bilotta",
         "Barbara Lo Gaglio",
         "Etienne Guillou-Kervern",
-        "Srbo Markovic"
+        "Srbo Markovic",
+        "Julia Messina"
       ],
       "director": "Thomas Vincent",
       "images": [
@@ -912,6 +834,111 @@
         "https://image.tmdb.org/t/p/w780/nLEgcdXBj8JH6BtuB3w5W7Jc41T.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1561726"
+    },
+    {
+      "id": 1765072,
+      "type": "movie",
+      "title": "You Can See Everything",
+      "release_date": "2026-10-16",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+      "overview": "Trinta e quatro dias antes de ser enviada para a prisão, a notória fundadora do Vale do Silício, Elizabeth Holmes, convida uma equipe de filmagem cética para documentar cada passo seu. O que começa como um retrato íntimo de uma criminosa enigmática se transforma em uma jornada alucinante de três anos rumo ao abismo.",
+      "tagline": "",
+      "runtime": 174,
+      "genres": [
+        "Documentário"
+      ],
+      "vote_average": 8.9,
+      "providers": [],
+      "videos": [
+        {
+          "key": "kre2P5oQCKU",
+          "name": "You Can See Everything | Official Trailer (Elizabeth Holmes, Nathan Fielder 2026)",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Elizabeth Holmes",
+        "Nathan Fielder",
+        "Billy Evans",
+        "Amanda Seyfried",
+        "Christopher Abbott",
+        "Lance Oppenheim",
+        "Christian Rasmus Holmes IV",
+        "Noel Anne"
+      ],
+      "director": "Nathan Fielder",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+        "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
+        "https://image.tmdb.org/t/p/w780/uDONA0SCc1Tanl1lizf6lYNoMmr.jpg",
+        "https://image.tmdb.org/t/p/w780/gCfol52f4veLiaSvGYLHw4mIiSG.jpg",
+        "https://image.tmdb.org/t/p/w780/bO9IW7FLKA3OBstINZVca2yPxKj.jpg",
+        "https://image.tmdb.org/t/p/w780/sgRg9h6fqCPUVzTKjAap57azga0.jpg",
+        "https://image.tmdb.org/t/p/w780/flr1irwRWJJuB79u4T2t4bAS6OK.jpg",
+        "https://image.tmdb.org/t/p/w780/hJahNruyGNVD4nyFJpeEodFnpgT.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1765072"
+    },
+    {
+      "id": 1281331,
+      "type": "movie",
+      "title": "O Outro Lado das Redes",
+      "release_date": "2026-10-22",
+      "poster": "https://image.tmdb.org/t/p/w500/51AEphEZ5JXaV0FL5PGITjLQE0m.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+      "overview": "Frances Haugen, uma jovem engenheira do Facebook, conta com a ajuda de Jeff Horwitz, repórter do Wall Street Journal, para revelar os segredos mais bem guardados da rede social.",
+      "tagline": "A fase de fazer amigos já passou.",
+      "runtime": 113,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "vote_average": 6.939,
+      "providers": [],
+      "videos": [
+        {
+          "key": "ndgIT_-shpg",
+          "name": "O Outro Lado das Redes | Novo Trailer | Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "21VZhHDCDqE",
+          "name": "O Outro Lado das Redes | Trailer | 08 de outubro nos cinemas",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Mikey Madison",
+        "Jeremy Allen White",
+        "Jeremy Strong",
+        "Betty Gilpin",
+        "Bill Burr",
+        "Wunmi Mosaku",
+        "Billy Magnussen",
+        "Gbenga Akinnagbe"
+      ],
+      "director": "Aaron Sorkin",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+        "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
+        "https://image.tmdb.org/t/p/w780/mzLEPRpj6SX7rHSJn8parZQZLFl.jpg",
+        "https://image.tmdb.org/t/p/w780/5QuKIWyZH6xrRRxqphRgrbC6dh0.jpg",
+        "https://image.tmdb.org/t/p/w780/eK5zdbUlMNNswUlegkazcO8PAAZ.jpg",
+        "https://image.tmdb.org/t/p/w780/wFJacJYrRIR45FeP7eLG0GP1Ug4.jpg",
+        "https://image.tmdb.org/t/p/w780/1eTUa8YDfq7WbrTrTsUuMfLZPk3.jpg",
+        "https://image.tmdb.org/t/p/w780/zEa5jl6oH44m7DKB9i8m2oFMict.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1281331"
     },
     {
       "id": 1294189,
@@ -1006,49 +1033,53 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1377237"
     },
     {
-      "id": 1476746,
+      "id": 858035,
       "type": "movie",
-      "title": "A Última Entrega",
-      "release_date": "2026-12-03",
-      "poster": "https://image.tmdb.org/t/p/w500/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 99,
+      "title": "Klara e o Sol",
+      "release_date": "2026-11-05",
+      "poster": "https://image.tmdb.org/t/p/w500/yLXUgRzfPXcSQFFJ748wKMVcqq0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/s4E7NDJCOG3wqc5psv2RLr9QfUm.jpg",
+      "overview": "Klara é uma Amiga Artificial que deseja apenas encontrar o lar perfeito. Quando conhece Josie, ambas imediatamente percebem uma espécie de alma gêmea uma na outra. Josie tem uma relação conturbada com a mãe e ambas sofreram grandes perdas, mas a inocência e a lealdade inabalável de Klara começam a curar a família e a trazer luz ao mundo complicado de Josie.",
+      "tagline": "Conheça o futuro da amizade.",
+      "runtime": 116,
       "genres": [
-        "Ação",
-        "Thriller"
+        "Ficção científica",
+        "Drama"
       ],
-      "vote_average": 5.907,
+      "vote_average": 0,
       "providers": [],
       "videos": [
         {
-          "key": "fVFIhOfErfU",
-          "name": "Trailer - A Última Entrega - Noite da Pipoca 2026",
+          "key": "KeeH5hwNLe8",
+          "name": "Trailer Oficial",
           "type": "Trailer",
-          "official": false,
+          "official": true,
           "site": "YouTube",
-          "source": "youtube_search"
+          "source": "tmdb"
         }
       ],
       "cast": [
-        "Dennis Quaid",
-        "Jean Reno",
-        "Sky Katz",
-        "Jim Klock",
-        "Leonidas Gulaptis",
-        "Elsa Mollien",
-        "Gabriel 'G-Rod' Rodriguez",
-        "Dominick LaRuffa Jr."
+        "Jenna Ortega",
+        "Mia Tharia",
+        "Amy Adams",
+        "Natasha Lyonne",
+        "Aran Murphy",
+        "Rachel House",
+        "Steve Buscemi",
+        "Davida McKenzie"
       ],
-      "director": "Babak Najafi",
+      "director": "Taika Waititi",
       "images": [
-        "https://image.tmdb.org/t/p/w780/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
-        "https://image.tmdb.org/t/p/w780/rzxBvCix5Ebl3KYPIXpD8hy64uE.jpg",
-        "https://image.tmdb.org/t/p/w780/xZivJ9jshaFoxuPZ2BiJ9SBrNTc.jpg",
-        "https://image.tmdb.org/t/p/w780/g5Kdx4dCt2RYROLEZZMjbbtBuoF.jpg"
+        "https://image.tmdb.org/t/p/w780/s4E7NDJCOG3wqc5psv2RLr9QfUm.jpg",
+        "https://image.tmdb.org/t/p/w780/qz27VqOrAIksMLbFudvrX1lhTWU.jpg",
+        "https://image.tmdb.org/t/p/w780/gtcCBBYEaskctLhCK2lEdN4weE.jpg",
+        "https://image.tmdb.org/t/p/w780/z6zBB40CE1FlZKvZ3jdFK1TybnQ.jpg",
+        "https://image.tmdb.org/t/p/w780/1ZwcLnQMFvoAEbnGOsXJplgic6.jpg",
+        "https://image.tmdb.org/t/p/w780/geCl9W1teG5lvPqLs4GQPXoYkkp.jpg",
+        "https://image.tmdb.org/t/p/w780/yy5FhBw2tV4QrKbIpXWHA14W2hI.jpg",
+        "https://image.tmdb.org/t/p/w780/iAk3dkxQa1ncahy11sfZ4ssN5ia.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1476746"
+      "tmdb_url": "https://www.themoviedb.org/movie/858035"
     }
   ]
 }
