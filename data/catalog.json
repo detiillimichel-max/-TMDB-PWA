@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T04:48:51.694272+00:00",
+  "updated_at": "2026-10-21T11:50:11.886459+00:00",
   "region": "BR",
   "items": [
     {
@@ -123,7 +123,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.375,
+      "vote_average": 5.222,
       "providers": [],
       "videos": [
         {
@@ -169,7 +169,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.294,
+      "vote_average": 7.293,
       "providers": [],
       "videos": [
         {
@@ -226,7 +226,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.485,
+      "vote_average": 7.483,
       "providers": [],
       "videos": [
         {
@@ -284,7 +284,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.773,
+      "vote_average": 7.798,
       "providers": [
         {
           "id": 350,
@@ -338,7 +338,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.914,
+      "vote_average": 5.923,
       "providers": [],
       "videos": [
         {
@@ -455,7 +455,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.026,
+      "vote_average": 7.03,
       "providers": [
         {
           "id": 8,
@@ -510,7 +510,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 8.295,
+      "vote_average": 8.394,
       "providers": [
         {
           "id": 350,
@@ -613,7 +613,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.537,
+      "vote_average": 6.5,
       "providers": [],
       "videos": [
         {
@@ -670,7 +670,7 @@
       "title": "Razão e Sensibilidade",
       "release_date": "2026-10-15",
       "poster": "https://image.tmdb.org/t/p/w500/kuSSXcjitZy1LLGGoB9XqLBPCYl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/YpzEwCpoOdFD2itSYf3pbVGTXH.jpg",
       "overview": "Uma nova e irresistível releitura do icônico romance “Razão e Sensibilidade”, de Jane Austen: uma história encantadora, espirituosa e com a qual é fácil se identificar, sobre amor e irmandade.",
       "tagline": "Ser agradável nunca fez bem a nenhuma mulher.",
       "runtime": 125,
@@ -710,14 +710,14 @@
       ],
       "director": "Georgia Oakley",
       "images": [
-        "https://image.tmdb.org/t/p/w780/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
-        "https://image.tmdb.org/t/p/w780/3pGQKeOyN9cTAP723kdMwwPTRNl.jpg",
-        "https://image.tmdb.org/t/p/w780/rv6dwE4SXAT5f00Ks8YL2kFvnLA.jpg",
-        "https://image.tmdb.org/t/p/w780/7wufnyNo5uhkosKXEp8iITX5ar3.jpg",
-        "https://image.tmdb.org/t/p/w780/jzc5EP97QK8nbTjCeu1MixExYWT.jpg",
-        "https://image.tmdb.org/t/p/w780/bXRoEdk3zmkS4LfKu9cRBGbvI6o.jpg",
-        "https://image.tmdb.org/t/p/w780/oUcOngCWc6hFDmxufNBeIawkv9a.jpg",
-        "https://image.tmdb.org/t/p/w780/fbmXXiF81j4j0Vo6ih9kc299wIh.jpg"
+        "https://image.tmdb.org/t/p/w780/YpzEwCpoOdFD2itSYf3pbVGTXH.jpg",
+        "https://image.tmdb.org/t/p/w780/uj5ECRoSJOFvrUl5aeLdl2QHpjU.jpg",
+        "https://image.tmdb.org/t/p/w780/mvomuoMrythko3DeVSXGp5jjDOj.jpg",
+        "https://image.tmdb.org/t/p/w780/sWzNxNDHOTSmSOeahCEmEvbBVgI.jpg",
+        "https://image.tmdb.org/t/p/w780/iseNNwy1JQbHe8O6zx67Wf0UGoL.jpg",
+        "https://image.tmdb.org/t/p/w780/wnJm8uEkkEjNvdZozxrERQGnRV7.jpg",
+        "https://image.tmdb.org/t/p/w780/jif62gOnUV7HphrCMdpzmG4xyMD.jpg",
+        "https://image.tmdb.org/t/p/w780/5aojIUjD66JOhwINhJZmugxe6tt.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1503762"
     },
@@ -735,7 +735,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.3,
+      "vote_average": 6.246,
       "providers": [],
       "videos": [
         {
@@ -800,7 +800,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.081,
+      "vote_average": 7.096,
       "providers": [],
       "videos": [
         {
@@ -848,7 +848,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 9.0,
+      "vote_average": 8.938,
       "providers": [],
       "videos": [
         {
@@ -897,7 +897,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.933,
+      "vote_average": 6.958,
       "providers": [],
       "videos": [
         {
@@ -958,8 +958,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "DQAUbfAtZLA",
-          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
+          "key": "SwIcphIaLMI",
+          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -997,7 +997,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.335,
+      "vote_average": 8.334,
       "providers": [],
       "videos": [
         {
@@ -1065,7 +1065,7 @@
         "Yuki Yamada",
         "Kuranosuke Sasaki",
         "國村隼",
-        "Mio Tanaka",
+        "Miou Tanaka",
         "Sakura Ando",
         "長澤まさみ"
       ],
