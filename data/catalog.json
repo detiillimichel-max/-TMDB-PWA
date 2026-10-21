@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T11:50:11.886459+00:00",
+  "updated_at": "2026-10-21T17:13:00.277574+00:00",
   "region": "BR",
   "items": [
     {
@@ -74,12 +74,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.607,
+      "vote_average": 6.585,
       "providers": [],
       "videos": [
         {
-          "key": "vH4zs2LnhyE",
-          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson",
+          "key": "QtONyw_amrg",
+          "name": "The Fix | Official Trailer | Liam Neeson | In Cinemas 11 Sep 2026 ",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -127,8 +127,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "FwoYYKyJo1g",
-          "name": "Don’t Move Official Trailer (2026) - In Theaters September 11",
+          "key": "wfx3MjMV6x4",
+          "name": "Don&#39;t Move (2026) | Official Trailer",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -169,7 +169,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.293,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -226,7 +226,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.483,
+      "vote_average": 7.478,
       "providers": [],
       "videos": [
         {
@@ -326,6 +326,55 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
     {
+      "id": 1381078,
+      "type": "movie",
+      "title": "O Amor de Sua Vida",
+      "release_date": "2026-10-07",
+      "poster": "https://image.tmdb.org/t/p/w500/noVjD52nAvgPK2XtVZSej1nFzin.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+      "overview": "Maya, uma enfermeira inteligente e irônica, é envolvida por um amor envolvente, que coloca sua vida em uma trajetória que ela nunca teria imaginado.",
+      "tagline": "",
+      "runtime": 111,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "vote_average": 6.829,
+      "providers": [],
+      "videos": [
+        {
+          "key": "ZNLHXYO_e6I",
+          "name": "(Quase) O Amor da Minha Vida Trailer Oficial Legendado 2026 | Estourando Trailers",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Gabriel Basso",
+        "Aaron Pierre",
+        "Patrick Schwarzenegger",
+        "Catherine Keener",
+        "Tamara Lawrance",
+        "Corey Johnson",
+        "Michael Shelford"
+      ],
+      "director": "Rachel Morrison",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+        "https://image.tmdb.org/t/p/w780/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+        "https://image.tmdb.org/t/p/w780/uE4qESNLo6jQrKjnUiNE42hrn1Z.jpg",
+        "https://image.tmdb.org/t/p/w780/79GJ5BmbjCfoWnRGEcg42QPSdQf.jpg",
+        "https://image.tmdb.org/t/p/w780/f1jZDs4dJoFXxazmpBKGmId2hFU.jpg",
+        "https://image.tmdb.org/t/p/w780/mTUWpyf15tLs4YLvy3nirbn6xA9.jpg",
+        "https://image.tmdb.org/t/p/w780/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg",
+        "https://image.tmdb.org/t/p/w780/7RrnaX9AkAXxCVE6PpxIfbcVVBC.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1381078"
+    },
+    {
       "id": 1400837,
       "type": "movie",
       "title": "Outra Mamãe",
@@ -338,7 +387,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.923,
+      "vote_average": 5.895,
       "providers": [],
       "videos": [
         {
@@ -388,58 +437,6 @@
         "https://image.tmdb.org/t/p/w780/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1400837"
-    },
-    {
-      "id": 1389172,
-      "type": "movie",
-      "title": "Notícias em Perigo",
-      "release_date": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w500/72ETmrsQGk8guVo1GV8Sf7EygOe.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
-      "overview": "Parineeti Chopra e Deven Bhojani estrelam este suspense policial em que um protesto local leva dois repórteres a investigar a fundo um esquema de mineração ilegal.",
-      "tagline": "",
-      "runtime": 116,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "vote_average": 7.4,
-      "providers": [
-        {
-          "id": 8,
-          "name": "Netflix",
-          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-        }
-      ],
-      "videos": [
-        {
-          "key": "7FngoJqA2tk",
-          "name": "Conexão perigosa 2026 Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Parineeti Chopra",
-        "Deven Bhojani",
-        "आदिल हुसैन",
-        "Shekhar Suman",
-        "Amol Palekar",
-        "Nassar",
-        "गीता अग्रवाल शर्मा",
-        "Saswata Chatterjee"
-      ],
-      "director": "Dhruv Tripathi",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
-        "https://image.tmdb.org/t/p/w780/sKb5B0bhh0VAkpj0eWUQM5QJFBM.jpg",
-        "https://image.tmdb.org/t/p/w780/iAyOkcRfsGQ0tM8YUNfxmWsz2Lv.jpg",
-        "https://image.tmdb.org/t/p/w780/tYYCsmVYr1bobqBl1FGer84SSHl.jpg",
-        "https://image.tmdb.org/t/p/w780/k1iWfhjB4XefNkhcJQ6uuALtPRP.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1389172"
     },
     {
       "id": 1236045,
@@ -510,7 +507,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 8.394,
+      "vote_average": 8.354,
       "providers": [
         {
           "id": 350,
@@ -613,7 +610,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.5,
+      "vote_average": 6.473,
       "providers": [],
       "videos": [
         {
@@ -670,7 +667,7 @@
       "title": "Razão e Sensibilidade",
       "release_date": "2026-10-15",
       "poster": "https://image.tmdb.org/t/p/w500/kuSSXcjitZy1LLGGoB9XqLBPCYl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/YpzEwCpoOdFD2itSYf3pbVGTXH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
       "overview": "Uma nova e irresistível releitura do icônico romance “Razão e Sensibilidade”, de Jane Austen: uma história encantadora, espirituosa e com a qual é fácil se identificar, sobre amor e irmandade.",
       "tagline": "Ser agradável nunca fez bem a nenhuma mulher.",
       "runtime": 125,
@@ -710,14 +707,14 @@
       ],
       "director": "Georgia Oakley",
       "images": [
+        "https://image.tmdb.org/t/p/w780/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
+        "https://image.tmdb.org/t/p/w780/3pGQKeOyN9cTAP723kdMwwPTRNl.jpg",
+        "https://image.tmdb.org/t/p/w780/rv6dwE4SXAT5f00Ks8YL2kFvnLA.jpg",
         "https://image.tmdb.org/t/p/w780/YpzEwCpoOdFD2itSYf3pbVGTXH.jpg",
         "https://image.tmdb.org/t/p/w780/uj5ECRoSJOFvrUl5aeLdl2QHpjU.jpg",
         "https://image.tmdb.org/t/p/w780/mvomuoMrythko3DeVSXGp5jjDOj.jpg",
         "https://image.tmdb.org/t/p/w780/sWzNxNDHOTSmSOeahCEmEvbBVgI.jpg",
-        "https://image.tmdb.org/t/p/w780/iseNNwy1JQbHe8O6zx67Wf0UGoL.jpg",
-        "https://image.tmdb.org/t/p/w780/wnJm8uEkkEjNvdZozxrERQGnRV7.jpg",
-        "https://image.tmdb.org/t/p/w780/jif62gOnUV7HphrCMdpzmG4xyMD.jpg",
-        "https://image.tmdb.org/t/p/w780/5aojIUjD66JOhwINhJZmugxe6tt.jpg"
+        "https://image.tmdb.org/t/p/w780/iseNNwy1JQbHe8O6zx67Wf0UGoL.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1503762"
     },
@@ -735,7 +732,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.246,
+      "vote_average": 6.229,
       "providers": [],
       "videos": [
         {
@@ -800,7 +797,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.096,
+      "vote_average": 7.058,
       "providers": [],
       "videos": [
         {
@@ -884,6 +881,72 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1765072"
     },
     {
+      "id": 1400940,
+      "type": "movie",
+      "title": "Cara-de-Barro",
+      "release_date": "2026-10-22",
+      "poster": "https://image.tmdb.org/t/p/w500/dqvHs2YXks989ScXvsngbqAeBHX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+      "overview": "A ascensão meteórica de Matt Hagen de garoto das ruas de Gotham a astro de Hollywood é tragicamente interrompida quando as ações de um chefão do crime local o deixam terrivelmente desfigurado. Abandonado por sua equipe e sem nada, Matt busca um tratamento de ponta que, milagrosamente, o devolve à sua antiga forma... mas que também afeta, de maneira inesperada, sua percepção da realidade, lançando-o em uma espiral destrutiva de obsessão e vingança.",
+      "tagline": "Enfrente o medo cara a cara.",
+      "runtime": 106,
+      "genres": [
+        "Terror",
+        "Thriller",
+        "Ficção científica"
+      ],
+      "vote_average": 7.3,
+      "providers": [],
+      "videos": [
+        {
+          "key": "Qn17zXheL6Q",
+          "name": "Cara-De-Barro | Trailer Final Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "0UNpg8OZueI",
+          "name": "Cara-de-Barro | Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "m4G1Sfz1qeU",
+          "name": "Teaser Oficial",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Tom Rhys Harries",
+        "Naomi Ackie",
+        "Eddie Marsan",
+        "Max Minghella",
+        "David Dencik",
+        "Francesca Corney",
+        "Ruby Sear",
+        "Wil Coban"
+      ],
+      "director": "James Watkins",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+        "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
+        "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+        "https://image.tmdb.org/t/p/w780/e1iAjnhQsM6Z9bYTOxNFxFY6CfG.jpg",
+        "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
+        "https://image.tmdb.org/t/p/w780/m5QjOdBBIKZoMCJ1bfm97A1BhLH.jpg",
+        "https://image.tmdb.org/t/p/w780/3AO85pPyxW2nu0FLDWYTtNmPGzd.jpg",
+        "https://image.tmdb.org/t/p/w780/6rf6LGpJODbxo36WSCHqbC5CAKO.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1400940"
+    },
+    {
       "id": 1281331,
       "type": "movie",
       "title": "O Outro Lado das Redes",
@@ -897,7 +960,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.958,
+      "vote_average": 6.967,
       "providers": [],
       "videos": [
         {
@@ -958,8 +1021,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "SwIcphIaLMI",
-          "name": "The Mongoose - Official Trailer (2026) Liam Neeson, Marisa Tomei, Michael Chiklis",
+          "key": "DQAUbfAtZLA",
+          "name": "🔥 THE MONGOOSE Official Trailer (2026) Liam Neeson (4K)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -1031,56 +1094,6 @@
         "https://image.tmdb.org/t/p/w780/hSYBdRE9b5PRK3BsjEBvXnUZvwM.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1377237"
-    },
-    {
-      "id": 1381071,
-      "type": "movie",
-      "title": "Godzilla Minus Zero",
-      "release_date": "2026-11-05",
-      "poster": "https://image.tmdb.org/t/p/w500/ebVZ8n64rtHsSItTei4EgTKzPVu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-      "overview": "A guerra reduziu o Japão a zero, e o Godzilla mergulhou-o no negativo. Passaram-se dois anos desde então, e o país tem enfrentado lutas agonizantes para alcançar a recuperação e, finalmente, voltar à vida normal. No momento em que a humanidade conseguiu se agarrar a uma paz conquistada com dificuldade, surge uma nova ameaça, esmagando a esperança num instante.",
-      "tagline": "",
-      "runtime": 125,
-      "genres": [
-        "Ficção científica",
-        "Terror",
-        "Ação"
-      ],
-      "vote_average": 0,
-      "providers": [],
-      "videos": [
-        {
-          "key": "QneeQgZnKpo",
-          "name": "Teaser Oficial",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Ryunosuke Kamiki",
-        "Minami Hamabe",
-        "Yuki Yamada",
-        "Kuranosuke Sasaki",
-        "國村隼",
-        "Miou Tanaka",
-        "Sakura Ando",
-        "長澤まさみ"
-      ],
-      "director": "Takashi Yamazaki",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-        "https://image.tmdb.org/t/p/w780/hyFjwZslMzCQlt7FByPvJciVf4C.jpg",
-        "https://image.tmdb.org/t/p/w780/zVp0TZwTOyrmIbv9lgKoJENlKLx.jpg",
-        "https://image.tmdb.org/t/p/w780/drSQQgzsgXt9NIO9I2n6Bp4lBci.jpg",
-        "https://image.tmdb.org/t/p/w780/rhCg3n4wIu2wkT607h7znedYZBj.jpg",
-        "https://image.tmdb.org/t/p/w780/cYxQ5Q9IyHf6gZoXCrzOFOErMNw.jpg",
-        "https://image.tmdb.org/t/p/w780/6Qz4lkQR34myr5tsOnAQFdcbuuX.jpg",
-        "https://image.tmdb.org/t/p/w780/oiL12oK3fiWCV6lA8zslI3H6zRK.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1381071"
     }
   ]
 }
