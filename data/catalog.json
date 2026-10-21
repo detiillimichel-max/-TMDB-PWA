@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T21:37:50.101417+00:00",
+  "updated_at": "2026-10-21T04:48:51.694272+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.037,
+      "vote_average": 7.0,
       "providers": [],
       "videos": [
         {
@@ -74,12 +74,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.625,
+      "vote_average": 6.607,
       "providers": [],
       "videos": [
         {
-          "key": "7AlQfgBdcLI",
-          "name": "THE FIX Official Trailer (NEW 2026)",
+          "key": "vH4zs2LnhyE",
+          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -169,7 +169,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.294,
       "providers": [],
       "videos": [
         {
@@ -226,7 +226,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.478,
+      "vote_average": 7.485,
       "providers": [],
       "videos": [
         {
@@ -284,7 +284,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.767,
+      "vote_average": 7.773,
       "providers": [
         {
           "id": 350,
@@ -338,7 +338,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.985,
+      "vote_average": 5.914,
       "providers": [],
       "videos": [
         {
@@ -403,7 +403,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 7.417,
+      "vote_average": 7.4,
       "providers": [
         {
           "id": 8,
@@ -497,6 +497,61 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1236045"
     },
     {
+      "id": 1288069,
+      "type": "movie",
+      "title": "Tenzing",
+      "release_date": "2026-10-09",
+      "poster": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
+      "overview": "Um homem determinado embarca em uma jornada arriscada e desafia probabilidades aparentemente impossíveis para realizar seu sonho de ser o primeiro a chegar ao cume do Monte Everest.",
+      "tagline": "A história real da primeira conquista do Everest.",
+      "runtime": 125,
+      "genres": [
+        "Drama",
+        "História"
+      ],
+      "vote_average": 8.295,
+      "providers": [
+        {
+          "id": 350,
+          "name": "Apple TV",
+          "logo": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "C3acvD1AJ-0",
+          "name": "Trailer oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "更登彭措",
+        "Tom Hiddleston",
+        "Willem Dafoe",
+        "Samdrup Dorje Lama",
+        "Bhuchung Kata",
+        "Johnny Flynn",
+        "Lhakpa Tsamchoe",
+        "Jampa Kalsang Tamang"
+      ],
+      "director": "Jennifer Peedom",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
+        "https://image.tmdb.org/t/p/w780/5BHjIppUPxVGuYqLI2Wkh5BBkGv.jpg",
+        "https://image.tmdb.org/t/p/w780/NyZJ3T7mcTolHJSItZQcFt1eGI.jpg",
+        "https://image.tmdb.org/t/p/w780/wUe0QbbPDU2BD3L2QnsZlAr55Je.jpg",
+        "https://image.tmdb.org/t/p/w780/j3iPJSwIn8MDdtmmqjYhrLGnMK4.jpg",
+        "https://image.tmdb.org/t/p/w780/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+        "https://image.tmdb.org/t/p/w780/57y3cRE0XVI6oWqakiKILSHsULH.jpg",
+        "https://image.tmdb.org/t/p/w780/aJpXl3uDZeyHoMBZVGZZz97L5wB.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1288069"
+    },
+    {
       "id": 1234139,
       "type": "movie",
       "title": "ஜெயிலர் 2",
@@ -551,14 +606,14 @@
       "title": "Dentro da Baleia",
       "release_date": "2026-10-15",
       "poster": "https://image.tmdb.org/t/p/w500/66fDoNVCtPrP6jIqMpV1sUEcciw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hBoY4pwszgeBEXLZ53WDTyLIMhr.jpg",
       "overview": "Um jovem mergulhador resolveu buscar os restos mortais do seu pai em alto mar, mas no meio dessa triste aventura é capturado por uma baleia cachalote de 25 metros e 60 toneladas. Restando apenas uma hora de oxigênio, ele terá que fazer de tudo para encontrar uma forma de ir embora e seguir a sua vida, mas para isso terá que enfrentar uma grande jornada física e emocional para que ele consiga redescobrir a sua vontade de viver após a vivência do luto.",
       "tagline": "Prenda a respiração",
       "runtime": 106,
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.6,
+      "vote_average": 6.537,
       "providers": [],
       "videos": [
         {
@@ -602,10 +657,10 @@
         "https://image.tmdb.org/t/p/w780/nquG8mnqhMkGYLtii8whsYoOo9o.jpg",
         "https://image.tmdb.org/t/p/w780/fsE7L0jNibJswnZuQM5mphJQ0t2.jpg",
         "https://image.tmdb.org/t/p/w780/2eRdzgxbWtu1iiSrIZLu8QXd0nB.jpg",
+        "https://image.tmdb.org/t/p/w780/hBoY4pwszgeBEXLZ53WDTyLIMhr.jpg",
         "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
         "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
-        "https://image.tmdb.org/t/p/w780/svfHop8LVC3bJeWygf3X5FibG4G.jpg",
-        "https://image.tmdb.org/t/p/w780/bLh5H56dArWutckFNTRd2kjMBSw.jpg"
+        "https://image.tmdb.org/t/p/w780/svfHop8LVC3bJeWygf3X5FibG4G.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1255833"
     },
@@ -672,7 +727,7 @@
       "title": "Street Fighter",
       "release_date": "2026-10-15",
       "poster": "https://image.tmdb.org/t/p/w500/6gWmrC2GyDbUM1ET5EBg9lxBi7S.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
       "overview": "Ambientado em 1993, os lutadores Ryu e Ken Masters são colocados de volta no combate quando a misteriosa Chun-Li os recruta para o próximo World Warrior Tournament: uma brutal briga de socos, destino e fúria. Entretanto, por trás desse campeonato, se esconde uma conspiração mortal que os força a encarar um ao outro e os demônios do passado. E se eles não fizerem, é game over!",
       "tagline": "Preparar. Apontar. Lutar.",
       "runtime": 119,
@@ -745,7 +800,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.054,
+      "vote_average": 7.081,
       "providers": [],
       "videos": [
         {
@@ -793,7 +848,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 8.9,
+      "vote_average": 9.0,
       "providers": [],
       "videos": [
         {
@@ -842,7 +897,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.9,
+      "vote_average": 6.933,
       "providers": [],
       "videos": [
         {
@@ -942,7 +997,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.334,
+      "vote_average": 8.335,
       "providers": [],
       "videos": [
         {
@@ -1026,55 +1081,6 @@
         "https://image.tmdb.org/t/p/w780/oiL12oK3fiWCV6lA8zslI3H6zRK.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1381071"
-    },
-    {
-      "id": 858035,
-      "type": "movie",
-      "title": "Klara e o Sol",
-      "release_date": "2026-11-05",
-      "poster": "https://image.tmdb.org/t/p/w500/yLXUgRzfPXcSQFFJ748wKMVcqq0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/s4E7NDJCOG3wqc5psv2RLr9QfUm.jpg",
-      "overview": "Klara é uma Amiga Artificial que deseja apenas encontrar o lar perfeito. Quando conhece Josie, ambas imediatamente percebem uma espécie de alma gêmea uma na outra. Josie tem uma relação conturbada com a mãe e ambas sofreram grandes perdas, mas a inocência e a lealdade inabalável de Klara começam a curar a família e a trazer luz ao mundo complicado de Josie.",
-      "tagline": "Conheça o futuro da amizade.",
-      "runtime": 116,
-      "genres": [
-        "Ficção científica",
-        "Drama"
-      ],
-      "vote_average": 0,
-      "providers": [],
-      "videos": [
-        {
-          "key": "KeeH5hwNLe8",
-          "name": "Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Jenna Ortega",
-        "Mia Tharia",
-        "Amy Adams",
-        "Natasha Lyonne",
-        "Aran Murphy",
-        "Rachel House",
-        "Steve Buscemi",
-        "Davida McKenzie"
-      ],
-      "director": "Taika Waititi",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/s4E7NDJCOG3wqc5psv2RLr9QfUm.jpg",
-        "https://image.tmdb.org/t/p/w780/qz27VqOrAIksMLbFudvrX1lhTWU.jpg",
-        "https://image.tmdb.org/t/p/w780/gtcCBBYEaskctLhCK2lEdN4weE.jpg",
-        "https://image.tmdb.org/t/p/w780/z6zBB40CE1FlZKvZ3jdFK1TybnQ.jpg",
-        "https://image.tmdb.org/t/p/w780/1ZwcLnQMFvoAEbnGOsXJplgic6.jpg",
-        "https://image.tmdb.org/t/p/w780/geCl9W1teG5lvPqLs4GQPXoYkkp.jpg",
-        "https://image.tmdb.org/t/p/w780/yy5FhBw2tV4QrKbIpXWHA14W2hI.jpg",
-        "https://image.tmdb.org/t/p/w780/iAk3dkxQa1ncahy11sfZ4ssN5ia.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/858035"
     }
   ]
 }
