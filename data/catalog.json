@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T04:47:14.956703+00:00",
+  "updated_at": "2026-10-22T11:53:42.638089+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.034,
+      "vote_average": 7.064,
       "providers": [],
       "videos": [
         {
@@ -127,8 +127,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "wfx3MjMV6x4",
-          "name": "Don&#39;t Move (2026) | Official Trailer",
+          "key": "FwoYYKyJo1g",
+          "name": "Don’t Move Official Trailer (2026) - In Theaters September 11",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -169,7 +169,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.295,
+      "vote_average": 7.297,
       "providers": [],
       "videos": [
         {
@@ -284,7 +284,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.784,
+      "vote_average": 7.795,
       "providers": [
         {
           "id": 350,
@@ -339,7 +339,7 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.765,
+      "vote_average": 6.792,
       "providers": [],
       "videos": [
         {
@@ -387,7 +387,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.9,
+      "vote_average": 5.87,
       "providers": [],
       "videos": [
         {
@@ -452,7 +452,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 6.998,
+      "vote_average": 6.984,
       "providers": [
         {
           "id": 8,
@@ -498,7 +498,7 @@
       "type": "movie",
       "title": "Tenzing",
       "release_date": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/a3G0yDUDoEJwzmHeIIrZmUCx8bW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
       "overview": "Um homem determinado embarca em uma jornada arriscada e desafia probabilidades aparentemente impossíveis para realizar seu sonho de ser o primeiro a chegar ao cume do Monte Everest.",
       "tagline": "A história real da primeira conquista do Everest.",
@@ -507,7 +507,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 8.35,
+      "vote_average": 8.362,
       "providers": [
         {
           "id": 350,
@@ -610,7 +610,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.513,
+      "vote_average": 6.5,
       "providers": [],
       "videos": [
         {
@@ -761,14 +761,14 @@
         }
       ],
       "cast": [
-        "Andrew Koji",
         "Noah Centineo",
+        "Andrew Koji",
         "Callina Liang",
         "David Dastmalchian",
-        "Mel Jarnson",
+        "Andrew Schulz",
+        "Joe Anoa'i",
         "Cody Rhodes",
-        "विद्युत जामवाल",
-        "Olivier Richters"
+        "Jason Momoa"
       ],
       "director": "Kitao Sakurai",
       "images": [
@@ -797,7 +797,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.016,
+      "vote_average": 6.97,
       "providers": [],
       "videos": [
         {
@@ -845,7 +845,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 8.942,
+      "vote_average": 9.0,
       "providers": [],
       "videos": [
         {
@@ -895,7 +895,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -938,11 +938,11 @@
         "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
         "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
         "https://image.tmdb.org/t/p/w780/wAES08OKL0C9d1hkkNRhQrmpxY5.jpg",
+        "https://image.tmdb.org/t/p/w780/7tqNQlkGpmV6t5xhZkcmhF2325T.jpg",
+        "https://image.tmdb.org/t/p/w780/gsgnIwe5JpU5uiyJdbLU0ULhiXz.jpg",
         "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
         "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
-        "https://image.tmdb.org/t/p/w780/e1iAjnhQsM6Z9bYTOxNFxFY6CfG.jpg",
-        "https://image.tmdb.org/t/p/w780/m5QjOdBBIKZoMCJ1bfm97A1BhLH.jpg",
-        "https://image.tmdb.org/t/p/w780/3AO85pPyxW2nu0FLDWYTtNmPGzd.jpg"
+        "https://image.tmdb.org/t/p/w780/e1iAjnhQsM6Z9bYTOxNFxFY6CfG.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1400940"
     },
@@ -960,7 +960,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.968,
+      "vote_average": 6.976,
       "providers": [],
       "videos": [
         {
@@ -1021,8 +1021,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "ZhKtTRHa5tY",
-          "name": "Fuga Mortal 2026 | Trailer Legendado HD Lian Neeson Marisa Tomei The Mongoose",
+          "key": "Cpt3FSo74hI",
+          "name": "Fuga Mortal 2026 | Trailer Oficial HD Lian Neeson Marisa Tomei The Mongoose",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -1060,7 +1060,7 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.326,
+      "vote_average": 8.342,
       "providers": [],
       "videos": [
         {
