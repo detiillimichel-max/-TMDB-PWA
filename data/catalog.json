@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T21:36:27.580686+00:00",
+  "updated_at": "2026-10-23T04:50:10.437482+00:00",
   "region": "BR",
   "items": [
     {
@@ -74,12 +74,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.549,
+      "vote_average": 6.473,
       "providers": [],
       "videos": [
         {
-          "key": "7AlQfgBdcLI",
-          "name": "THE FIX Official Trailer (NEW 2026)",
+          "key": "rvuh2nc3DN4",
+          "name": "THE FIX Official Trailer 2 (NEW 2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -127,8 +127,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "FwoYYKyJo1g",
-          "name": "Don’t Move Official Trailer (2026) - In Theaters September 11",
+          "key": "wfx3MjMV6x4",
+          "name": "Don&#39;t Move (2026) | Official Trailer",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -169,7 +169,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.299,
+      "vote_average": 7.297,
       "providers": [],
       "videos": [
         {
@@ -218,7 +218,7 @@
       "title": "Digger",
       "release_date": "2026-10-01",
       "poster": "https://image.tmdb.org/t/p/w500/2qelG58fO3tOSPrDVzOW8hfxY3V.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
       "overview": "O homem mais poderoso do mundo embarca em uma missão frenética para provar que é o salvador da humanidade, antes que o desastre desencadeado por ele destrua tudo.",
       "tagline": "Cave, ou morra.",
       "runtime": 129,
@@ -284,7 +284,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.8,
+      "vote_average": 7.765,
       "providers": [
         {
           "id": 350,
@@ -326,6 +326,55 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
     {
+      "id": 1381078,
+      "type": "movie",
+      "title": "O Amor de Sua Vida",
+      "release_date": "2026-10-07",
+      "poster": "https://image.tmdb.org/t/p/w500/noVjD52nAvgPK2XtVZSej1nFzin.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+      "overview": "Maya, uma enfermeira inteligente e irônica, é envolvida por um amor envolvente, que coloca sua vida em uma trajetória que ela nunca teria imaginado.",
+      "tagline": "",
+      "runtime": 111,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "vote_average": 6.801,
+      "providers": [],
+      "videos": [
+        {
+          "key": "5or5ZBxgqX0",
+          "name": "Amor da Minha Vida | Trailer Oficial | Disney+",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Gabriel Basso",
+        "Aaron Pierre",
+        "Patrick Schwarzenegger",
+        "Catherine Keener",
+        "Tamara Lawrance",
+        "Corey Johnson",
+        "Michael Shelford"
+      ],
+      "director": "Rachel Morrison",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+        "https://image.tmdb.org/t/p/w780/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+        "https://image.tmdb.org/t/p/w780/uE4qESNLo6jQrKjnUiNE42hrn1Z.jpg",
+        "https://image.tmdb.org/t/p/w780/79GJ5BmbjCfoWnRGEcg42QPSdQf.jpg",
+        "https://image.tmdb.org/t/p/w780/f1jZDs4dJoFXxazmpBKGmId2hFU.jpg",
+        "https://image.tmdb.org/t/p/w780/mTUWpyf15tLs4YLvy3nirbn6xA9.jpg",
+        "https://image.tmdb.org/t/p/w780/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg",
+        "https://image.tmdb.org/t/p/w780/7RrnaX9AkAXxCVE6PpxIfbcVVBC.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1381078"
+    },
+    {
       "id": 1400837,
       "type": "movie",
       "title": "Outra Mamãe",
@@ -338,7 +387,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.871,
+      "vote_average": 5.872,
       "providers": [],
       "videos": [
         {
@@ -403,7 +452,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 6.973,
+      "vote_average": 6.964,
       "providers": [
         {
           "id": 8,
@@ -449,7 +498,7 @@
       "type": "movie",
       "title": "Tenzing",
       "release_date": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w500/a3G0yDUDoEJwzmHeIIrZmUCx8bW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
       "overview": "Um homem determinado embarca em uma jornada arriscada e desafia probabilidades aparentemente impossíveis para realizar seu sonho de ser o primeiro a chegar ao cume do Monte Everest.",
       "tagline": "A história real da primeira conquista do Everest.",
@@ -458,7 +507,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 8.379,
+      "vote_average": 8.291,
       "providers": [
         {
           "id": 350,
@@ -561,7 +610,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.5,
+      "vote_average": 6.534,
       "providers": [],
       "videos": [
         {
@@ -606,9 +655,9 @@
         "https://image.tmdb.org/t/p/w780/fsE7L0jNibJswnZuQM5mphJQ0t2.jpg",
         "https://image.tmdb.org/t/p/w780/2eRdzgxbWtu1iiSrIZLu8QXd0nB.jpg",
         "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+        "https://image.tmdb.org/t/p/w780/uCA9Uz9Iq7PxCc21S5cRrjyEn2x.jpg",
         "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
-        "https://image.tmdb.org/t/p/w780/svfHop8LVC3bJeWygf3X5FibG4G.jpg",
-        "https://image.tmdb.org/t/p/w780/bLh5H56dArWutckFNTRd2kjMBSw.jpg"
+        "https://image.tmdb.org/t/p/w780/svfHop8LVC3bJeWygf3X5FibG4G.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1255833"
     },
@@ -626,7 +675,7 @@
         "Drama",
         "Romance"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.348,
       "providers": [],
       "videos": [
         {
@@ -676,14 +725,14 @@
       "release_date": "2026-10-15",
       "poster": "https://image.tmdb.org/t/p/w500/6gWmrC2GyDbUM1ET5EBg9lxBi7S.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
-      "overview": "Ambientado em 1993, os lutadores Ryu e Ken Masters são colocados de volta no combate quando a misteriosa Chun-Li os recruta para o próximo World Warrior Tournament: uma brutal briga de socos, destino e fúria. Entretanto, por trás desse campeonato, se esconde uma conspiração mortal que os força a encarar um ao outro e os demônios do passado. E se eles não fizerem, é game over!",
+      "overview": "Em 1993, os lutadores Ryu e Ken Masters são colocados de volta no combate quando a misteriosa Chun-Li os recruta para o próximo Torneio Street Fighter: uma brutal briga de socos, destino e fúria. Entretanto, por trás desse campeonato, se esconde uma conspiração mortal que os força a encarar um ao outro e os demônios do passado. E se eles não fizerem, é game over!",
       "tagline": "Preparar. Apontar. Lutar.",
       "runtime": 119,
       "genres": [
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.281,
+      "vote_average": 6.3,
       "providers": [],
       "videos": [
         {
@@ -712,8 +761,8 @@
         }
       ],
       "cast": [
-        "Noah Centineo",
         "Andrew Koji",
+        "Noah Centineo",
         "Callina Liang",
         "David Dastmalchian",
         "Andrew Schulz",
@@ -748,7 +797,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.926,
+      "vote_average": 6.95,
       "providers": [],
       "videos": [
         {
@@ -796,7 +845,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 8.9,
+      "vote_average": 8.8,
       "providers": [],
       "videos": [
         {
@@ -836,7 +885,7 @@
       "type": "movie",
       "title": "Cara-de-Barro",
       "release_date": "2026-10-22",
-      "poster": "https://image.tmdb.org/t/p/w500/yLfSHrA2BDmnpMcPuyNyrhlB5OC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dqvHs2YXks989ScXvsngbqAeBHX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
       "overview": "A ascensão meteórica de Matt Hagen de garoto das ruas de Gotham a astro de Hollywood é tragicamente interrompida quando as ações de um chefão do crime local o deixam terrivelmente desfigurado. Abandonado por sua equipe e sem nada, Matt busca um tratamento de ponta que, milagrosamente, o devolve à sua antiga forma... mas que também afeta, de maneira inesperada, sua percepção da realidade, lançando-o em uma espiral destrutiva de obsessão e vingança.",
       "tagline": "Enfrente o medo cara a cara.",
@@ -846,7 +895,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.43,
       "providers": [],
       "videos": [
         {
@@ -975,9 +1024,9 @@
           "key": "v8HyRrwocR4",
           "name": "Fuga Mortal | Trailer Oficial | Prime Video",
           "type": "Trailer",
-          "official": false,
+          "official": true,
           "site": "YouTube",
-          "source": "youtube_search"
+          "source": "tmdb"
         }
       ],
       "cast": [
@@ -996,55 +1045,6 @@
         "https://image.tmdb.org/t/p/w780/9f0SZYEElYbjj9syw5aZREnfeDt.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1294189"
-    },
-    {
-      "id": 1377237,
-      "type": "movie",
-      "title": "Três Horas Para Viver",
-      "release_date": "2026-10-29",
-      "poster": "https://image.tmdb.org/t/p/w500/vzb3bKOFtciIVSEIsLOZH4uJfxN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
-      "overview": "Um transportador de elite embarca em uma missão urgente: entregar um órgão vital para salvar a vida de uma garotinha de sete anos. O que parecia ser uma tarefa objetiva logo se transforma em uma corrida frenética contra o tempo quando uma perigosa organização criminosa entra em cena para impedir o sucesso da entrega.",
-      "tagline": "",
-      "runtime": 97,
-      "genres": [
-        "Ação",
-        "Comédia"
-      ],
-      "vote_average": 8.342,
-      "providers": [],
-      "videos": [
-        {
-          "key": "Py9-y_XapJQ",
-          "name": "Trailer Oficial Legendado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Alan Ritchson",
-        "Owen Wilson",
-        "Rodrigo Santoro",
-        "Leila George",
-        "Kate Box",
-        "Peta Sergeant",
-        "Cecilia Toussaint",
-        "Geraldine Hakewill"
-      ],
-      "director": "Scott Waugh",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
-        "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-        "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-        "https://image.tmdb.org/t/p/w780/71FfOJaPZV3TKemtgm8A38DMUJf.jpg",
-        "https://image.tmdb.org/t/p/w780/w8fEorMTwgMN9h1cgOb3yMggbiu.jpg",
-        "https://image.tmdb.org/t/p/w780/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg",
-        "https://image.tmdb.org/t/p/w780/zwOuftcrINzFyg27ffn2cevxClC.jpg",
-        "https://image.tmdb.org/t/p/w780/hSYBdRE9b5PRK3BsjEBvXnUZvwM.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1377237"
     },
     {
       "id": 1476746,
@@ -1088,7 +1088,8 @@
         "https://image.tmdb.org/t/p/w780/rzxBvCix5Ebl3KYPIXpD8hy64uE.jpg",
         "https://image.tmdb.org/t/p/w780/xZivJ9jshaFoxuPZ2BiJ9SBrNTc.jpg",
         "https://image.tmdb.org/t/p/w780/g5Kdx4dCt2RYROLEZZMjbbtBuoF.jpg",
-        "https://image.tmdb.org/t/p/w780/lpk0MwAn0UA3qCy9Iub4xMe15gv.jpg"
+        "https://image.tmdb.org/t/p/w780/lpk0MwAn0UA3qCy9Iub4xMe15gv.jpg",
+        "https://image.tmdb.org/t/p/w780/tOJzYkrJPQEVMVSLaiWk7xy0zye.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1476746"
     }
