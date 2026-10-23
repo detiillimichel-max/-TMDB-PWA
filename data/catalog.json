@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T11:40:11.957319+00:00",
+  "updated_at": "2026-10-23T17:08:11.409270+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.121,
+      "vote_average": 7.1,
       "providers": [],
       "videos": [
         {
@@ -74,12 +74,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.473,
+      "vote_average": 6.5,
       "providers": [],
       "videos": [
         {
-          "key": "vH4zs2LnhyE",
-          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson",
+          "key": "rvuh2nc3DN4",
+          "name": "THE FIX Official Trailer 2 (NEW 2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -127,8 +127,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "FwoYYKyJo1g",
-          "name": "Don’t Move Official Trailer (2026) - In Theaters September 11",
+          "key": "wfx3MjMV6x4",
+          "name": "Don&#39;t Move (2026) | Official Trailer",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -169,7 +169,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.296,
       "providers": [],
       "videos": [
         {
@@ -213,6 +213,52 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1423191"
     },
     {
+      "id": 1263337,
+      "type": "movie",
+      "title": "Coração Selvagem",
+      "release_date": "2026-09-24",
+      "poster": "https://image.tmdb.org/t/p/w500/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "overview": "Um ex-soldado ferido e seu cão de guerra aposentado lutam para sobreviver na região do Alasca e encontrar o caminho de volta para casa após um acidente aéreo na mata.",
+      "tagline": "Para sobreviver eles precisam um do outro.",
+      "runtime": 101,
+      "genres": [
+        "Aventura",
+        "Thriller"
+      ],
+      "vote_average": 7.4,
+      "providers": [],
+      "videos": [
+        {
+          "key": "F0jWGqOyQ8g",
+          "name": "Trailer Oficial | LEG",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Brad Pitt",
+        "J.K. Simmons",
+        "Anna Lambe",
+        "Justin Melnick",
+        "Shaun DeZern"
+      ],
+      "director": "David Ayer",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+        "https://image.tmdb.org/t/p/w780/nATJytbF2sB8QP4nKQNBUIdZswC.jpg",
+        "https://image.tmdb.org/t/p/w780/ynjkULhYw2427E1Yrrh6GGgIvfZ.jpg",
+        "https://image.tmdb.org/t/p/w780/briCzD66EoEBNGnbwV00N3LrDeA.jpg",
+        "https://image.tmdb.org/t/p/w780/bzi1j7GgxQMOwii5yDI2bsZ1PY6.jpg",
+        "https://image.tmdb.org/t/p/w780/iDEmqBQRNT0gWvLsRLblFB5NJS5.jpg",
+        "https://image.tmdb.org/t/p/w780/nlqHh1zGH8HYERr4eRICN9ligk.jpg",
+        "https://image.tmdb.org/t/p/w780/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1263337"
+    },
+    {
       "id": 1248832,
       "type": "movie",
       "title": "Digger",
@@ -226,7 +272,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.475,
       "providers": [],
       "videos": [
         {
@@ -284,7 +330,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.76,
+      "vote_average": 7.8,
       "providers": [
         {
           "id": 350,
@@ -324,55 +370,6 @@
         "https://image.tmdb.org/t/p/w780/dbixfjL3yu6lrwzFyeaTH5jArN4.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
-    },
-    {
-      "id": 1381078,
-      "type": "movie",
-      "title": "O Amor de Sua Vida",
-      "release_date": "2026-10-07",
-      "poster": "https://image.tmdb.org/t/p/w500/noVjD52nAvgPK2XtVZSej1nFzin.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
-      "overview": "Maya, uma enfermeira inteligente e irônica, é envolvida por um amor envolvente, que coloca sua vida em uma trajetória que ela nunca teria imaginado.",
-      "tagline": "",
-      "runtime": 111,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "vote_average": 6.744,
-      "providers": [],
-      "videos": [
-        {
-          "key": "5or5ZBxgqX0",
-          "name": "Amor da Minha Vida | Trailer Oficial | Disney+",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Margaret Qualley",
-        "Gabriel Basso",
-        "Aaron Pierre",
-        "Patrick Schwarzenegger",
-        "Catherine Keener",
-        "Tamara Lawrance",
-        "Corey Johnson",
-        "Michael Shelford"
-      ],
-      "director": "Rachel Morrison",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
-        "https://image.tmdb.org/t/p/w780/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
-        "https://image.tmdb.org/t/p/w780/uE4qESNLo6jQrKjnUiNE42hrn1Z.jpg",
-        "https://image.tmdb.org/t/p/w780/79GJ5BmbjCfoWnRGEcg42QPSdQf.jpg",
-        "https://image.tmdb.org/t/p/w780/f1jZDs4dJoFXxazmpBKGmId2hFU.jpg",
-        "https://image.tmdb.org/t/p/w780/mTUWpyf15tLs4YLvy3nirbn6xA9.jpg",
-        "https://image.tmdb.org/t/p/w780/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg",
-        "https://image.tmdb.org/t/p/w780/7RrnaX9AkAXxCVE6PpxIfbcVVBC.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1381078"
     },
     {
       "id": 1400837,
@@ -452,7 +449,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 6.966,
+      "vote_average": 6.963,
       "providers": [
         {
           "id": 8,
@@ -507,7 +504,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 8.31,
+      "vote_average": 8.309,
       "providers": [
         {
           "id": 350,
@@ -589,11 +586,11 @@
         "https://image.tmdb.org/t/p/w780/zpHTOdRl7GEPqFsDGqsN6Hi9Ylt.jpg",
         "https://image.tmdb.org/t/p/w780/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
         "https://image.tmdb.org/t/p/w780/556BFX63Q73jTghqg1g3JPNzCDO.jpg",
+        "https://image.tmdb.org/t/p/w780/4PvsvVeg03Nd9tma0tUaaterSGt.jpg",
         "https://image.tmdb.org/t/p/w780/ceclu0D2psC5VTIkhcHJ3a4iBsI.jpg",
         "https://image.tmdb.org/t/p/w780/paGuGyEysCn49NOP8xfXipxp1qk.jpg",
         "https://image.tmdb.org/t/p/w780/jiepYPH25Cff5aFNn57KCiSszxQ.jpg",
-        "https://image.tmdb.org/t/p/w780/cJtT4dxFpHPTVk2MiOqUXM6Rg0D.jpg",
-        "https://image.tmdb.org/t/p/w780/3jCLCnbLDVxAbZJSieD1tnWCVKg.jpg"
+        "https://image.tmdb.org/t/p/w780/cJtT4dxFpHPTVk2MiOqUXM6Rg0D.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1234139"
     },
@@ -610,7 +607,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.528,
+      "vote_average": 6.522,
       "providers": [],
       "videos": [
         {
@@ -675,7 +672,7 @@
         "Drama",
         "Romance"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.2,
       "providers": [],
       "videos": [
         {
@@ -732,7 +729,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.306,
+      "vote_average": 6.3,
       "providers": [],
       "videos": [
         {
@@ -797,7 +794,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.979,
+      "vote_average": 7.0,
       "providers": [],
       "videos": [
         {
@@ -833,54 +830,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1561726"
     },
     {
-      "id": 1765072,
-      "type": "movie",
-      "title": "You Can See Everything",
-      "release_date": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-      "overview": "Trinta e quatro dias antes de ser enviada para a prisão, a notória fundadora do Vale do Silício, Elizabeth Holmes, convida uma equipe de filmagem cética para documentar cada passo seu. O que começa como um retrato íntimo de uma criminosa enigmática se transforma em uma jornada alucinante de três anos rumo ao abismo.",
-      "tagline": "",
-      "runtime": 174,
-      "genres": [
-        "Documentário"
-      ],
-      "vote_average": 8.8,
-      "providers": [],
-      "videos": [
-        {
-          "key": "kre2P5oQCKU",
-          "name": "You Can See Everything | Official Trailer (Elizabeth Holmes, Nathan Fielder 2026)",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Elizabeth Holmes",
-        "Nathan Fielder",
-        "Billy Evans",
-        "Amanda Seyfried",
-        "Christopher Abbott",
-        "Lance Oppenheim",
-        "Christian Rasmus Holmes IV",
-        "Noel Anne"
-      ],
-      "director": "Nathan Fielder",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-        "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
-        "https://image.tmdb.org/t/p/w780/uDONA0SCc1Tanl1lizf6lYNoMmr.jpg",
-        "https://image.tmdb.org/t/p/w780/gCfol52f4veLiaSvGYLHw4mIiSG.jpg",
-        "https://image.tmdb.org/t/p/w780/bO9IW7FLKA3OBstINZVca2yPxKj.jpg",
-        "https://image.tmdb.org/t/p/w780/sgRg9h6fqCPUVzTKjAap57azga0.jpg",
-        "https://image.tmdb.org/t/p/w780/flr1irwRWJJuB79u4T2t4bAS6OK.jpg",
-        "https://image.tmdb.org/t/p/w780/hJahNruyGNVD4nyFJpeEodFnpgT.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1765072"
-    },
-    {
       "id": 1400940,
       "type": "movie",
       "title": "Cara-de-Barro",
@@ -895,7 +844,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.333,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
@@ -1045,6 +994,54 @@
         "https://image.tmdb.org/t/p/w780/9f0SZYEElYbjj9syw5aZREnfeDt.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1294189"
+    },
+    {
+      "id": 1765072,
+      "type": "movie",
+      "title": "You Can See Everything",
+      "release_date": "2026-11-26",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+      "overview": "Trinta e quatro dias antes de ser enviada para a prisão, a notória fundadora do Vale do Silício, Elizabeth Holmes, convida uma equipe de filmagem cética para documentar cada passo seu. O que começa como um retrato íntimo de uma criminosa enigmática se transforma em uma jornada alucinante de três anos rumo ao abismo.",
+      "tagline": "",
+      "runtime": 174,
+      "genres": [
+        "Documentário"
+      ],
+      "vote_average": 8.8,
+      "providers": [],
+      "videos": [
+        {
+          "key": "kre2P5oQCKU",
+          "name": "You Can See Everything | Official Trailer (Elizabeth Holmes, Nathan Fielder 2026)",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Elizabeth Holmes",
+        "Nathan Fielder",
+        "Billy Evans",
+        "Amanda Seyfried",
+        "Christopher Abbott",
+        "Lance Oppenheim",
+        "Christian Rasmus Holmes IV",
+        "Noel Anne"
+      ],
+      "director": "Nathan Fielder",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+        "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
+        "https://image.tmdb.org/t/p/w780/uDONA0SCc1Tanl1lizf6lYNoMmr.jpg",
+        "https://image.tmdb.org/t/p/w780/gCfol52f4veLiaSvGYLHw4mIiSG.jpg",
+        "https://image.tmdb.org/t/p/w780/bO9IW7FLKA3OBstINZVca2yPxKj.jpg",
+        "https://image.tmdb.org/t/p/w780/sgRg9h6fqCPUVzTKjAap57azga0.jpg",
+        "https://image.tmdb.org/t/p/w780/flr1irwRWJJuB79u4T2t4bAS6OK.jpg",
+        "https://image.tmdb.org/t/p/w780/hJahNruyGNVD4nyFJpeEodFnpgT.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1765072"
     },
     {
       "id": 1476746,
