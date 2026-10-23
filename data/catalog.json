@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T17:08:11.409270+00:00",
+  "updated_at": "2026-10-23T21:24:51.464456+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.1,
+      "vote_average": 7.084,
       "providers": [],
       "videos": [
         {
@@ -226,7 +226,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.368,
       "providers": [],
       "videos": [
         {
@@ -272,7 +272,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.475,
+      "vote_average": 7.48,
       "providers": [],
       "videos": [
         {
@@ -384,7 +384,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.845,
+      "vote_average": 5.842,
       "providers": [],
       "videos": [
         {
@@ -559,12 +559,12 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.0,
+      "vote_average": 8.1,
       "providers": [],
       "videos": [
         {
-          "key": "FW_PPcr1sPE",
-          "name": "JAILER 2 - Official Trailer | Superstar Rajinikanth | Sun Pictures | Anirudh | Nelson",
+          "key": "unCdITB47kw",
+          "name": "JAILER 2-Official Trailer | superstar #Rajinikanth | sun pictures |Anirudh| Nelson#jailer2 #shorts",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -672,7 +672,7 @@
         "Drama",
         "Romance"
       ],
-      "vote_average": 7.2,
+      "vote_average": 7.176,
       "providers": [],
       "videos": [
         {
@@ -729,7 +729,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.3,
+      "vote_average": 6.345,
       "providers": [],
       "videos": [
         {
@@ -909,7 +909,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.984,
+      "vote_average": 7.0,
       "providers": [],
       "videos": [
         {
@@ -998,7 +998,7 @@
     {
       "id": 1765072,
       "type": "movie",
-      "title": "You Can See Everything",
+      "title": "Tudo Pode Ser Visto",
       "release_date": "2026-11-26",
       "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
@@ -1008,7 +1008,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 8.8,
+      "vote_average": 9.1,
       "providers": [],
       "videos": [
         {
@@ -1035,10 +1035,10 @@
         "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
         "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
         "https://image.tmdb.org/t/p/w780/uDONA0SCc1Tanl1lizf6lYNoMmr.jpg",
-        "https://image.tmdb.org/t/p/w780/gCfol52f4veLiaSvGYLHw4mIiSG.jpg",
-        "https://image.tmdb.org/t/p/w780/bO9IW7FLKA3OBstINZVca2yPxKj.jpg",
         "https://image.tmdb.org/t/p/w780/sgRg9h6fqCPUVzTKjAap57azga0.jpg",
         "https://image.tmdb.org/t/p/w780/flr1irwRWJJuB79u4T2t4bAS6OK.jpg",
+        "https://image.tmdb.org/t/p/w780/gCfol52f4veLiaSvGYLHw4mIiSG.jpg",
+        "https://image.tmdb.org/t/p/w780/bO9IW7FLKA3OBstINZVca2yPxKj.jpg",
         "https://image.tmdb.org/t/p/w780/hJahNruyGNVD4nyFJpeEodFnpgT.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1765072"
