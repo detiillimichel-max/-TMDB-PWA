@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T04:37:41.107134+00:00",
+  "updated_at": "2026-10-24T11:01:26.303333+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.055,
+      "vote_average": 7.051,
       "providers": [],
       "videos": [
         {
@@ -74,12 +74,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.5,
+      "vote_average": 6.353,
       "providers": [],
       "videos": [
         {
-          "key": "rvuh2nc3DN4",
-          "name": "THE FIX Official Trailer 2 (NEW 2026)",
+          "key": "vH4zs2LnhyE",
+          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -330,7 +330,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.7,
+      "vote_average": 7.749,
       "providers": [
         {
           "id": 350,
@@ -384,7 +384,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.8,
+      "vote_average": 5.85,
       "providers": [],
       "videos": [
         {
@@ -449,7 +449,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 7.0,
+      "vote_average": 6.952,
       "providers": [
         {
           "id": 8,
@@ -504,7 +504,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 8.245,
+      "vote_average": 8.279,
       "providers": [
         {
           "id": 350,
@@ -559,12 +559,12 @@
         "Ação",
         "Comédia"
       ],
-      "vote_average": 8.1,
+      "vote_average": 8.0,
       "providers": [],
       "videos": [
         {
-          "key": "BwHqyKzgV_o",
-          "name": "JAILER 2 – Official Trailer | Rajinikanth | Hrithik Roshan | S J Suryah | Suraj | Mohanlal | Nelson",
+          "key": "FW_PPcr1sPE",
+          "name": "JAILER 2 - Official Trailer | Superstar Rajinikanth | Sun Pictures | Anirudh | Nelson",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -607,7 +607,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.527,
+      "vote_average": 6.552,
       "providers": [],
       "videos": [
         {
@@ -844,7 +844,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.624,
+      "vote_average": 7.605,
       "providers": [],
       "videos": [
         {
@@ -1008,7 +1008,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 9.113,
+      "vote_average": 9.162,
       "providers": [],
       "videos": [
         {
