@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T21:24:51.464456+00:00",
+  "updated_at": "2026-10-24T04:37:41.107134+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.084,
+      "vote_average": 7.055,
       "providers": [],
       "videos": [
         {
@@ -123,7 +123,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.172,
+      "vote_average": 5.267,
       "providers": [],
       "videos": [
         {
@@ -169,7 +169,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.296,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -226,7 +226,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.368,
+      "vote_average": 7.376,
       "providers": [],
       "videos": [
         {
@@ -272,7 +272,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.48,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -330,7 +330,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.8,
+      "vote_average": 7.7,
       "providers": [
         {
           "id": 350,
@@ -362,12 +362,12 @@
       "images": [
         "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
         "https://image.tmdb.org/t/p/w780/a6xhB0qRkb961MNJYHlYwdfIXRo.jpg",
-        "https://image.tmdb.org/t/p/w780/8LYMGmljj3gfhyHaMjqeylVjWEZ.jpg",
         "https://image.tmdb.org/t/p/w780/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
         "https://image.tmdb.org/t/p/w780/oOofgKLAWUhHGohxXdRm3yLOWYw.jpg",
-        "https://image.tmdb.org/t/p/w780/e1EqWOQAp5mc5QUsCCGoeOixnfH.jpg",
         "https://image.tmdb.org/t/p/w780/aCHV4smCVIrMiPJw5CFtXedLjjh.jpg",
-        "https://image.tmdb.org/t/p/w780/dbixfjL3yu6lrwzFyeaTH5jArN4.jpg"
+        "https://image.tmdb.org/t/p/w780/xxDWHFz7eE77OBsqNJjrDcRgKff.jpg",
+        "https://image.tmdb.org/t/p/w780/dbixfjL3yu6lrwzFyeaTH5jArN4.jpg",
+        "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
@@ -384,7 +384,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.842,
+      "vote_average": 5.8,
       "providers": [],
       "videos": [
         {
@@ -426,11 +426,11 @@
       "images": [
         "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
         "https://image.tmdb.org/t/p/w780/yf5EKtrTKM8pla1TpNA5TsZgoTp.jpg",
+        "https://image.tmdb.org/t/p/w780/fqK74DYEkAuvMJXozxiqSujCQU4.jpg",
+        "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
         "https://image.tmdb.org/t/p/w780/qHURF5fju9HYpnEdEj3D4HH8C7q.jpg",
         "https://image.tmdb.org/t/p/w780/AflbdtwHm1FOXKCFtn8wKaQsAjR.jpg",
         "https://image.tmdb.org/t/p/w780/oxnzKR0Ag5f35JYiYGs4lTqTG5Q.jpg",
-        "https://image.tmdb.org/t/p/w780/fqK74DYEkAuvMJXozxiqSujCQU4.jpg",
-        "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
         "https://image.tmdb.org/t/p/w780/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1400837"
@@ -449,7 +449,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 6.963,
+      "vote_average": 7.0,
       "providers": [
         {
           "id": 8,
@@ -504,7 +504,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 8.309,
+      "vote_average": 8.245,
       "providers": [
         {
           "id": 350,
@@ -563,8 +563,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "unCdITB47kw",
-          "name": "JAILER 2-Official Trailer | superstar #Rajinikanth | sun pictures |Anirudh| Nelson#jailer2 #shorts",
+          "key": "BwHqyKzgV_o",
+          "name": "JAILER 2 – Official Trailer | Rajinikanth | Hrithik Roshan | S J Suryah | Suraj | Mohanlal | Nelson",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -607,7 +607,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.522,
+      "vote_average": 6.527,
       "providers": [],
       "videos": [
         {
@@ -672,7 +672,7 @@
         "Drama",
         "Romance"
       ],
-      "vote_average": 7.176,
+      "vote_average": 7.208,
       "providers": [],
       "videos": [
         {
@@ -729,7 +729,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.345,
+      "vote_average": 6.363,
       "providers": [],
       "videos": [
         {
@@ -794,7 +794,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.0,
+      "vote_average": 6.997,
       "providers": [],
       "videos": [
         {
@@ -844,7 +844,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.624,
       "providers": [],
       "videos": [
         {
@@ -909,7 +909,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 7.0,
+      "vote_average": 6.976,
       "providers": [],
       "videos": [
         {
@@ -1008,7 +1008,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 9.1,
+      "vote_average": 9.113,
       "providers": [],
       "videos": [
         {
