@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T15:57:31.015007+00:00",
+  "updated_at": "2026-10-24T20:50:39.301958+00:00",
   "region": "BR",
   "items": [
     {
@@ -74,7 +74,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.353,
+      "vote_average": 6.322,
       "providers": [],
       "videos": [
         {
@@ -123,7 +123,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 5.161,
+      "vote_average": 5.2,
       "providers": [],
       "videos": [
         {
@@ -169,7 +169,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.303,
       "providers": [],
       "videos": [
         {
@@ -226,7 +226,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.376,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -272,7 +272,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.477,
+      "vote_average": 7.48,
       "providers": [],
       "videos": [
         {
@@ -330,7 +330,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.759,
+      "vote_average": 7.8,
       "providers": [
         {
           "id": 350,
@@ -384,7 +384,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.85,
+      "vote_average": 5.852,
       "providers": [],
       "videos": [
         {
@@ -501,7 +501,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 6.952,
+      "vote_average": 7.0,
       "providers": [
         {
           "id": 8,
@@ -556,7 +556,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 8.253,
+      "vote_average": 8.225,
       "providers": [
         {
           "id": 350,
@@ -610,7 +610,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.552,
+      "vote_average": 6.495,
       "providers": [],
       "videos": [
         {
@@ -675,7 +675,7 @@
         "Drama",
         "Romance"
       ],
-      "vote_average": 7.208,
+      "vote_average": 7.2,
       "providers": [],
       "videos": [
         {
@@ -732,7 +732,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.38,
+      "vote_average": 6.4,
       "providers": [],
       "videos": [
         {
@@ -912,7 +912,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.976,
+      "vote_average": 6.969,
       "providers": [],
       "videos": [
         {
@@ -1015,8 +1015,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "kre2P5oQCKU",
-          "name": "You Can See Everything | Official Trailer (Elizabeth Holmes, Nathan Fielder 2026)",
+          "key": "ENwMWumB3z4",
+          "name": "One Last Shot | Official Trailer (Tisha Campbell x Lifetime 2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -1064,8 +1064,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "vjL-BdDjr7s",
-          "name": "THE FLORIST Official Trailer (2026)",
+          "key": "fVFIhOfErfU",
+          "name": "Trailer - A Última Entrega - Noite da Pipoca 2026",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
