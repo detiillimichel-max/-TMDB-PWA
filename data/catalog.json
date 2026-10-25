@@ -1,65 +1,7 @@
 {
-  "updated_at": "2026-10-24T20:50:39.301958+00:00",
+  "updated_at": "2026-10-25T04:42:14.578263+00:00",
   "region": "BR",
   "items": [
-    {
-      "id": 1302904,
-      "type": "movie",
-      "title": "Da Magia à Sedução: Feitiço de Amor",
-      "release_date": "2026-09-10",
-      "poster": "https://image.tmdb.org/t/p/w500/6xb6fv7MluhncJkNU6VtUWCBz3S.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
-      "overview": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
-      "tagline": "",
-      "runtime": 130,
-      "genres": [
-        "Romance",
-        "Fantasia",
-        "Comédia"
-      ],
-      "vote_average": 7.051,
-      "providers": [],
-      "videos": [
-        {
-          "key": "NWg58fi7w20",
-          "name": "Da Magia À Sedução: Feitiço de Amor l Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "pzQrRD4BD9A",
-          "name": "Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Joey King",
-        "Maisie Williams",
-        "Xolo Maridueña",
-        "Lee Pace",
-        "Dianne Wiest",
-        "Stockard Channing"
-      ],
-      "director": "Susanne Bier",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
-        "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-        "https://image.tmdb.org/t/p/w780/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
-        "https://image.tmdb.org/t/p/w780/67LSrBqOThpQVPttjfAVTaHQ2tR.jpg",
-        "https://image.tmdb.org/t/p/w780/2bkIFTkV1YKyyuY5p21nOjZKSne.jpg",
-        "https://image.tmdb.org/t/p/w780/eHVFhyO2YkJPzvrMv2TmVhjPAUJ.jpg",
-        "https://image.tmdb.org/t/p/w780/yDgYYuz8jDQCRJbHC3XM7IIGoeR.jpg",
-        "https://image.tmdb.org/t/p/w780/kyrubDEucmnFPqVwVi2mhOGYZ3g.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1302904"
-    },
     {
       "id": 1228834,
       "type": "movie",
@@ -74,12 +16,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.322,
+      "vote_average": 6.3,
       "providers": [],
       "videos": [
         {
-          "key": "rvuh2nc3DN4",
-          "name": "THE FIX Official Trailer 2 (NEW 2026)",
+          "key": "vH4zs2LnhyE",
+          "name": "THE FIX Official Trailer 2 (2026) Liam Neeson",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -155,6 +97,55 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1375161"
     },
     {
+      "id": 1433583,
+      "type": "movie",
+      "title": "The Weight",
+      "release_date": "2026-09-16",
+      "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
+      "overview": "Quando Samuel é separado da filha e enviado para uma prisão brutal, o diretor Clancy faz-lhe uma proposta arriscada: contrabandear ouro de uma mina remota juntamente com um perigoso grupo de reclusos e, em troca, conquistar a sua liberdade.",
+      "tagline": "",
+      "runtime": 112,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "vote_average": 6.735,
+      "providers": [],
+      "videos": [
+        {
+          "key": "UtDaJs55TqY",
+          "name": "The Weight Official Trailer (2026) | Ethan Hawke &amp; Russell Crowe",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Ethan Hawke",
+        "Russell Crowe",
+        "Julia Jones",
+        "Austin Amelio",
+        "Avi Nash",
+        "Lucas Lynggaard Tønnesen",
+        "Sam Hazeldine",
+        "George Burgess"
+      ],
+      "director": "Padraic McKinley",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/zKizFK3adjtpXut1dW6bRaxwhd.jpg",
+        "https://image.tmdb.org/t/p/w780/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
+        "https://image.tmdb.org/t/p/w780/tD4qifPSyyhPCgZ0W4fNTcVDD2r.jpg",
+        "https://image.tmdb.org/t/p/w780/oQxaPtPdaGEymarp9pVOzwZT11V.jpg",
+        "https://image.tmdb.org/t/p/w780/tA22d0tUZsxrmQVC8DKrWTtZCNj.jpg",
+        "https://image.tmdb.org/t/p/w780/wrrwqpIhabG1xaqWwakbgMpPgvu.jpg",
+        "https://image.tmdb.org/t/p/w780/yWg8HW3n27JvgEd8SNVkwmQLoWL.jpg",
+        "https://image.tmdb.org/t/p/w780/d3rDb8ajB3y0CV6ENm0ENiLpvaN.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1433583"
+    },
+    {
       "id": 1423191,
       "type": "movie",
       "title": "Resident Evil",
@@ -169,7 +160,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.303,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -226,7 +217,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.374,
       "providers": [],
       "videos": [
         {
@@ -272,7 +263,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.48,
+      "vote_average": 7.488,
       "providers": [],
       "videos": [
         {
@@ -330,7 +321,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.8,
+      "vote_average": 7.744,
       "providers": [
         {
           "id": 350,
@@ -384,7 +375,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.852,
+      "vote_average": 5.833,
       "providers": [],
       "videos": [
         {
@@ -436,58 +427,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1400837"
     },
     {
-      "id": 1389172,
-      "type": "movie",
-      "title": "Notícias em Perigo",
-      "release_date": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w500/72ETmrsQGk8guVo1GV8Sf7EygOe.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
-      "overview": "Parineeti Chopra e Deven Bhojani estrelam este suspense policial em que um protesto local leva dois repórteres a investigar a fundo um esquema de mineração ilegal.",
-      "tagline": "",
-      "runtime": 116,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "vote_average": 7.0,
-      "providers": [
-        {
-          "id": 8,
-          "name": "Netflix",
-          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-        }
-      ],
-      "videos": [
-        {
-          "key": "7FngoJqA2tk",
-          "name": "Conexão perigosa 2026 Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Parineeti Chopra",
-        "Deven Bhojani",
-        "आदिल हुसैन",
-        "Shekhar Suman",
-        "Amol Palekar",
-        "Nassar",
-        "गीता अग्रवाल शर्मा",
-        "Saswata Chatterjee"
-      ],
-      "director": "Dhruv Tripathi",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
-        "https://image.tmdb.org/t/p/w780/sKb5B0bhh0VAkpj0eWUQM5QJFBM.jpg",
-        "https://image.tmdb.org/t/p/w780/iAyOkcRfsGQ0tM8YUNfxmWsz2Lv.jpg",
-        "https://image.tmdb.org/t/p/w780/tYYCsmVYr1bobqBl1FGer84SSHl.jpg",
-        "https://image.tmdb.org/t/p/w780/k1iWfhjB4XefNkhcJQ6uuALtPRP.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1389172"
-    },
-    {
       "id": 1236045,
       "type": "movie",
       "title": "Sobrevivência",
@@ -499,7 +438,9 @@
       "runtime": 109,
       "genres": [
         "Thriller",
-        "Drama"
+        "Drama",
+        "Ação",
+        "Crime"
       ],
       "vote_average": 7.0,
       "providers": [
@@ -556,7 +497,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 8.225,
+      "vote_average": 8.246,
       "providers": [
         {
           "id": 350,
@@ -610,7 +551,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.495,
+      "vote_average": 6.578,
       "providers": [],
       "videos": [
         {
@@ -675,7 +616,7 @@
         "Drama",
         "Romance"
       ],
-      "vote_average": 7.2,
+      "vote_average": 7.224,
       "providers": [],
       "videos": [
         {
@@ -732,7 +673,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.4,
+      "vote_average": 6.365,
       "providers": [],
       "videos": [
         {
@@ -797,7 +738,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.997,
+      "vote_average": 6.965,
       "providers": [],
       "videos": [
         {
@@ -821,14 +762,14 @@
       ],
       "director": "Thomas Vincent",
       "images": [
-        "https://image.tmdb.org/t/p/w780/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
         "https://image.tmdb.org/t/p/w780/b1TssUuZZ9WwgIxBvY8XUimQ4dB.jpg",
         "https://image.tmdb.org/t/p/w780/nhJab93yQdDJa7btFEu9MQ8s2OG.jpg",
         "https://image.tmdb.org/t/p/w780/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
         "https://image.tmdb.org/t/p/w780/2Je5EainyrNszCyhF07Pfkm3m5f.jpg",
         "https://image.tmdb.org/t/p/w780/bapL59rfXz56C0U9eZg8ezAm8vw.jpg",
         "https://image.tmdb.org/t/p/w780/dOv2JBMmwcw7TL5auBeBoIbhoO8.jpg",
-        "https://image.tmdb.org/t/p/w780/hk80hYdJ6MEPy4jDxc0TqHCb6wH.jpg"
+        "https://image.tmdb.org/t/p/w780/hk80hYdJ6MEPy4jDxc0TqHCb6wH.jpg",
+        "https://image.tmdb.org/t/p/w780/nLEgcdXBj8JH6BtuB3w5W7Jc41T.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1561726"
     },
@@ -847,7 +788,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.59,
       "providers": [],
       "videos": [
         {
@@ -912,7 +853,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.969,
+      "vote_average": 6.961,
       "providers": [],
       "videos": [
         {
@@ -999,6 +940,72 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1294189"
     },
     {
+      "id": 791523,
+      "type": "movie",
+      "title": "O Bosque Selvagem",
+      "release_date": "2026-10-29",
+      "poster": "https://image.tmdb.org/t/p/w500/vd7SmID6ocpaQpdneKg0qEOvmOh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+      "overview": "A determinada adolescente Prue McKeel embarca em uma missão desesperada de resgate depois que seu irmão caçula é sequestrado por um bando de corvos. Acompanhada por seu colega de classe desajeitado, mas leal, Curtis Mehlberg, Prue navega por um mundo habitado por animais falantes, bandidos e figuras poderosas movidas pela dor e pela ambição. À medida que a dupla é arrastada para um conflito que ameaça o equilíbrio da própria floresta, Prue precisa descobrir uma força e uma crença que jamais soube que possuía.",
+      "tagline": "",
+      "runtime": 132,
+      "genres": [
+        "Animação",
+        "Aventura",
+        "Fantasia"
+      ],
+      "vote_average": 8.7,
+      "providers": [],
+      "videos": [
+        {
+          "key": "xD3LODkbIT4",
+          "name": "O Bosque Selvagem | Novo Trailer Dublado | 29 de outubro nos cinemas",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "SDkMFbf4iWo",
+          "name": "Trailer Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "wKCnU1fVnZo",
+          "name": "Teaser",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Peyton Elizabeth Lee",
+        "Jacob Tremblay",
+        "Carey Mulligan",
+        "Mahershala Ali",
+        "Angela Bassett",
+        "Awkwafina",
+        "Jake Johnson",
+        "Charlie Day"
+      ],
+      "director": "Travis Knight",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+        "https://image.tmdb.org/t/p/w780/xY6ItkVktNDMD2WyLXpNq48PJHy.jpg",
+        "https://image.tmdb.org/t/p/w780/nfxw1zpFVASVt4ZVZubjQ2R9lJ.jpg",
+        "https://image.tmdb.org/t/p/w780/7S9zJTVtK3dvhChTO1MDVu4bmBu.jpg",
+        "https://image.tmdb.org/t/p/w780/vLsUQtNYhc7WmdvXuKZ4QWo272Q.jpg",
+        "https://image.tmdb.org/t/p/w780/rVjVuYiHAjftgr19i5Bzy6nzJwW.jpg",
+        "https://image.tmdb.org/t/p/w780/syWdo2DlYe4TdzO18y6RoqXUQco.jpg",
+        "https://image.tmdb.org/t/p/w780/5PviCeavBVrkcZH1gCBTcNMBpx.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/791523"
+    },
+    {
       "id": 1765072,
       "type": "movie",
       "title": "Tudo Pode Ser Visto",
@@ -1011,12 +1018,12 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 9.2,
+      "vote_average": 9.1,
       "providers": [],
       "videos": [
         {
-          "key": "ENwMWumB3z4",
-          "name": "One Last Shot | Official Trailer (Tisha Campbell x Lifetime 2026)",
+          "key": "kre2P5oQCKU",
+          "name": "You Can See Everything | Official Trailer (Elizabeth Holmes, Nathan Fielder 2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
