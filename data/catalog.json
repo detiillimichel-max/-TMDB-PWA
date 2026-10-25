@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T04:42:14.578263+00:00",
+  "updated_at": "2026-10-25T11:30:53.632202+00:00",
   "region": "BR",
   "items": [
     {
@@ -97,55 +97,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1375161"
     },
     {
-      "id": 1433583,
-      "type": "movie",
-      "title": "The Weight",
-      "release_date": "2026-09-16",
-      "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
-      "overview": "Quando Samuel é separado da filha e enviado para uma prisão brutal, o diretor Clancy faz-lhe uma proposta arriscada: contrabandear ouro de uma mina remota juntamente com um perigoso grupo de reclusos e, em troca, conquistar a sua liberdade.",
-      "tagline": "",
-      "runtime": 112,
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "vote_average": 6.735,
-      "providers": [],
-      "videos": [
-        {
-          "key": "UtDaJs55TqY",
-          "name": "The Weight Official Trailer (2026) | Ethan Hawke &amp; Russell Crowe",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Ethan Hawke",
-        "Russell Crowe",
-        "Julia Jones",
-        "Austin Amelio",
-        "Avi Nash",
-        "Lucas Lynggaard Tønnesen",
-        "Sam Hazeldine",
-        "George Burgess"
-      ],
-      "director": "Padraic McKinley",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/zKizFK3adjtpXut1dW6bRaxwhd.jpg",
-        "https://image.tmdb.org/t/p/w780/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
-        "https://image.tmdb.org/t/p/w780/tD4qifPSyyhPCgZ0W4fNTcVDD2r.jpg",
-        "https://image.tmdb.org/t/p/w780/oQxaPtPdaGEymarp9pVOzwZT11V.jpg",
-        "https://image.tmdb.org/t/p/w780/tA22d0tUZsxrmQVC8DKrWTtZCNj.jpg",
-        "https://image.tmdb.org/t/p/w780/wrrwqpIhabG1xaqWwakbgMpPgvu.jpg",
-        "https://image.tmdb.org/t/p/w780/yWg8HW3n27JvgEd8SNVkwmQLoWL.jpg",
-        "https://image.tmdb.org/t/p/w780/d3rDb8ajB3y0CV6ENm0ENiLpvaN.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1433583"
-    },
-    {
       "id": 1423191,
       "type": "movie",
       "title": "Resident Evil",
@@ -160,7 +111,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.307,
       "providers": [],
       "videos": [
         {
@@ -217,7 +168,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.374,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -321,7 +272,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.744,
+      "vote_average": 7.751,
       "providers": [
         {
           "id": 350,
@@ -375,7 +326,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.833,
+      "vote_average": 5.8,
       "providers": [],
       "videos": [
         {
@@ -497,7 +448,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 8.246,
+      "vote_average": 8.256,
       "providers": [
         {
           "id": 350,
@@ -551,7 +502,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.578,
+      "vote_average": 6.582,
       "providers": [],
       "videos": [
         {
@@ -616,7 +567,7 @@
         "Drama",
         "Romance"
       ],
-      "vote_average": 7.224,
+      "vote_average": 7.2,
       "providers": [],
       "videos": [
         {
@@ -673,7 +624,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.365,
+      "vote_average": 6.364,
       "providers": [],
       "videos": [
         {
@@ -730,7 +681,7 @@
       "title": "Masterplan",
       "release_date": "2026-10-16",
       "poster": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nhJab93yQdDJa7btFEu9MQ8s2OG.jpg",
       "overview": "Quando um ladrão lendário decide roubar a Mona Lisa, ele recruta dois jovens para ajudá-lo: Chiara, especialista italiana em crimes cibernéticos, e Jay, especialista francês em explosivos. Eles só não sabem que ele é pai dos dois. Em meio a um reencontro caótico, a nova família terá que aprender a trabalhar em equipe – e tentar não se matar - se quiser ter chances de realizar o roubo do século.",
       "tagline": "",
       "runtime": 109,
@@ -738,7 +689,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.965,
+      "vote_average": 6.969,
       "providers": [],
       "videos": [
         {
@@ -853,7 +804,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.961,
+      "vote_average": 7.0,
       "providers": [],
       "videos": [
         {
@@ -895,6 +846,60 @@
         "https://image.tmdb.org/t/p/w780/zEa5jl6oH44m7DKB9i8m2oFMict.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1281331"
+    },
+    {
+      "id": 1780005,
+      "type": "movie",
+      "title": "Contra o Furacão",
+      "release_date": "2026-10-23",
+      "poster": "https://image.tmdb.org/t/p/w500/aAkMQit6uVKpBMbIP8HsJrgXlGG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+      "overview": "No meio do mar, Wirpul e seu meio-irmão Candi lutam pela sobrevivência quando uma tempestade inesperada se transforma no furacão Otis, um furacão de categoria 5, na costa de Acapulco.",
+      "tagline": "",
+      "runtime": 97,
+      "genres": [
+        "Drama"
+      ],
+      "vote_average": 5.4,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "cGiZj9zl52Y",
+          "name": "Contra o Furacão 2026 Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "zKApuso5SCo",
+          "name": "Contra el Huracán | Tráiler oficial | Netflix",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Benny Emmanuel",
+        "Kristyan Ferrer",
+        "Mónica del Carmen",
+        "Mónica Jiménez",
+        "Andrew Leland Rogers",
+        "Gonzalo Vega Jr.",
+        "Daira Mendoza"
+      ],
+      "director": "Jorge Michel Grau",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1780005"
     },
     {
       "id": 1294189,
@@ -983,9 +988,9 @@
         }
       ],
       "cast": [
+        "Carey Mulligan",
         "Peyton Elizabeth Lee",
         "Jacob Tremblay",
-        "Carey Mulligan",
         "Mahershala Ali",
         "Angela Bassett",
         "Awkwafina",
@@ -1067,7 +1072,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 5.9,
+      "vote_average": 5.759,
       "providers": [],
       "videos": [
         {
