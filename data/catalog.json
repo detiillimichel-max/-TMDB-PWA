@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T16:20:36.465967+00:00",
+  "updated_at": "2026-10-25T20:51:59.483021+00:00",
   "region": "BR",
   "items": [
     {
@@ -69,8 +69,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "FwoYYKyJo1g",
-          "name": "Don’t Move Official Trailer (2026) - In Theaters September 11",
+          "key": "wfx3MjMV6x4",
+          "name": "Don&#39;t Move (2026) | Official Trailer",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -111,7 +111,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.307,
+      "vote_average": 7.305,
       "providers": [],
       "videos": [
         {
@@ -168,7 +168,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -214,7 +214,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.492,
+      "vote_average": 7.494,
       "providers": [],
       "videos": [
         {
@@ -272,7 +272,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.751,
+      "vote_average": 7.753,
       "providers": [
         {
           "id": 350,
@@ -393,7 +393,7 @@
         "Ação",
         "Crime"
       ],
-      "vote_average": 6.968,
+      "vote_average": 6.964,
       "providers": [
         {
           "id": 8,
@@ -433,61 +433,6 @@
         "https://image.tmdb.org/t/p/w780/bwTsjWCOUe049YEJOMAJZZQgOC.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1236045"
-    },
-    {
-      "id": 1288069,
-      "type": "movie",
-      "title": "Tenzing",
-      "release_date": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
-      "overview": "Um homem determinado embarca em uma jornada arriscada e desafia probabilidades aparentemente impossíveis para realizar seu sonho de ser o primeiro a chegar ao cume do Monte Everest.",
-      "tagline": "A história real da primeira conquista do Everest.",
-      "runtime": 125,
-      "genres": [
-        "Drama",
-        "História"
-      ],
-      "vote_average": 8.256,
-      "providers": [
-        {
-          "id": 350,
-          "name": "Apple TV",
-          "logo": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
-        }
-      ],
-      "videos": [
-        {
-          "key": "C3acvD1AJ-0",
-          "name": "Trailer oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "更登彭措",
-        "Tom Hiddleston",
-        "Willem Dafoe",
-        "Samdrup Dorje Lama",
-        "Bhuchung Kata",
-        "Johnny Flynn",
-        "Lhakpa Tsamchoe",
-        "Jampa Kalsang Tamang"
-      ],
-      "director": "Jennifer Peedom",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
-        "https://image.tmdb.org/t/p/w780/5BHjIppUPxVGuYqLI2Wkh5BBkGv.jpg",
-        "https://image.tmdb.org/t/p/w780/NyZJ3T7mcTolHJSItZQcFt1eGI.jpg",
-        "https://image.tmdb.org/t/p/w780/wUe0QbbPDU2BD3L2QnsZlAr55Je.jpg",
-        "https://image.tmdb.org/t/p/w780/j3iPJSwIn8MDdtmmqjYhrLGnMK4.jpg",
-        "https://image.tmdb.org/t/p/w780/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
-        "https://image.tmdb.org/t/p/w780/57y3cRE0XVI6oWqakiKILSHsULH.jpg",
-        "https://image.tmdb.org/t/p/w780/aJpXl3uDZeyHoMBZVGZZz97L5wB.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1288069"
     },
     {
       "id": 1255833,
@@ -714,8 +659,8 @@
       "director": "Thomas Vincent",
       "images": [
         "https://image.tmdb.org/t/p/w780/b1TssUuZZ9WwgIxBvY8XUimQ4dB.jpg",
-        "https://image.tmdb.org/t/p/w780/nhJab93yQdDJa7btFEu9MQ8s2OG.jpg",
         "https://image.tmdb.org/t/p/w780/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
+        "https://image.tmdb.org/t/p/w780/nhJab93yQdDJa7btFEu9MQ8s2OG.jpg",
         "https://image.tmdb.org/t/p/w780/2Je5EainyrNszCyhF07Pfkm3m5f.jpg",
         "https://image.tmdb.org/t/p/w780/bapL59rfXz56C0U9eZg8ezAm8vw.jpg",
         "https://image.tmdb.org/t/p/w780/dOv2JBMmwcw7TL5auBeBoIbhoO8.jpg",
@@ -860,7 +805,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 5.4,
+      "vote_average": 5.225,
       "providers": [
         {
           "id": 8,
@@ -900,6 +845,51 @@
         "https://image.tmdb.org/t/p/w780/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1780005"
+    },
+    {
+      "id": 1657630,
+      "type": "movie",
+      "title": "El despertar",
+      "release_date": "2026-10-29",
+      "poster": "https://image.tmdb.org/t/p/w500/w3YJx1PPPC6aiVKusxfc9QA0uYS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/75MLVCmQ4QougShkx3OlUbJbuSK.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 96,
+      "genres": [
+        "Terror",
+        "Ação",
+        "Guerra",
+        "Fantasia",
+        "Thriller"
+      ],
+      "vote_average": 6.0,
+      "providers": [],
+      "videos": [
+        {
+          "key": "e3xfWXFaxUs",
+          "name": "Um Grande Despertar 2026 Trailer Oficial Legendado",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Claudio Cataño",
+        "Alejandro Buitrago",
+        "Hector Sánchez",
+        "Andrea Olaya",
+        "Quique Sanmartin",
+        "Jaisson Jeack",
+        "Carlos Mariño",
+        "Andres Londono"
+      ],
+      "director": "Jaime Osorio Márquez",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/75MLVCmQ4QougShkx3OlUbJbuSK.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1657630"
     },
     {
       "id": 1294189,
@@ -949,7 +939,7 @@
       "type": "movie",
       "title": "O Bosque Selvagem",
       "release_date": "2026-10-29",
-      "poster": "https://image.tmdb.org/t/p/w500/vd7SmID6ocpaQpdneKg0qEOvmOh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mcuUYNWGJHPEaRumOlgSZCzMRPc.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
       "overview": "A determinada adolescente Prue McKeel embarca em uma missão desesperada de resgate depois que seu irmão caçula é sequestrado por um bando de corvos. Acompanhada por seu colega de classe desajeitado, mas leal, Curtis Mehlberg, Prue navega por um mundo habitado por animais falantes, bandidos e figuras poderosas movidas pela dor e pela ambição. À medida que a dupla é arrastada para um conflito que ameaça o equilíbrio da própria floresta, Prue precisa descobrir uma força e uma crença que jamais soube que possuía.",
       "tagline": "",
@@ -1023,7 +1013,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 9.184,
+      "vote_average": 9.2,
       "providers": [],
       "videos": [
         {
@@ -1072,7 +1062,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 5.759,
+      "vote_average": 5.8,
       "providers": [],
       "videos": [
         {
