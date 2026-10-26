@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T04:48:11.107735+00:00",
+  "updated_at": "2026-10-26T13:04:12.458572+00:00",
   "region": "BR",
   "items": [
     {
@@ -62,7 +62,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.309,
+      "vote_average": 7.312,
       "providers": [],
       "videos": [
         {
@@ -119,7 +119,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.342,
+      "vote_average": 7.341,
       "providers": [],
       "videos": [
         {
@@ -165,7 +165,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.491,
+      "vote_average": 7.493,
       "providers": [],
       "videos": [
         {
@@ -223,7 +223,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.731,
+      "vote_average": 7.742,
       "providers": [
         {
           "id": 350,
@@ -277,7 +277,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.844,
+      "vote_average": 5.833,
       "providers": [],
       "videos": [
         {
@@ -344,7 +344,7 @@
         "Ação",
         "Crime"
       ],
-      "vote_average": 6.959,
+      "vote_average": 6.964,
       "providers": [
         {
           "id": 8,
@@ -386,61 +386,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1236045"
     },
     {
-      "id": 1288069,
-      "type": "movie",
-      "title": "Tenzing",
-      "release_date": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
-      "overview": "Um homem determinado embarca em uma jornada arriscada e desafia probabilidades aparentemente impossíveis para realizar seu sonho de ser o primeiro a chegar ao cume do Monte Everest.",
-      "tagline": "A história real da primeira conquista do Everest.",
-      "runtime": 125,
-      "genres": [
-        "Drama",
-        "História"
-      ],
-      "vote_average": 8.305,
-      "providers": [
-        {
-          "id": 350,
-          "name": "Apple TV",
-          "logo": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
-        }
-      ],
-      "videos": [
-        {
-          "key": "C3acvD1AJ-0",
-          "name": "Trailer oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "更登彭措",
-        "Tom Hiddleston",
-        "Willem Dafoe",
-        "Samdrup Dorje Lama",
-        "Bhuchung Kata",
-        "Johnny Flynn",
-        "Lhakpa Tsamchoe",
-        "Jampa Kalsang Tamang"
-      ],
-      "director": "Jennifer Peedom",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
-        "https://image.tmdb.org/t/p/w780/5BHjIppUPxVGuYqLI2Wkh5BBkGv.jpg",
-        "https://image.tmdb.org/t/p/w780/NyZJ3T7mcTolHJSItZQcFt1eGI.jpg",
-        "https://image.tmdb.org/t/p/w780/wUe0QbbPDU2BD3L2QnsZlAr55Je.jpg",
-        "https://image.tmdb.org/t/p/w780/j3iPJSwIn8MDdtmmqjYhrLGnMK4.jpg",
-        "https://image.tmdb.org/t/p/w780/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
-        "https://image.tmdb.org/t/p/w780/57y3cRE0XVI6oWqakiKILSHsULH.jpg",
-        "https://image.tmdb.org/t/p/w780/aJpXl3uDZeyHoMBZVGZZz97L5wB.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1288069"
-    },
-    {
       "id": 1255833,
       "type": "movie",
       "title": "Dentro da Baleia",
@@ -453,7 +398,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.606,
+      "vote_average": 6.604,
       "providers": [],
       "videos": [
         {
@@ -518,7 +463,7 @@
         "Drama",
         "Romance"
       ],
-      "vote_average": 7.169,
+      "vote_average": 7.188,
       "providers": [],
       "videos": [
         {
@@ -575,7 +520,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.4,
+      "vote_average": 6.408,
       "providers": [],
       "videos": [
         {
@@ -640,7 +585,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.973,
+      "vote_average": 7.012,
       "providers": [],
       "videos": [
         {
@@ -690,7 +635,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.577,
+      "vote_average": 7.596,
       "providers": [],
       "videos": [
         {
@@ -854,6 +799,61 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1780005"
     },
     {
+      "id": 1453407,
+      "type": "movie",
+      "title": "Noite Brutal",
+      "release_date": "2026-10-23",
+      "poster": "https://image.tmdb.org/t/p/w500/jqUuc0hkNrrcmp2XWbi859RAwDb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
+      "overview": "Manoj Bajpayee lidera o elenco no papel de um homem moralmente ambíguo que precisa salvar uma mulher e expor uma conspiração mortal em uma noite implacável.",
+      "tagline": "",
+      "runtime": 123,
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "vote_average": 5.9,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "atKr3WiDebA",
+          "name": "Noite Brutal 2026 Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "मनोज बाजपेयी",
+        "Divya Dutta",
+        "Akshay Oberoi",
+        "Saqib Saleem",
+        "Shraddha Das",
+        "Rajiv Gupta",
+        "Aditi Sandhya Sharma",
+        "Nushrratt Bharuccha"
+      ],
+      "director": "Ritesh Shah",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
+        "https://image.tmdb.org/t/p/w780/rPXwYyTRHmGQvMwf8YOX98YTUC7.jpg",
+        "https://image.tmdb.org/t/p/w780/sAyBUF97N31WGGFPXDGE8XAOhUL.jpg",
+        "https://image.tmdb.org/t/p/w780/vbc5FyBHMlBq8y6xWmMNjd84g84.jpg",
+        "https://image.tmdb.org/t/p/w780/fjYFlM7tF8a0QV3lrdivTeae22k.jpg",
+        "https://image.tmdb.org/t/p/w780/33PHTsQhWkaBa7XFZPu99qBUxvL.jpg",
+        "https://image.tmdb.org/t/p/w780/xNKiiYD6yDqIezkbgMr3ZBcWqQ2.jpg",
+        "https://image.tmdb.org/t/p/w780/6FTINdLWFCaMujYWjwdNQVcQIio.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1453407"
+    },
+    {
       "id": 1657630,
       "type": "movie",
       "title": "El despertar",
@@ -870,7 +870,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.333,
+      "vote_average": 7.25,
       "providers": [],
       "videos": [
         {
@@ -956,7 +956,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.8,
+      "vote_average": 8.852,
       "providers": [],
       "videos": [
         {
@@ -1018,9 +1018,11 @@
       "tagline": "",
       "runtime": 174,
       "genres": [
-        "Documentário"
+        "Documentário",
+        "Terror",
+        "Drama"
       ],
-      "vote_average": 9.023,
+      "vote_average": 9.1,
       "providers": [],
       "videos": [
         {
