@@ -1,59 +1,14 @@
 {
-  "updated_at": "2026-10-26T22:40:58.832059+00:00",
+  "updated_at": "2026-10-27T05:05:58.682273+00:00",
   "region": "BR",
   "items": [
-    {
-      "id": 1375161,
-      "type": "movie",
-      "title": "Don't Move",
-      "release_date": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w500/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1b0wNCRLYT3mGwvHyTEbqOk98Ix.jpg",
-      "overview": "Megan Forrester se junta ao seu grupo da igreja em um acampamento após perder sua família em um trágico acidente. A viagem toma um rumo diferente quando o grupo acaba por engano em uma área da floresta alvo de um predador perigoso.",
-      "tagline": "",
-      "runtime": 94,
-      "genres": [
-        "Terror",
-        "Thriller"
-      ],
-      "vote_average": 5.2,
-      "providers": [],
-      "videos": [
-        {
-          "key": "wfx3MjMV6x4",
-          "name": "Don&#39;t Move (2026) | Official Trailer",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Lyndsy Fonseca",
-        "Russ",
-        "Tom Cavanagh",
-        "Hunter King",
-        "Joseph Lee Anderson",
-        "Rob Riggle",
-        "Brian Quinn",
-        "Matt Biedel"
-      ],
-      "director": "Maclain Nelson",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/1b0wNCRLYT3mGwvHyTEbqOk98Ix.jpg",
-        "https://image.tmdb.org/t/p/w780/hRjS4aEJbFmvr0O9fQszUIdle5E.jpg",
-        "https://image.tmdb.org/t/p/w780/1b0RrVxLAMhfT0vQXfWtDLwg1ke.jpg",
-        "https://image.tmdb.org/t/p/w780/xFYqT8hpZUPRBm3A5cS4AK2Ee7j.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1375161"
-    },
     {
       "id": 1423191,
       "type": "movie",
       "title": "Resident Evil",
       "release_date": "2026-09-17",
       "poster": "https://image.tmdb.org/t/p/w500/gQ76UL64RQe3oHwiwHwODTC23g4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
       "overview": "Bryan, um tranquilo entregador de órgãos, é enviado para uma entrega noturna no Hospital Geral de Raccoon City. No caminho por uma estrada montanhosa coberta de neve, ele acidentalmente atropela uma mulher desconhecida. Ela sobrevive, mas algo está muito errado. Ao tentar ajudar, Bryan se depara com um surto em larga escala envolvendo mutações horríveis com tentáculos e monstruosidades bioengenheiradas.",
       "tagline": "Uma nova era do mal.",
       "runtime": 90,
@@ -62,7 +17,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.314,
       "providers": [],
       "videos": [
         {
@@ -94,14 +49,14 @@
       ],
       "director": "Zach Cregger",
       "images": [
+        "https://image.tmdb.org/t/p/w780/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
+        "https://image.tmdb.org/t/p/w780/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
         "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
         "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
-        "https://image.tmdb.org/t/p/w780/ddQKBWvnuiv7J64Z9exsNuze9hZ.jpg",
-        "https://image.tmdb.org/t/p/w780/tOLGgDfKC2tCfANk6BgxW06yaQ1.jpg",
-        "https://image.tmdb.org/t/p/w780/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
-        "https://image.tmdb.org/t/p/w780/vfxDfXlu4Oe6CuGYALtURZvBJ7c.jpg",
+        "https://image.tmdb.org/t/p/w780/fQpxJXfOm0QSHj3eB8QDjOvYL3t.jpg",
         "https://image.tmdb.org/t/p/w780/ggBkUdWx8KndICMqy4eVnMlDDve.jpg",
-        "https://image.tmdb.org/t/p/w780/vqNSvCFknXObgqn7nOFrJVEeGht.jpg"
+        "https://image.tmdb.org/t/p/w780/wEV9iTPIoiLfTkftCsrI23krsQA.jpg",
+        "https://image.tmdb.org/t/p/w780/nfj53Pr6iCk0pZDJKbjYcyftsY5.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1423191"
     },
@@ -119,7 +74,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.332,
       "providers": [],
       "videos": [
         {
@@ -258,11 +213,60 @@
         "https://image.tmdb.org/t/p/w780/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
         "https://image.tmdb.org/t/p/w780/oOofgKLAWUhHGohxXdRm3yLOWYw.jpg",
         "https://image.tmdb.org/t/p/w780/aCHV4smCVIrMiPJw5CFtXedLjjh.jpg",
-        "https://image.tmdb.org/t/p/w780/xxDWHFz7eE77OBsqNJjrDcRgKff.jpg",
         "https://image.tmdb.org/t/p/w780/dbixfjL3yu6lrwzFyeaTH5jArN4.jpg",
-        "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg"
+        "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
+        "https://image.tmdb.org/t/p/w780/vJlFR2PEioavrz17QbC56r76V9F.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
+    },
+    {
+      "id": 1381078,
+      "type": "movie",
+      "title": "O Amor de Sua Vida",
+      "release_date": "2026-10-07",
+      "poster": "https://image.tmdb.org/t/p/w500/noVjD52nAvgPK2XtVZSej1nFzin.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+      "overview": "Maya, uma enfermeira inteligente e irônica, é envolvida por um amor envolvente, que coloca sua vida em uma trajetória que ela nunca teria imaginado.",
+      "tagline": "",
+      "runtime": 111,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "vote_average": 6.744,
+      "providers": [],
+      "videos": [
+        {
+          "key": "ZNLHXYO_e6I",
+          "name": "(Quase) O Amor da Minha Vida Trailer Oficial Legendado 2026 | Estourando Trailers",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Gabriel Basso",
+        "Aaron Pierre",
+        "Patrick Schwarzenegger",
+        "Catherine Keener",
+        "Tamara Lawrance",
+        "Corey Johnson",
+        "Michael Shelford"
+      ],
+      "director": "Rachel Morrison",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+        "https://image.tmdb.org/t/p/w780/bI06OKB9V0NYcXvLXNiduBEiG0r.jpg",
+        "https://image.tmdb.org/t/p/w780/mY4QJLITCNojRIpndq831eFDKEf.jpg",
+        "https://image.tmdb.org/t/p/w780/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+        "https://image.tmdb.org/t/p/w780/uE4qESNLo6jQrKjnUiNE42hrn1Z.jpg",
+        "https://image.tmdb.org/t/p/w780/79GJ5BmbjCfoWnRGEcg42QPSdQf.jpg",
+        "https://image.tmdb.org/t/p/w780/f1jZDs4dJoFXxazmpBKGmId2hFU.jpg",
+        "https://image.tmdb.org/t/p/w780/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1381078"
     },
     {
       "id": 1400837,
@@ -277,7 +281,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.833,
+      "vote_average": 5.8,
       "providers": [],
       "videos": [
         {
@@ -398,7 +402,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.6,
+      "vote_average": 6.616,
       "providers": [],
       "videos": [
         {
@@ -520,7 +524,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.404,
+      "vote_average": 6.418,
       "providers": [],
       "videos": [
         {
@@ -561,13 +565,13 @@
       "director": "Kitao Sakurai",
       "images": [
         "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
+        "https://image.tmdb.org/t/p/w780/k0cEoowzTwxYCTRI7gV6nqPF1ds.jpg",
         "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
         "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
         "https://image.tmdb.org/t/p/w780/6kJENBnZsVZuhYTSR3zZi6FUe30.jpg",
-        "https://image.tmdb.org/t/p/w780/geNeyCgoWpenKTWvKlZW3HLqflA.jpg",
-        "https://image.tmdb.org/t/p/w780/21dXBmFG6TMDDczGkLWIcV9MeDT.jpg",
-        "https://image.tmdb.org/t/p/w780/hddG9Pj8qzZFZynCKH4sXEFGTib.jpg",
-        "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg"
+        "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
+        "https://image.tmdb.org/t/p/w780/5YfPIIMzGBkIjHt3PTXBWyfBTGS.jpg",
+        "https://image.tmdb.org/t/p/w780/DSOLReBGAwtN6AkrdkPiknd01z.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1153576"
     },
@@ -589,8 +593,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "QmS0i7nlx7A",
-          "name": "Masterplan 2026 Trailer Oficial Legendado",
+          "key": "YR6Fbt4Lzi8",
+          "name": "MASTERPLAN Official Trailer (2026) Stanley Tucci",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -635,7 +639,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.498,
       "providers": [],
       "videos": [
         {
@@ -812,7 +816,7 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 5.9,
+      "vote_average": 5.083,
       "providers": [
         {
           "id": 8,
@@ -912,7 +916,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.6,
+      "vote_average": 8.5,
       "providers": [],
       "videos": [
         {
@@ -950,13 +954,13 @@
       "backdrop": "https://image.tmdb.org/t/p/w1280/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
       "overview": "A determinada adolescente Prue McKeel embarca em uma missão desesperada de resgate depois que seu irmão caçula é sequestrado por um bando de corvos. Acompanhada por seu colega de classe desajeitado, mas leal, Curtis Mehlberg, Prue navega por um mundo habitado por animais falantes, bandidos e figuras poderosas movidas pela dor e pela ambição. À medida que a dupla é arrastada para um conflito que ameaça o equilíbrio da própria floresta, Prue precisa descobrir uma força e uma crença que jamais soube que possuía.",
       "tagline": "",
-      "runtime": 132,
+      "runtime": 130,
       "genres": [
         "Animação",
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.639,
+      "vote_average": 8.601,
       "providers": [],
       "videos": [
         {
@@ -985,8 +989,8 @@
         }
       ],
       "cast": [
-        "Carey Mulligan",
         "Peyton Elizabeth Lee",
+        "Carey Mulligan",
         "Jacob Tremblay",
         "Mahershala Ali",
         "Angela Bassett",
