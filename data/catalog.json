@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T12:12:46.724999+00:00",
+  "updated_at": "2026-10-27T18:01:58.901476+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.733,
+      "vote_average": 6.7,
       "providers": [],
       "videos": [
         {
@@ -169,7 +169,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.484,
+      "vote_average": 7.486,
       "providers": [],
       "videos": [
         {
@@ -227,7 +227,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.715,
+      "vote_average": 7.72,
       "providers": [
         {
           "id": 350,
@@ -282,12 +282,12 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.7,
+      "vote_average": 6.751,
       "providers": [],
       "videos": [
         {
-          "key": "5or5ZBxgqX0",
-          "name": "Amor da Minha Vida | Trailer Oficial | Disney+",
+          "key": "ZNLHXYO_e6I",
+          "name": "(Quase) O Amor da Minha Vida Trailer Oficial Legendado 2026 | Estourando Trailers",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -330,7 +330,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.8,
+      "vote_average": 5.835,
       "providers": [],
       "videos": [
         {
@@ -397,7 +397,7 @@
         "Ação",
         "Crime"
       ],
-      "vote_average": 6.973,
+      "vote_average": 6.977,
       "providers": [
         {
           "id": 8,
@@ -506,7 +506,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.6,
+      "vote_average": 6.626,
       "providers": [],
       "videos": [
         {
@@ -686,7 +686,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.473,
       "providers": [],
       "videos": [
         {
@@ -750,7 +750,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 5.75,
+      "vote_average": 5.8,
       "providers": [
         {
           "id": 8,
@@ -806,7 +806,7 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 5.083,
+      "vote_average": 4.5,
       "providers": [
         {
           "id": 8,
@@ -950,7 +950,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.6,
+      "vote_average": 8.618,
       "providers": [],
       "videos": [
         {
