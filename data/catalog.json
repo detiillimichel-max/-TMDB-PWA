@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-10-27T05:05:58.682273+00:00",
+  "updated_at": "2026-10-27T12:12:46.724999+00:00",
   "region": "BR",
   "items": [
+    {
+      "id": 1433583,
+      "type": "movie",
+      "title": "The Weight",
+      "release_date": "2026-09-16",
+      "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
+      "overview": "Quando Samuel é separado da filha e enviado para uma prisão brutal, o diretor Clancy faz-lhe uma proposta arriscada: contrabandear ouro de uma mina remota juntamente com um perigoso grupo de reclusos e, em troca, conquistar a sua liberdade.",
+      "tagline": "",
+      "runtime": 112,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "vote_average": 6.733,
+      "providers": [],
+      "videos": [
+        {
+          "key": "UtDaJs55TqY",
+          "name": "The Weight Official Trailer (2026) | Ethan Hawke &amp; Russell Crowe",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Ethan Hawke",
+        "Russell Crowe",
+        "Julia Jones",
+        "Austin Amelio",
+        "Avi Nash",
+        "Lucas Lynggaard Tønnesen",
+        "Sam Hazeldine",
+        "George Burgess"
+      ],
+      "director": "Padraic McKinley",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/zKizFK3adjtpXut1dW6bRaxwhd.jpg",
+        "https://image.tmdb.org/t/p/w780/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
+        "https://image.tmdb.org/t/p/w780/tD4qifPSyyhPCgZ0W4fNTcVDD2r.jpg",
+        "https://image.tmdb.org/t/p/w780/oQxaPtPdaGEymarp9pVOzwZT11V.jpg",
+        "https://image.tmdb.org/t/p/w780/tA22d0tUZsxrmQVC8DKrWTtZCNj.jpg",
+        "https://image.tmdb.org/t/p/w780/wrrwqpIhabG1xaqWwakbgMpPgvu.jpg",
+        "https://image.tmdb.org/t/p/w780/yWg8HW3n27JvgEd8SNVkwmQLoWL.jpg",
+        "https://image.tmdb.org/t/p/w780/d3rDb8ajB3y0CV6ENm0ENiLpvaN.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1433583"
+    },
     {
       "id": 1423191,
       "type": "movie",
@@ -17,7 +66,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.314,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -120,7 +169,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.495,
+      "vote_average": 7.484,
       "providers": [],
       "videos": [
         {
@@ -178,7 +227,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.718,
+      "vote_average": 7.715,
       "providers": [
         {
           "id": 350,
@@ -213,9 +262,9 @@
         "https://image.tmdb.org/t/p/w780/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
         "https://image.tmdb.org/t/p/w780/oOofgKLAWUhHGohxXdRm3yLOWYw.jpg",
         "https://image.tmdb.org/t/p/w780/aCHV4smCVIrMiPJw5CFtXedLjjh.jpg",
+        "https://image.tmdb.org/t/p/w780/xxDWHFz7eE77OBsqNJjrDcRgKff.jpg",
         "https://image.tmdb.org/t/p/w780/dbixfjL3yu6lrwzFyeaTH5jArN4.jpg",
-        "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
-        "https://image.tmdb.org/t/p/w780/vJlFR2PEioavrz17QbC56r76V9F.jpg"
+        "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
@@ -233,12 +282,12 @@
         "Romance",
         "Drama"
       ],
-      "vote_average": 6.744,
+      "vote_average": 6.7,
       "providers": [],
       "videos": [
         {
-          "key": "ZNLHXYO_e6I",
-          "name": "(Quase) O Amor da Minha Vida Trailer Oficial Legendado 2026 | Estourando Trailers",
+          "key": "5or5ZBxgqX0",
+          "name": "Amor da Minha Vida | Trailer Oficial | Disney+",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -348,7 +397,7 @@
         "Ação",
         "Crime"
       ],
-      "vote_average": 6.968,
+      "vote_average": 6.973,
       "providers": [
         {
           "id": 8,
@@ -390,6 +439,61 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1236045"
     },
     {
+      "id": 1288069,
+      "type": "movie",
+      "title": "Tenzing",
+      "release_date": "2026-10-09",
+      "poster": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+      "overview": "Um homem determinado embarca em uma jornada arriscada e desafia probabilidades aparentemente impossíveis para realizar seu sonho de ser o primeiro a chegar ao cume do Monte Everest.",
+      "tagline": "A história real da primeira conquista do Everest.",
+      "runtime": 125,
+      "genres": [
+        "Drama",
+        "História"
+      ],
+      "vote_average": 8.323,
+      "providers": [
+        {
+          "id": 350,
+          "name": "Apple TV",
+          "logo": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "C3acvD1AJ-0",
+          "name": "Trailer oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "更登彭措",
+        "Tom Hiddleston",
+        "Willem Dafoe",
+        "Samdrup Dorje Lama",
+        "Bhuchung Kata",
+        "Johnny Flynn",
+        "Lhakpa Tsamchoe",
+        "Jampa Kalsang Tamang"
+      ],
+      "director": "Jennifer Peedom",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+        "https://image.tmdb.org/t/p/w780/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
+        "https://image.tmdb.org/t/p/w780/5BHjIppUPxVGuYqLI2Wkh5BBkGv.jpg",
+        "https://image.tmdb.org/t/p/w780/NyZJ3T7mcTolHJSItZQcFt1eGI.jpg",
+        "https://image.tmdb.org/t/p/w780/wUe0QbbPDU2BD3L2QnsZlAr55Je.jpg",
+        "https://image.tmdb.org/t/p/w780/j3iPJSwIn8MDdtmmqjYhrLGnMK4.jpg",
+        "https://image.tmdb.org/t/p/w780/57y3cRE0XVI6oWqakiKILSHsULH.jpg",
+        "https://image.tmdb.org/t/p/w780/aJpXl3uDZeyHoMBZVGZZz97L5wB.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1288069"
+    },
+    {
       "id": 1255833,
       "type": "movie",
       "title": "Dentro da Baleia",
@@ -402,7 +506,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.616,
+      "vote_average": 6.6,
       "providers": [],
       "videos": [
         {
@@ -454,63 +558,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1255833"
     },
     {
-      "id": 1503762,
-      "type": "movie",
-      "title": "Razão e Sensibilidade",
-      "release_date": "2026-10-15",
-      "poster": "https://image.tmdb.org/t/p/w500/kuSSXcjitZy1LLGGoB9XqLBPCYl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
-      "overview": "Uma nova e irresistível releitura do icônico romance “Razão e Sensibilidade”, de Jane Austen: uma história encantadora, espirituosa e com a qual é fácil se identificar, sobre amor e irmandade.",
-      "tagline": "Ser agradável nunca fez bem a nenhuma mulher.",
-      "runtime": 125,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "vote_average": 7.2,
-      "providers": [],
-      "videos": [
-        {
-          "key": "GRk4QPveYBY",
-          "name": "Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "Ue8ltp4ekgU",
-          "name": "Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Daisy Edgar-Jones",
-        "Esmé Creed-Miles",
-        "Caitríona Balfe",
-        "Bodhi Rae Breathnach",
-        "Frank Dillane",
-        "Herbert Nordrum",
-        "George MacKay",
-        "Fiona Shaw"
-      ],
-      "director": "Georgia Oakley",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
-        "https://image.tmdb.org/t/p/w780/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
-        "https://image.tmdb.org/t/p/w780/3pGQKeOyN9cTAP723kdMwwPTRNl.jpg",
-        "https://image.tmdb.org/t/p/w780/rv6dwE4SXAT5f00Ks8YL2kFvnLA.jpg",
-        "https://image.tmdb.org/t/p/w780/wnJm8uEkkEjNvdZozxrERQGnRV7.jpg",
-        "https://image.tmdb.org/t/p/w780/7wufnyNo5uhkosKXEp8iITX5ar3.jpg",
-        "https://image.tmdb.org/t/p/w780/YpzEwCpoOdFD2itSYf3pbVGTXH.jpg",
-        "https://image.tmdb.org/t/p/w780/uj5ECRoSJOFvrUl5aeLdl2QHpjU.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1503762"
-    },
-    {
       "id": 1153576,
       "type": "movie",
       "title": "Street Fighter",
@@ -524,7 +571,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.418,
+      "vote_average": 6.4,
       "providers": [],
       "videos": [
         {
@@ -589,12 +636,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.02,
+      "vote_average": 7.028,
       "providers": [],
       "videos": [
         {
-          "key": "YR6Fbt4Lzi8",
-          "name": "MASTERPLAN Official Trailer (2026) Stanley Tucci",
+          "key": "QmS0i7nlx7A",
+          "name": "Masterplan 2026 Trailer Oficial Legendado",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -639,7 +686,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.498,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -691,63 +738,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1400940"
     },
     {
-      "id": 1281331,
-      "type": "movie",
-      "title": "O Outro Lado das Redes",
-      "release_date": "2026-10-22",
-      "poster": "https://image.tmdb.org/t/p/w500/51AEphEZ5JXaV0FL5PGITjLQE0m.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-      "overview": "Frances Haugen, uma jovem engenheira do Facebook, conta com a ajuda de Jeff Horwitz, repórter do Wall Street Journal, para revelar os segredos mais bem guardados da rede social.",
-      "tagline": "A fase de fazer amigos já passou.",
-      "runtime": 113,
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "vote_average": 7.0,
-      "providers": [],
-      "videos": [
-        {
-          "key": "ndgIT_-shpg",
-          "name": "O Outro Lado das Redes | Novo Trailer | Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "21VZhHDCDqE",
-          "name": "O Outro Lado das Redes | Trailer | 08 de outubro nos cinemas",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Mikey Madison",
-        "Jeremy Allen White",
-        "Jeremy Strong",
-        "Betty Gilpin",
-        "Bill Burr",
-        "Wunmi Mosaku",
-        "Billy Magnussen",
-        "Gbenga Akinnagbe"
-      ],
-      "director": "Aaron Sorkin",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-        "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
-        "https://image.tmdb.org/t/p/w780/mzLEPRpj6SX7rHSJn8parZQZLFl.jpg",
-        "https://image.tmdb.org/t/p/w780/5QuKIWyZH6xrRRxqphRgrbC6dh0.jpg",
-        "https://image.tmdb.org/t/p/w780/eK5zdbUlMNNswUlegkazcO8PAAZ.jpg",
-        "https://image.tmdb.org/t/p/w780/wFJacJYrRIR45FeP7eLG0GP1Ug4.jpg",
-        "https://image.tmdb.org/t/p/w780/1eTUa8YDfq7WbrTrTsUuMfLZPk3.jpg",
-        "https://image.tmdb.org/t/p/w780/zEa5jl6oH44m7DKB9i8m2oFMict.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1281331"
-    },
-    {
       "id": 1780005,
       "type": "movie",
       "title": "Contra o Furacão",
@@ -760,7 +750,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 5.7,
+      "vote_average": 5.75,
       "providers": [
         {
           "id": 8,
@@ -960,7 +950,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.601,
+      "vote_average": 8.6,
       "providers": [],
       "videos": [
         {
