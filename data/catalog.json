@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T18:01:58.901476+00:00",
+  "updated_at": "2026-10-27T22:14:50.756029+00:00",
   "region": "BR",
   "items": [
     {
@@ -66,7 +66,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.318,
       "providers": [],
       "videos": [
         {
@@ -123,7 +123,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.332,
+      "vote_average": 7.333,
       "providers": [],
       "videos": [
         {
@@ -169,7 +169,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.486,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -267,55 +267,6 @@
         "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
-    },
-    {
-      "id": 1381078,
-      "type": "movie",
-      "title": "O Amor de Sua Vida",
-      "release_date": "2026-10-07",
-      "poster": "https://image.tmdb.org/t/p/w500/noVjD52nAvgPK2XtVZSej1nFzin.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
-      "overview": "Maya, uma enfermeira inteligente e irônica, é envolvida por um amor envolvente, que coloca sua vida em uma trajetória que ela nunca teria imaginado.",
-      "tagline": "",
-      "runtime": 111,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "vote_average": 6.751,
-      "providers": [],
-      "videos": [
-        {
-          "key": "ZNLHXYO_e6I",
-          "name": "(Quase) O Amor da Minha Vida Trailer Oficial Legendado 2026 | Estourando Trailers",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Margaret Qualley",
-        "Gabriel Basso",
-        "Aaron Pierre",
-        "Patrick Schwarzenegger",
-        "Catherine Keener",
-        "Tamara Lawrance",
-        "Corey Johnson",
-        "Michael Shelford"
-      ],
-      "director": "Rachel Morrison",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
-        "https://image.tmdb.org/t/p/w780/bI06OKB9V0NYcXvLXNiduBEiG0r.jpg",
-        "https://image.tmdb.org/t/p/w780/mY4QJLITCNojRIpndq831eFDKEf.jpg",
-        "https://image.tmdb.org/t/p/w780/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
-        "https://image.tmdb.org/t/p/w780/uE4qESNLo6jQrKjnUiNE42hrn1Z.jpg",
-        "https://image.tmdb.org/t/p/w780/79GJ5BmbjCfoWnRGEcg42QPSdQf.jpg",
-        "https://image.tmdb.org/t/p/w780/f1jZDs4dJoFXxazmpBKGmId2hFU.jpg",
-        "https://image.tmdb.org/t/p/w780/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1381078"
     },
     {
       "id": 1400837,
@@ -439,61 +390,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1236045"
     },
     {
-      "id": 1288069,
-      "type": "movie",
-      "title": "Tenzing",
-      "release_date": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
-      "overview": "Um homem determinado embarca em uma jornada arriscada e desafia probabilidades aparentemente impossíveis para realizar seu sonho de ser o primeiro a chegar ao cume do Monte Everest.",
-      "tagline": "A história real da primeira conquista do Everest.",
-      "runtime": 125,
-      "genres": [
-        "Drama",
-        "História"
-      ],
-      "vote_average": 8.323,
-      "providers": [
-        {
-          "id": 350,
-          "name": "Apple TV",
-          "logo": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
-        }
-      ],
-      "videos": [
-        {
-          "key": "C3acvD1AJ-0",
-          "name": "Trailer oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "更登彭措",
-        "Tom Hiddleston",
-        "Willem Dafoe",
-        "Samdrup Dorje Lama",
-        "Bhuchung Kata",
-        "Johnny Flynn",
-        "Lhakpa Tsamchoe",
-        "Jampa Kalsang Tamang"
-      ],
-      "director": "Jennifer Peedom",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
-        "https://image.tmdb.org/t/p/w780/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
-        "https://image.tmdb.org/t/p/w780/5BHjIppUPxVGuYqLI2Wkh5BBkGv.jpg",
-        "https://image.tmdb.org/t/p/w780/NyZJ3T7mcTolHJSItZQcFt1eGI.jpg",
-        "https://image.tmdb.org/t/p/w780/wUe0QbbPDU2BD3L2QnsZlAr55Je.jpg",
-        "https://image.tmdb.org/t/p/w780/j3iPJSwIn8MDdtmmqjYhrLGnMK4.jpg",
-        "https://image.tmdb.org/t/p/w780/57y3cRE0XVI6oWqakiKILSHsULH.jpg",
-        "https://image.tmdb.org/t/p/w780/aJpXl3uDZeyHoMBZVGZZz97L5wB.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1288069"
-    },
-    {
       "id": 1255833,
       "type": "movie",
       "title": "Dentro da Baleia",
@@ -556,6 +452,63 @@
         "https://image.tmdb.org/t/p/w780/svfHop8LVC3bJeWygf3X5FibG4G.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1255833"
+    },
+    {
+      "id": 1503762,
+      "type": "movie",
+      "title": "Razão e Sensibilidade",
+      "release_date": "2026-10-15",
+      "poster": "https://image.tmdb.org/t/p/w500/kuSSXcjitZy1LLGGoB9XqLBPCYl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+      "overview": "Uma nova e irresistível releitura do icônico romance “Razão e Sensibilidade”, de Jane Austen: uma história encantadora, espirituosa e com a qual é fácil se identificar, sobre amor e irmandade.",
+      "tagline": "Ser agradável nunca fez bem a nenhuma mulher.",
+      "runtime": 125,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "vote_average": 7.3,
+      "providers": [],
+      "videos": [
+        {
+          "key": "GRk4QPveYBY",
+          "name": "Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "Ue8ltp4ekgU",
+          "name": "Trailer Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Daisy Edgar-Jones",
+        "Esmé Creed-Miles",
+        "Caitríona Balfe",
+        "Bodhi Rae Breathnach",
+        "Frank Dillane",
+        "Herbert Nordrum",
+        "George MacKay",
+        "Fiona Shaw"
+      ],
+      "director": "Georgia Oakley",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+        "https://image.tmdb.org/t/p/w780/rv6dwE4SXAT5f00Ks8YL2kFvnLA.jpg",
+        "https://image.tmdb.org/t/p/w780/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
+        "https://image.tmdb.org/t/p/w780/3pGQKeOyN9cTAP723kdMwwPTRNl.jpg",
+        "https://image.tmdb.org/t/p/w780/7wufnyNo5uhkosKXEp8iITX5ar3.jpg",
+        "https://image.tmdb.org/t/p/w780/YpzEwCpoOdFD2itSYf3pbVGTXH.jpg",
+        "https://image.tmdb.org/t/p/w780/uj5ECRoSJOFvrUl5aeLdl2QHpjU.jpg",
+        "https://image.tmdb.org/t/p/w780/mvomuoMrythko3DeVSXGp5jjDOj.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1503762"
     },
     {
       "id": 1153576,
@@ -738,6 +691,63 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1400940"
     },
     {
+      "id": 1281331,
+      "type": "movie",
+      "title": "O Outro Lado das Redes",
+      "release_date": "2026-10-22",
+      "poster": "https://image.tmdb.org/t/p/w500/51AEphEZ5JXaV0FL5PGITjLQE0m.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+      "overview": "Frances Haugen, uma jovem engenheira do Facebook, conta com a ajuda de Jeff Horwitz, repórter do Wall Street Journal, para revelar os segredos mais bem guardados da rede social.",
+      "tagline": "A fase de fazer amigos já passou.",
+      "runtime": 113,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "vote_average": 7.0,
+      "providers": [],
+      "videos": [
+        {
+          "key": "ndgIT_-shpg",
+          "name": "O Outro Lado das Redes | Novo Trailer | Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "21VZhHDCDqE",
+          "name": "O Outro Lado das Redes | Trailer | 08 de outubro nos cinemas",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Mikey Madison",
+        "Jeremy Allen White",
+        "Jeremy Strong",
+        "Betty Gilpin",
+        "Bill Burr",
+        "Wunmi Mosaku",
+        "Billy Magnussen",
+        "Gbenga Akinnagbe"
+      ],
+      "director": "Aaron Sorkin",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+        "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
+        "https://image.tmdb.org/t/p/w780/mzLEPRpj6SX7rHSJn8parZQZLFl.jpg",
+        "https://image.tmdb.org/t/p/w780/5QuKIWyZH6xrRRxqphRgrbC6dh0.jpg",
+        "https://image.tmdb.org/t/p/w780/eK5zdbUlMNNswUlegkazcO8PAAZ.jpg",
+        "https://image.tmdb.org/t/p/w780/wFJacJYrRIR45FeP7eLG0GP1Ug4.jpg",
+        "https://image.tmdb.org/t/p/w780/1eTUa8YDfq7WbrTrTsUuMfLZPk3.jpg",
+        "https://image.tmdb.org/t/p/w780/zEa5jl6oH44m7DKB9i8m2oFMict.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1281331"
+    },
+    {
       "id": 1780005,
       "type": "movie",
       "title": "Contra o Furacão",
@@ -750,7 +760,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 5.8,
+      "vote_average": 6.016,
       "providers": [
         {
           "id": 8,
@@ -864,7 +874,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 7.2,
+      "vote_average": 7.0,
       "providers": [],
       "videos": [
         {
