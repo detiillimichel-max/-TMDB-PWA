@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T22:14:50.756029+00:00",
+  "updated_at": "2026-10-28T05:43:06.041430+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Drama",
         "Thriller"
       ],
-      "vote_average": 6.7,
+      "vote_average": 6.72,
       "providers": [],
       "videos": [
         {
@@ -57,7 +57,7 @@
       "title": "Resident Evil",
       "release_date": "2026-09-17",
       "poster": "https://image.tmdb.org/t/p/w500/gQ76UL64RQe3oHwiwHwODTC23g4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "overview": "Bryan, um tranquilo entregador de órgãos, é enviado para uma entrega noturna no Hospital Geral de Raccoon City. No caminho por uma estrada montanhosa coberta de neve, ele acidentalmente atropela uma mulher desconhecida. Ela sobrevive, mas algo está muito errado. Ao tentar ajudar, Bryan se depara com um surto em larga escala envolvendo mutações horríveis com tentáculos e monstruosidades bioengenheiradas.",
       "tagline": "Uma nova era do mal.",
       "runtime": 90,
@@ -66,7 +66,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.318,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -98,9 +98,9 @@
       ],
       "director": "Zach Cregger",
       "images": [
+        "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
         "https://image.tmdb.org/t/p/w780/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
         "https://image.tmdb.org/t/p/w780/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
-        "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
         "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
         "https://image.tmdb.org/t/p/w780/fQpxJXfOm0QSHj3eB8QDjOvYL3t.jpg",
         "https://image.tmdb.org/t/p/w780/ggBkUdWx8KndICMqy4eVnMlDDve.jpg",
@@ -123,7 +123,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.333,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -213,6 +213,72 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1248832"
     },
     {
+      "id": 1283515,
+      "type": "movie",
+      "title": "Verity",
+      "release_date": "2026-10-01",
+      "poster": "https://image.tmdb.org/t/p/w500/z9kEF1rYzuJqibl11yNejJAq3Kp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+      "overview": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
+      "tagline": "Não há luz para onde estamos indo.",
+      "runtime": 117,
+      "genres": [
+        "Mistério",
+        "Thriller",
+        "Drama"
+      ],
+      "vote_average": 6.375,
+      "providers": [],
+      "videos": [
+        {
+          "key": "NTiqVJ8vVQM",
+          "name": "Verity | Trailer Oficial Legendado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "JjIVd97hoFE",
+          "name": "Verity | Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "z0srCgRUpBY",
+          "name": "Verity | Teaser Oficial | Dublado",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Anne Hathaway",
+        "Dakota Johnson",
+        "Josh Hartnett",
+        "Ismael Cruz Cordova",
+        "Brady Wagner",
+        "Ирина Дворовенко",
+        "Sienna Kulovitz",
+        "K.K. Moggie"
+      ],
+      "director": "Michael Showalter",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+        "https://image.tmdb.org/t/p/w780/u9y56d8ZjxV5axSN4GMRb1sKa2U.jpg",
+        "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+        "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+        "https://image.tmdb.org/t/p/w780/zrGI2Lm89fgR5ntysKLmEPgNrdV.jpg",
+        "https://image.tmdb.org/t/p/w780/5lK1Q13srNryBShwDujHEbDs3Zl.jpg",
+        "https://image.tmdb.org/t/p/w780/wwOBQNOhQgYPBMBKRjbtLX27V2v.jpg",
+        "https://image.tmdb.org/t/p/w780/odyuHRcXn5pwV4uaDUUrFR8p4PN.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1283515"
+    },
+    {
       "id": 1148365,
       "type": "movie",
       "title": "Matchbox - O Filme",
@@ -227,7 +293,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.72,
+      "vote_average": 7.71,
       "providers": [
         {
           "id": 350,
@@ -281,7 +347,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.835,
+      "vote_average": 5.8,
       "providers": [],
       "videos": [
         {
@@ -323,12 +389,12 @@
       "images": [
         "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
         "https://image.tmdb.org/t/p/w780/yf5EKtrTKM8pla1TpNA5TsZgoTp.jpg",
+        "https://image.tmdb.org/t/p/w780/6O520Y4noXhI6xb2sHRqecOCywE.jpg",
         "https://image.tmdb.org/t/p/w780/fqK74DYEkAuvMJXozxiqSujCQU4.jpg",
         "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
         "https://image.tmdb.org/t/p/w780/qHURF5fju9HYpnEdEj3D4HH8C7q.jpg",
         "https://image.tmdb.org/t/p/w780/AflbdtwHm1FOXKCFtn8wKaQsAjR.jpg",
-        "https://image.tmdb.org/t/p/w780/oxnzKR0Ag5f35JYiYGs4lTqTG5Q.jpg",
-        "https://image.tmdb.org/t/p/w780/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg"
+        "https://image.tmdb.org/t/p/w780/oxnzKR0Ag5f35JYiYGs4lTqTG5Q.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1400837"
     },
@@ -348,7 +414,7 @@
         "Ação",
         "Crime"
       ],
-      "vote_average": 6.977,
+      "vote_average": 6.972,
       "providers": [
         {
           "id": 8,
@@ -402,7 +468,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.626,
+      "vote_average": 6.635,
       "providers": [],
       "videos": [
         {
@@ -500,13 +566,13 @@
       "director": "Georgia Oakley",
       "images": [
         "https://image.tmdb.org/t/p/w780/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+        "https://image.tmdb.org/t/p/w780/nsBcKpMjRRiBOMWZKAhrmVoSePi.jpg",
+        "https://image.tmdb.org/t/p/w780/4qL6bMTakZo4g5ePxpwXvl0Vy2a.jpg",
         "https://image.tmdb.org/t/p/w780/rv6dwE4SXAT5f00Ks8YL2kFvnLA.jpg",
         "https://image.tmdb.org/t/p/w780/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
         "https://image.tmdb.org/t/p/w780/3pGQKeOyN9cTAP723kdMwwPTRNl.jpg",
         "https://image.tmdb.org/t/p/w780/7wufnyNo5uhkosKXEp8iITX5ar3.jpg",
-        "https://image.tmdb.org/t/p/w780/YpzEwCpoOdFD2itSYf3pbVGTXH.jpg",
-        "https://image.tmdb.org/t/p/w780/uj5ECRoSJOFvrUl5aeLdl2QHpjU.jpg",
-        "https://image.tmdb.org/t/p/w780/mvomuoMrythko3DeVSXGp5jjDOj.jpg"
+        "https://image.tmdb.org/t/p/w780/YpzEwCpoOdFD2itSYf3pbVGTXH.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1503762"
     },
@@ -589,7 +655,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.028,
+      "vote_average": 7.031,
       "providers": [],
       "videos": [
         {
@@ -639,7 +705,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.473,
+      "vote_average": 7.489,
       "providers": [],
       "videos": [
         {
@@ -689,63 +755,6 @@
         "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1400940"
-    },
-    {
-      "id": 1281331,
-      "type": "movie",
-      "title": "O Outro Lado das Redes",
-      "release_date": "2026-10-22",
-      "poster": "https://image.tmdb.org/t/p/w500/51AEphEZ5JXaV0FL5PGITjLQE0m.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-      "overview": "Frances Haugen, uma jovem engenheira do Facebook, conta com a ajuda de Jeff Horwitz, repórter do Wall Street Journal, para revelar os segredos mais bem guardados da rede social.",
-      "tagline": "A fase de fazer amigos já passou.",
-      "runtime": 113,
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "vote_average": 7.0,
-      "providers": [],
-      "videos": [
-        {
-          "key": "ndgIT_-shpg",
-          "name": "O Outro Lado das Redes | Novo Trailer | Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "21VZhHDCDqE",
-          "name": "O Outro Lado das Redes | Trailer | 08 de outubro nos cinemas",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Mikey Madison",
-        "Jeremy Allen White",
-        "Jeremy Strong",
-        "Betty Gilpin",
-        "Bill Burr",
-        "Wunmi Mosaku",
-        "Billy Magnussen",
-        "Gbenga Akinnagbe"
-      ],
-      "director": "Aaron Sorkin",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-        "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
-        "https://image.tmdb.org/t/p/w780/mzLEPRpj6SX7rHSJn8parZQZLFl.jpg",
-        "https://image.tmdb.org/t/p/w780/5QuKIWyZH6xrRRxqphRgrbC6dh0.jpg",
-        "https://image.tmdb.org/t/p/w780/eK5zdbUlMNNswUlegkazcO8PAAZ.jpg",
-        "https://image.tmdb.org/t/p/w780/wFJacJYrRIR45FeP7eLG0GP1Ug4.jpg",
-        "https://image.tmdb.org/t/p/w780/1eTUa8YDfq7WbrTrTsUuMfLZPk3.jpg",
-        "https://image.tmdb.org/t/p/w780/zEa5jl6oH44m7DKB9i8m2oFMict.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1281331"
     },
     {
       "id": 1780005,
@@ -874,12 +883,12 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 7.0,
+      "vote_average": 7.583,
       "providers": [],
       "videos": [
         {
-          "key": "e3xfWXFaxUs",
-          "name": "Um Grande Despertar 2026 Trailer Oficial Legendado",
+          "key": "ijhd9QBwMfo",
+          "name": "El Despertar (2026) The Awakening - HD Trailer Oficial - Colombia - Terror/Accion",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -960,7 +969,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.618,
+      "vote_average": 8.603,
       "providers": [],
       "videos": [
         {
