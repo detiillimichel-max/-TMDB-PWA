@@ -1,56 +1,7 @@
 {
-  "updated_at": "2026-10-28T12:55:18.787104+00:00",
+  "updated_at": "2026-10-28T22:35:55.406568+00:00",
   "region": "BR",
   "items": [
-    {
-      "id": 1433583,
-      "type": "movie",
-      "title": "The Weight",
-      "release_date": "2026-09-16",
-      "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
-      "overview": "Quando Samuel é separado da filha e enviado para uma prisão brutal, o diretor Clancy faz-lhe uma proposta arriscada: contrabandear ouro de uma mina remota juntamente com um perigoso grupo de reclusos e, em troca, conquistar a sua liberdade.",
-      "tagline": "",
-      "runtime": 112,
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "vote_average": 6.68,
-      "providers": [],
-      "videos": [
-        {
-          "key": "UtDaJs55TqY",
-          "name": "The Weight Official Trailer (2026) | Ethan Hawke &amp; Russell Crowe",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Ethan Hawke",
-        "Russell Crowe",
-        "Julia Jones",
-        "Austin Amelio",
-        "Avi Nash",
-        "Lucas Lynggaard Tønnesen",
-        "Sam Hazeldine",
-        "George Burgess"
-      ],
-      "director": "Padraic McKinley",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/zKizFK3adjtpXut1dW6bRaxwhd.jpg",
-        "https://image.tmdb.org/t/p/w780/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
-        "https://image.tmdb.org/t/p/w780/tD4qifPSyyhPCgZ0W4fNTcVDD2r.jpg",
-        "https://image.tmdb.org/t/p/w780/oQxaPtPdaGEymarp9pVOzwZT11V.jpg",
-        "https://image.tmdb.org/t/p/w780/tA22d0tUZsxrmQVC8DKrWTtZCNj.jpg",
-        "https://image.tmdb.org/t/p/w780/wrrwqpIhabG1xaqWwakbgMpPgvu.jpg",
-        "https://image.tmdb.org/t/p/w780/yWg8HW3n27JvgEd8SNVkwmQLoWL.jpg",
-        "https://image.tmdb.org/t/p/w780/d3rDb8ajB3y0CV6ENm0ENiLpvaN.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1433583"
-    },
     {
       "id": 1423191,
       "type": "movie",
@@ -66,7 +17,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.32,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -123,7 +74,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.325,
+      "vote_average": 7.326,
       "providers": [],
       "videos": [
         {
@@ -156,6 +107,56 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1263337"
     },
     {
+      "id": 1290418,
+      "type": "movie",
+      "title": "The Cycle",
+      "release_date": "2026-09-24",
+      "poster": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
+      "overview": "Uma filha desvenda o passado sombrio do pai depois que seu corpo, desaparecido há 36 anos, é encontrado em uma cena de crime horrível.",
+      "tagline": "",
+      "runtime": 111,
+      "genres": [
+        "Crime",
+        "Terror",
+        "Thriller"
+      ],
+      "vote_average": 6.784,
+      "providers": [],
+      "videos": [
+        {
+          "key": "QKhdjq3Ct6w",
+          "name": "The Cycle - Official Trailer (2026) Deborah Ann Woll",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Deborah Ann Woll",
+        "Jeffrey Donovan",
+        "Gretchen Corbett",
+        "Jack Doolan",
+        "Will Hochman",
+        "Dana Millican",
+        "Phillip Andre Botello",
+        "Don Keith Opper"
+      ],
+      "director": "Jordan Downey",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
+        "https://image.tmdb.org/t/p/w780/uRIItK2ahR1ewVSBICiBFQrAVB2.jpg",
+        "https://image.tmdb.org/t/p/w780/7ndnW5JoAXKgUxfo07IUqachGww.jpg",
+        "https://image.tmdb.org/t/p/w780/lryq0R1untzuXUVRp6qKUyLCNqe.jpg",
+        "https://image.tmdb.org/t/p/w780/t4vkdXixFJu74VQhjGXhFx6bM9F.jpg",
+        "https://image.tmdb.org/t/p/w780/3SMHKsqPG6Mun3SQIbYLMurEgix.jpg",
+        "https://image.tmdb.org/t/p/w780/3CIYPqdWTc74Th8VCLhH7COTmqp.jpg",
+        "https://image.tmdb.org/t/p/w780/23WDcialULvwUkm1N9c1Ooxs3Es.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1290418"
+    },
+    {
       "id": 1248832,
       "type": "movie",
       "title": "Digger",
@@ -169,7 +170,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.483,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -217,17 +218,17 @@
       "type": "movie",
       "title": "Verity",
       "release_date": "2026-10-01",
-      "poster": "https://image.tmdb.org/t/p/w500/z9kEF1rYzuJqibl11yNejJAq3Kp.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/fy7q7xcyUjHXiKRuYblhcUTgBn0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
       "overview": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
       "tagline": "Não há luz para onde estamos indo.",
-      "runtime": 117,
+      "runtime": 121,
       "genres": [
         "Mistério",
         "Thriller",
         "Drama"
       ],
-      "vote_average": 6.375,
+      "vote_average": 6.3,
       "providers": [],
       "videos": [
         {
@@ -259,8 +260,8 @@
         "Anne Hathaway",
         "Dakota Johnson",
         "Josh Hartnett",
-        "Ismael Cruz Cordova",
         "Brady Wagner",
+        "Ismael Cruz Cordova",
         "Ирина Дворовенко",
         "Sienna Kulovitz",
         "K.K. Moggie"
@@ -270,11 +271,11 @@
         "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
         "https://image.tmdb.org/t/p/w780/u9y56d8ZjxV5axSN4GMRb1sKa2U.jpg",
         "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-        "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
         "https://image.tmdb.org/t/p/w780/zrGI2Lm89fgR5ntysKLmEPgNrdV.jpg",
+        "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
         "https://image.tmdb.org/t/p/w780/5lK1Q13srNryBShwDujHEbDs3Zl.jpg",
         "https://image.tmdb.org/t/p/w780/wwOBQNOhQgYPBMBKRjbtLX27V2v.jpg",
-        "https://image.tmdb.org/t/p/w780/odyuHRcXn5pwV4uaDUUrFR8p4PN.jpg"
+        "https://image.tmdb.org/t/p/w780/zXoCL4S60mcJtzTUXn8egfy7vEi.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1283515"
     },
@@ -293,7 +294,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.71,
+      "vote_average": 7.705,
       "providers": [
         {
           "id": 350,
@@ -414,7 +415,7 @@
         "Ação",
         "Crime"
       ],
-      "vote_average": 7.0,
+      "vote_average": 6.974,
       "providers": [
         {
           "id": 8,
@@ -468,7 +469,7 @@
       "genres": [
         "Thriller"
       ],
-      "vote_average": 6.623,
+      "vote_average": 6.6,
       "providers": [],
       "videos": [
         {
@@ -533,7 +534,7 @@
         "Drama",
         "Romance"
       ],
-      "vote_average": 7.346,
+      "vote_average": 7.364,
       "providers": [],
       "videos": [
         {
@@ -566,11 +567,11 @@
       "director": "Georgia Oakley",
       "images": [
         "https://image.tmdb.org/t/p/w780/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
-        "https://image.tmdb.org/t/p/w780/nsBcKpMjRRiBOMWZKAhrmVoSePi.jpg",
-        "https://image.tmdb.org/t/p/w780/4qL6bMTakZo4g5ePxpwXvl0Vy2a.jpg",
         "https://image.tmdb.org/t/p/w780/rv6dwE4SXAT5f00Ks8YL2kFvnLA.jpg",
+        "https://image.tmdb.org/t/p/w780/nsBcKpMjRRiBOMWZKAhrmVoSePi.jpg",
         "https://image.tmdb.org/t/p/w780/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
         "https://image.tmdb.org/t/p/w780/3pGQKeOyN9cTAP723kdMwwPTRNl.jpg",
+        "https://image.tmdb.org/t/p/w780/4qL6bMTakZo4g5ePxpwXvl0Vy2a.jpg",
         "https://image.tmdb.org/t/p/w780/7wufnyNo5uhkosKXEp8iITX5ar3.jpg",
         "https://image.tmdb.org/t/p/w780/YpzEwCpoOdFD2itSYf3pbVGTXH.jpg"
       ],
@@ -590,7 +591,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.381,
+      "vote_average": 6.38,
       "providers": [],
       "videos": [
         {
@@ -655,7 +656,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.035,
+      "vote_average": 7.003,
       "providers": [],
       "videos": [
         {
@@ -696,7 +697,7 @@
       "title": "Cara-de-Barro",
       "release_date": "2026-10-22",
       "poster": "https://image.tmdb.org/t/p/w500/dqvHs2YXks989ScXvsngbqAeBHX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
       "overview": "A ascensão meteórica de Matt Hagen de garoto das ruas de Gotham a astro de Hollywood é tragicamente interrompida quando as ações de um chefão do crime local o deixam terrivelmente desfigurado. Abandonado por sua equipe e sem nada, Matt busca um tratamento de ponta que, milagrosamente, o devolve à sua antiga forma... mas que também afeta, de maneira inesperada, sua percepção da realidade, lançando-o em uma espiral destrutiva de obsessão e vingança.",
       "tagline": "Enfrente o medo cara a cara.",
       "runtime": 106,
@@ -705,7 +706,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.473,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -717,8 +718,24 @@
           "source": "tmdb"
         },
         {
+          "key": "UYU8hTM-rfM",
+          "name": "Cara de Barro | Trailer Final Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
           "key": "0UNpg8OZueI",
           "name": "Cara-de-Barro | Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "otWwAkuEnPc",
+          "name": "Cara de Barro | Trailer Oficial",
           "type": "Trailer",
           "official": true,
           "site": "YouTube",
@@ -747,12 +764,12 @@
       "images": [
         "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
         "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
-        "https://image.tmdb.org/t/p/w780/wAES08OKL0C9d1hkkNRhQrmpxY5.jpg",
+        "https://image.tmdb.org/t/p/w780/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
+        "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
         "https://image.tmdb.org/t/p/w780/mEVNRsP4csNzB9vv9JGmQlW7rNB.jpg",
         "https://image.tmdb.org/t/p/w780/7tqNQlkGpmV6t5xhZkcmhF2325T.jpg",
-        "https://image.tmdb.org/t/p/w780/gsgnIwe5JpU5uiyJdbLU0ULhiXz.jpg",
-        "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
-        "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg"
+        "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
+        "https://image.tmdb.org/t/p/w780/e1iAjnhQsM6Z9bYTOxNFxFY6CfG.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1400940"
     },
@@ -769,7 +786,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 6.392,
+      "vote_average": 6.513,
       "providers": [
         {
           "id": 8,
@@ -825,7 +842,7 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 4.5,
+      "vote_average": 4.188,
       "providers": [
         {
           "id": 8,
@@ -872,7 +889,7 @@
       "title": "El despertar",
       "release_date": "2026-10-29",
       "poster": "https://image.tmdb.org/t/p/w500/w3YJx1PPPC6aiVKusxfc9QA0uYS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/75MLVCmQ4QougShkx3OlUbJbuSK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
       "overview": "Sinopse não disponível.",
       "tagline": "",
       "runtime": 96,
@@ -883,7 +900,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 7.35,
+      "vote_average": 7.286,
       "providers": [],
       "videos": [
         {
@@ -975,7 +992,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.6,
+      "vote_average": 8.636,
       "providers": [],
       "videos": [
         {
