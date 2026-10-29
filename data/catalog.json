@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T05:49:14.522215+00:00",
+  "updated_at": "2026-10-29T13:02:10.881514+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.319,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -107,6 +107,56 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1263337"
     },
     {
+      "id": 1290418,
+      "type": "movie",
+      "title": "The Cycle",
+      "release_date": "2026-09-24",
+      "poster": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
+      "overview": "Uma filha desvenda o passado sombrio do pai depois que seu corpo, desaparecido há 36 anos, é encontrado em uma cena de crime horrível.",
+      "tagline": "",
+      "runtime": 111,
+      "genres": [
+        "Crime",
+        "Terror",
+        "Thriller"
+      ],
+      "vote_average": 6.721,
+      "providers": [],
+      "videos": [
+        {
+          "key": "QKhdjq3Ct6w",
+          "name": "The Cycle - Official Trailer (2026) Deborah Ann Woll",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Deborah Ann Woll",
+        "Jeffrey Donovan",
+        "Gretchen Corbett",
+        "Jack Doolan",
+        "Will Hochman",
+        "Dana Millican",
+        "Phillip Andre Botello",
+        "Don Keith Opper"
+      ],
+      "director": "Jordan Downey",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
+        "https://image.tmdb.org/t/p/w780/uRIItK2ahR1ewVSBICiBFQrAVB2.jpg",
+        "https://image.tmdb.org/t/p/w780/7ndnW5JoAXKgUxfo07IUqachGww.jpg",
+        "https://image.tmdb.org/t/p/w780/lryq0R1untzuXUVRp6qKUyLCNqe.jpg",
+        "https://image.tmdb.org/t/p/w780/t4vkdXixFJu74VQhjGXhFx6bM9F.jpg",
+        "https://image.tmdb.org/t/p/w780/3SMHKsqPG6Mun3SQIbYLMurEgix.jpg",
+        "https://image.tmdb.org/t/p/w780/3CIYPqdWTc74Th8VCLhH7COTmqp.jpg",
+        "https://image.tmdb.org/t/p/w780/23WDcialULvwUkm1N9c1Ooxs3Es.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1290418"
+    },
+    {
       "id": 1248832,
       "type": "movie",
       "title": "Digger",
@@ -178,7 +228,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 6.342,
+      "vote_average": 6.344,
       "providers": [],
       "videos": [
         {
@@ -207,8 +257,8 @@
         }
       ],
       "cast": [
-        "Anne Hathaway",
         "Dakota Johnson",
+        "Anne Hathaway",
         "Josh Hartnett",
         "Brady Wagner",
         "Ismael Cruz Cordova",
@@ -365,7 +415,7 @@
         "Ação",
         "Crime"
       ],
-      "vote_average": 6.973,
+      "vote_average": 6.98,
       "providers": [
         {
           "id": 8,
@@ -407,70 +457,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1236045"
     },
     {
-      "id": 1255833,
-      "type": "movie",
-      "title": "Dentro da Baleia",
-      "release_date": "2026-10-15",
-      "poster": "https://image.tmdb.org/t/p/w500/66fDoNVCtPrP6jIqMpV1sUEcciw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
-      "overview": "Um jovem mergulhador resolveu buscar os restos mortais do seu pai em alto mar, mas no meio dessa triste aventura é capturado por uma baleia cachalote de 25 metros e 60 toneladas. Restando apenas uma hora de oxigênio, ele terá que fazer de tudo para encontrar uma forma de ir embora e seguir a sua vida, mas para isso terá que enfrentar uma grande jornada física e emocional para que ele consiga redescobrir a sua vontade de viver após a vivência do luto.",
-      "tagline": "Prenda a respiração",
-      "runtime": 106,
-      "genres": [
-        "Thriller"
-      ],
-      "vote_average": 6.613,
-      "providers": [],
-      "videos": [
-        {
-          "key": "wMXc-OYZ_FA",
-          "name": "Dentro Da Baleia | Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "HyL9HZITB0E",
-          "name": "Dentro Da Baleia | Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "OmsZmwtQrcU",
-          "name": "Teaser Oficial Dublado",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Austin Abrams",
-        "Josh Brolin",
-        "Elisabeth Shue",
-        "John Ortiz",
-        "Jane Levy",
-        "Emily Rudd",
-        "Kamy D. Bruder",
-        "Mark Meloro Jr."
-      ],
-      "director": "Brian Duffield",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/jXOw7R5qKs0j7IK51dlmxIKczoG.jpg",
-        "https://image.tmdb.org/t/p/w780/nquG8mnqhMkGYLtii8whsYoOo9o.jpg",
-        "https://image.tmdb.org/t/p/w780/fsE7L0jNibJswnZuQM5mphJQ0t2.jpg",
-        "https://image.tmdb.org/t/p/w780/2eRdzgxbWtu1iiSrIZLu8QXd0nB.jpg",
-        "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
-        "https://image.tmdb.org/t/p/w780/uCA9Uz9Iq7PxCc21S5cRrjyEn2x.jpg",
-        "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
-        "https://image.tmdb.org/t/p/w780/svfHop8LVC3bJeWygf3X5FibG4G.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1255833"
-    },
-    {
       "id": 1503762,
       "type": "movie",
       "title": "Razão e Sensibilidade",
@@ -484,7 +470,7 @@
         "Drama",
         "Romance"
       ],
-      "vote_average": 7.364,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -541,7 +527,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.4,
+      "vote_average": 6.344,
       "providers": [],
       "videos": [
         {
@@ -606,7 +592,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.963,
+      "vote_average": 6.969,
       "providers": [],
       "videos": [
         {
@@ -647,7 +633,7 @@
       "title": "Cara-de-Barro",
       "release_date": "2026-10-22",
       "poster": "https://image.tmdb.org/t/p/w500/dqvHs2YXks989ScXvsngbqAeBHX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
       "overview": "A ascensão meteórica de Matt Hagen de garoto das ruas de Gotham a astro de Hollywood é tragicamente interrompida quando as ações de um chefão do crime local o deixam terrivelmente desfigurado. Abandonado por sua equipe e sem nada, Matt busca um tratamento de ponta que, milagrosamente, o devolve à sua antiga forma... mas que também afeta, de maneira inesperada, sua percepção da realidade, lançando-o em uma espiral destrutiva de obsessão e vingança.",
       "tagline": "Enfrente o medo cara a cara.",
       "runtime": 109,
@@ -656,7 +642,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.475,
       "providers": [],
       "videos": [
         {
@@ -736,7 +722,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.01,
+      "vote_average": 7.05,
       "providers": [
         {
           "id": 8,
@@ -848,7 +834,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.9,
       "providers": [],
       "videos": [
         {
@@ -908,12 +894,12 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.829,
+      "vote_average": 7.0,
       "providers": [],
       "videos": [
         {
-          "key": "e3xfWXFaxUs",
-          "name": "Um Grande Despertar 2026 Trailer Oficial Legendado",
+          "key": "ijhd9QBwMfo",
+          "name": "El Despertar (2026) The Awakening - HD Trailer Oficial - Colombia - Terror/Accion",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -1000,7 +986,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.617,
+      "vote_average": 8.6,
       "providers": [],
       "videos": [
         {
@@ -1064,7 +1050,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 9.167,
+      "vote_average": 9.0,
       "providers": [],
       "videos": [
         {
