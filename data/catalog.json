@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T13:02:10.881514+00:00",
+  "updated_at": "2026-10-29T22:45:32.302357+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.319,
       "providers": [],
       "videos": [
         {
@@ -74,7 +74,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.331,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -107,6 +107,55 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1263337"
     },
     {
+      "id": 1376400,
+      "type": "movie",
+      "title": "Crawlers",
+      "release_date": "2026-09-24",
+      "poster": "https://image.tmdb.org/t/p/w500/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 80,
+      "genres": [
+        "Terror",
+        "Thriller"
+      ],
+      "vote_average": 6.1,
+      "providers": [],
+      "videos": [
+        {
+          "key": "Jf-2gdU5R4A",
+          "name": "Crawlers - Official Trailer (2026)",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Matilda Lutz",
+        "Gary Anthony Stennette",
+        "Elena Sanz",
+        "Andrea Scott Méndez",
+        "Isabella Marie Egizi",
+        "Sam Lucas Smith",
+        "Gregg Sulkin",
+        "Melina Matthews"
+      ],
+      "director": "Ángel Gómez Hernández",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
+        "https://image.tmdb.org/t/p/w780/wqEFo8ZPOO0zefg08XWQbyRoBgO.jpg",
+        "https://image.tmdb.org/t/p/w780/u21PdabMwpAdil5wmKiuNF3FywF.jpg",
+        "https://image.tmdb.org/t/p/w780/aUyuRnZsdl170jj2iWQ8rtKwdLc.jpg",
+        "https://image.tmdb.org/t/p/w780/so3w79yirabYQBCVI6OsYaUuEC4.jpg",
+        "https://image.tmdb.org/t/p/w780/8W9LZ2gT3pqfU21r2GH6oRO2PK1.jpg",
+        "https://image.tmdb.org/t/p/w780/7hPRJ8u6zAKqS5Yb8unnk7S7zSx.jpg",
+        "https://image.tmdb.org/t/p/w780/2dEEf0Gj3NHyLEfboIQzbBSWT9C.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1376400"
+    },
+    {
       "id": 1290418,
       "type": "movie",
       "title": "The Cycle",
@@ -119,9 +168,10 @@
       "genres": [
         "Crime",
         "Terror",
-        "Thriller"
+        "Thriller",
+        "Mistério"
       ],
-      "vote_average": 6.721,
+      "vote_average": 6.8,
       "providers": [],
       "videos": [
         {
@@ -157,63 +207,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1290418"
     },
     {
-      "id": 1248832,
-      "type": "movie",
-      "title": "Digger",
-      "release_date": "2026-10-01",
-      "poster": "https://image.tmdb.org/t/p/w500/2qelG58fO3tOSPrDVzOW8hfxY3V.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
-      "overview": "O homem mais poderoso do mundo embarca em uma missão frenética para provar que é o salvador da humanidade, antes que o desastre desencadeado por ele destrua tudo.",
-      "tagline": "Cave, ou morra.",
-      "runtime": 129,
-      "genres": [
-        "Comédia",
-        "Drama"
-      ],
-      "vote_average": 7.485,
-      "providers": [],
-      "videos": [
-        {
-          "key": "pMq9k_N7cko",
-          "name": "DIGGER l Trailer Final Oficial Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "vrFKMnHvVeQ",
-          "name": "Anúncio do Título",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Tom Cruise",
-        "Riz Ahmed",
-        "John Goodman",
-        "Sandra Hüller",
-        "Michael Stuhlbarg",
-        "Jesse Plemons",
-        "Robert John Burke",
-        "Emma D'Arcy"
-      ],
-      "director": "Alejandro G. Iñárritu",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
-        "https://image.tmdb.org/t/p/w780/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
-        "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
-        "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-        "https://image.tmdb.org/t/p/w780/yplBYoCB8sSWAsIDoNVTuRHThSF.jpg",
-        "https://image.tmdb.org/t/p/w780/ihf10k0ANuEpYO7tXnQbkMUCQBf.jpg",
-        "https://image.tmdb.org/t/p/w780/rrII8v7ExyX9KzyHopW6B9mfrOD.jpg",
-        "https://image.tmdb.org/t/p/w780/244Hk4UVxrgdotp0pfkvnW9Iand.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1248832"
-    },
-    {
       "id": 1283515,
       "type": "movie",
       "title": "Verity",
@@ -222,13 +215,12 @@
       "backdrop": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
       "overview": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
       "tagline": "Não há luz para onde estamos indo.",
-      "runtime": 121,
+      "runtime": 117,
       "genres": [
         "Mistério",
-        "Thriller",
-        "Drama"
+        "Thriller"
       ],
-      "vote_average": 6.344,
+      "vote_average": 6.337,
       "providers": [],
       "videos": [
         {
@@ -294,7 +286,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.707,
+      "vote_average": 7.708,
       "providers": [
         {
           "id": 350,
@@ -348,7 +340,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.84,
+      "vote_average": 5.842,
       "providers": [],
       "videos": [
         {
@@ -470,7 +462,7 @@
         "Drama",
         "Romance"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.348,
       "providers": [],
       "videos": [
         {
@@ -527,7 +519,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.344,
+      "vote_average": 6.363,
       "providers": [],
       "videos": [
         {
@@ -592,7 +584,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.969,
+      "vote_average": 6.949,
       "providers": [],
       "videos": [
         {
@@ -642,7 +634,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.475,
+      "vote_average": 7.48,
       "providers": [],
       "videos": [
         {
@@ -698,10 +690,10 @@
       ],
       "director": "James Watkins",
       "images": [
-        "https://image.tmdb.org/t/p/w780/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
-        "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
-        "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
         "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+        "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+        "https://image.tmdb.org/t/p/w780/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
+        "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
         "https://image.tmdb.org/t/p/w780/mEVNRsP4csNzB9vv9JGmQlW7rNB.jpg",
         "https://image.tmdb.org/t/p/w780/7tqNQlkGpmV6t5xhZkcmhF2325T.jpg",
         "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
@@ -722,7 +714,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.05,
+      "vote_average": 6.936,
       "providers": [
         {
           "id": 8,
@@ -834,7 +826,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.9,
+      "vote_average": 8.0,
       "providers": [],
       "videos": [
         {
@@ -894,12 +886,12 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 7.0,
+      "vote_average": 6.872,
       "providers": [],
       "videos": [
         {
-          "key": "ijhd9QBwMfo",
-          "name": "El Despertar (2026) The Awakening - HD Trailer Oficial - Colombia - Terror/Accion",
+          "key": "e3xfWXFaxUs",
+          "name": "Um Grande Despertar 2026 Trailer Oficial Legendado",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -942,7 +934,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.0,
+      "vote_average": 6.7,
       "providers": [],
       "videos": [
         {
@@ -986,7 +978,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.6,
+      "vote_average": 8.623,
       "providers": [],
       "videos": [
         {
