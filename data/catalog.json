@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T22:45:32.302357+00:00",
+  "updated_at": "2026-10-30T05:50:24.906447+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.319,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -74,7 +74,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.323,
       "providers": [],
       "videos": [
         {
@@ -171,7 +171,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.8,
+      "vote_average": 6.806,
       "providers": [],
       "videos": [
         {
@@ -220,7 +220,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.337,
+      "vote_average": 6.392,
       "providers": [],
       "videos": [
         {
@@ -286,7 +286,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.708,
+      "vote_average": 7.705,
       "providers": [
         {
           "id": 350,
@@ -340,7 +340,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.842,
+      "vote_average": 5.9,
       "providers": [],
       "videos": [
         {
@@ -407,7 +407,7 @@
         "Ação",
         "Crime"
       ],
-      "vote_average": 6.98,
+      "vote_average": 6.969,
       "providers": [
         {
           "id": 8,
@@ -462,7 +462,7 @@
         "Drama",
         "Romance"
       ],
-      "vote_average": 7.348,
+      "vote_average": 7.396,
       "providers": [],
       "videos": [
         {
@@ -519,7 +519,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.363,
+      "vote_average": 6.4,
       "providers": [],
       "videos": [
         {
@@ -584,7 +584,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.949,
+      "vote_average": 6.919,
       "providers": [],
       "videos": [
         {
@@ -620,6 +620,54 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1561726"
     },
     {
+      "id": 1727734,
+      "type": "movie",
+      "title": "Ali G: Ken é Eu?",
+      "release_date": "2026-10-22",
+      "poster": "https://image.tmdb.org/t/p/w500/j835nBIlJp3nkYaf96z0bD4P8Ux.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
+      "overview": "Depois de 20 anos \"curtindo, fumando e transando\", Ali G descobre que sua namorada, Me Julie, está grávida de oito meses. Com mais uma boca para alimentar, ele sai da loucura e vai à América retomar sua antiga glória… mas logo encontra adversários que irão ameaçar sua vida e a própria existência do seu filho.",
+      "tagline": "",
+      "runtime": 89,
+      "genres": [
+        "Comédia"
+      ],
+      "vote_average": 5.9,
+      "providers": [],
+      "videos": [
+        {
+          "key": "NCh8xVrcppk",
+          "name": "Ali G: Ken é eu? | Trailer Oficial | Prime Video",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Sacha Baron Cohen",
+        "Morgana Robinson",
+        "Alpha Miknas",
+        "Clive Russell",
+        "A$AP Rocky",
+        "Rihanna",
+        "Tiffany Haddish",
+        "DJ Jazzy Jeff"
+      ],
+      "director": "Sacha Baron Cohen",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
+        "https://image.tmdb.org/t/p/w780/kx883SRQsRNTA965hgK04uHPARb.jpg",
+        "https://image.tmdb.org/t/p/w780/p107jRmoulTP8mLlLIrUOrk6mdM.jpg",
+        "https://image.tmdb.org/t/p/w780/5V3eWbnYwbgnWsRFFYw9EvMhvEn.jpg",
+        "https://image.tmdb.org/t/p/w780/qp8SJuT4E8jOU0yb6L3d1dXMgA0.jpg",
+        "https://image.tmdb.org/t/p/w780/bRZQJK2Psefbl2BQG6OkDWbUVY8.jpg",
+        "https://image.tmdb.org/t/p/w780/7GxXdTAbSSLMuEVbkzoGUpx4Mvc.jpg",
+        "https://image.tmdb.org/t/p/w780/dcGRhI0sxsWRAPkVZKfU4cEB2nz.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1727734"
+    },
+    {
       "id": 1400940,
       "type": "movie",
       "title": "Cara-de-Barro",
@@ -634,7 +682,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.48,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -714,7 +762,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 6.936,
+      "vote_average": 7.085,
       "providers": [
         {
           "id": 8,
@@ -771,7 +819,7 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 4.188,
+      "vote_average": 4.389,
       "providers": [
         {
           "id": 8,
@@ -826,7 +874,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 8.0,
+      "vote_average": 7.783,
       "providers": [],
       "videos": [
         {
@@ -886,7 +934,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.872,
+      "vote_average": 6.705,
       "providers": [],
       "videos": [
         {
@@ -978,7 +1026,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.623,
+      "vote_average": 8.63,
       "providers": [],
       "videos": [
         {
@@ -1042,7 +1090,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 9.0,
+      "vote_average": 9.041,
       "providers": [],
       "videos": [
         {
@@ -1076,53 +1124,6 @@
         "https://image.tmdb.org/t/p/w780/hJahNruyGNVD4nyFJpeEodFnpgT.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1765072"
-    },
-    {
-      "id": 1476746,
-      "type": "movie",
-      "title": "A Última Entrega",
-      "release_date": "2026-12-03",
-      "poster": "https://image.tmdb.org/t/p/w500/iVYJbqGrAgwPAcihayklVRd7ZMF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
-      "overview": "Um horticultor discreto, que secretamente é um assassino profissional, vê sua identidade ameaçada ao criar uma amizade inesperada com uma testemunha de corrupção policial.",
-      "tagline": "",
-      "runtime": 97,
-      "genres": [
-        "Ação",
-        "Thriller"
-      ],
-      "vote_average": 5.7,
-      "providers": [],
-      "videos": [
-        {
-          "key": "fVFIhOfErfU",
-          "name": "Trailer - A Última Entrega - Noite da Pipoca 2026",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Dennis Quaid",
-        "Jean Reno",
-        "Sky Katz",
-        "Jim Klock",
-        "Leonidas Gulaptis",
-        "Elsa Mollien",
-        "Gabriel 'G-Rod' Rodriguez",
-        "Dominick LaRuffa Jr."
-      ],
-      "director": "Babak Najafi",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
-        "https://image.tmdb.org/t/p/w780/rzxBvCix5Ebl3KYPIXpD8hy64uE.jpg",
-        "https://image.tmdb.org/t/p/w780/xZivJ9jshaFoxuPZ2BiJ9SBrNTc.jpg",
-        "https://image.tmdb.org/t/p/w780/g5Kdx4dCt2RYROLEZZMjbbtBuoF.jpg",
-        "https://image.tmdb.org/t/p/w780/lpk0MwAn0UA3qCy9Iub4xMe15gv.jpg",
-        "https://image.tmdb.org/t/p/w780/tOJzYkrJPQEVMVSLaiWk7xy0zye.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1476746"
     }
   ]
 }
