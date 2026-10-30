@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T05:50:24.906447+00:00",
+  "updated_at": "2026-10-30T12:56:55.616337+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.319,
       "providers": [],
       "videos": [
         {
@@ -120,7 +120,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 6.1,
+      "vote_average": 6.2,
       "providers": [],
       "videos": [
         {
@@ -171,7 +171,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.806,
+      "vote_average": 6.732,
       "providers": [],
       "videos": [
         {
@@ -220,7 +220,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.392,
+      "vote_average": 6.462,
       "providers": [],
       "videos": [
         {
@@ -286,7 +286,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.705,
+      "vote_average": 7.699,
       "providers": [
         {
           "id": 350,
@@ -340,7 +340,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.9,
+      "vote_average": 5.852,
       "providers": [],
       "videos": [
         {
@@ -407,7 +407,7 @@
         "Ação",
         "Crime"
       ],
-      "vote_average": 6.969,
+      "vote_average": 6.973,
       "providers": [
         {
           "id": 8,
@@ -462,7 +462,7 @@
         "Drama",
         "Romance"
       ],
-      "vote_average": 7.396,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -519,7 +519,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.4,
+      "vote_average": 6.349,
       "providers": [],
       "videos": [
         {
@@ -584,7 +584,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.919,
+      "vote_average": 6.89,
       "providers": [],
       "videos": [
         {
@@ -632,7 +632,7 @@
       "genres": [
         "Comédia"
       ],
-      "vote_average": 5.9,
+      "vote_average": 6.2,
       "providers": [],
       "videos": [
         {
@@ -682,7 +682,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.475,
       "providers": [],
       "videos": [
         {
@@ -762,7 +762,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.085,
+      "vote_average": 7.254,
       "providers": [
         {
           "id": 8,
@@ -819,7 +819,7 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 4.389,
+      "vote_average": 4.4,
       "providers": [
         {
           "id": 8,
@@ -874,7 +874,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.783,
+      "vote_average": 7.9,
       "providers": [],
       "videos": [
         {
@@ -934,7 +934,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.705,
+      "vote_average": 6.5,
       "providers": [],
       "videos": [
         {
@@ -1026,7 +1026,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.63,
+      "vote_average": 8.6,
       "providers": [],
       "videos": [
         {
@@ -1090,7 +1090,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 9.041,
+      "vote_average": 9.053,
       "providers": [],
       "videos": [
         {
