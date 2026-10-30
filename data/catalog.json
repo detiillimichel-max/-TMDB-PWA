@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:56:55.616337+00:00",
+  "updated_at": "2026-10-30T22:20:51.805775+00:00",
   "region": "BR",
   "items": [
     {
@@ -120,7 +120,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 6.2,
+      "vote_average": 6.176,
       "providers": [],
       "videos": [
         {
@@ -166,12 +166,11 @@
       "tagline": "",
       "runtime": 111,
       "genres": [
-        "Crime",
         "Terror",
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.732,
+      "vote_average": 6.736,
       "providers": [],
       "videos": [
         {
@@ -220,7 +219,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.462,
+      "vote_average": 6.49,
       "providers": [],
       "videos": [
         {
@@ -286,7 +285,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.699,
+      "vote_average": 7.671,
       "providers": [
         {
           "id": 350,
@@ -407,7 +406,7 @@
         "Ação",
         "Crime"
       ],
-      "vote_average": 6.973,
+      "vote_average": 6.97,
       "providers": [
         {
           "id": 8,
@@ -460,7 +459,8 @@
       "runtime": 125,
       "genres": [
         "Drama",
-        "Romance"
+        "Romance",
+        "História"
       ],
       "vote_average": 7.4,
       "providers": [],
@@ -519,7 +519,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.349,
+      "vote_average": 6.354,
       "providers": [],
       "videos": [
         {
@@ -584,7 +584,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.89,
+      "vote_average": 6.891,
       "providers": [],
       "videos": [
         {
@@ -632,7 +632,7 @@
       "genres": [
         "Comédia"
       ],
-      "vote_average": 6.2,
+      "vote_average": 6.144,
       "providers": [],
       "videos": [
         {
@@ -682,7 +682,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.475,
+      "vote_average": 7.463,
       "providers": [],
       "videos": [
         {
@@ -762,7 +762,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.254,
+      "vote_average": 7.222,
       "providers": [
         {
           "id": 8,
@@ -819,7 +819,7 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 4.4,
+      "vote_average": 4.55,
       "providers": [
         {
           "id": 8,
@@ -909,11 +909,11 @@
         "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
         "https://image.tmdb.org/t/p/w780/4yhMroSvsvdYjZGx6T575aTkyB8.jpg",
         "https://image.tmdb.org/t/p/w780/5aM6VbwVSFSzAkndENRj5qPk0fI.jpg",
-        "https://image.tmdb.org/t/p/w780/6zH9VmvbCw5iwE54BFFj7HGWA4J.jpg",
-        "https://image.tmdb.org/t/p/w780/yG7calVErDApQHajiKKj1FYM6xg.jpg",
         "https://image.tmdb.org/t/p/w780/7KGt51UrEX6bfke8XNMeJ0DmEDZ.jpg",
-        "https://image.tmdb.org/t/p/w780/o9LMcj4dZVrkKKR19i4Xf8AH2mJ.jpg",
-        "https://image.tmdb.org/t/p/w780/znaZxN2lMydZpVRFaQMvcV4Fedi.jpg"
+        "https://image.tmdb.org/t/p/w780/znaZxN2lMydZpVRFaQMvcV4Fedi.jpg",
+        "https://image.tmdb.org/t/p/w780/6fpA69MtfyrnoXH5aJHMmW0SOmu.jpg",
+        "https://image.tmdb.org/t/p/w780/dw5G9bYehBz2DrQeY6zrBM2SYrn.jpg",
+        "https://image.tmdb.org/t/p/w780/umDu9Kwovtdtg2IKoSVQLCipgMQ.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1596275"
     },
@@ -934,7 +934,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.5,
+      "vote_average": 6.415,
       "providers": [],
       "videos": [
         {
@@ -1090,7 +1090,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 9.053,
+      "vote_average": 9.1,
       "providers": [],
       "videos": [
         {
