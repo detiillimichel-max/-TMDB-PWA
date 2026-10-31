@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T22:20:51.805775+00:00",
+  "updated_at": "2026-10-31T05:42:06.145834+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Ficção científica",
         "Aventura"
       ],
-      "vote_average": 7.319,
+      "vote_average": 7.32,
       "providers": [],
       "videos": [
         {
@@ -74,7 +74,7 @@
         "Aventura",
         "Thriller"
       ],
-      "vote_average": 7.323,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -120,7 +120,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 6.176,
+      "vote_average": 6.2,
       "providers": [],
       "videos": [
         {
@@ -170,7 +170,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.736,
+      "vote_average": 6.933,
       "providers": [],
       "videos": [
         {
@@ -219,7 +219,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.49,
+      "vote_average": 6.584,
       "providers": [],
       "videos": [
         {
@@ -285,7 +285,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.671,
+      "vote_average": 7.663,
       "providers": [
         {
           "id": 350,
@@ -339,7 +339,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.852,
+      "vote_average": 5.835,
       "providers": [],
       "videos": [
         {
@@ -406,7 +406,7 @@
         "Ação",
         "Crime"
       ],
-      "vote_average": 6.97,
+      "vote_average": 6.982,
       "providers": [
         {
           "id": 8,
@@ -462,7 +462,7 @@
         "Romance",
         "História"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.35,
       "providers": [],
       "videos": [
         {
@@ -486,11 +486,11 @@
         "Daisy Edgar-Jones",
         "Esmé Creed-Miles",
         "Caitríona Balfe",
-        "Bodhi Rae Breathnach",
         "Frank Dillane",
         "Herbert Nordrum",
         "George MacKay",
-        "Fiona Shaw"
+        "Fiona Shaw",
+        "Bodhi Rae Breathnach"
       ],
       "director": "Georgia Oakley",
       "images": [
@@ -519,7 +519,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.354,
+      "vote_average": 6.348,
       "providers": [],
       "videos": [
         {
@@ -584,7 +584,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.891,
+      "vote_average": 6.875,
       "providers": [],
       "videos": [
         {
@@ -632,7 +632,7 @@
       "genres": [
         "Comédia"
       ],
-      "vote_average": 6.144,
+      "vote_average": 6.099,
       "providers": [],
       "videos": [
         {
@@ -682,7 +682,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.463,
+      "vote_average": 7.438,
       "providers": [],
       "videos": [
         {
@@ -762,7 +762,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.222,
+      "vote_average": 7.316,
       "providers": [
         {
           "id": 8,
@@ -819,7 +819,7 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 4.55,
+      "vote_average": 4.318,
       "providers": [
         {
           "id": 8,
@@ -874,7 +874,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.9,
+      "vote_average": 7.81,
       "providers": [],
       "videos": [
         {
@@ -934,7 +934,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.415,
+      "vote_average": 6.3,
       "providers": [],
       "videos": [
         {
@@ -982,7 +982,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.7,
+      "vote_average": 7.125,
       "providers": [],
       "videos": [
         {
@@ -998,11 +998,11 @@
         "Liam Neeson",
         "Marisa Tomei",
         "Ving Rhames",
+        "Marcus Thomas",
+        "Maurice Marvel Meredith",
         "Michael Chiklis",
         "Brett Tucker",
-        "Stella Stocker",
-        "Hamish Michael",
-        "Toby Truslove"
+        "Stella Stocker"
       ],
       "director": "Mark Vanselow",
       "images": [
@@ -1056,13 +1056,13 @@
       ],
       "cast": [
         "Peyton Elizabeth Lee",
-        "Carey Mulligan",
         "Jacob Tremblay",
+        "Carey Mulligan",
         "Mahershala Ali",
+        "Richard E. Grant",
         "Angela Bassett",
         "Awkwafina",
-        "Jake Johnson",
-        "Charlie Day"
+        "Amandla Stenberg"
       ],
       "director": "Travis Knight",
       "images": [
