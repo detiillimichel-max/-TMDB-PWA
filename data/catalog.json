@@ -1,65 +1,7 @@
 {
-  "updated_at": "2026-10-31T21:35:27.152806+00:00",
+  "updated_at": "2026-11-01T06:06:09.525165+00:00",
   "region": "BR",
   "items": [
-    {
-      "id": 1423191,
-      "type": "movie",
-      "title": "Resident Evil",
-      "release_date": "2026-09-17",
-      "poster": "https://image.tmdb.org/t/p/w500/gQ76UL64RQe3oHwiwHwODTC23g4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "overview": "Bryan, um tranquilo entregador de órgãos, é enviado para uma entrega noturna no Hospital Geral de Raccoon City. No caminho por uma estrada montanhosa coberta de neve, ele acidentalmente atropela uma mulher desconhecida. Ela sobrevive, mas algo está muito errado. Ao tentar ajudar, Bryan se depara com um surto em larga escala envolvendo mutações horríveis com tentáculos e monstruosidades bioengenheiradas.",
-      "tagline": "Uma nova era do mal.",
-      "runtime": 90,
-      "genres": [
-        "Terror",
-        "Ficção científica",
-        "Aventura"
-      ],
-      "vote_average": 7.3,
-      "providers": [],
-      "videos": [
-        {
-          "key": "M-WFfF2ETgk",
-          "name": "Resident Evil | Trailer Oficial | Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "Spz3ZrNq5_k",
-          "name": "Trailer Teaser",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Austin Abrams",
-        "Paul Walter Hauser",
-        "Kali Reis",
-        "Zach Cherry",
-        "Johnno Wilson",
-        "Shaun W. Loeser",
-        "Zach Cregger",
-        "Emily Piggford"
-      ],
-      "director": "Zach Cregger",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-        "https://image.tmdb.org/t/p/w780/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
-        "https://image.tmdb.org/t/p/w780/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
-        "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
-        "https://image.tmdb.org/t/p/w780/fQpxJXfOm0QSHj3eB8QDjOvYL3t.jpg",
-        "https://image.tmdb.org/t/p/w780/ggBkUdWx8KndICMqy4eVnMlDDve.jpg",
-        "https://image.tmdb.org/t/p/w780/wEV9iTPIoiLfTkftCsrI23krsQA.jpg",
-        "https://image.tmdb.org/t/p/w780/nfj53Pr6iCk0pZDJKbjYcyftsY5.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1423191"
-    },
     {
       "id": 1376400,
       "type": "movie",
@@ -74,7 +16,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 6.209,
+      "vote_average": 6.156,
       "providers": [],
       "videos": [
         {
@@ -124,7 +66,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.869,
+      "vote_average": 6.715,
       "providers": [],
       "videos": [
         {
@@ -173,7 +115,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.647,
+      "vote_average": 6.7,
       "providers": [],
       "videos": [
         {
@@ -239,7 +181,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.659,
+      "vote_average": 7.655,
       "providers": [
         {
           "id": 350,
@@ -281,70 +223,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
     {
-      "id": 1400837,
-      "type": "movie",
-      "title": "Outra Mamãe",
-      "release_date": "2026-10-08",
-      "poster": "https://image.tmdb.org/t/p/w500/j6eXMsykSZnXJT20YTdsdS9PXPj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-      "overview": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
-      "tagline": "Sua mamãe não vai te salvar.",
-      "runtime": 93,
-      "genres": [
-        "Terror"
-      ],
-      "vote_average": 5.803,
-      "providers": [],
-      "videos": [
-        {
-          "key": "a74ZT4Ncess",
-          "name": "Outra Mamãe | Trailer 2 - Dublado (Universal Pictures) - HD",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "zBf1b5WtiBs",
-          "name": "Outra Mamãe | Trailer (Universal Pictures) - HD",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "WmupdT0zZwM",
-          "name": "Outra Mamãe | Trailer Dublado (Universal Pictures) - HD",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Jessica Chastain",
-        "Jay Duplass",
-        "Arabella Olivia Clark",
-        "Karen Allen",
-        "Arian Moayed",
-        "Dichen Lachman",
-        "Sean Kaufman",
-        "Adam Silver"
-      ],
-      "director": "Rob Savage",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-        "https://image.tmdb.org/t/p/w780/yf5EKtrTKM8pla1TpNA5TsZgoTp.jpg",
-        "https://image.tmdb.org/t/p/w780/6O520Y4noXhI6xb2sHRqecOCywE.jpg",
-        "https://image.tmdb.org/t/p/w780/fqK74DYEkAuvMJXozxiqSujCQU4.jpg",
-        "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-        "https://image.tmdb.org/t/p/w780/qHURF5fju9HYpnEdEj3D4HH8C7q.jpg",
-        "https://image.tmdb.org/t/p/w780/AflbdtwHm1FOXKCFtn8wKaQsAjR.jpg",
-        "https://image.tmdb.org/t/p/w780/oxnzKR0Ag5f35JYiYGs4lTqTG5Q.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1400837"
-    },
-    {
       "id": 1507696,
       "type": "movie",
       "title": "Apocalipse Z: Novo Mundo",
@@ -352,14 +230,14 @@
       "poster": "https://image.tmdb.org/t/p/w500/tzk90shtAI6WaoDIjLLVten7oov.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
       "overview": "Após o surto do vírus TSJ, as Ilhas Canárias se tornaram o último refúgio da Europa. Quando uma missão parte rumo a Madri em busca de suprimentos, Roberto se junta à equipe com intenções duvidosas. Cercados por infectados e divididos por lealdades conflitantes, eles precisam lutar pela sobrevivência e enfrentar um dilema moral: salvar a própria pele ou arriscar tudo pelo que resta da humanidade.",
-      "tagline": "",
+      "tagline": "Quando o mundo acaba, sobreviver exige mais do que fugir dos mortos: é preciso decidir em quem confiar.",
       "runtime": 98,
       "genres": [
         "Ação",
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.7,
+      "vote_average": 6.1,
       "providers": [],
       "videos": [
         {
@@ -407,7 +285,7 @@
         "Ação",
         "Crime"
       ],
-      "vote_average": 6.978,
+      "vote_average": 6.976,
       "providers": [
         {
           "id": 8,
@@ -463,7 +341,7 @@
         "Romance",
         "História"
       ],
-      "vote_average": 7.322,
+      "vote_average": 7.323,
       "providers": [],
       "videos": [
         {
@@ -520,7 +398,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.321,
+      "vote_average": 6.314,
       "providers": [],
       "videos": [
         {
@@ -633,7 +511,7 @@
       "genres": [
         "Comédia"
       ],
-      "vote_average": 6.088,
+      "vote_average": 6.043,
       "providers": [],
       "videos": [
         {
@@ -683,7 +561,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.445,
+      "vote_average": 7.448,
       "providers": [],
       "videos": [
         {
@@ -763,7 +641,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.345,
+      "vote_average": 7.478,
       "providers": [
         {
           "id": 8,
@@ -820,7 +698,7 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 4.3,
+      "vote_average": 5.192,
       "providers": [
         {
           "id": 8,
@@ -875,7 +753,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.923,
+      "vote_average": 7.705,
       "providers": [],
       "videos": [
         {
@@ -911,10 +789,10 @@
         "https://image.tmdb.org/t/p/w780/4yhMroSvsvdYjZGx6T575aTkyB8.jpg",
         "https://image.tmdb.org/t/p/w780/5aM6VbwVSFSzAkndENRj5qPk0fI.jpg",
         "https://image.tmdb.org/t/p/w780/7KGt51UrEX6bfke8XNMeJ0DmEDZ.jpg",
+        "https://image.tmdb.org/t/p/w780/znaZxN2lMydZpVRFaQMvcV4Fedi.jpg",
         "https://image.tmdb.org/t/p/w780/6fpA69MtfyrnoXH5aJHMmW0SOmu.jpg",
         "https://image.tmdb.org/t/p/w780/dw5G9bYehBz2DrQeY6zrBM2SYrn.jpg",
-        "https://image.tmdb.org/t/p/w780/umDu9Kwovtdtg2IKoSVQLCipgMQ.jpg",
-        "https://image.tmdb.org/t/p/w780/n3VWaNuqpyUfVBilXI5SiC7QEZ8.jpg"
+        "https://image.tmdb.org/t/p/w780/umDu9Kwovtdtg2IKoSVQLCipgMQ.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1596275"
     },
@@ -935,7 +813,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.288,
+      "vote_average": 6.524,
       "providers": [],
       "videos": [
         {
@@ -983,7 +861,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.714,
+      "vote_average": 7.333,
       "providers": [],
       "videos": [
         {
@@ -1027,7 +905,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.66,
+      "vote_average": 8.681,
       "providers": [],
       "videos": [
         {
@@ -1079,6 +957,62 @@
       "tmdb_url": "https://www.themoviedb.org/movie/791523"
     },
     {
+      "id": 1571955,
+      "type": "movie",
+      "title": "Colisão Implacável",
+      "release_date": "2026-10-30",
+      "poster": "https://image.tmdb.org/t/p/w500/2UcuNset77zceI6dCO59pkIcctZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+      "overview": "Em meio à crise financeira espanhola, um grupo planeja roubar um banco. Mas o acidente envolvendo seu carro de fuga destrói a frágil aliança que existe entre eles.",
+      "tagline": "",
+      "runtime": 106,
+      "genres": [
+        "Drama",
+        "Ação",
+        "Crime"
+      ],
+      "vote_average": 6.8,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "de8SFr2vkQU",
+          "name": "Colisão Implacável | Trailer oficial | Netflix",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Laia Costa",
+        "Karra Elejalde",
+        "Luis Zahera",
+        "Tamar Novas",
+        "Álvaro Cervantes",
+        "Lluís Homar",
+        "Luz Valdenebro",
+        "Víctor Duplá"
+      ],
+      "director": "Daniel Sánchez Arévalo",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+        "https://image.tmdb.org/t/p/w780/xDw1Qm73qioQKCOx2VP5w4CBusL.jpg",
+        "https://image.tmdb.org/t/p/w780/f8LxvcocDR67g6K2SmeCLIYh8bF.jpg",
+        "https://image.tmdb.org/t/p/w780/xLysJqWVrDzRcWMq8Ro4PloKJQz.jpg",
+        "https://image.tmdb.org/t/p/w780/p3IpTxp32WaNBsAZUNfJrTZ9ChI.jpg",
+        "https://image.tmdb.org/t/p/w780/j9axpCTVD3B5kDjxJTOGcJRePRF.jpg",
+        "https://image.tmdb.org/t/p/w780/d3hbofPYoKqs0W3cJdE85EWpLkf.jpg",
+        "https://image.tmdb.org/t/p/w780/1vJXY5DqqruryMBLlwD8lhvtrmX.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1571955"
+    },
+    {
       "id": 1765072,
       "type": "movie",
       "title": "Tudo Pode Ser Visto",
@@ -1091,7 +1025,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 8.917,
+      "vote_average": 8.932,
       "providers": [],
       "videos": [
         {
@@ -1125,6 +1059,104 @@
         "https://image.tmdb.org/t/p/w780/hJahNruyGNVD4nyFJpeEodFnpgT.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1765072"
+    },
+    {
+      "id": 1003596,
+      "type": "movie",
+      "title": "Vingadores: Doutor Destino",
+      "release_date": "2026-12-16",
+      "poster": "https://image.tmdb.org/t/p/w500/aSzeVbyyU65420A1646YfHcf6Zt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+      "overview": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
+      "tagline": "",
+      "runtime": 165,
+      "genres": [
+        "Ficção científica",
+        "Ação",
+        "Aventura"
+      ],
+      "vote_average": 0,
+      "providers": [],
+      "videos": [
+        {
+          "key": "ntOtyJwxcsM",
+          "name": "Vingadores: Doutor Destino | Special Look Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "TcBtFtkQFiU",
+          "name": "Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "GMtQhGC38yI",
+          "name": "Teaser Oficial 3 Dublado",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "3k9vXZ1A2O0",
+          "name": "Teaser Oficial 2 Dublado",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "0gF6lT6qGkc",
+          "name": "Teaser Oficial Legendado",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "3g6WChxY14I",
+          "name": "Teaser Oficial Dublado",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "ZAy7K91ZRgY",
+          "name": "Teaser Oficial",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Pedro Pascal",
+        "Paul Rudd",
+        "Anthony Mackie",
+        "Florence Pugh",
+        "Vanessa Kirby"
+      ],
+      "director": "Joe Russo",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+        "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+        "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
+        "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
+        "https://image.tmdb.org/t/p/w780/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg",
+        "https://image.tmdb.org/t/p/w780/6TgmIXoVGEDyp0MSoVytIeyfhDR.jpg",
+        "https://image.tmdb.org/t/p/w780/pGbP900NvKzOtLWdyH0sWmLQu1G.jpg",
+        "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1003596"
     }
   ]
 }
