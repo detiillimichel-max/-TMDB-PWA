@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T13:25:30.065351+00:00",
+  "updated_at": "2026-11-01T22:02:14.029433+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 6.163,
+      "vote_average": 6.115,
       "providers": [],
       "videos": [
         {
@@ -66,7 +66,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.798,
+      "vote_average": 6.76,
       "providers": [],
       "videos": [
         {
@@ -115,7 +115,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.765,
+      "vote_average": 6.778,
       "providers": [],
       "videos": [
         {
@@ -181,7 +181,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.641,
+      "vote_average": 7.634,
       "providers": [
         {
           "id": 350,
@@ -223,70 +223,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
     {
-      "id": 1400837,
-      "type": "movie",
-      "title": "Outra Mamãe",
-      "release_date": "2026-10-08",
-      "poster": "https://image.tmdb.org/t/p/w500/j6eXMsykSZnXJT20YTdsdS9PXPj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-      "overview": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
-      "tagline": "Sua mamãe não vai te salvar.",
-      "runtime": 93,
-      "genres": [
-        "Terror"
-      ],
-      "vote_average": 5.818,
-      "providers": [],
-      "videos": [
-        {
-          "key": "a74ZT4Ncess",
-          "name": "Outra Mamãe | Trailer 2 - Dublado (Universal Pictures) - HD",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "zBf1b5WtiBs",
-          "name": "Outra Mamãe | Trailer (Universal Pictures) - HD",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "WmupdT0zZwM",
-          "name": "Outra Mamãe | Trailer Dublado (Universal Pictures) - HD",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Jessica Chastain",
-        "Jay Duplass",
-        "Arabella Olivia Clark",
-        "Karen Allen",
-        "Arian Moayed",
-        "Dichen Lachman",
-        "Sean Kaufman",
-        "Adam Silver"
-      ],
-      "director": "Rob Savage",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-        "https://image.tmdb.org/t/p/w780/yf5EKtrTKM8pla1TpNA5TsZgoTp.jpg",
-        "https://image.tmdb.org/t/p/w780/6O520Y4noXhI6xb2sHRqecOCywE.jpg",
-        "https://image.tmdb.org/t/p/w780/fqK74DYEkAuvMJXozxiqSujCQU4.jpg",
-        "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-        "https://image.tmdb.org/t/p/w780/qHURF5fju9HYpnEdEj3D4HH8C7q.jpg",
-        "https://image.tmdb.org/t/p/w780/AflbdtwHm1FOXKCFtn8wKaQsAjR.jpg",
-        "https://image.tmdb.org/t/p/w780/oxnzKR0Ag5f35JYiYGs4lTqTG5Q.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1400837"
-    },
-    {
       "id": 1507696,
       "type": "movie",
       "title": "Apocalipse Z: Novo Mundo",
@@ -301,7 +237,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.1,
+      "vote_average": 6.0,
       "providers": [],
       "videos": [
         {
@@ -315,8 +251,8 @@
       ],
       "cast": [
         "Carlos Alcaide",
-        "José María Yázpik",
         "Julia Martínez",
+        "José María Yázpik",
         "Mónica López",
         "Tamara Casellas",
         "Berta Vázquez",
@@ -352,7 +288,7 @@
         "Ação",
         "Crime"
       ],
-      "vote_average": 6.974,
+      "vote_average": 6.972,
       "providers": [
         {
           "id": 8,
@@ -408,7 +344,7 @@
         "Romance",
         "História"
       ],
-      "vote_average": 7.35,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -465,7 +401,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.314,
+      "vote_average": 6.316,
       "providers": [],
       "videos": [
         {
@@ -530,7 +466,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.875,
+      "vote_average": 6.881,
       "providers": [],
       "videos": [
         {
@@ -628,7 +564,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.46,
+      "vote_average": 7.448,
       "providers": [],
       "videos": [
         {
@@ -708,7 +644,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.412,
       "providers": [
         {
           "id": 8,
@@ -765,7 +701,7 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 5.192,
+      "vote_average": 5.25,
       "providers": [
         {
           "id": 8,
@@ -820,7 +756,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.772,
+      "vote_average": 7.7,
       "providers": [],
       "videos": [
         {
@@ -880,7 +816,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.7,
+      "vote_average": 6.688,
       "providers": [],
       "videos": [
         {
@@ -957,7 +893,8 @@
         "https://image.tmdb.org/t/p/w780/lN1UjjelengJU9W4o0YxuQzPJv9.jpg",
         "https://image.tmdb.org/t/p/w780/fB3BRH9MX5u9rRByMFdhNj6WSr7.jpg",
         "https://image.tmdb.org/t/p/w780/2jn9q8cIllmPJJ7MiIFcahXX3Xq.jpg",
-        "https://image.tmdb.org/t/p/w780/byuwrUG1nkGv8a2lGkBmD7pULo6.jpg"
+        "https://image.tmdb.org/t/p/w780/byuwrUG1nkGv8a2lGkBmD7pULo6.jpg",
+        "https://image.tmdb.org/t/p/w780/ioUHpwaWz0GeXnrOdrcuoyTOojU.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1294189"
     },
@@ -976,7 +913,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.681,
+      "vote_average": 8.7,
       "providers": [],
       "videos": [
         {
@@ -1082,6 +1019,54 @@
         "https://image.tmdb.org/t/p/w780/1vJXY5DqqruryMBLlwD8lhvtrmX.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1571955"
+    },
+    {
+      "id": 1765072,
+      "type": "movie",
+      "title": "Tudo Pode Ser Visto",
+      "release_date": "2026-11-26",
+      "poster": "https://image.tmdb.org/t/p/w500/mnu5cNfijdbuU4iWrV2Lg7AfM0J.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+      "overview": "Trinta e quatro dias antes de ser enviada para a prisão, a notória fundadora do Vale do Silício, Elizabeth Holmes, convida uma equipe de filmagem cética para documentar cada passo seu. O que começa como um retrato íntimo de uma criminosa enigmática se transforma em uma jornada alucinante de três anos rumo ao abismo.",
+      "tagline": "",
+      "runtime": 174,
+      "genres": [
+        "Documentário"
+      ],
+      "vote_average": 8.9,
+      "providers": [],
+      "videos": [
+        {
+          "key": "kre2P5oQCKU",
+          "name": "You Can See Everything | Official Trailer (Elizabeth Holmes, Nathan Fielder 2026)",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Elizabeth Holmes",
+        "Nathan Fielder",
+        "Billy Evans",
+        "Amanda Seyfried",
+        "Christopher Abbott",
+        "Lance Oppenheim",
+        "Christian Rasmus Holmes IV",
+        "Noel Anne"
+      ],
+      "director": "Nathan Fielder",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+        "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
+        "https://image.tmdb.org/t/p/w780/uDONA0SCc1Tanl1lizf6lYNoMmr.jpg",
+        "https://image.tmdb.org/t/p/w780/sgRg9h6fqCPUVzTKjAap57azga0.jpg",
+        "https://image.tmdb.org/t/p/w780/flr1irwRWJJuB79u4T2t4bAS6OK.jpg",
+        "https://image.tmdb.org/t/p/w780/gCfol52f4veLiaSvGYLHw4mIiSG.jpg",
+        "https://image.tmdb.org/t/p/w780/bO9IW7FLKA3OBstINZVca2yPxKj.jpg",
+        "https://image.tmdb.org/t/p/w780/hJahNruyGNVD4nyFJpeEodFnpgT.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1765072"
     },
     {
       "id": 1003596,
