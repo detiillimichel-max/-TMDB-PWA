@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T22:02:14.029433+00:00",
+  "updated_at": "2026-11-02T06:04:09.804384+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 6.115,
+      "vote_average": 6.2,
       "providers": [],
       "videos": [
         {
@@ -44,10 +44,10 @@
         "https://image.tmdb.org/t/p/w780/wqEFo8ZPOO0zefg08XWQbyRoBgO.jpg",
         "https://image.tmdb.org/t/p/w780/u21PdabMwpAdil5wmKiuNF3FywF.jpg",
         "https://image.tmdb.org/t/p/w780/aUyuRnZsdl170jj2iWQ8rtKwdLc.jpg",
-        "https://image.tmdb.org/t/p/w780/so3w79yirabYQBCVI6OsYaUuEC4.jpg",
         "https://image.tmdb.org/t/p/w780/8W9LZ2gT3pqfU21r2GH6oRO2PK1.jpg",
         "https://image.tmdb.org/t/p/w780/7hPRJ8u6zAKqS5Yb8unnk7S7zSx.jpg",
-        "https://image.tmdb.org/t/p/w780/2dEEf0Gj3NHyLEfboIQzbBSWT9C.jpg"
+        "https://image.tmdb.org/t/p/w780/2dEEf0Gj3NHyLEfboIQzbBSWT9C.jpg",
+        "https://image.tmdb.org/t/p/w780/bZXv2tqCugIoY8QG3exV9X8cGy1.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1376400"
     },
@@ -115,7 +115,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.778,
+      "vote_average": 6.803,
       "providers": [],
       "videos": [
         {
@@ -149,7 +149,7 @@
         "Josh Hartnett",
         "Brady Wagner",
         "Ismael Cruz Cordova",
-        "Ирина Дворовенко",
+        "Ірина Дворовенко",
         "Sienna Kulovitz",
         "K.K. Moggie"
       ],
@@ -181,7 +181,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.634,
+      "vote_average": 7.632,
       "providers": [
         {
           "id": 350,
@@ -237,7 +237,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.0,
+      "vote_average": 6.033,
       "providers": [],
       "videos": [
         {
@@ -288,7 +288,7 @@
         "Ação",
         "Crime"
       ],
-      "vote_average": 6.972,
+      "vote_average": 6.966,
       "providers": [
         {
           "id": 8,
@@ -328,64 +328,6 @@
         "https://image.tmdb.org/t/p/w780/bwTsjWCOUe049YEJOMAJZZQgOC.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1236045"
-    },
-    {
-      "id": 1503762,
-      "type": "movie",
-      "title": "Razão e Sensibilidade",
-      "release_date": "2026-10-15",
-      "poster": "https://image.tmdb.org/t/p/w500/kuSSXcjitZy1LLGGoB9XqLBPCYl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
-      "overview": "Uma nova e irresistível releitura do icônico romance “Razão e Sensibilidade”, de Jane Austen: uma história encantadora, espirituosa e com a qual é fácil se identificar, sobre amor e irmandade.",
-      "tagline": "Ser agradável nunca fez bem a nenhuma mulher.",
-      "runtime": 125,
-      "genres": [
-        "Drama",
-        "Romance",
-        "História"
-      ],
-      "vote_average": 7.3,
-      "providers": [],
-      "videos": [
-        {
-          "key": "GRk4QPveYBY",
-          "name": "Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "Ue8ltp4ekgU",
-          "name": "Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Daisy Edgar-Jones",
-        "Esmé Creed-Miles",
-        "Caitríona Balfe",
-        "Frank Dillane",
-        "Herbert Nordrum",
-        "George MacKay",
-        "Fiona Shaw",
-        "Bodhi Rae Breathnach"
-      ],
-      "director": "Georgia Oakley",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
-        "https://image.tmdb.org/t/p/w780/rv6dwE4SXAT5f00Ks8YL2kFvnLA.jpg",
-        "https://image.tmdb.org/t/p/w780/nsBcKpMjRRiBOMWZKAhrmVoSePi.jpg",
-        "https://image.tmdb.org/t/p/w780/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
-        "https://image.tmdb.org/t/p/w780/3pGQKeOyN9cTAP723kdMwwPTRNl.jpg",
-        "https://image.tmdb.org/t/p/w780/4qL6bMTakZo4g5ePxpwXvl0Vy2a.jpg",
-        "https://image.tmdb.org/t/p/w780/7wufnyNo5uhkosKXEp8iITX5ar3.jpg",
-        "https://image.tmdb.org/t/p/w780/YpzEwCpoOdFD2itSYf3pbVGTXH.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1503762"
     },
     {
       "id": 1153576,
@@ -466,7 +408,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.881,
+      "vote_average": 6.907,
       "providers": [],
       "videos": [
         {
@@ -514,7 +456,7 @@
       "genres": [
         "Comédia"
       ],
-      "vote_average": 6.0,
+      "vote_average": 5.823,
       "providers": [],
       "videos": [
         {
@@ -564,7 +506,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.448,
+      "vote_average": 7.451,
       "providers": [],
       "videos": [
         {
@@ -644,7 +586,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.412,
+      "vote_average": 7.556,
       "providers": [
         {
           "id": 8,
@@ -756,7 +698,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.7,
+      "vote_average": 7.583,
       "providers": [],
       "videos": [
         {
@@ -820,8 +762,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "e3xfWXFaxUs",
-          "name": "Um Grande Despertar 2026 Trailer Oficial Legendado",
+          "key": "ijhd9QBwMfo",
+          "name": "El Despertar (2026) The Awakening - HD Trailer Oficial - Colombia - Terror/Accion",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -864,7 +806,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.7,
+      "vote_average": 7.708,
       "providers": [],
       "videos": [
         {
@@ -881,10 +823,10 @@
         "Marisa Tomei",
         "Ving Rhames",
         "Marcus Thomas",
-        "Maurice Marvel Meredith",
         "Michael Chiklis",
+        "Maurice Marvel Meredith",
         "Brett Tucker",
-        "Stella Stocker"
+        "Ryan Morgan"
       ],
       "director": "Mark Vanselow",
       "images": [
@@ -913,7 +855,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.7,
+      "vote_average": 8.672,
       "providers": [],
       "videos": [
         {
@@ -979,7 +921,7 @@
         "Ação",
         "Crime"
       ],
-      "vote_average": 6.8,
+      "vote_average": 6.893,
       "providers": [
         {
           "id": 8,
@@ -1019,6 +961,56 @@
         "https://image.tmdb.org/t/p/w780/1vJXY5DqqruryMBLlwD8lhvtrmX.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1571955"
+    },
+    {
+      "id": 1813355,
+      "type": "movie",
+      "title": "Uma História de Derry",
+      "release_date": "2026-10-31",
+      "poster": "https://image.tmdb.org/t/p/w500/9duTLm4Xk62wGIWJBfdco9lPHvW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+      "overview": "Séculos antes da aparição do palhaço Pennywise em Derry, três jovens nativos americanos encontram um aterrorizante espírito ancestral na floresta.",
+      "tagline": "",
+      "runtime": 29,
+      "genres": [
+        "Drama",
+        "Terror",
+        "Mistério"
+      ],
+      "vote_average": 6.808,
+      "providers": [],
+      "videos": [
+        {
+          "key": "oKa6u7LT0qE",
+          "name": "IT: Welcome to Derry | Official Trailer | HBO Max",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Kiawentiio",
+        "Isabel DeRoy-Olson",
+        "Michael Podemski",
+        "Zahn McClarnon",
+        "MorningStar Angeline",
+        "Brandon Oakes",
+        "Jennifer Podemski",
+        "Kimberly Guerrero"
+      ],
+      "director": "Tazbah Chavez",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/xatgo1jY01aMX0CAAVUKArkkvyE.jpg",
+        "https://image.tmdb.org/t/p/w780/12jlgCguSZJbvcEyidqepvGDVNq.jpg",
+        "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+        "https://image.tmdb.org/t/p/w780/85VF3ggM1cxEqGpaVlXrFPTLd2t.jpg",
+        "https://image.tmdb.org/t/p/w780/igVYPPQuNPhNv3rYBv7mGzczbnx.jpg",
+        "https://image.tmdb.org/t/p/w780/7UIVGUYQy744636cynaETirSK6N.jpg",
+        "https://image.tmdb.org/t/p/w780/ndWAqui4qviyqALVow4tE1Uvx8F.jpg",
+        "https://image.tmdb.org/t/p/w780/tljOoMgywY6vgHyRDfWmlipleB0.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1813355"
     },
     {
       "id": 1765072,
