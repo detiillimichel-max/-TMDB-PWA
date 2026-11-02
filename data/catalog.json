@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T06:04:09.804384+00:00",
+  "updated_at": "2026-11-02T15:54:46.244688+00:00",
   "region": "BR",
   "items": [
     {
@@ -66,7 +66,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.76,
+      "vote_average": 6.813,
       "providers": [],
       "videos": [
         {
@@ -115,7 +115,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.803,
+      "vote_average": 6.858,
       "providers": [],
       "videos": [
         {
@@ -181,7 +181,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.632,
+      "vote_average": 7.6,
       "providers": [
         {
           "id": 350,
@@ -237,7 +237,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.033,
+      "vote_average": 6.1,
       "providers": [],
       "videos": [
         {
@@ -264,11 +264,11 @@
         "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
         "https://image.tmdb.org/t/p/w780/w6Jfwtn82wGMfo0ejgRvCM9w2xE.jpg",
         "https://image.tmdb.org/t/p/w780/rsplI45pVrTbySO7MqQgW9HLXvj.jpg",
-        "https://image.tmdb.org/t/p/w780/1AEuMJoIKlEsjvAJimn9nRwJn2l.jpg",
-        "https://image.tmdb.org/t/p/w780/s9tmK1MZND6SD2qzVXTiSR7Epsy.jpg",
         "https://image.tmdb.org/t/p/w780/6aERDyDEKKKb3OcTY6RYA2AgXUA.jpg",
         "https://image.tmdb.org/t/p/w780/q9WZ9W6KvVNqj0Btw46gnIYPdMK.jpg",
-        "https://image.tmdb.org/t/p/w780/SeQojlDTCwnU2tgWWQi4UFXmr9.jpg"
+        "https://image.tmdb.org/t/p/w780/SeQojlDTCwnU2tgWWQi4UFXmr9.jpg",
+        "https://image.tmdb.org/t/p/w780/cKrsMlLdUkkRYUQEcqBDUg2i3oL.jpg",
+        "https://image.tmdb.org/t/p/w780/fbxFZdK7K5ZKoSFeFmd9QHRRmtH.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1507696"
     },
@@ -288,7 +288,7 @@
         "Ação",
         "Crime"
       ],
-      "vote_average": 6.966,
+      "vote_average": 6.97,
       "providers": [
         {
           "id": 8,
@@ -343,7 +343,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.316,
+      "vote_average": 6.3,
       "providers": [],
       "videos": [
         {
@@ -389,8 +389,8 @@
         "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
         "https://image.tmdb.org/t/p/w780/6kJENBnZsVZuhYTSR3zZi6FUe30.jpg",
         "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
-        "https://image.tmdb.org/t/p/w780/5YfPIIMzGBkIjHt3PTXBWyfBTGS.jpg",
-        "https://image.tmdb.org/t/p/w780/DSOLReBGAwtN6AkrdkPiknd01z.jpg"
+        "https://image.tmdb.org/t/p/w780/bfiOm4QESARLzMEMtuUYYjD39xn.jpg",
+        "https://image.tmdb.org/t/p/w780/g2Umr4NUCr8HQGxHCm3WGDRyVoc.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1153576"
     },
@@ -408,7 +408,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.907,
+      "vote_average": 6.906,
       "providers": [],
       "videos": [
         {
@@ -456,7 +456,7 @@
       "genres": [
         "Comédia"
       ],
-      "vote_average": 5.823,
+      "vote_average": 5.802,
       "providers": [],
       "videos": [
         {
@@ -506,7 +506,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.451,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -586,7 +586,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.556,
+      "vote_average": 7.578,
       "providers": [
         {
           "id": 8,
@@ -698,7 +698,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.583,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
@@ -758,12 +758,12 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.688,
+      "vote_average": 6.6,
       "providers": [],
       "videos": [
         {
-          "key": "ijhd9QBwMfo",
-          "name": "El Despertar (2026) The Awakening - HD Trailer Oficial - Colombia - Terror/Accion",
+          "key": "e3xfWXFaxUs",
+          "name": "Um Grande Despertar 2026 Trailer Oficial Legendado",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -806,7 +806,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.708,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -855,7 +855,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.672,
+      "vote_average": 8.639,
       "providers": [],
       "videos": [
         {
@@ -917,11 +917,11 @@
       "tagline": "",
       "runtime": 106,
       "genres": [
+        "Thriller",
         "Drama",
-        "Ação",
         "Crime"
       ],
-      "vote_average": 6.893,
+      "vote_average": 6.879,
       "providers": [
         {
           "id": 8,
@@ -977,7 +977,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.808,
+      "vote_average": 6.5,
       "providers": [],
       "videos": [
         {
@@ -1011,54 +1011,6 @@
         "https://image.tmdb.org/t/p/w780/tljOoMgywY6vgHyRDfWmlipleB0.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1813355"
-    },
-    {
-      "id": 1765072,
-      "type": "movie",
-      "title": "Tudo Pode Ser Visto",
-      "release_date": "2026-11-26",
-      "poster": "https://image.tmdb.org/t/p/w500/mnu5cNfijdbuU4iWrV2Lg7AfM0J.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-      "overview": "Trinta e quatro dias antes de ser enviada para a prisão, a notória fundadora do Vale do Silício, Elizabeth Holmes, convida uma equipe de filmagem cética para documentar cada passo seu. O que começa como um retrato íntimo de uma criminosa enigmática se transforma em uma jornada alucinante de três anos rumo ao abismo.",
-      "tagline": "",
-      "runtime": 174,
-      "genres": [
-        "Documentário"
-      ],
-      "vote_average": 8.9,
-      "providers": [],
-      "videos": [
-        {
-          "key": "kre2P5oQCKU",
-          "name": "You Can See Everything | Official Trailer (Elizabeth Holmes, Nathan Fielder 2026)",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Elizabeth Holmes",
-        "Nathan Fielder",
-        "Billy Evans",
-        "Amanda Seyfried",
-        "Christopher Abbott",
-        "Lance Oppenheim",
-        "Christian Rasmus Holmes IV",
-        "Noel Anne"
-      ],
-      "director": "Nathan Fielder",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-        "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
-        "https://image.tmdb.org/t/p/w780/uDONA0SCc1Tanl1lizf6lYNoMmr.jpg",
-        "https://image.tmdb.org/t/p/w780/sgRg9h6fqCPUVzTKjAap57azga0.jpg",
-        "https://image.tmdb.org/t/p/w780/flr1irwRWJJuB79u4T2t4bAS6OK.jpg",
-        "https://image.tmdb.org/t/p/w780/gCfol52f4veLiaSvGYLHw4mIiSG.jpg",
-        "https://image.tmdb.org/t/p/w780/bO9IW7FLKA3OBstINZVca2yPxKj.jpg",
-        "https://image.tmdb.org/t/p/w780/hJahNruyGNVD4nyFJpeEodFnpgT.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1765072"
     },
     {
       "id": 1003596,
@@ -1157,6 +1109,55 @@
         "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1003596"
+    },
+    {
+      "id": 1422041,
+      "type": "movie",
+      "title": "A Bola Preta",
+      "release_date": "2027-01-21",
+      "poster": "https://image.tmdb.org/t/p/w500/66Pj7O90qWce4pYZYKriVkFNcOS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+      "overview": "As histórias de três homens cujas vidas estão intimamente ligadas pelo desejo, pela dor e pela herança, ao longo de três épocas diferentes: 1932, 1937 e 2017.",
+      "tagline": "",
+      "runtime": 155,
+      "genres": [
+        "Drama",
+        "Guerra"
+      ],
+      "vote_average": 8.082,
+      "providers": [],
+      "videos": [
+        {
+          "key": "8svqSkpiPFM",
+          "name": "Trailer Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Guitarricadelafuente",
+        "Miguel Bernardeau",
+        "Carlos González",
+        "Milo Quifes",
+        "Lola Dueñas",
+        "Penélope Cruz",
+        "Glenn Close",
+        "Antonio de la Torre"
+      ],
+      "director": "Javier Ambrossi",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+        "https://image.tmdb.org/t/p/w780/wM4LLukeBIfhjn7LcVP6VIced4p.jpg",
+        "https://image.tmdb.org/t/p/w780/qzHXqn4zCTlXM7nLMxONinCtbL8.jpg",
+        "https://image.tmdb.org/t/p/w780/nA0bMFS66n4Eac76dF7DiapH3eL.jpg",
+        "https://image.tmdb.org/t/p/w780/2Op9yZhuYPIFTWeS7R9vV6bxWLq.jpg",
+        "https://image.tmdb.org/t/p/w780/hVn6r7Fvm43v2QRnLbuqD8mIPML.jpg",
+        "https://image.tmdb.org/t/p/w780/dshLPYcXKL1vomSUx2FVXzSXEK0.jpg",
+        "https://image.tmdb.org/t/p/w780/zBr7wmap2FIAk9KuQnQ6W56Nbnr.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1422041"
     }
   ]
 }
