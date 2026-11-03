@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T00:58:20.938446+00:00",
+  "updated_at": "2026-11-03T14:15:07.534327+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 6.2,
+      "vote_average": 6.07,
       "providers": [],
       "videos": [
         {
@@ -52,56 +52,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1376400"
     },
     {
-      "id": 1290418,
-      "type": "movie",
-      "title": "The Cycle",
-      "release_date": "2026-09-24",
-      "poster": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
-      "overview": "Uma filha desvenda o passado sombrio do pai depois que seu corpo, desaparecido há 36 anos, é encontrado em uma cena de crime horrível.",
-      "tagline": "",
-      "runtime": 111,
-      "genres": [
-        "Terror",
-        "Thriller",
-        "Mistério"
-      ],
-      "vote_average": 6.78,
-      "providers": [],
-      "videos": [
-        {
-          "key": "QKhdjq3Ct6w",
-          "name": "The Cycle - Official Trailer (2026) Deborah Ann Woll",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Deborah Ann Woll",
-        "Jeffrey Donovan",
-        "Gretchen Corbett",
-        "Jack Doolan",
-        "Will Hochman",
-        "Dana Millican",
-        "Phillip Andre Botello",
-        "Don Keith Opper"
-      ],
-      "director": "Jordan Downey",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
-        "https://image.tmdb.org/t/p/w780/uRIItK2ahR1ewVSBICiBFQrAVB2.jpg",
-        "https://image.tmdb.org/t/p/w780/7ndnW5JoAXKgUxfo07IUqachGww.jpg",
-        "https://image.tmdb.org/t/p/w780/lryq0R1untzuXUVRp6qKUyLCNqe.jpg",
-        "https://image.tmdb.org/t/p/w780/t4vkdXixFJu74VQhjGXhFx6bM9F.jpg",
-        "https://image.tmdb.org/t/p/w780/3SMHKsqPG6Mun3SQIbYLMurEgix.jpg",
-        "https://image.tmdb.org/t/p/w780/3CIYPqdWTc74Th8VCLhH7COTmqp.jpg",
-        "https://image.tmdb.org/t/p/w780/23WDcialULvwUkm1N9c1Ooxs3Es.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1290418"
-    },
-    {
       "id": 1283515,
       "type": "movie",
       "title": "Verity",
@@ -115,7 +65,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.897,
+      "vote_average": 6.934,
       "providers": [],
       "videos": [
         {
@@ -181,7 +131,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.631,
+      "vote_average": 7.641,
       "providers": [
         {
           "id": 350,
@@ -223,6 +173,70 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
     {
+      "id": 1400837,
+      "type": "movie",
+      "title": "Outra Mamãe",
+      "release_date": "2026-10-08",
+      "poster": "https://image.tmdb.org/t/p/w500/j6eXMsykSZnXJT20YTdsdS9PXPj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "overview": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
+      "tagline": "Sua mamãe não vai te salvar.",
+      "runtime": 93,
+      "genres": [
+        "Terror"
+      ],
+      "vote_average": 5.82,
+      "providers": [],
+      "videos": [
+        {
+          "key": "a74ZT4Ncess",
+          "name": "Outra Mamãe | Trailer 2 - Dublado (Universal Pictures) - HD",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "zBf1b5WtiBs",
+          "name": "Outra Mamãe | Trailer (Universal Pictures) - HD",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "WmupdT0zZwM",
+          "name": "Outra Mamãe | Trailer Dublado (Universal Pictures) - HD",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Jessica Chastain",
+        "Jay Duplass",
+        "Arabella Olivia Clark",
+        "Karen Allen",
+        "Arian Moayed",
+        "Dichen Lachman",
+        "Sean Kaufman",
+        "Adam Silver"
+      ],
+      "director": "Rob Savage",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+        "https://image.tmdb.org/t/p/w780/yf5EKtrTKM8pla1TpNA5TsZgoTp.jpg",
+        "https://image.tmdb.org/t/p/w780/6O520Y4noXhI6xb2sHRqecOCywE.jpg",
+        "https://image.tmdb.org/t/p/w780/fqK74DYEkAuvMJXozxiqSujCQU4.jpg",
+        "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+        "https://image.tmdb.org/t/p/w780/qHURF5fju9HYpnEdEj3D4HH8C7q.jpg",
+        "https://image.tmdb.org/t/p/w780/AflbdtwHm1FOXKCFtn8wKaQsAjR.jpg",
+        "https://image.tmdb.org/t/p/w780/oxnzKR0Ag5f35JYiYGs4lTqTG5Q.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1400837"
+    },
+    {
       "id": 1507696,
       "type": "movie",
       "title": "Apocalipse Z: Novo Mundo",
@@ -237,7 +251,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.0,
+      "vote_average": 6.072,
       "providers": [],
       "videos": [
         {
@@ -273,33 +287,34 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1507696"
     },
     {
-      "id": 1236045,
+      "id": 1503762,
       "type": "movie",
-      "title": "Sobrevivência",
-      "release_date": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w500/62vtHEyzKhFRuEOLLiQfPi60mSs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-      "overview": "O filho de um candidato a prefeito de Los Angeles é sequestrado. Agora, ele e a esposa tentam conseguir o dinheiro do resgate e tomam decisões arriscadas.",
-      "tagline": "",
-      "runtime": 109,
+      "title": "Razão e Sensibilidade",
+      "release_date": "2026-10-15",
+      "poster": "https://image.tmdb.org/t/p/w500/kuSSXcjitZy1LLGGoB9XqLBPCYl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+      "overview": "Uma nova e irresistível releitura do icônico romance “Razão e Sensibilidade”, de Jane Austen: uma história encantadora, espirituosa e com a qual é fácil se identificar, sobre amor e irmandade.",
+      "tagline": "Ser agradável nunca fez bem a nenhuma mulher.",
+      "runtime": 125,
       "genres": [
-        "Thriller",
+        "Romance",
         "Drama",
-        "Ação",
-        "Crime"
+        "História"
       ],
-      "vote_average": 6.968,
-      "providers": [
-        {
-          "id": 8,
-          "name": "Netflix",
-          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-        }
-      ],
+      "vote_average": 7.221,
+      "providers": [],
       "videos": [
         {
-          "key": "cCQ6deXxzVE",
-          "name": "Sobrevivência | Trailer oficial | Netflix",
+          "key": "GRk4QPveYBY",
+          "name": "Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "Ue8ltp4ekgU",
+          "name": "Trailer Oficial",
           "type": "Trailer",
           "official": true,
           "site": "YouTube",
@@ -307,27 +322,27 @@
         }
       ],
       "cast": [
-        "Ben Affleck",
-        "Kerry Washington",
-        "Gillian Anderson",
-        "Steven Yeun",
-        "Adriana Paz",
-        "Luis Gerardo Méndez",
-        "Christopher Woodley",
-        "Jacob Estrada"
+        "Daisy Edgar-Jones",
+        "Esmé Creed-Miles",
+        "Caitríona Balfe",
+        "Frank Dillane",
+        "Herbert Nordrum",
+        "George MacKay",
+        "Fiona Shaw",
+        "Bodhi Rae Breathnach"
       ],
-      "director": "Ben Affleck",
+      "director": "Georgia Oakley",
       "images": [
-        "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-        "https://image.tmdb.org/t/p/w780/zM9Iw8NJqqN3nd6lPtwTBrKjNQV.jpg",
-        "https://image.tmdb.org/t/p/w780/zq4E9AXsYTfliuipTwd0477aeKR.jpg",
-        "https://image.tmdb.org/t/p/w780/4wLj5zBHq2tiDRcOR2aIjVuPhQm.jpg",
-        "https://image.tmdb.org/t/p/w780/e2hJkTG7PDpX8l6k04vBqZNpGs1.jpg",
-        "https://image.tmdb.org/t/p/w780/ystolO8k6nDfGGzNG2TxWifg6JC.jpg",
-        "https://image.tmdb.org/t/p/w780/klUjVVmMrN6urWxD76KqtvWMJWM.jpg",
-        "https://image.tmdb.org/t/p/w780/bwTsjWCOUe049YEJOMAJZZQgOC.jpg"
+        "https://image.tmdb.org/t/p/w780/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+        "https://image.tmdb.org/t/p/w780/rv6dwE4SXAT5f00Ks8YL2kFvnLA.jpg",
+        "https://image.tmdb.org/t/p/w780/bUxXaWaeYOKkvFOTDPmd7Ftdspt.jpg",
+        "https://image.tmdb.org/t/p/w780/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
+        "https://image.tmdb.org/t/p/w780/3pGQKeOyN9cTAP723kdMwwPTRNl.jpg",
+        "https://image.tmdb.org/t/p/w780/4qL6bMTakZo4g5ePxpwXvl0Vy2a.jpg",
+        "https://image.tmdb.org/t/p/w780/7wufnyNo5uhkosKXEp8iITX5ar3.jpg",
+        "https://image.tmdb.org/t/p/w780/nsBcKpMjRRiBOMWZKAhrmVoSePi.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1236045"
+      "tmdb_url": "https://www.themoviedb.org/movie/1503762"
     },
     {
       "id": 1153576,
@@ -408,7 +423,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.902,
+      "vote_average": 6.891,
       "providers": [],
       "videos": [
         {
@@ -456,7 +471,7 @@
       "genres": [
         "Comédia"
       ],
-      "vote_average": 5.795,
+      "vote_average": 5.744,
       "providers": [],
       "videos": [
         {
@@ -586,7 +601,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.598,
+      "vote_average": 7.578,
       "providers": [
         {
           "id": 8,
@@ -643,7 +658,7 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 5.367,
+      "vote_average": 5.656,
       "providers": [
         {
           "id": 8,
@@ -698,7 +713,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.725,
+      "vote_average": 7.737,
       "providers": [],
       "videos": [
         {
@@ -758,7 +773,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.551,
+      "vote_average": 6.527,
       "providers": [],
       "videos": [
         {
@@ -855,7 +870,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.6,
+      "vote_average": 8.524,
       "providers": [],
       "videos": [
         {
@@ -921,7 +936,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.9,
+      "vote_average": 6.581,
       "providers": [
         {
           "id": 8,
@@ -977,7 +992,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.689,
+      "vote_average": 6.887,
       "providers": [],
       "videos": [
         {
@@ -1003,12 +1018,12 @@
       "images": [
         "https://image.tmdb.org/t/p/w780/xatgo1jY01aMX0CAAVUKArkkvyE.jpg",
         "https://image.tmdb.org/t/p/w780/12jlgCguSZJbvcEyidqepvGDVNq.jpg",
+        "https://image.tmdb.org/t/p/w780/svNQqN1ClN1qSv6eXwAoD0QFfZ1.jpg",
         "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
         "https://image.tmdb.org/t/p/w780/85VF3ggM1cxEqGpaVlXrFPTLd2t.jpg",
         "https://image.tmdb.org/t/p/w780/igVYPPQuNPhNv3rYBv7mGzczbnx.jpg",
         "https://image.tmdb.org/t/p/w780/7UIVGUYQy744636cynaETirSK6N.jpg",
-        "https://image.tmdb.org/t/p/w780/ndWAqui4qviyqALVow4tE1Uvx8F.jpg",
-        "https://image.tmdb.org/t/p/w780/tljOoMgywY6vgHyRDfWmlipleB0.jpg"
+        "https://image.tmdb.org/t/p/w780/ndWAqui4qviyqALVow4tE1Uvx8F.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1813355"
     },
@@ -1124,7 +1139,7 @@
         "Drama",
         "Guerra"
       ],
-      "vote_average": 8.051,
+      "vote_average": 8.1,
       "providers": [],
       "videos": [
         {
