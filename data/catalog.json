@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T15:54:46.244688+00:00",
+  "updated_at": "2026-11-03T00:58:20.938446+00:00",
   "region": "BR",
   "items": [
     {
@@ -66,7 +66,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.813,
+      "vote_average": 6.78,
       "providers": [],
       "videos": [
         {
@@ -115,7 +115,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.858,
+      "vote_average": 6.897,
       "providers": [],
       "videos": [
         {
@@ -181,7 +181,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.631,
       "providers": [
         {
           "id": 350,
@@ -237,7 +237,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.1,
+      "vote_average": 6.0,
       "providers": [],
       "videos": [
         {
@@ -288,7 +288,7 @@
         "Ação",
         "Crime"
       ],
-      "vote_average": 6.97,
+      "vote_average": 6.968,
       "providers": [
         {
           "id": 8,
@@ -343,7 +343,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.3,
+      "vote_average": 6.325,
       "providers": [],
       "videos": [
         {
@@ -408,7 +408,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.906,
+      "vote_average": 6.902,
       "providers": [],
       "videos": [
         {
@@ -456,7 +456,7 @@
       "genres": [
         "Comédia"
       ],
-      "vote_average": 5.802,
+      "vote_average": 5.795,
       "providers": [],
       "videos": [
         {
@@ -480,8 +480,8 @@
       ],
       "director": "Sacha Baron Cohen",
       "images": [
-        "https://image.tmdb.org/t/p/w780/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
         "https://image.tmdb.org/t/p/w780/kx883SRQsRNTA965hgK04uHPARb.jpg",
+        "https://image.tmdb.org/t/p/w780/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
         "https://image.tmdb.org/t/p/w780/p107jRmoulTP8mLlLIrUOrk6mdM.jpg",
         "https://image.tmdb.org/t/p/w780/5V3eWbnYwbgnWsRFFYw9EvMhvEn.jpg",
         "https://image.tmdb.org/t/p/w780/qp8SJuT4E8jOU0yb6L3d1dXMgA0.jpg",
@@ -506,7 +506,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -586,7 +586,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.578,
+      "vote_average": 7.598,
       "providers": [
         {
           "id": 8,
@@ -643,7 +643,7 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 5.25,
+      "vote_average": 5.367,
       "providers": [
         {
           "id": 8,
@@ -698,7 +698,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.725,
       "providers": [],
       "videos": [
         {
@@ -758,12 +758,12 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.6,
+      "vote_average": 6.551,
       "providers": [],
       "videos": [
         {
-          "key": "e3xfWXFaxUs",
-          "name": "Um Grande Despertar 2026 Trailer Oficial Legendado",
+          "key": "ijhd9QBwMfo",
+          "name": "El Despertar (2026) The Awakening - HD Trailer Oficial - Colombia - Terror/Accion",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -855,7 +855,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.639,
+      "vote_average": 8.6,
       "providers": [],
       "videos": [
         {
@@ -921,7 +921,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.879,
+      "vote_average": 6.9,
       "providers": [
         {
           "id": 8,
@@ -977,7 +977,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.5,
+      "vote_average": 6.689,
       "providers": [],
       "videos": [
         {
@@ -1124,7 +1124,7 @@
         "Drama",
         "Guerra"
       ],
-      "vote_average": 8.082,
+      "vote_average": 8.051,
       "providers": [],
       "videos": [
         {
@@ -1139,12 +1139,12 @@
       "cast": [
         "Guitarricadelafuente",
         "Miguel Bernardeau",
-        "Carlos González",
         "Milo Quifes",
+        "Carlos González",
         "Lola Dueñas",
         "Penélope Cruz",
         "Glenn Close",
-        "Antonio de la Torre"
+        "Julio Torres"
       ],
       "director": "Javier Ambrossi",
       "images": [
