@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T14:15:07.534327+00:00",
+  "updated_at": "2026-11-03T23:23:49.075683+00:00",
   "region": "BR",
   "items": [
     {
@@ -65,7 +65,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.934,
+      "vote_average": 6.952,
       "providers": [],
       "videos": [
         {
@@ -131,7 +131,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.641,
+      "vote_average": 7.64,
       "providers": [
         {
           "id": 350,
@@ -185,7 +185,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.82,
+      "vote_average": 5.8,
       "providers": [],
       "videos": [
         {
@@ -251,7 +251,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.072,
+      "vote_average": 6.125,
       "providers": [],
       "videos": [
         {
@@ -292,7 +292,7 @@
       "title": "Razão e Sensibilidade",
       "release_date": "2026-10-15",
       "poster": "https://image.tmdb.org/t/p/w500/kuSSXcjitZy1LLGGoB9XqLBPCYl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rv6dwE4SXAT5f00Ks8YL2kFvnLA.jpg",
       "overview": "Uma nova e irresistível releitura do icônico romance “Razão e Sensibilidade”, de Jane Austen: uma história encantadora, espirituosa e com a qual é fácil se identificar, sobre amor e irmandade.",
       "tagline": "Ser agradável nunca fez bem a nenhuma mulher.",
       "runtime": 125,
@@ -301,7 +301,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 7.221,
+      "vote_average": 7.2,
       "providers": [],
       "videos": [
         {
@@ -333,8 +333,8 @@
       ],
       "director": "Georgia Oakley",
       "images": [
-        "https://image.tmdb.org/t/p/w780/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
         "https://image.tmdb.org/t/p/w780/rv6dwE4SXAT5f00Ks8YL2kFvnLA.jpg",
+        "https://image.tmdb.org/t/p/w780/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
         "https://image.tmdb.org/t/p/w780/bUxXaWaeYOKkvFOTDPmd7Ftdspt.jpg",
         "https://image.tmdb.org/t/p/w780/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
         "https://image.tmdb.org/t/p/w780/3pGQKeOyN9cTAP723kdMwwPTRNl.jpg",
@@ -358,7 +358,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.325,
+      "vote_average": 6.3,
       "providers": [],
       "videos": [
         {
@@ -471,7 +471,7 @@
       "genres": [
         "Comédia"
       ],
-      "vote_average": 5.744,
+      "vote_average": 5.78,
       "providers": [],
       "videos": [
         {
@@ -601,7 +601,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.578,
+      "vote_average": 7.581,
       "providers": [
         {
           "id": 8,
@@ -713,7 +713,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.737,
+      "vote_average": 7.672,
       "providers": [],
       "videos": [
         {
@@ -773,12 +773,12 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.527,
+      "vote_average": 6.4,
       "providers": [],
       "videos": [
         {
-          "key": "ijhd9QBwMfo",
-          "name": "El Despertar (2026) The Awakening - HD Trailer Oficial - Colombia - Terror/Accion",
+          "key": "e3xfWXFaxUs",
+          "name": "Um Grande Despertar 2026 Trailer Oficial Legendado",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -821,7 +821,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.538,
       "providers": [],
       "videos": [
         {
@@ -870,7 +870,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.524,
+      "vote_average": 8.521,
       "providers": [],
       "videos": [
         {
@@ -936,7 +936,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.581,
+      "vote_average": 6.617,
       "providers": [
         {
           "id": 8,
@@ -992,7 +992,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.887,
+      "vote_average": 6.828,
       "providers": [],
       "videos": [
         {
@@ -1139,7 +1139,7 @@
         "Drama",
         "Guerra"
       ],
-      "vote_average": 8.1,
+      "vote_average": 8.062,
       "providers": [],
       "videos": [
         {
