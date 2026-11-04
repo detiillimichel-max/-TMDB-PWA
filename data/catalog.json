@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T06:23:33.479812+00:00",
+  "updated_at": "2026-11-04T19:45:43.360084+00:00",
   "region": "BR",
   "items": [
     {
@@ -8,15 +8,15 @@
       "title": "Primetime",
       "release_date": "2026-09-23",
       "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-      "overview": "Baseado em uma história real, Primetime acompanha o jornalista Chris Hansen, um homem que no ano de 2006 está determinado a tirar a sua emissora da falência iminente. Com a ideia de criar um programa chamado To Catch a Predator, feito para expor criminosos ao vivo, em pouco tempo a produção se torna um sucesso de audiência e muda toda a trajetória da história televisiva. No entanto, quando o hacker Leo descobre um terrível segredo, os papéis podem acabar se invertendo rapidamente.",
-      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+      "overview": "Jornalista determinado a tirar sua emissora da falência iminente cria programa para expor ao vivo criminosos e se torna sucesso de audiência mudando a história televisiva. No entanto, um hacker descobre um segredo e os papéis podem acabar se invertendo.",
+      "tagline": "Você está pronto para fazer história na televisão?",
       "runtime": 110,
       "genres": [
         "Thriller",
         "Drama"
       ],
-      "vote_average": 6.802,
+      "vote_average": 6.8,
       "providers": [],
       "videos": [
         {
@@ -40,14 +40,14 @@
       ],
       "director": "Lance Oppenheim",
       "images": [
+        "https://image.tmdb.org/t/p/w780/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
         "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
         "https://image.tmdb.org/t/p/w780/9m0tVJ6JRIbqwtbJThDPFtAn6CY.jpg",
         "https://image.tmdb.org/t/p/w780/1tJz8e1G21nEuzHlX771MNBRJvM.jpg",
         "https://image.tmdb.org/t/p/w780/cY6kSevpVp7QpoY2sgYAOzQgejh.jpg",
-        "https://image.tmdb.org/t/p/w780/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
         "https://image.tmdb.org/t/p/w780/6lZrQXD8yNIeps5dCAe5jiODtrq.jpg",
         "https://image.tmdb.org/t/p/w780/9DLdnwZVgfqZMpMhj63cNhdLwQB.jpg",
-        "https://image.tmdb.org/t/p/w780/kyzsGactk6KDb2poqhYUMzBBSDR.jpg"
+        "https://image.tmdb.org/t/p/w780/ms8S7lHDLJeTk29wXXtOfRGkhxx.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1375441"
     },
@@ -65,7 +65,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 6.07,
+      "vote_average": 6.01,
       "providers": [],
       "videos": [
         {
@@ -114,7 +114,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.963,
+      "vote_average": 6.981,
       "providers": [],
       "videos": [
         {
@@ -234,7 +234,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.8,
+      "vote_average": 5.758,
       "providers": [],
       "videos": [
         {
@@ -300,7 +300,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.125,
+      "vote_average": 6.152,
       "providers": [],
       "videos": [
         {
@@ -350,7 +350,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 7.254,
+      "vote_average": 7.244,
       "providers": [],
       "videos": [
         {
@@ -407,7 +407,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.861,
+      "vote_average": 6.857,
       "providers": [],
       "videos": [
         {
@@ -455,7 +455,7 @@
       "genres": [
         "Comédia"
       ],
-      "vote_average": 5.781,
+      "vote_average": 5.8,
       "providers": [],
       "videos": [
         {
@@ -585,7 +585,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.605,
+      "vote_average": 7.545,
       "providers": [
         {
           "id": 8,
@@ -697,7 +697,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.75,
+      "vote_average": 7.796,
       "providers": [],
       "videos": [
         {
@@ -733,10 +733,10 @@
         "https://image.tmdb.org/t/p/w780/4yhMroSvsvdYjZGx6T575aTkyB8.jpg",
         "https://image.tmdb.org/t/p/w780/5aM6VbwVSFSzAkndENRj5qPk0fI.jpg",
         "https://image.tmdb.org/t/p/w780/7KGt51UrEX6bfke8XNMeJ0DmEDZ.jpg",
-        "https://image.tmdb.org/t/p/w780/znaZxN2lMydZpVRFaQMvcV4Fedi.jpg",
         "https://image.tmdb.org/t/p/w780/6fpA69MtfyrnoXH5aJHMmW0SOmu.jpg",
         "https://image.tmdb.org/t/p/w780/dw5G9bYehBz2DrQeY6zrBM2SYrn.jpg",
-        "https://image.tmdb.org/t/p/w780/umDu9Kwovtdtg2IKoSVQLCipgMQ.jpg"
+        "https://image.tmdb.org/t/p/w780/umDu9Kwovtdtg2IKoSVQLCipgMQ.jpg",
+        "https://image.tmdb.org/t/p/w780/n3VWaNuqpyUfVBilXI5SiC7QEZ8.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1596275"
     },
@@ -757,12 +757,12 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.4,
+      "vote_average": 6.414,
       "providers": [],
       "videos": [
         {
-          "key": "e3xfWXFaxUs",
-          "name": "Um Grande Despertar 2026 Trailer Oficial Legendado",
+          "key": "ijhd9QBwMfo",
+          "name": "El Despertar (2026) The Awakening - HD Trailer Oficial - Colombia - Terror/Accion",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -797,15 +797,15 @@
       "title": "Fuga Mortal",
       "release_date": "2026-10-29",
       "poster": "https://image.tmdb.org/t/p/w500/3QX08keJGtcIJsCyy4Mdaq28ZGq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fEpP7Kib3LeUz0ckTsNJ52cl1k0.jpg",
       "overview": "Um herói de guerra falsamente acusado, sem nada a perder, lidera a polícia em uma épica perseguição televisiva de carro pelo país, ajudado por membros de seu antigo batalhão das Forças Especiais do Exército e monitorado de perto por um público fascinado que torce por sua fuga segura.",
       "tagline": "",
-      "runtime": 99,
+      "runtime": 100,
       "genres": [
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.571,
+      "vote_average": 7.219,
       "providers": [],
       "videos": [
         {
@@ -854,7 +854,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.517,
+      "vote_average": 8.5,
       "providers": [],
       "videos": [
         {
@@ -920,7 +920,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.714,
+      "vote_average": 6.66,
       "providers": [
         {
           "id": 8,
@@ -976,7 +976,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.883,
+      "vote_average": 6.913,
       "providers": [],
       "videos": [
         {
@@ -1123,7 +1123,7 @@
         "Drama",
         "Guerra"
       ],
-      "vote_average": 8.043,
+      "vote_average": 8.055,
       "providers": [],
       "videos": [
         {
