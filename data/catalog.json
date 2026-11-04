@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-11-03T23:23:49.075683+00:00",
+  "updated_at": "2026-11-04T06:23:33.479812+00:00",
   "region": "BR",
   "items": [
+    {
+      "id": 1375441,
+      "type": "movie",
+      "title": "Primetime",
+      "release_date": "2026-09-23",
+      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+      "overview": "Baseado em uma história real, Primetime acompanha o jornalista Chris Hansen, um homem que no ano de 2006 está determinado a tirar a sua emissora da falência iminente. Com a ideia de criar um programa chamado To Catch a Predator, feito para expor criminosos ao vivo, em pouco tempo a produção se torna um sucesso de audiência e muda toda a trajetória da história televisiva. No entanto, quando o hacker Leo descobre um terrível segredo, os papéis podem acabar se invertendo rapidamente.",
+      "tagline": "",
+      "runtime": 110,
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "vote_average": 6.802,
+      "providers": [],
+      "videos": [
+        {
+          "key": "SBry7bmopLA",
+          "name": "Primetime - Official Trailer 2 (2026) Robert Pattinson, Merritt Wever, Skyler Gisondo",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Merritt Wever",
+        "Skyler Gisondo",
+        "Matthew Maher",
+        "Phoebe Bridgers",
+        "Victor Brunette",
+        "Bokeem Woodbine",
+        "Michael Chachere"
+      ],
+      "director": "Lance Oppenheim",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+        "https://image.tmdb.org/t/p/w780/9m0tVJ6JRIbqwtbJThDPFtAn6CY.jpg",
+        "https://image.tmdb.org/t/p/w780/1tJz8e1G21nEuzHlX771MNBRJvM.jpg",
+        "https://image.tmdb.org/t/p/w780/cY6kSevpVp7QpoY2sgYAOzQgejh.jpg",
+        "https://image.tmdb.org/t/p/w780/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+        "https://image.tmdb.org/t/p/w780/6lZrQXD8yNIeps5dCAe5jiODtrq.jpg",
+        "https://image.tmdb.org/t/p/w780/9DLdnwZVgfqZMpMhj63cNhdLwQB.jpg",
+        "https://image.tmdb.org/t/p/w780/kyzsGactk6KDb2poqhYUMzBBSDR.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1375441"
+    },
     {
       "id": 1376400,
       "type": "movie",
@@ -65,7 +114,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.952,
+      "vote_average": 6.963,
       "providers": [],
       "videos": [
         {
@@ -131,7 +180,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.64,
+      "vote_average": 7.644,
       "providers": [
         {
           "id": 350,
@@ -301,7 +350,7 @@
         "Drama",
         "História"
       ],
-      "vote_average": 7.2,
+      "vote_average": 7.254,
       "providers": [],
       "videos": [
         {
@@ -345,71 +394,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1503762"
     },
     {
-      "id": 1153576,
-      "type": "movie",
-      "title": "Street Fighter",
-      "release_date": "2026-10-15",
-      "poster": "https://image.tmdb.org/t/p/w500/6gWmrC2GyDbUM1ET5EBg9lxBi7S.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
-      "overview": "Em 1993, os lutadores Ryu e Ken Masters são colocados de volta no combate quando a misteriosa Chun-Li os recruta para o próximo Torneio Street Fighter: uma brutal briga de socos, destino e fúria. Entretanto, por trás desse campeonato, se esconde uma conspiração mortal que os força a encarar um ao outro e os demônios do passado. E se eles não fizerem, é game over!",
-      "tagline": "Preparar. Apontar. Lutar.",
-      "runtime": 119,
-      "genres": [
-        "Ação",
-        "Fantasia"
-      ],
-      "vote_average": 6.3,
-      "providers": [],
-      "videos": [
-        {
-          "key": "kcjEOsxg1FY",
-          "name": "Street Fighter | Novo Trailer | DUB | Paramount Pictures Brasil",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "v2OqsnruLfI",
-          "name": "Street Fighter | Trailer Oficial | DUB | Paramount Pictures Brasil",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "f8W8CrdZd8o",
-          "name": "Trailer Teaser",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Andrew Koji",
-        "Noah Centineo",
-        "Callina Liang",
-        "David Dastmalchian",
-        "Andrew Schulz",
-        "Joe Anoa'i",
-        "Cody Rhodes",
-        "Jason Momoa"
-      ],
-      "director": "Kitao Sakurai",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
-        "https://image.tmdb.org/t/p/w780/k0cEoowzTwxYCTRI7gV6nqPF1ds.jpg",
-        "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
-        "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-        "https://image.tmdb.org/t/p/w780/6kJENBnZsVZuhYTSR3zZi6FUe30.jpg",
-        "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
-        "https://image.tmdb.org/t/p/w780/bfiOm4QESARLzMEMtuUYYjD39xn.jpg",
-        "https://image.tmdb.org/t/p/w780/g2Umr4NUCr8HQGxHCm3WGDRyVoc.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1153576"
-    },
-    {
       "id": 1561726,
       "type": "movie",
       "title": "Masterplan",
@@ -423,7 +407,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.891,
+      "vote_average": 6.861,
       "providers": [],
       "videos": [
         {
@@ -471,7 +455,7 @@
       "genres": [
         "Comédia"
       ],
-      "vote_average": 5.78,
+      "vote_average": 5.781,
       "providers": [],
       "videos": [
         {
@@ -601,7 +585,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.581,
+      "vote_average": 7.605,
       "providers": [
         {
           "id": 8,
@@ -658,7 +642,7 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 5.656,
+      "vote_average": 5.7,
       "providers": [
         {
           "id": 8,
@@ -713,7 +697,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.672,
+      "vote_average": 7.75,
       "providers": [],
       "videos": [
         {
@@ -821,7 +805,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 7.538,
+      "vote_average": 7.571,
       "providers": [],
       "videos": [
         {
@@ -870,7 +854,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.521,
+      "vote_average": 8.517,
       "providers": [],
       "videos": [
         {
@@ -936,7 +920,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.617,
+      "vote_average": 6.714,
       "providers": [
         {
           "id": 8,
@@ -992,7 +976,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.828,
+      "vote_average": 6.883,
       "providers": [],
       "videos": [
         {
@@ -1139,7 +1123,7 @@
         "Drama",
         "Guerra"
       ],
-      "vote_average": 8.062,
+      "vote_average": 8.043,
       "providers": [],
       "videos": [
         {
