@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T06:47:05.178547+00:00",
+  "updated_at": "2026-11-06T19:24:55.771036+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 6.802,
+      "vote_average": 6.809,
       "providers": [],
       "videos": [
         {
@@ -114,7 +114,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 7.0,
+      "vote_average": 6.971,
       "providers": [],
       "videos": [
         {
@@ -222,70 +222,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
     {
-      "id": 1400837,
-      "type": "movie",
-      "title": "Outra Mamãe",
-      "release_date": "2026-10-08",
-      "poster": "https://image.tmdb.org/t/p/w500/j6eXMsykSZnXJT20YTdsdS9PXPj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-      "overview": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
-      "tagline": "Sua mamãe não vai te salvar.",
-      "runtime": 93,
-      "genres": [
-        "Terror"
-      ],
-      "vote_average": 5.8,
-      "providers": [],
-      "videos": [
-        {
-          "key": "a74ZT4Ncess",
-          "name": "Outra Mamãe | Trailer 2 - Dublado (Universal Pictures) - HD",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "zBf1b5WtiBs",
-          "name": "Outra Mamãe | Trailer (Universal Pictures) - HD",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "WmupdT0zZwM",
-          "name": "Outra Mamãe | Trailer Dublado (Universal Pictures) - HD",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Jessica Chastain",
-        "Jay Duplass",
-        "Arabella Olivia Clark",
-        "Karen Allen",
-        "Arian Moayed",
-        "Dichen Lachman",
-        "Sean Kaufman",
-        "Adam Silver"
-      ],
-      "director": "Rob Savage",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-        "https://image.tmdb.org/t/p/w780/yf5EKtrTKM8pla1TpNA5TsZgoTp.jpg",
-        "https://image.tmdb.org/t/p/w780/6O520Y4noXhI6xb2sHRqecOCywE.jpg",
-        "https://image.tmdb.org/t/p/w780/fqK74DYEkAuvMJXozxiqSujCQU4.jpg",
-        "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-        "https://image.tmdb.org/t/p/w780/qHURF5fju9HYpnEdEj3D4HH8C7q.jpg",
-        "https://image.tmdb.org/t/p/w780/AflbdtwHm1FOXKCFtn8wKaQsAjR.jpg",
-        "https://image.tmdb.org/t/p/w780/oxnzKR0Ag5f35JYiYGs4lTqTG5Q.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1400837"
-    },
-    {
       "id": 1507696,
       "type": "movie",
       "title": "Apocalipse Z: Novo Mundo",
@@ -300,7 +236,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.102,
+      "vote_average": 6.2,
       "providers": [],
       "videos": [
         {
@@ -336,54 +272,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1507696"
     },
     {
-      "id": 1727734,
-      "type": "movie",
-      "title": "Ali G: Ken é Eu?",
-      "release_date": "2026-10-22",
-      "poster": "https://image.tmdb.org/t/p/w500/j835nBIlJp3nkYaf96z0bD4P8Ux.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
-      "overview": "Depois de 20 anos \"curtindo, fumando e transando\", Ali G descobre que sua namorada, Me Julie, está grávida de oito meses. Com mais uma boca para alimentar, ele sai da loucura e vai à América retomar sua antiga glória… mas logo encontra adversários que irão ameaçar sua vida e a própria existência do seu filho.",
-      "tagline": "",
-      "runtime": 89,
-      "genres": [
-        "Comédia"
-      ],
-      "vote_average": 5.8,
-      "providers": [],
-      "videos": [
-        {
-          "key": "NCh8xVrcppk",
-          "name": "Ali G: Ken é eu? | Trailer Oficial | Prime Video",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Sacha Baron Cohen",
-        "Morgana Robinson",
-        "Alpha Miknas",
-        "Clive Russell",
-        "A$AP Rocky",
-        "Rihanna",
-        "Tiffany Haddish",
-        "DJ Jazzy Jeff"
-      ],
-      "director": "Sacha Baron Cohen",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/kx883SRQsRNTA965hgK04uHPARb.jpg",
-        "https://image.tmdb.org/t/p/w780/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
-        "https://image.tmdb.org/t/p/w780/p107jRmoulTP8mLlLIrUOrk6mdM.jpg",
-        "https://image.tmdb.org/t/p/w780/5V3eWbnYwbgnWsRFFYw9EvMhvEn.jpg",
-        "https://image.tmdb.org/t/p/w780/qp8SJuT4E8jOU0yb6L3d1dXMgA0.jpg",
-        "https://image.tmdb.org/t/p/w780/bRZQJK2Psefbl2BQG6OkDWbUVY8.jpg",
-        "https://image.tmdb.org/t/p/w780/7GxXdTAbSSLMuEVbkzoGUpx4Mvc.jpg",
-        "https://image.tmdb.org/t/p/w780/dcGRhI0sxsWRAPkVZKfU4cEB2nz.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1727734"
-    },
-    {
       "id": 1400940,
       "type": "movie",
       "title": "Cara-de-Barro",
@@ -398,7 +286,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.432,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -650,7 +538,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.4,
+      "vote_average": 6.414,
       "providers": [],
       "videos": [
         {
@@ -690,7 +578,7 @@
       "title": "Fuga Mortal",
       "release_date": "2026-10-29",
       "poster": "https://image.tmdb.org/t/p/w500/3QX08keJGtcIJsCyy4Mdaq28ZGq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
       "overview": "Um herói de guerra falsamente acusado, sem nada a perder, lidera a polícia em uma épica perseguição televisiva de carro pelo país, ajudado por membros de seu antigo batalhão das Forças Especiais do Exército e monitorado de perto por um público fascinado que torce por sua fuga segura.",
       "tagline": "",
       "runtime": 100,
@@ -698,7 +586,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.094,
+      "vote_average": 6.078,
       "providers": [],
       "videos": [
         {
@@ -722,14 +610,14 @@
       ],
       "director": "Mark Vanselow",
       "images": [
+        "https://image.tmdb.org/t/p/w780/byuwrUG1nkGv8a2lGkBmD7pULo6.jpg",
+        "https://image.tmdb.org/t/p/w780/fEpP7Kib3LeUz0ckTsNJ52cl1k0.jpg",
+        "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
         "https://image.tmdb.org/t/p/w780/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
         "https://image.tmdb.org/t/p/w780/mfWwnoRLARGXAqZ1B8bP8SFIqF6.jpg",
-        "https://image.tmdb.org/t/p/w780/fEpP7Kib3LeUz0ckTsNJ52cl1k0.jpg",
-        "https://image.tmdb.org/t/p/w780/byuwrUG1nkGv8a2lGkBmD7pULo6.jpg",
         "https://image.tmdb.org/t/p/w780/lN1UjjelengJU9W4o0YxuQzPJv9.jpg",
         "https://image.tmdb.org/t/p/w780/fB3BRH9MX5u9rRByMFdhNj6WSr7.jpg",
-        "https://image.tmdb.org/t/p/w780/2jn9q8cIllmPJJ7MiIFcahXX3Xq.jpg",
-        "https://image.tmdb.org/t/p/w780/9f0SZYEElYbjj9syw5aZREnfeDt.jpg"
+        "https://image.tmdb.org/t/p/w780/2jn9q8cIllmPJJ7MiIFcahXX3Xq.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1294189"
     },
@@ -748,7 +636,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.5,
+      "vote_average": 8.467,
       "providers": [],
       "videos": [
         {
@@ -814,7 +702,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.5,
+      "vote_average": 6.563,
       "providers": [
         {
           "id": 8,
@@ -861,7 +749,7 @@
       "title": "Uma História de Derry",
       "release_date": "2026-10-31",
       "poster": "https://image.tmdb.org/t/p/w500/9duTLm4Xk62wGIWJBfdco9lPHvW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hw3d1wDXTsEVyViubbTgHsMIvX0.jpg",
       "overview": "Séculos antes da aparição do palhaço Pennywise em Derry, três jovens nativos americanos encontram um aterrorizante espírito ancestral na floresta.",
       "tagline": "",
       "runtime": 29,
@@ -870,7 +758,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.951,
+      "vote_average": 7.0,
       "providers": [],
       "videos": [
         {
@@ -906,6 +794,61 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1813355"
     },
     {
+      "id": 1570488,
+      "type": "movie",
+      "title": "O Natal Perfeito de um Cachorro",
+      "release_date": "2026-11-04",
+      "poster": "https://image.tmdb.org/t/p/w500/2YhgEEGYOQfl3CzoRcYys8b6JxH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "overview": "Depois que uma emergência médica separa a família Goss, o determinado cãozinho Winstead faz de tudo para reunir seus humanos antes da véspera de Natal.",
+      "tagline": "",
+      "runtime": 102,
+      "genres": [
+        "Comédia",
+        "Drama"
+      ],
+      "vote_average": 8.25,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "5l-5favSmfQ",
+          "name": "O Natal Perfeito de um Cachorro | Trailer oficial | Netflix",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Dennis Quaid",
+        "Milo Ventimiglia",
+        "Brooke Lena Johnson",
+        "Kathleen Rose Perkins",
+        "Jennifer Tilly",
+        "Thomas Haden Church",
+        "Mary Steenburgen",
+        "Ethan Loomis"
+      ],
+      "director": "Cathryn Michon",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+        "https://image.tmdb.org/t/p/w780/53ryl4Cyds4DE91oVPKsunH7J0m.jpg",
+        "https://image.tmdb.org/t/p/w780/6OOiqbY4Di0I6dNw0fyOBIxzK5k.jpg",
+        "https://image.tmdb.org/t/p/w780/k2l7zvLm8No1K8eLcjCJwG0IpYs.jpg",
+        "https://image.tmdb.org/t/p/w780/jfLE82CCfSCkkmutPXHpydSKY6w.jpg",
+        "https://image.tmdb.org/t/p/w780/3GxIXiZLatFY6qd0PVM7RyuKaD.jpg",
+        "https://image.tmdb.org/t/p/w780/kVDLmRsBmiaI0MGAl1nemFPv0rb.jpg",
+        "https://image.tmdb.org/t/p/w780/kpxTrmlrQaM1I68gGshiAVX9lwa.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1570488"
+    },
+    {
       "id": 1381071,
       "type": "movie",
       "title": "Godzilla Minus Zero",
@@ -920,7 +863,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 8.256,
+      "vote_average": 8.0,
       "providers": [],
       "videos": [
         {
@@ -956,6 +899,64 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1381071"
     },
     {
+      "id": 1244523,
+      "type": "movie",
+      "title": "Boiúna : Terror no Amazonas",
+      "release_date": "2026-11-12",
+      "poster": "https://image.tmdb.org/t/p/w500/r2HKWQ4kCQsEEsCAQGn5qsl4H29.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+      "overview": "Um grupo de jovens médicos embarca em missão humanitária na Amazônia, cada um com seus próprios interesses ocultos. No entanto, nem todos recebem bem a chegada do grupo, e a visita deles desperta um predador ancestral: a Boiúna. A criatura mítica retorna para defender seu território. Em meio à selva densa, trava-se uma luta pela sobrevivência, e as fronteiras entre caçador e presa, herói e vilão, tornam-se cada vez mais tênues.",
+      "tagline": "",
+      "runtime": 103,
+      "genres": [
+        "Terror",
+        "Thriller",
+        "Ação"
+      ],
+      "vote_average": 6.243,
+      "providers": [],
+      "videos": [
+        {
+          "key": "tpAB93AWgwY",
+          "name": "Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "4Wb9gDQON1w",
+          "name": "Trailer Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Kiana Madeira",
+        "Jessica Rothe",
+        "Will Close",
+        "Juan Pablo Shuk",
+        "Logan Marshall-Green",
+        "Jaime Newball",
+        "Jackson Bews",
+        "Tonfy Andoque"
+      ],
+      "director": "Mike P. Nelson",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+        "https://image.tmdb.org/t/p/w780/eaJz3rJdwxGndsFNxvhM4fG91AJ.jpg",
+        "https://image.tmdb.org/t/p/w780/poR0klGaSBaXjwObNTLf2w47ne3.jpg",
+        "https://image.tmdb.org/t/p/w780/lQNmDca1jbDtjo7WunEiqhWYtFA.jpg",
+        "https://image.tmdb.org/t/p/w780/yMFUD7P43VYkFZDCwKlQe6NTHu1.jpg",
+        "https://image.tmdb.org/t/p/w780/bbvPEdiSYcWoUAv85uNdmVIdDly.jpg",
+        "https://image.tmdb.org/t/p/w780/njxfwPIiuZ9hJW620K4AQj6vYZd.jpg",
+        "https://image.tmdb.org/t/p/w780/ymnNORckZ06m1KbfAITT6CIHLtQ.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1244523"
+    },
+    {
       "id": 656908,
       "type": "movie",
       "title": "Ramayana: O Nascimento de uma Lenda",
@@ -970,7 +971,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 6.6,
+      "vote_average": 6.944,
       "providers": [],
       "videos": [
         {
@@ -1117,7 +1118,7 @@
         "Drama",
         "Guerra"
       ],
-      "vote_average": 8.053,
+      "vote_average": 8.085,
       "providers": [],
       "videos": [
         {
