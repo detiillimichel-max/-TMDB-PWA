@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T19:24:55.771036+00:00",
+  "updated_at": "2026-11-07T05:58:46.382167+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 6.809,
+      "vote_average": 6.821,
       "providers": [],
       "videos": [
         {
@@ -65,7 +65,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 6.0,
+      "vote_average": 6.123,
       "providers": [],
       "videos": [
         {
@@ -114,7 +114,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.971,
+      "vote_average": 6.963,
       "providers": [],
       "videos": [
         {
@@ -180,7 +180,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.624,
+      "vote_average": 7.612,
       "providers": [
         {
           "id": 350,
@@ -236,7 +236,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.2,
+      "vote_average": 6.1,
       "providers": [],
       "videos": [
         {
@@ -286,7 +286,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.435,
       "providers": [],
       "videos": [
         {
@@ -366,7 +366,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.52,
       "providers": [
         {
           "id": 8,
@@ -478,7 +478,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.712,
+      "vote_average": 7.681,
       "providers": [],
       "videos": [
         {
@@ -538,7 +538,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.414,
+      "vote_average": 6.4,
       "providers": [],
       "videos": [
         {
@@ -586,7 +586,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.078,
+      "vote_average": 5.9,
       "providers": [],
       "videos": [
         {
@@ -610,11 +610,11 @@
       ],
       "director": "Mark Vanselow",
       "images": [
-        "https://image.tmdb.org/t/p/w780/byuwrUG1nkGv8a2lGkBmD7pULo6.jpg",
-        "https://image.tmdb.org/t/p/w780/fEpP7Kib3LeUz0ckTsNJ52cl1k0.jpg",
         "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+        "https://image.tmdb.org/t/p/w780/byuwrUG1nkGv8a2lGkBmD7pULo6.jpg",
         "https://image.tmdb.org/t/p/w780/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
         "https://image.tmdb.org/t/p/w780/mfWwnoRLARGXAqZ1B8bP8SFIqF6.jpg",
+        "https://image.tmdb.org/t/p/w780/fEpP7Kib3LeUz0ckTsNJ52cl1k0.jpg",
         "https://image.tmdb.org/t/p/w780/lN1UjjelengJU9W4o0YxuQzPJv9.jpg",
         "https://image.tmdb.org/t/p/w780/fB3BRH9MX5u9rRByMFdhNj6WSr7.jpg",
         "https://image.tmdb.org/t/p/w780/2jn9q8cIllmPJJ7MiIFcahXX3Xq.jpg"
@@ -636,7 +636,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.467,
+      "vote_average": 8.475,
       "providers": [],
       "videos": [
         {
@@ -680,10 +680,10 @@
         "https://image.tmdb.org/t/p/w780/xY6ItkVktNDMD2WyLXpNq48PJHy.jpg",
         "https://image.tmdb.org/t/p/w780/vLsUQtNYhc7WmdvXuKZ4QWo272Q.jpg",
         "https://image.tmdb.org/t/p/w780/rVjVuYiHAjftgr19i5Bzy6nzJwW.jpg",
-        "https://image.tmdb.org/t/p/w780/syWdo2DlYe4TdzO18y6RoqXUQco.jpg",
         "https://image.tmdb.org/t/p/w780/5PviCeavBVrkcZH1gCBTcNMBpx.jpg",
         "https://image.tmdb.org/t/p/w780/AuJ2UgwpP4dEqtVoYC7QVLtQMFG.jpg",
-        "https://image.tmdb.org/t/p/w780/p0u4DWwUVUcdKZzlpL3DZPtFs2I.jpg"
+        "https://image.tmdb.org/t/p/w780/p0u4DWwUVUcdKZzlpL3DZPtFs2I.jpg",
+        "https://image.tmdb.org/t/p/w780/iko653iIvEH52Z8wkNJh0hqWyZj.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/791523"
     },
@@ -702,7 +702,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.563,
+      "vote_average": 6.5,
       "providers": [
         {
           "id": 8,
@@ -758,7 +758,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 7.0,
+      "vote_average": 6.9,
       "providers": [],
       "videos": [
         {
@@ -782,14 +782,14 @@
       ],
       "director": "Tazbah Chavez",
       "images": [
+        "https://image.tmdb.org/t/p/w780/hw3d1wDXTsEVyViubbTgHsMIvX0.jpg",
         "https://image.tmdb.org/t/p/w780/xatgo1jY01aMX0CAAVUKArkkvyE.jpg",
         "https://image.tmdb.org/t/p/w780/12jlgCguSZJbvcEyidqepvGDVNq.jpg",
         "https://image.tmdb.org/t/p/w780/svNQqN1ClN1qSv6eXwAoD0QFfZ1.jpg",
         "https://image.tmdb.org/t/p/w780/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
         "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
         "https://image.tmdb.org/t/p/w780/85VF3ggM1cxEqGpaVlXrFPTLd2t.jpg",
-        "https://image.tmdb.org/t/p/w780/igVYPPQuNPhNv3rYBv7mGzczbnx.jpg",
-        "https://image.tmdb.org/t/p/w780/7UIVGUYQy744636cynaETirSK6N.jpg"
+        "https://image.tmdb.org/t/p/w780/igVYPPQuNPhNv3rYBv7mGzczbnx.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1813355"
     },
@@ -807,7 +807,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 8.25,
+      "vote_average": 8.1,
       "providers": [
         {
           "id": 8,
@@ -838,8 +838,8 @@
       "director": "Cathryn Michon",
       "images": [
         "https://image.tmdb.org/t/p/w780/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
-        "https://image.tmdb.org/t/p/w780/53ryl4Cyds4DE91oVPKsunH7J0m.jpg",
         "https://image.tmdb.org/t/p/w780/6OOiqbY4Di0I6dNw0fyOBIxzK5k.jpg",
+        "https://image.tmdb.org/t/p/w780/53ryl4Cyds4DE91oVPKsunH7J0m.jpg",
         "https://image.tmdb.org/t/p/w780/k2l7zvLm8No1K8eLcjCJwG0IpYs.jpg",
         "https://image.tmdb.org/t/p/w780/jfLE82CCfSCkkmutPXHpydSKY6w.jpg",
         "https://image.tmdb.org/t/p/w780/3GxIXiZLatFY6qd0PVM7RyuKaD.jpg",
@@ -863,7 +863,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 8.0,
+      "vote_average": 8.1,
       "providers": [],
       "videos": [
         {
@@ -913,7 +913,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.243,
+      "vote_average": 6.128,
       "providers": [],
       "videos": [
         {
@@ -971,7 +971,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 6.944,
+      "vote_average": 7.136,
       "providers": [],
       "videos": [
         {
@@ -1118,7 +1118,7 @@
         "Drama",
         "Guerra"
       ],
-      "vote_average": 8.085,
+      "vote_average": 8.098,
       "providers": [],
       "videos": [
         {
