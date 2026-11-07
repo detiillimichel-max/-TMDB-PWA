@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T13:01:38.176071+00:00",
+  "updated_at": "2026-11-07T21:51:43.249604+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 6.808,
+      "vote_average": 6.799,
       "providers": [],
       "videos": [
         {
@@ -114,7 +114,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.962,
+      "vote_average": 6.959,
       "providers": [],
       "videos": [
         {
@@ -180,7 +180,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.609,
+      "vote_average": 7.606,
       "providers": [
         {
           "id": 350,
@@ -236,7 +236,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.13,
+      "vote_average": 6.061,
       "providers": [],
       "videos": [
         {
@@ -286,7 +286,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.435,
       "providers": [],
       "videos": [
         {
@@ -366,7 +366,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.504,
       "providers": [
         {
           "id": 8,
@@ -478,7 +478,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.66,
+      "vote_average": 7.64,
       "providers": [],
       "videos": [
         {
@@ -636,7 +636,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.486,
+      "vote_average": 8.477,
       "providers": [],
       "videos": [
         {
@@ -702,7 +702,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.475,
+      "vote_average": 6.414,
       "providers": [
         {
           "id": 8,
@@ -758,7 +758,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.929,
+      "vote_average": 6.942,
       "providers": [],
       "videos": [
         {
@@ -863,7 +863,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 8.189,
+      "vote_average": 8.1,
       "providers": [],
       "videos": [
         {
@@ -888,13 +888,13 @@
       "director": "Takashi Yamazaki",
       "images": [
         "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-        "https://image.tmdb.org/t/p/w780/cWs5aTvPDeh1QCgauVReTw3teyr.jpg",
-        "https://image.tmdb.org/t/p/w780/hyFjwZslMzCQlt7FByPvJciVf4C.jpg",
         "https://image.tmdb.org/t/p/w780/drSQQgzsgXt9NIO9I2n6Bp4lBci.jpg",
+        "https://image.tmdb.org/t/p/w780/hyFjwZslMzCQlt7FByPvJciVf4C.jpg",
         "https://image.tmdb.org/t/p/w780/cYxQ5Q9IyHf6gZoXCrzOFOErMNw.jpg",
         "https://image.tmdb.org/t/p/w780/6Qz4lkQR34myr5tsOnAQFdcbuuX.jpg",
         "https://image.tmdb.org/t/p/w780/rhCg3n4wIu2wkT607h7znedYZBj.jpg",
-        "https://image.tmdb.org/t/p/w780/oiL12oK3fiWCV6lA8zslI3H6zRK.jpg"
+        "https://image.tmdb.org/t/p/w780/oiL12oK3fiWCV6lA8zslI3H6zRK.jpg",
+        "https://image.tmdb.org/t/p/w780/7QRn1bNoETZcCgdvtJpBCz67Rtv.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1381071"
     },
@@ -965,13 +965,13 @@
       "backdrop": "https://image.tmdb.org/t/p/w1280/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
       "overview": "Rama é um príncipe cujo destino é marcado pelo sacrifício, enquanto Ravana é um rei imortal movido pela vingança. Uma profecia une os destinos dos dois.",
       "tagline": "",
-      "runtime": 208,
+      "runtime": 197,
       "genres": [
         "Fantasia",
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.842,
       "providers": [],
       "videos": [
         {
@@ -1095,11 +1095,11 @@
       "images": [
         "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
         "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
-        "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
         "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
-        "https://image.tmdb.org/t/p/w780/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg",
+        "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
         "https://image.tmdb.org/t/p/w780/6TgmIXoVGEDyp0MSoVytIeyfhDR.jpg",
         "https://image.tmdb.org/t/p/w780/pGbP900NvKzOtLWdyH0sWmLQu1G.jpg",
+        "https://image.tmdb.org/t/p/w780/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg",
         "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1003596"
@@ -1118,7 +1118,7 @@
         "Drama",
         "Guerra"
       ],
-      "vote_average": 8.098,
+      "vote_average": 8.1,
       "providers": [],
       "videos": [
         {
