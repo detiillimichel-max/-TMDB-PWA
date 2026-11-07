@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T05:58:46.382167+00:00",
+  "updated_at": "2026-11-07T13:01:38.176071+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Thriller",
         "Drama"
       ],
-      "vote_average": 6.821,
+      "vote_average": 6.808,
       "providers": [],
       "videos": [
         {
@@ -114,7 +114,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.963,
+      "vote_average": 6.962,
       "providers": [],
       "videos": [
         {
@@ -180,7 +180,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.612,
+      "vote_average": 7.609,
       "providers": [
         {
           "id": 350,
@@ -236,7 +236,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.1,
+      "vote_average": 6.13,
       "providers": [],
       "videos": [
         {
@@ -286,7 +286,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.435,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -366,7 +366,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.52,
+      "vote_average": 7.5,
       "providers": [
         {
           "id": 8,
@@ -478,7 +478,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.681,
+      "vote_average": 7.66,
       "providers": [],
       "videos": [
         {
@@ -636,7 +636,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.475,
+      "vote_average": 8.486,
       "providers": [],
       "videos": [
         {
@@ -702,7 +702,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.5,
+      "vote_average": 6.475,
       "providers": [
         {
           "id": 8,
@@ -758,7 +758,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.9,
+      "vote_average": 6.929,
       "providers": [],
       "videos": [
         {
@@ -863,7 +863,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 8.1,
+      "vote_average": 8.189,
       "providers": [],
       "videos": [
         {
@@ -913,7 +913,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.128,
+      "vote_average": 6.167,
       "providers": [],
       "videos": [
         {
@@ -971,7 +971,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.136,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -1132,9 +1132,9 @@
       ],
       "cast": [
         "Guitarricadelafuente",
-        "Milo Quifes",
-        "Carlos González",
         "Miguel Bernardeau",
+        "Carlos González",
+        "Milo Quifes",
         "Lola Dueñas",
         "Penélope Cruz",
         "Glenn Close",
