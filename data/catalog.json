@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T06:01:37.066588+00:00",
+  "updated_at": "2026-11-08T13:25:45.741698+00:00",
   "region": "BR",
   "items": [
     {
@@ -65,7 +65,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.97,
+      "vote_average": 6.966,
       "providers": [],
       "videos": [
         {
@@ -131,7 +131,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.596,
+      "vote_average": 7.593,
       "providers": [
         {
           "id": 350,
@@ -187,7 +187,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.039,
+      "vote_average": 6.028,
       "providers": [],
       "videos": [
         {
@@ -237,7 +237,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.431,
+      "vote_average": 7.449,
       "providers": [],
       "videos": [
         {
@@ -317,7 +317,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.504,
+      "vote_average": 7.5,
       "providers": [
         {
           "id": 8,
@@ -429,7 +429,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.653,
+      "vote_average": 7.688,
       "providers": [],
       "videos": [
         {
@@ -537,7 +537,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 5.816,
+      "vote_average": 5.795,
       "providers": [],
       "videos": [
         {
@@ -587,7 +587,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.5,
+      "vote_average": 8.498,
       "providers": [],
       "videos": [
         {
@@ -653,7 +653,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.493,
+      "vote_average": 6.473,
       "providers": [
         {
           "id": 8,
@@ -758,7 +758,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 8.3,
+      "vote_average": 8.2,
       "providers": [
         {
           "id": 8,
@@ -814,7 +814,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 8.16,
+      "vote_average": 8.1,
       "providers": [],
       "videos": [
         {
@@ -840,12 +840,12 @@
       "images": [
         "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
         "https://image.tmdb.org/t/p/w780/drSQQgzsgXt9NIO9I2n6Bp4lBci.jpg",
-        "https://image.tmdb.org/t/p/w780/hyFjwZslMzCQlt7FByPvJciVf4C.jpg",
-        "https://image.tmdb.org/t/p/w780/cYxQ5Q9IyHf6gZoXCrzOFOErMNw.jpg",
-        "https://image.tmdb.org/t/p/w780/6Qz4lkQR34myr5tsOnAQFdcbuuX.jpg",
-        "https://image.tmdb.org/t/p/w780/rhCg3n4wIu2wkT607h7znedYZBj.jpg",
+        "https://image.tmdb.org/t/p/w780/rV6aarXKIRU5Nk5RfJdbrOLw05a.jpg",
         "https://image.tmdb.org/t/p/w780/oiL12oK3fiWCV6lA8zslI3H6zRK.jpg",
-        "https://image.tmdb.org/t/p/w780/7QRn1bNoETZcCgdvtJpBCz67Rtv.jpg"
+        "https://image.tmdb.org/t/p/w780/7QRn1bNoETZcCgdvtJpBCz67Rtv.jpg",
+        "https://image.tmdb.org/t/p/w780/92SalmRlhl2nuSxNEBIRhpoUW68.jpg",
+        "https://image.tmdb.org/t/p/w780/2OQw6NMAX94Oh0N7EvrB6Y9Zwzd.jpg",
+        "https://image.tmdb.org/t/p/w780/qWZp9e4kDPFJgLFZrjGIRkDSn2S.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1381071"
     },
@@ -970,7 +970,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 8.896,
+      "vote_average": 8.9,
       "providers": [],
       "videos": [
         {
@@ -990,7 +990,7 @@
         "Christopher Abbott",
         "Lance Oppenheim",
         "Christian Rasmus Holmes IV",
-        "Noel Anne"
+        "Noel Anne Holmes"
       ],
       "director": "Nathan Fielder",
       "images": [
@@ -1011,7 +1011,7 @@
       "title": "Vingadores: Doutor Destino",
       "release_date": "2026-12-16",
       "poster": "https://image.tmdb.org/t/p/w500/aSzeVbyyU65420A1646YfHcf6Zt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
       "overview": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
       "tagline": "",
       "runtime": 165,
@@ -1092,10 +1092,10 @@
       ],
       "director": "Joe Russo",
       "images": [
-        "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
         "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
         "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
         "https://image.tmdb.org/t/p/w780/6TgmIXoVGEDyp0MSoVytIeyfhDR.jpg",
+        "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
         "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
         "https://image.tmdb.org/t/p/w780/pGbP900NvKzOtLWdyH0sWmLQu1G.jpg",
         "https://image.tmdb.org/t/p/w780/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg",
@@ -1117,7 +1117,7 @@
         "Drama",
         "Guerra"
       ],
-      "vote_average": 8.093,
+      "vote_average": 8.1,
       "providers": [],
       "videos": [
         {
