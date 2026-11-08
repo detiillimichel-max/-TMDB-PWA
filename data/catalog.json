@@ -1,56 +1,7 @@
 {
-  "updated_at": "2026-11-07T21:51:43.249604+00:00",
+  "updated_at": "2026-11-08T06:01:37.066588+00:00",
   "region": "BR",
   "items": [
-    {
-      "id": 1375441,
-      "type": "movie",
-      "title": "Primetime",
-      "release_date": "2026-09-23",
-      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
-      "overview": "Um jornalista determinado a tirar sua emissora da falência iminente cria um programa para expor ao vivo criminosos e se torna sucesso de audiência mudando a história televisiva. No entanto, um hacker descobre um segredo e os papéis podem acabar se invertendo.",
-      "tagline": "Você está pronto para fazer história na televisão?",
-      "runtime": 110,
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "vote_average": 6.799,
-      "providers": [],
-      "videos": [
-        {
-          "key": "SBry7bmopLA",
-          "name": "Primetime - Official Trailer 2 (2026) Robert Pattinson, Merritt Wever, Skyler Gisondo",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Robert Pattinson",
-        "Merritt Wever",
-        "Skyler Gisondo",
-        "Matthew Maher",
-        "Phoebe Bridgers",
-        "Victor Brunette",
-        "Bokeem Woodbine",
-        "Michael Chachere"
-      ],
-      "director": "Lance Oppenheim",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
-        "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-        "https://image.tmdb.org/t/p/w780/9m0tVJ6JRIbqwtbJThDPFtAn6CY.jpg",
-        "https://image.tmdb.org/t/p/w780/1tJz8e1G21nEuzHlX771MNBRJvM.jpg",
-        "https://image.tmdb.org/t/p/w780/cY6kSevpVp7QpoY2sgYAOzQgejh.jpg",
-        "https://image.tmdb.org/t/p/w780/6lZrQXD8yNIeps5dCAe5jiODtrq.jpg",
-        "https://image.tmdb.org/t/p/w780/9DLdnwZVgfqZMpMhj63cNhdLwQB.jpg",
-        "https://image.tmdb.org/t/p/w780/mv5ywC0VVOT0Tqbcn5AWK1JsoKI.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1375441"
-    },
     {
       "id": 1376400,
       "type": "movie",
@@ -65,7 +16,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 6.123,
+      "vote_average": 6.102,
       "providers": [],
       "videos": [
         {
@@ -114,7 +65,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.959,
+      "vote_average": 6.97,
       "providers": [],
       "videos": [
         {
@@ -180,7 +131,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.606,
+      "vote_average": 7.596,
       "providers": [
         {
           "id": 350,
@@ -236,7 +187,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.061,
+      "vote_average": 6.039,
       "providers": [],
       "videos": [
         {
@@ -286,7 +237,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.435,
+      "vote_average": 7.431,
       "providers": [],
       "videos": [
         {
@@ -478,7 +429,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.64,
+      "vote_average": 7.653,
       "providers": [],
       "videos": [
         {
@@ -586,7 +537,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 5.9,
+      "vote_average": 5.816,
       "providers": [],
       "videos": [
         {
@@ -636,7 +587,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.477,
+      "vote_average": 8.5,
       "providers": [],
       "videos": [
         {
@@ -702,7 +653,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.414,
+      "vote_average": 6.493,
       "providers": [
         {
           "id": 8,
@@ -758,7 +709,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.942,
+      "vote_average": 6.982,
       "providers": [],
       "videos": [
         {
@@ -807,7 +758,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 8.1,
+      "vote_average": 8.3,
       "providers": [
         {
           "id": 8,
@@ -863,7 +814,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 8.1,
+      "vote_average": 8.16,
       "providers": [],
       "videos": [
         {
@@ -913,7 +864,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.167,
+      "vote_average": 6.238,
       "providers": [],
       "videos": [
         {
@@ -971,7 +922,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.842,
+      "vote_average": 7.8,
       "providers": [],
       "videos": [
         {
@@ -1007,12 +958,60 @@
       "tmdb_url": "https://www.themoviedb.org/movie/656908"
     },
     {
+      "id": 1765072,
+      "type": "movie",
+      "title": "Tudo Pode Ser Visto",
+      "release_date": "2026-11-26",
+      "poster": "https://image.tmdb.org/t/p/w500/mnu5cNfijdbuU4iWrV2Lg7AfM0J.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+      "overview": "Trinta e quatro dias antes de ser enviada para a prisão, a notória fundadora do Vale do Silício, Elizabeth Holmes, convida uma equipe de filmagem cética para documentar cada passo seu. O que começa como um retrato íntimo de uma criminosa enigmática se transforma em uma jornada alucinante de três anos rumo ao abismo.",
+      "tagline": "",
+      "runtime": 174,
+      "genres": [
+        "Documentário"
+      ],
+      "vote_average": 8.896,
+      "providers": [],
+      "videos": [
+        {
+          "key": "Yr0LJ7-2Fpo",
+          "name": "TUDO PODE SER VISTO | Trailer (2026) Legendado",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Elizabeth Holmes",
+        "Nathan Fielder",
+        "Billy Evans",
+        "Amanda Seyfried",
+        "Christopher Abbott",
+        "Lance Oppenheim",
+        "Christian Rasmus Holmes IV",
+        "Noel Anne"
+      ],
+      "director": "Nathan Fielder",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+        "https://image.tmdb.org/t/p/w780/uDONA0SCc1Tanl1lizf6lYNoMmr.jpg",
+        "https://image.tmdb.org/t/p/w780/j4be5aJxpRDkWOfF88K4kldaudG.jpg",
+        "https://image.tmdb.org/t/p/w780/sgRg9h6fqCPUVzTKjAap57azga0.jpg",
+        "https://image.tmdb.org/t/p/w780/hJahNruyGNVD4nyFJpeEodFnpgT.jpg",
+        "https://image.tmdb.org/t/p/w780/flr1irwRWJJuB79u4T2t4bAS6OK.jpg",
+        "https://image.tmdb.org/t/p/w780/gCfol52f4veLiaSvGYLHw4mIiSG.jpg",
+        "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1765072"
+    },
+    {
       "id": 1003596,
       "type": "movie",
       "title": "Vingadores: Doutor Destino",
       "release_date": "2026-12-16",
       "poster": "https://image.tmdb.org/t/p/w500/aSzeVbyyU65420A1646YfHcf6Zt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
       "overview": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
       "tagline": "",
       "runtime": 165,
@@ -1093,11 +1092,11 @@
       ],
       "director": "Joe Russo",
       "images": [
+        "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
         "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
         "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
-        "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
-        "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
         "https://image.tmdb.org/t/p/w780/6TgmIXoVGEDyp0MSoVytIeyfhDR.jpg",
+        "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
         "https://image.tmdb.org/t/p/w780/pGbP900NvKzOtLWdyH0sWmLQu1G.jpg",
         "https://image.tmdb.org/t/p/w780/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg",
         "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg"
@@ -1118,7 +1117,7 @@
         "Drama",
         "Guerra"
       ],
-      "vote_average": 8.1,
+      "vote_average": 8.093,
       "providers": [],
       "videos": [
         {
