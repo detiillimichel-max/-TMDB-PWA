@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T13:25:45.741698+00:00",
+  "updated_at": "2026-11-08T22:05:47.161231+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 6.102,
+      "vote_average": 6.1,
       "providers": [],
       "videos": [
         {
@@ -65,7 +65,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.966,
+      "vote_average": 6.975,
       "providers": [],
       "videos": [
         {
@@ -131,7 +131,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.593,
+      "vote_average": 7.601,
       "providers": [
         {
           "id": 350,
@@ -173,6 +173,70 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
     {
+      "id": 1400837,
+      "type": "movie",
+      "title": "Outra Mamãe",
+      "release_date": "2026-10-08",
+      "poster": "https://image.tmdb.org/t/p/w500/j6eXMsykSZnXJT20YTdsdS9PXPj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "overview": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
+      "tagline": "Sua mamãe não vai te salvar.",
+      "runtime": 93,
+      "genres": [
+        "Terror"
+      ],
+      "vote_average": 5.775,
+      "providers": [],
+      "videos": [
+        {
+          "key": "a74ZT4Ncess",
+          "name": "Outra Mamãe | Trailer 2 - Dublado (Universal Pictures) - HD",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "zBf1b5WtiBs",
+          "name": "Outra Mamãe | Trailer (Universal Pictures) - HD",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "WmupdT0zZwM",
+          "name": "Outra Mamãe | Trailer Dublado (Universal Pictures) - HD",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Jessica Chastain",
+        "Jay Duplass",
+        "Arabella Olivia Clark",
+        "Karen Allen",
+        "Arian Moayed",
+        "Dichen Lachman",
+        "Sean Kaufman",
+        "Adam Silver"
+      ],
+      "director": "Rob Savage",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+        "https://image.tmdb.org/t/p/w780/yf5EKtrTKM8pla1TpNA5TsZgoTp.jpg",
+        "https://image.tmdb.org/t/p/w780/6O520Y4noXhI6xb2sHRqecOCywE.jpg",
+        "https://image.tmdb.org/t/p/w780/fqK74DYEkAuvMJXozxiqSujCQU4.jpg",
+        "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+        "https://image.tmdb.org/t/p/w780/qHURF5fju9HYpnEdEj3D4HH8C7q.jpg",
+        "https://image.tmdb.org/t/p/w780/AflbdtwHm1FOXKCFtn8wKaQsAjR.jpg",
+        "https://image.tmdb.org/t/p/w780/oxnzKR0Ag5f35JYiYGs4lTqTG5Q.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1400837"
+    },
+    {
       "id": 1507696,
       "type": "movie",
       "title": "Apocalipse Z: Novo Mundo",
@@ -187,7 +251,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.028,
+      "vote_average": 6.065,
       "providers": [],
       "videos": [
         {
@@ -429,7 +493,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.688,
+      "vote_average": 7.676,
       "providers": [],
       "videos": [
         {
@@ -489,7 +553,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.4,
+      "vote_average": 6.409,
       "providers": [],
       "videos": [
         {
@@ -537,7 +601,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 5.795,
+      "vote_average": 5.657,
       "providers": [],
       "videos": [
         {
@@ -587,7 +651,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.498,
+      "vote_average": 8.5,
       "providers": [],
       "videos": [
         {
@@ -653,7 +717,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.473,
+      "vote_average": 6.428,
       "providers": [
         {
           "id": 8,
@@ -700,7 +764,7 @@
       "title": "Uma História de Derry",
       "release_date": "2026-10-31",
       "poster": "https://image.tmdb.org/t/p/w500/9duTLm4Xk62wGIWJBfdco9lPHvW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hw3d1wDXTsEVyViubbTgHsMIvX0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
       "overview": "Séculos antes da aparição do palhaço Pennywise em Derry, três jovens nativos americanos encontram um aterrorizante espírito ancestral na floresta.",
       "tagline": "",
       "runtime": 29,
@@ -709,7 +773,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.982,
+      "vote_average": 6.899,
       "providers": [],
       "videos": [
         {
@@ -729,16 +793,16 @@
         "MorningStar Angeline",
         "Brandon Oakes",
         "Jennifer Podemski",
-        "Kimberly Guerrero"
+        "Eric Trask"
       ],
       "director": "Tazbah Chavez",
       "images": [
-        "https://image.tmdb.org/t/p/w780/hw3d1wDXTsEVyViubbTgHsMIvX0.jpg",
         "https://image.tmdb.org/t/p/w780/xatgo1jY01aMX0CAAVUKArkkvyE.jpg",
         "https://image.tmdb.org/t/p/w780/12jlgCguSZJbvcEyidqepvGDVNq.jpg",
         "https://image.tmdb.org/t/p/w780/svNQqN1ClN1qSv6eXwAoD0QFfZ1.jpg",
         "https://image.tmdb.org/t/p/w780/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
         "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+        "https://image.tmdb.org/t/p/w780/hw3d1wDXTsEVyViubbTgHsMIvX0.jpg",
         "https://image.tmdb.org/t/p/w780/85VF3ggM1cxEqGpaVlXrFPTLd2t.jpg",
         "https://image.tmdb.org/t/p/w780/igVYPPQuNPhNv3rYBv7mGzczbnx.jpg"
       ],
@@ -758,7 +822,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 8.2,
+      "vote_average": 8.109,
       "providers": [
         {
           "id": 8,
@@ -814,7 +878,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 8.1,
+      "vote_average": 8.067,
       "providers": [],
       "videos": [
         {
@@ -864,7 +928,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.238,
+      "vote_average": 6.25,
       "providers": [],
       "videos": [
         {
@@ -922,7 +986,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.8,
+      "vote_average": 7.857,
       "providers": [],
       "videos": [
         {
@@ -956,54 +1020,6 @@
         "https://image.tmdb.org/t/p/w780/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/656908"
-    },
-    {
-      "id": 1765072,
-      "type": "movie",
-      "title": "Tudo Pode Ser Visto",
-      "release_date": "2026-11-26",
-      "poster": "https://image.tmdb.org/t/p/w500/mnu5cNfijdbuU4iWrV2Lg7AfM0J.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-      "overview": "Trinta e quatro dias antes de ser enviada para a prisão, a notória fundadora do Vale do Silício, Elizabeth Holmes, convida uma equipe de filmagem cética para documentar cada passo seu. O que começa como um retrato íntimo de uma criminosa enigmática se transforma em uma jornada alucinante de três anos rumo ao abismo.",
-      "tagline": "",
-      "runtime": 174,
-      "genres": [
-        "Documentário"
-      ],
-      "vote_average": 8.9,
-      "providers": [],
-      "videos": [
-        {
-          "key": "Yr0LJ7-2Fpo",
-          "name": "TUDO PODE SER VISTO | Trailer (2026) Legendado",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Elizabeth Holmes",
-        "Nathan Fielder",
-        "Billy Evans",
-        "Amanda Seyfried",
-        "Christopher Abbott",
-        "Lance Oppenheim",
-        "Christian Rasmus Holmes IV",
-        "Noel Anne Holmes"
-      ],
-      "director": "Nathan Fielder",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-        "https://image.tmdb.org/t/p/w780/uDONA0SCc1Tanl1lizf6lYNoMmr.jpg",
-        "https://image.tmdb.org/t/p/w780/j4be5aJxpRDkWOfF88K4kldaudG.jpg",
-        "https://image.tmdb.org/t/p/w780/sgRg9h6fqCPUVzTKjAap57azga0.jpg",
-        "https://image.tmdb.org/t/p/w780/hJahNruyGNVD4nyFJpeEodFnpgT.jpg",
-        "https://image.tmdb.org/t/p/w780/flr1irwRWJJuB79u4T2t4bAS6OK.jpg",
-        "https://image.tmdb.org/t/p/w780/gCfol52f4veLiaSvGYLHw4mIiSG.jpg",
-        "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1765072"
     },
     {
       "id": 1003596,
@@ -1117,7 +1133,7 @@
         "Drama",
         "Guerra"
       ],
-      "vote_average": 8.1,
+      "vote_average": 8.092,
       "providers": [],
       "videos": [
         {
