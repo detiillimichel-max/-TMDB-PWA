@@ -1,56 +1,7 @@
 {
-  "updated_at": "2026-11-08T22:05:47.161231+00:00",
+  "updated_at": "2026-11-09T06:30:11.133988+00:00",
   "region": "BR",
   "items": [
-    {
-      "id": 1376400,
-      "type": "movie",
-      "title": "Crawlers",
-      "release_date": "2026-09-24",
-      "poster": "https://image.tmdb.org/t/p/w500/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 80,
-      "genres": [
-        "Terror",
-        "Thriller"
-      ],
-      "vote_average": 6.1,
-      "providers": [],
-      "videos": [
-        {
-          "key": "Jf-2gdU5R4A",
-          "name": "Crawlers - Official Trailer (2026)",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Matilda Lutz",
-        "Gary Anthony Stennette",
-        "Elena Sanz",
-        "Andrea Scott Méndez",
-        "Isabella Marie Egizi",
-        "Sam Lucas Smith",
-        "Gregg Sulkin",
-        "Melina Matthews"
-      ],
-      "director": "Ángel Gómez Hernández",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
-        "https://image.tmdb.org/t/p/w780/wqEFo8ZPOO0zefg08XWQbyRoBgO.jpg",
-        "https://image.tmdb.org/t/p/w780/u21PdabMwpAdil5wmKiuNF3FywF.jpg",
-        "https://image.tmdb.org/t/p/w780/aUyuRnZsdl170jj2iWQ8rtKwdLc.jpg",
-        "https://image.tmdb.org/t/p/w780/8W9LZ2gT3pqfU21r2GH6oRO2PK1.jpg",
-        "https://image.tmdb.org/t/p/w780/7hPRJ8u6zAKqS5Yb8unnk7S7zSx.jpg",
-        "https://image.tmdb.org/t/p/w780/2dEEf0Gj3NHyLEfboIQzbBSWT9C.jpg",
-        "https://image.tmdb.org/t/p/w780/bZXv2tqCugIoY8QG3exV9X8cGy1.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1376400"
-    },
     {
       "id": 1283515,
       "type": "movie",
@@ -65,7 +16,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.975,
+      "vote_average": 6.988,
       "providers": [],
       "videos": [
         {
@@ -185,7 +136,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.775,
+      "vote_average": 5.8,
       "providers": [],
       "videos": [
         {
@@ -251,7 +202,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.065,
+      "vote_average": 6.087,
       "providers": [],
       "videos": [
         {
@@ -292,7 +243,7 @@
       "title": "Cara-de-Barro",
       "release_date": "2026-10-22",
       "poster": "https://image.tmdb.org/t/p/w500/dqvHs2YXks989ScXvsngbqAeBHX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
       "overview": "A ascensão meteórica de Matt Hagen de garoto das ruas de Gotham a astro de Hollywood é tragicamente interrompida quando as ações de um chefão do crime local o deixam terrivelmente desfigurado. Abandonado por sua equipe e sem nada, Matt busca um tratamento de ponta que, milagrosamente, o devolve à sua antiga forma... mas que também afeta, de maneira inesperada, sua percepção da realidade, lançando-o em uma espiral destrutiva de obsessão e vingança.",
       "tagline": "Enfrente o medo cara a cara.",
       "runtime": 109,
@@ -301,7 +252,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.449,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -357,14 +308,14 @@
       ],
       "director": "James Watkins",
       "images": [
-        "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
         "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
         "https://image.tmdb.org/t/p/w780/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
+        "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
         "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
         "https://image.tmdb.org/t/p/w780/3YHeDqu5MCyqan4ptiY8q726vzU.jpg",
+        "https://image.tmdb.org/t/p/w780/3QyLZOEJJgBSDhnE1Ma3QzI82aT.jpg",
         "https://image.tmdb.org/t/p/w780/mEVNRsP4csNzB9vv9JGmQlW7rNB.jpg",
-        "https://image.tmdb.org/t/p/w780/7tqNQlkGpmV6t5xhZkcmhF2325T.jpg",
-        "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg"
+        "https://image.tmdb.org/t/p/w780/7tqNQlkGpmV6t5xhZkcmhF2325T.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1400940"
     },
@@ -493,7 +444,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.676,
+      "vote_average": 7.747,
       "providers": [],
       "videos": [
         {
@@ -553,7 +504,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.409,
+      "vote_average": 6.405,
       "providers": [],
       "videos": [
         {
@@ -595,13 +546,13 @@
       "poster": "https://image.tmdb.org/t/p/w500/3QX08keJGtcIJsCyy4Mdaq28ZGq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
       "overview": "Um herói de guerra falsamente acusado, sem nada a perder, lidera a polícia em uma épica perseguição televisiva de carro pelo país, ajudado por membros de seu antigo batalhão das Forças Especiais do Exército e monitorado de perto por um público fascinado que torce por sua fuga segura.",
-      "tagline": "",
+      "tagline": "Os inocentes não fogem. Eles dirigem.",
       "runtime": 100,
       "genres": [
         "Ação",
         "Thriller"
       ],
-      "vote_average": 5.657,
+      "vote_average": 5.612,
       "providers": [],
       "videos": [
         {
@@ -651,7 +602,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.5,
+      "vote_average": 8.524,
       "providers": [],
       "videos": [
         {
@@ -717,7 +668,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.428,
+      "vote_average": 6.411,
       "providers": [
         {
           "id": 8,
@@ -773,7 +724,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.899,
+      "vote_average": 6.867,
       "providers": [],
       "videos": [
         {
@@ -822,7 +773,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 8.109,
+      "vote_average": 7.914,
       "providers": [
         {
           "id": 8,
@@ -878,7 +829,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 8.067,
+      "vote_average": 8.0,
       "providers": [],
       "videos": [
         {
@@ -914,6 +865,49 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1381071"
     },
     {
+      "id": 1327835,
+      "type": "movie",
+      "title": "மூக்குத்தி அம்மன் 2",
+      "release_date": "2026-11-06",
+      "poster": "https://image.tmdb.org/t/p/w500/dNNzsstJeQxnESyH0hZcLGblLMz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mxrT9YpOPuLq2PpSehAuCGCqu8r.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 144,
+      "genres": [
+        "Fantasia",
+        "Drama",
+        "Comédia"
+      ],
+      "vote_average": 0,
+      "providers": [],
+      "videos": [
+        {
+          "key": "lU40CPN7Ww0",
+          "name": "Meesaya Murukku 2 - Official Trailer | Hiphop Tamizha | Khushbu Sundar | ACS Arun Kumar",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Nayanthara",
+        "Urvashi",
+        "ரெஜினா கசாண்ட்ரா",
+        "யோகி பாபு",
+        "Duniya Vijay",
+        "Myna Nandhini",
+        "Ramachandra Raju",
+        "Abhinaya"
+      ],
+      "director": "Sundar C",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/mxrT9YpOPuLq2PpSehAuCGCqu8r.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1327835"
+    },
+    {
       "id": 1244523,
       "type": "movie",
       "title": "Boiúna : Terror no Amazonas",
@@ -921,14 +915,14 @@
       "poster": "https://image.tmdb.org/t/p/w500/r2HKWQ4kCQsEEsCAQGn5qsl4H29.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
       "overview": "Um grupo de jovens médicos embarca em missão humanitária na Amazônia, cada um com seus próprios interesses ocultos. No entanto, nem todos recebem bem a chegada do grupo, e a visita deles desperta um predador ancestral: a Boiúna. A criatura mítica retorna para defender seu território. Em meio à selva densa, trava-se uma luta pela sobrevivência, e as fronteiras entre caçador e presa, herói e vilão, tornam-se cada vez mais tênues.",
-      "tagline": "",
+      "tagline": "Sair vivo é o maior desafio.",
       "runtime": 103,
       "genres": [
         "Terror",
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.25,
+      "vote_average": 6.2,
       "providers": [],
       "videos": [
         {
@@ -986,7 +980,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.857,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -1133,7 +1127,7 @@
         "Drama",
         "Guerra"
       ],
-      "vote_average": 8.092,
+      "vote_average": 8.064,
       "providers": [],
       "videos": [
         {
