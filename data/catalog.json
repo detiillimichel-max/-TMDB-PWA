@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T06:30:11.133988+00:00",
+  "updated_at": "2026-11-09T22:22:27.777498+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.988,
+      "vote_average": 7.012,
       "providers": [],
       "videos": [
         {
@@ -82,7 +82,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.601,
+      "vote_average": 7.582,
       "providers": [
         {
           "id": 350,
@@ -124,70 +124,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
     {
-      "id": 1400837,
-      "type": "movie",
-      "title": "Outra Mamãe",
-      "release_date": "2026-10-08",
-      "poster": "https://image.tmdb.org/t/p/w500/j6eXMsykSZnXJT20YTdsdS9PXPj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-      "overview": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
-      "tagline": "Sua mamãe não vai te salvar.",
-      "runtime": 93,
-      "genres": [
-        "Terror"
-      ],
-      "vote_average": 5.8,
-      "providers": [],
-      "videos": [
-        {
-          "key": "a74ZT4Ncess",
-          "name": "Outra Mamãe | Trailer 2 - Dublado (Universal Pictures) - HD",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "zBf1b5WtiBs",
-          "name": "Outra Mamãe | Trailer (Universal Pictures) - HD",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "WmupdT0zZwM",
-          "name": "Outra Mamãe | Trailer Dublado (Universal Pictures) - HD",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Jessica Chastain",
-        "Jay Duplass",
-        "Arabella Olivia Clark",
-        "Karen Allen",
-        "Arian Moayed",
-        "Dichen Lachman",
-        "Sean Kaufman",
-        "Adam Silver"
-      ],
-      "director": "Rob Savage",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-        "https://image.tmdb.org/t/p/w780/yf5EKtrTKM8pla1TpNA5TsZgoTp.jpg",
-        "https://image.tmdb.org/t/p/w780/6O520Y4noXhI6xb2sHRqecOCywE.jpg",
-        "https://image.tmdb.org/t/p/w780/fqK74DYEkAuvMJXozxiqSujCQU4.jpg",
-        "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-        "https://image.tmdb.org/t/p/w780/qHURF5fju9HYpnEdEj3D4HH8C7q.jpg",
-        "https://image.tmdb.org/t/p/w780/AflbdtwHm1FOXKCFtn8wKaQsAjR.jpg",
-        "https://image.tmdb.org/t/p/w780/oxnzKR0Ag5f35JYiYGs4lTqTG5Q.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1400837"
-    },
-    {
       "id": 1507696,
       "type": "movie",
       "title": "Apocalipse Z: Novo Mundo",
@@ -202,7 +138,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.087,
+      "vote_average": 6.1,
       "providers": [],
       "videos": [
         {
@@ -252,7 +188,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.44,
       "providers": [],
       "videos": [
         {
@@ -332,7 +268,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.516,
       "providers": [
         {
           "id": 8,
@@ -389,7 +325,7 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 5.7,
+      "vote_average": 5.75,
       "providers": [
         {
           "id": 8,
@@ -444,7 +380,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.747,
+      "vote_average": 7.714,
       "providers": [],
       "videos": [
         {
@@ -504,7 +440,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.405,
+      "vote_average": 6.526,
       "providers": [],
       "videos": [
         {
@@ -552,7 +488,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 5.612,
+      "vote_average": 5.63,
       "providers": [],
       "videos": [
         {
@@ -602,7 +538,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.524,
+      "vote_average": 8.511,
       "providers": [],
       "videos": [
         {
@@ -668,7 +604,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.411,
+      "vote_average": 6.223,
       "providers": [
         {
           "id": 8,
@@ -724,7 +660,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.867,
+      "vote_average": 6.8,
       "providers": [],
       "videos": [
         {
@@ -773,7 +709,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.914,
+      "vote_average": 7.742,
       "providers": [
         {
           "id": 8,
@@ -815,6 +751,56 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1570488"
     },
     {
+      "id": 891621,
+      "type": "movie",
+      "title": "Cavalo Selvagem Nove",
+      "release_date": "2026-11-05",
+      "poster": "https://image.tmdb.org/t/p/w500/mfnJ58xi3BJLDf9sSHAfNm1QJY9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+      "overview": "Pouco antes do golpe de Estado no Chile em 1973, dois agentes da CIA são enviados de Santiago para a Ilha de Páscoa em uma missão de teste de confiança. Entre as famosas estátuas que são o marco da ilha, conhecidas como muais, eles enfrentam passados sombrios e conspirações, enquanto o envolvimento de um dos agentes com estudantes rebeldes ameaça arruinar a viagem.",
+      "tagline": "",
+      "runtime": 120,
+      "genres": [
+        "Comédia",
+        "Crime",
+        "Thriller"
+      ],
+      "vote_average": 8.13,
+      "providers": [],
+      "videos": [
+        {
+          "key": "jainu1e_W9I",
+          "name": "Trailer Oficial Legendado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "John Malkovich",
+        "Sam Rockwell",
+        "Steve Buscemi",
+        "Mariana di Girolamo",
+        "Ailín Salas",
+        "Parker Posey",
+        "Tom Waits",
+        "Paola Giannini"
+      ],
+      "director": "Martin McDonagh",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+        "https://image.tmdb.org/t/p/w780/1bf7dbeoTLNFFwk35bmzvgB6knZ.jpg",
+        "https://image.tmdb.org/t/p/w780/phYik8dKyN85d2iB2K3CphCsugL.jpg",
+        "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
+        "https://image.tmdb.org/t/p/w780/1SpBo9uZ68nMEKbOxEHTf1tIc6d.jpg",
+        "https://image.tmdb.org/t/p/w780/d1Gqj58MO2fIBqqjSGf8zD215bB.jpg",
+        "https://image.tmdb.org/t/p/w780/lOQbM3GoI3djjPgiISTJLm1IziH.jpg",
+        "https://image.tmdb.org/t/p/w780/d9ozzOn1bXcEwYaw2x3SBcWdvSc.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/891621"
+    },
+    {
       "id": 1381071,
       "type": "movie",
       "title": "Godzilla Minus Zero",
@@ -829,7 +815,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 8.0,
+      "vote_average": 7.9,
       "providers": [],
       "videos": [
         {
@@ -922,7 +908,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.2,
+      "vote_average": 6.217,
       "providers": [],
       "videos": [
         {
@@ -974,13 +960,13 @@
       "backdrop": "https://image.tmdb.org/t/p/w1280/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
       "overview": "Rama é um príncipe cujo destino é marcado pelo sacrifício, enquanto Ravana é um rei imortal movido pela vingança. Uma profecia une os destinos dos dois.",
       "tagline": "",
-      "runtime": 197,
+      "runtime": 201,
       "genres": [
         "Fantasia",
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.75,
       "providers": [],
       "videos": [
         {
@@ -1007,11 +993,11 @@
         "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
         "https://image.tmdb.org/t/p/w780/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
         "https://image.tmdb.org/t/p/w780/wE38Vvr1w577h1ndljzaEnXTKQ3.jpg",
-        "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
         "https://image.tmdb.org/t/p/w780/kJAklyTOaIu3BTxYGtlw3m1HlHo.jpg",
         "https://image.tmdb.org/t/p/w780/wfGbMf0e9tZhq7ZQ1uKgtWQCKOl.jpg",
         "https://image.tmdb.org/t/p/w780/xmtdDK5FaBgwDPc9oUSRDmBFJfm.jpg",
-        "https://image.tmdb.org/t/p/w780/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg"
+        "https://image.tmdb.org/t/p/w780/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg",
+        "https://image.tmdb.org/t/p/w780/zCYGEG326MprR1jBxOW2FPiv2dP.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/656908"
     },
@@ -1127,7 +1113,7 @@
         "Drama",
         "Guerra"
       ],
-      "vote_average": 8.064,
+      "vote_average": 8.053,
       "providers": [],
       "videos": [
         {
