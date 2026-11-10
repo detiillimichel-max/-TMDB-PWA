@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T07:18:54.947170+00:00",
+  "updated_at": "2026-11-10T19:44:16.684810+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 7.008,
+      "vote_average": 7.011,
       "providers": [],
       "videos": [
         {
@@ -82,7 +82,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.573,
+      "vote_average": 7.561,
       "providers": [
         {
           "id": 350,
@@ -138,7 +138,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.172,
+      "vote_average": 6.187,
       "providers": [],
       "videos": [
         {
@@ -268,7 +268,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.55,
+      "vote_average": 7.5,
       "providers": [
         {
           "id": 8,
@@ -312,61 +312,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1780005"
     },
     {
-      "id": 1453407,
-      "type": "movie",
-      "title": "Noite Brutal",
-      "release_date": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w500/jqUuc0hkNrrcmp2XWbi859RAwDb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
-      "overview": "Manoj Bajpayee lidera o elenco no papel de um homem moralmente ambíguo que precisa salvar uma mulher e expor uma conspiração mortal em uma noite implacável.",
-      "tagline": "",
-      "runtime": 123,
-      "genres": [
-        "Thriller",
-        "Crime"
-      ],
-      "vote_average": 5.763,
-      "providers": [
-        {
-          "id": 8,
-          "name": "Netflix",
-          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-        }
-      ],
-      "videos": [
-        {
-          "key": "atKr3WiDebA",
-          "name": "Noite Brutal 2026 Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "मनोज बाजपेयी",
-        "Divya Dutta",
-        "Akshay Oberoi",
-        "Saqib Saleem",
-        "Shraddha Das",
-        "Rajiv Gupta",
-        "Aditi Sandhya Sharma",
-        "Nushrratt Bharuccha"
-      ],
-      "director": "Ritesh Shah",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
-        "https://image.tmdb.org/t/p/w780/rPXwYyTRHmGQvMwf8YOX98YTUC7.jpg",
-        "https://image.tmdb.org/t/p/w780/sAyBUF97N31WGGFPXDGE8XAOhUL.jpg",
-        "https://image.tmdb.org/t/p/w780/vbc5FyBHMlBq8y6xWmMNjd84g84.jpg",
-        "https://image.tmdb.org/t/p/w780/fjYFlM7tF8a0QV3lrdivTeae22k.jpg",
-        "https://image.tmdb.org/t/p/w780/33PHTsQhWkaBa7XFZPu99qBUxvL.jpg",
-        "https://image.tmdb.org/t/p/w780/xNKiiYD6yDqIezkbgMr3ZBcWqQ2.jpg",
-        "https://image.tmdb.org/t/p/w780/6FTINdLWFCaMujYWjwdNQVcQIio.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1453407"
-    },
-    {
       "id": 1596275,
       "type": "movie",
       "title": "Velocidade e Paixão",
@@ -380,7 +325,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.691,
+      "vote_average": 7.734,
       "providers": [],
       "videos": [
         {
@@ -440,12 +385,12 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.526,
+      "vote_average": 6.522,
       "providers": [],
       "videos": [
         {
-          "key": "e3xfWXFaxUs",
-          "name": "Um Grande Despertar 2026 Trailer Oficial Legendado",
+          "key": "ijhd9QBwMfo",
+          "name": "El Despertar (2026) The Awakening - HD Trailer Oficial - Colombia - Terror/Accion",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -488,7 +433,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 5.648,
+      "vote_average": 5.675,
       "providers": [],
       "videos": [
         {
@@ -538,7 +483,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.504,
+      "vote_average": 8.5,
       "providers": [],
       "videos": [
         {
@@ -604,7 +549,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.317,
+      "vote_average": 6.353,
       "providers": [
         {
           "id": 8,
@@ -660,12 +605,12 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.864,
+      "vote_average": 6.845,
       "providers": [],
       "videos": [
         {
-          "key": "oKa6u7LT0qE",
-          "name": "IT: Welcome to Derry | Official Trailer | HBO Max",
+          "key": "C33uNCka644",
+          "name": "IT: Bem-Vindos À Derry | Trailer Dublado",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -709,7 +654,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.727,
+      "vote_average": 7.429,
       "providers": [
         {
           "id": 8,
@@ -765,7 +710,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 8.125,
+      "vote_average": 8.135,
       "providers": [],
       "videos": [
         {
@@ -932,7 +877,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 9.0,
+      "vote_average": 9.4,
       "providers": [],
       "videos": [
         {
@@ -965,6 +910,49 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1562642"
     },
     {
+      "id": 1327835,
+      "type": "movie",
+      "title": "மூக்குத்தி அம்மன் 2",
+      "release_date": "2026-11-06",
+      "poster": "https://image.tmdb.org/t/p/w500/dNNzsstJeQxnESyH0hZcLGblLMz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mxrT9YpOPuLq2PpSehAuCGCqu8r.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 144,
+      "genres": [
+        "Fantasia",
+        "Drama",
+        "Comédia"
+      ],
+      "vote_average": 0,
+      "providers": [],
+      "videos": [
+        {
+          "key": "s6AwRUFYZ9s",
+          "name": "Rise of Mahasakthi - Teaser (Tamil) | MookuthiAmman 2 | Nayanthara | SundarC | HipHopTamizha | VELS ",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Nayanthara",
+        "Urvashi",
+        "ரெஜினா கசாண்ட்ரா",
+        "யோகி பாபு",
+        "Duniya Vijay",
+        "Myna Nandhini",
+        "Ramachandra Raju",
+        "Abhinaya"
+      ],
+      "director": "Sundar C",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/mxrT9YpOPuLq2PpSehAuCGCqu8r.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1327835"
+    },
+    {
       "id": 1244523,
       "type": "movie",
       "title": "Boiúna : Terror no Amazonas",
@@ -979,7 +967,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.255,
+      "vote_average": 6.25,
       "providers": [],
       "videos": [
         {
@@ -1028,7 +1016,7 @@
       "title": "Ramayana: O Nascimento de uma Lenda",
       "release_date": "2026-11-19",
       "poster": "https://image.tmdb.org/t/p/w500/lV7b3n4tqwlKGUsl72r3fI7COH1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
       "overview": "Rama é um príncipe cujo destino é marcado pelo sacrifício, enquanto Ravana é um rei imortal movido pela vingança. Uma profecia une os destinos dos dois.",
       "tagline": "",
       "runtime": 201,
@@ -1037,7 +1025,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.732,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -1061,14 +1049,14 @@
       ],
       "director": "Nitesh Tiwari",
       "images": [
-        "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
         "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
         "https://image.tmdb.org/t/p/w780/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
         "https://image.tmdb.org/t/p/w780/wE38Vvr1w577h1ndljzaEnXTKQ3.jpg",
         "https://image.tmdb.org/t/p/w780/kJAklyTOaIu3BTxYGtlw3m1HlHo.jpg",
         "https://image.tmdb.org/t/p/w780/wfGbMf0e9tZhq7ZQ1uKgtWQCKOl.jpg",
         "https://image.tmdb.org/t/p/w780/xmtdDK5FaBgwDPc9oUSRDmBFJfm.jpg",
-        "https://image.tmdb.org/t/p/w780/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg"
+        "https://image.tmdb.org/t/p/w780/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg",
+        "https://image.tmdb.org/t/p/w780/zCYGEG326MprR1jBxOW2FPiv2dP.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/656908"
     },
