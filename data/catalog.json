@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T22:22:27.777498+00:00",
+  "updated_at": "2026-11-10T07:18:54.947170+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 7.012,
+      "vote_average": 7.008,
       "providers": [],
       "videos": [
         {
@@ -82,7 +82,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.582,
+      "vote_average": 7.573,
       "providers": [
         {
           "id": 350,
@@ -138,7 +138,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.1,
+      "vote_average": 6.172,
       "providers": [],
       "videos": [
         {
@@ -188,7 +188,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.44,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -268,7 +268,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.516,
+      "vote_average": 7.55,
       "providers": [
         {
           "id": 8,
@@ -325,7 +325,7 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 5.75,
+      "vote_average": 5.763,
       "providers": [
         {
           "id": 8,
@@ -380,7 +380,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.714,
+      "vote_average": 7.691,
       "providers": [],
       "videos": [
         {
@@ -444,8 +444,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "ijhd9QBwMfo",
-          "name": "El Despertar (2026) The Awakening - HD Trailer Oficial - Colombia - Terror/Accion",
+          "key": "e3xfWXFaxUs",
+          "name": "Um Grande Despertar 2026 Trailer Oficial Legendado",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -488,7 +488,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 5.63,
+      "vote_average": 5.648,
       "providers": [],
       "videos": [
         {
@@ -538,7 +538,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 8.511,
+      "vote_average": 8.504,
       "providers": [],
       "videos": [
         {
@@ -604,7 +604,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.223,
+      "vote_average": 6.317,
       "providers": [
         {
           "id": 8,
@@ -660,7 +660,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.8,
+      "vote_average": 6.864,
       "providers": [],
       "videos": [
         {
@@ -709,7 +709,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.742,
+      "vote_average": 7.727,
       "providers": [
         {
           "id": 8,
@@ -765,7 +765,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 8.13,
+      "vote_average": 8.125,
       "providers": [],
       "videos": [
         {
@@ -815,7 +815,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.9,
+      "vote_average": 8.0,
       "providers": [],
       "videos": [
         {
@@ -851,26 +851,93 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1381071"
     },
     {
-      "id": 1327835,
+      "id": 1117898,
       "type": "movie",
-      "title": "மூக்குத்தி அம்மன் 2",
-      "release_date": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w500/dNNzsstJeQxnESyH0hZcLGblLMz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mxrT9YpOPuLq2PpSehAuCGCqu8r.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 144,
+      "title": "O Gatola da Cartola",
+      "release_date": "2026-11-05",
+      "poster": "https://image.tmdb.org/t/p/w500/sAUr79TPVXMmZrpsqGh6xTH9jy6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+      "overview": "O Gatola da Cartola assume sua tarefa mais difícil até agora no I.I.I.I. — Instituto para Instituir a Imaginação e a Inspiração: animar e alegrar Gabby e Sebastian, dois irmãos com dificuldade para se adaptar à cidade para a qual acabaram de se mudar. Conhecido por levar as situações longe demais, esta pode ser a última chance de o agente do caos provar seu valor... ou perder seu chapéu mágico!",
+      "tagline": "As coisas estão saindo de controle",
+      "runtime": 114,
       "genres": [
+        "Animação",
         "Fantasia",
-        "Drama",
+        "Aventura",
+        "Família",
         "Comédia"
       ],
-      "vote_average": 0,
+      "vote_average": 7.0,
       "providers": [],
       "videos": [
         {
-          "key": "lU40CPN7Ww0",
-          "name": "Meesaya Murukku 2 - Official Trailer | Hiphop Tamizha | Khushbu Sundar | ACS Arun Kumar",
+          "key": "ssLC_FSgUNA",
+          "name": "O Gatola da Cartola | Trailer Oficial #3",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "0iCp1t5bOEU",
+          "name": "Trailer Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "RLbtzIUZpis",
+          "name": "Trailer Oficial Com Acessibilidade",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Bill Hader",
+        "Xochitl Gomez",
+        "Tiago Martinez",
+        "Matt Berry",
+        "Quinta Brunson",
+        "Bowen Yang",
+        "America Ferrera",
+        "Paula Pell"
+      ],
+      "director": "Erica Rivinoja",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/l2r1ZKootwBnFMz1EKo8OP04UsK.jpg",
+        "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+        "https://image.tmdb.org/t/p/w780/tqaEZxmZyzvN0bPXHRKmJHxXVVe.jpg",
+        "https://image.tmdb.org/t/p/w780/56Bepb58k71UUTVwKN1SxHmfzPK.jpg",
+        "https://image.tmdb.org/t/p/w780/xuesjsDedl4jrdKcFeDmtjP6ZXo.jpg",
+        "https://image.tmdb.org/t/p/w780/pFLeuwKNJLC9ETW17uBaUwTWxWl.jpg",
+        "https://image.tmdb.org/t/p/w780/piFhBCQkrn3zpHPvjgF8TbKUxIw.jpg",
+        "https://image.tmdb.org/t/p/w780/pSxlXSJQ7tfKSgrxUWh9PAj4Hw9.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1117898"
+    },
+    {
+      "id": 1562642,
+      "type": "movie",
+      "title": "Ghost Soldier",
+      "release_date": "2026-11-06",
+      "poster": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
+      "overview": "Um engenheiro de sistemas de armas e ex-boina verde protege seus vizinhos em Wyoming contra uma corporação implacável que ameaça sua comunidade rural.",
+      "tagline": "",
+      "runtime": 90,
+      "genres": [
+        "Ação",
+        "Thriller"
+      ],
+      "vote_average": 9.0,
+      "providers": [],
+      "videos": [
+        {
+          "key": "ECkT4kmpPcw",
+          "name": "GHOST SOLDIER Official Trailer 2 (2026) Jim Caviezel",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -878,20 +945,24 @@
         }
       ],
       "cast": [
-        "Nayanthara",
-        "Urvashi",
-        "ரெஜினா கசாண்ட்ரா",
-        "யோகி பாபு",
-        "Duniya Vijay",
-        "Myna Nandhini",
-        "Ramachandra Raju",
-        "Abhinaya"
+        "Jim Caviezel",
+        "Olivia Thirlby",
+        "Beau Knapp",
+        "Garret Dillahunt",
+        "Shea Whigham",
+        "Alexej Manvelov",
+        "Ricky Whittle",
+        "Olivia Chenery"
       ],
-      "director": "Sundar C",
+      "director": "William Eubank",
       "images": [
-        "https://image.tmdb.org/t/p/w780/mxrT9YpOPuLq2PpSehAuCGCqu8r.jpg"
+        "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
+        "https://image.tmdb.org/t/p/w780/nHhkgPp4kZUwlTTEZe5g3MoKl8g.jpg",
+        "https://image.tmdb.org/t/p/w780/rhtE77mUo6I1LBGbtnVphRxcnQb.jpg",
+        "https://image.tmdb.org/t/p/w780/oG2xaOERbYKs9RtEtOBkkDqqChb.jpg",
+        "https://image.tmdb.org/t/p/w780/xN8v8UqG14qOFXSOgc0JrHsB1lN.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1327835"
+      "tmdb_url": "https://www.themoviedb.org/movie/1562642"
     },
     {
       "id": 1244523,
@@ -908,7 +979,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.217,
+      "vote_average": 6.255,
       "providers": [],
       "videos": [
         {
@@ -966,7 +1037,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.75,
+      "vote_average": 7.732,
       "providers": [],
       "videos": [
         {
@@ -990,14 +1061,14 @@
       ],
       "director": "Nitesh Tiwari",
       "images": [
+        "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
         "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
         "https://image.tmdb.org/t/p/w780/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
         "https://image.tmdb.org/t/p/w780/wE38Vvr1w577h1ndljzaEnXTKQ3.jpg",
         "https://image.tmdb.org/t/p/w780/kJAklyTOaIu3BTxYGtlw3m1HlHo.jpg",
         "https://image.tmdb.org/t/p/w780/wfGbMf0e9tZhq7ZQ1uKgtWQCKOl.jpg",
         "https://image.tmdb.org/t/p/w780/xmtdDK5FaBgwDPc9oUSRDmBFJfm.jpg",
-        "https://image.tmdb.org/t/p/w780/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg",
-        "https://image.tmdb.org/t/p/w780/zCYGEG326MprR1jBxOW2FPiv2dP.jpg"
+        "https://image.tmdb.org/t/p/w780/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/656908"
     },
@@ -1098,55 +1169,6 @@
         "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1003596"
-    },
-    {
-      "id": 1422041,
-      "type": "movie",
-      "title": "A Bola Preta",
-      "release_date": "2027-01-21",
-      "poster": "https://image.tmdb.org/t/p/w500/66Pj7O90qWce4pYZYKriVkFNcOS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-      "overview": "As histórias de três homens cujas vidas estão intimamente ligadas pelo desejo, pela dor e pela herança, ao longo de três épocas diferentes: 1932, 1937 e 2017.",
-      "tagline": "",
-      "runtime": 155,
-      "genres": [
-        "Drama",
-        "Guerra"
-      ],
-      "vote_average": 8.053,
-      "providers": [],
-      "videos": [
-        {
-          "key": "8svqSkpiPFM",
-          "name": "Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Guitarricadelafuente",
-        "Miguel Bernardeau",
-        "Carlos González",
-        "Milo Quifes",
-        "Lola Dueñas",
-        "Penélope Cruz",
-        "Glenn Close",
-        "Julio Torres"
-      ],
-      "director": "Javier Ambrossi",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-        "https://image.tmdb.org/t/p/w780/wM4LLukeBIfhjn7LcVP6VIced4p.jpg",
-        "https://image.tmdb.org/t/p/w780/qzHXqn4zCTlXM7nLMxONinCtbL8.jpg",
-        "https://image.tmdb.org/t/p/w780/nA0bMFS66n4Eac76dF7DiapH3eL.jpg",
-        "https://image.tmdb.org/t/p/w780/2Op9yZhuYPIFTWeS7R9vV6bxWLq.jpg",
-        "https://image.tmdb.org/t/p/w780/hVn6r7Fvm43v2QRnLbuqD8mIPML.jpg",
-        "https://image.tmdb.org/t/p/w780/dshLPYcXKL1vomSUx2FVXzSXEK0.jpg",
-        "https://image.tmdb.org/t/p/w780/zBr7wmap2FIAk9KuQnQ6W56Nbnr.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1422041"
     }
   ]
 }
