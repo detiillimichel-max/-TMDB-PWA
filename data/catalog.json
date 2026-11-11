@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T19:44:16.684810+00:00",
+  "updated_at": "2026-11-11T06:22:11.474792+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 7.011,
+      "vote_average": 7.003,
       "providers": [],
       "videos": [
         {
@@ -82,7 +82,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.561,
+      "vote_average": 7.6,
       "providers": [
         {
           "id": 350,
@@ -124,6 +124,70 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1148365"
     },
     {
+      "id": 1400837,
+      "type": "movie",
+      "title": "Outra Mamãe",
+      "release_date": "2026-10-08",
+      "poster": "https://image.tmdb.org/t/p/w500/rGebmBZ7QHlbUEaZn3ufiJeyOfQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "overview": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
+      "tagline": "Sua mamãe não vai te salvar.",
+      "runtime": 94,
+      "genres": [
+        "Terror"
+      ],
+      "vote_average": 5.809,
+      "providers": [],
+      "videos": [
+        {
+          "key": "a74ZT4Ncess",
+          "name": "Outra Mamãe | Trailer 2 - Dublado (Universal Pictures) - HD",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "zBf1b5WtiBs",
+          "name": "Outra Mamãe | Trailer (Universal Pictures) - HD",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "WmupdT0zZwM",
+          "name": "Outra Mamãe | Trailer Dublado (Universal Pictures) - HD",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Jessica Chastain",
+        "Jay Duplass",
+        "Arabella Olivia Clark",
+        "Karen Allen",
+        "Arian Moayed",
+        "Dichen Lachman",
+        "Sean Kaufman",
+        "Adam Silver"
+      ],
+      "director": "Rob Savage",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+        "https://image.tmdb.org/t/p/w780/6O520Y4noXhI6xb2sHRqecOCywE.jpg",
+        "https://image.tmdb.org/t/p/w780/zNaLP9XKRGdLYdKiLjEap5zqYWt.jpg",
+        "https://image.tmdb.org/t/p/w780/fqK74DYEkAuvMJXozxiqSujCQU4.jpg",
+        "https://image.tmdb.org/t/p/w780/yf5EKtrTKM8pla1TpNA5TsZgoTp.jpg",
+        "https://image.tmdb.org/t/p/w780/AflbdtwHm1FOXKCFtn8wKaQsAjR.jpg",
+        "https://image.tmdb.org/t/p/w780/oxnzKR0Ag5f35JYiYGs4lTqTG5Q.jpg",
+        "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1400837"
+    },
+    {
       "id": 1507696,
       "type": "movie",
       "title": "Apocalipse Z: Novo Mundo",
@@ -138,7 +202,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.187,
+      "vote_average": 6.181,
       "providers": [],
       "videos": [
         {
@@ -188,7 +252,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.432,
       "providers": [],
       "videos": [
         {
@@ -244,8 +308,8 @@
       ],
       "director": "James Watkins",
       "images": [
-        "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
         "https://image.tmdb.org/t/p/w780/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
+        "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
         "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
         "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
         "https://image.tmdb.org/t/p/w780/3YHeDqu5MCyqan4ptiY8q726vzU.jpg",
@@ -268,7 +332,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.546,
       "providers": [
         {
           "id": 8,
@@ -325,7 +389,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.734,
+      "vote_average": 7.715,
       "providers": [],
       "videos": [
         {
@@ -385,7 +449,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.522,
+      "vote_average": 6.5,
       "providers": [],
       "videos": [
         {
@@ -433,7 +497,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 5.675,
+      "vote_average": 5.932,
       "providers": [],
       "videos": [
         {
@@ -549,7 +613,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.353,
+      "vote_average": 6.384,
       "providers": [
         {
           "id": 8,
@@ -596,7 +660,7 @@
       "title": "Uma História de Derry",
       "release_date": "2026-10-31",
       "poster": "https://image.tmdb.org/t/p/w500/9duTLm4Xk62wGIWJBfdco9lPHvW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
       "overview": "Séculos antes da aparição do palhaço Pennywise em Derry, três jovens nativos americanos encontram um aterrorizante espírito ancestral na floresta.",
       "tagline": "",
       "runtime": 29,
@@ -605,12 +669,12 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.845,
+      "vote_average": 6.879,
       "providers": [],
       "videos": [
         {
-          "key": "C33uNCka644",
-          "name": "IT: Bem-Vindos À Derry | Trailer Dublado",
+          "key": "oKa6u7LT0qE",
+          "name": "IT: Welcome to Derry | Official Trailer | HBO Max",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -632,11 +696,11 @@
         "https://image.tmdb.org/t/p/w780/xatgo1jY01aMX0CAAVUKArkkvyE.jpg",
         "https://image.tmdb.org/t/p/w780/12jlgCguSZJbvcEyidqepvGDVNq.jpg",
         "https://image.tmdb.org/t/p/w780/svNQqN1ClN1qSv6eXwAoD0QFfZ1.jpg",
-        "https://image.tmdb.org/t/p/w780/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
         "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
         "https://image.tmdb.org/t/p/w780/hw3d1wDXTsEVyViubbTgHsMIvX0.jpg",
-        "https://image.tmdb.org/t/p/w780/85VF3ggM1cxEqGpaVlXrFPTLd2t.jpg",
-        "https://image.tmdb.org/t/p/w780/igVYPPQuNPhNv3rYBv7mGzczbnx.jpg"
+        "https://image.tmdb.org/t/p/w780/7UIVGUYQy744636cynaETirSK6N.jpg",
+        "https://image.tmdb.org/t/p/w780/tljOoMgywY6vgHyRDfWmlipleB0.jpg",
+        "https://image.tmdb.org/t/p/w780/uBNHLvpg2NbpSnczkVGh5whF9gC.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1813355"
     },
@@ -654,7 +718,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.429,
+      "vote_average": 7.4,
       "providers": [
         {
           "id": 8,
@@ -710,7 +774,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 8.135,
+      "vote_average": 8.131,
       "providers": [],
       "videos": [
         {
@@ -760,7 +824,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 8.0,
+      "vote_average": 7.772,
       "providers": [],
       "videos": [
         {
@@ -812,7 +876,7 @@
         "Família",
         "Comédia"
       ],
-      "vote_average": 7.0,
+      "vote_average": 7.2,
       "providers": [],
       "videos": [
         {
@@ -877,7 +941,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 9.4,
+      "vote_average": 8.8,
       "providers": [],
       "videos": [
         {
@@ -910,49 +974,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1562642"
     },
     {
-      "id": 1327835,
-      "type": "movie",
-      "title": "மூக்குத்தி அம்மன் 2",
-      "release_date": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w500/dNNzsstJeQxnESyH0hZcLGblLMz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mxrT9YpOPuLq2PpSehAuCGCqu8r.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 144,
-      "genres": [
-        "Fantasia",
-        "Drama",
-        "Comédia"
-      ],
-      "vote_average": 0,
-      "providers": [],
-      "videos": [
-        {
-          "key": "s6AwRUFYZ9s",
-          "name": "Rise of Mahasakthi - Teaser (Tamil) | MookuthiAmman 2 | Nayanthara | SundarC | HipHopTamizha | VELS ",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Nayanthara",
-        "Urvashi",
-        "ரெஜினா கசாண்ட்ரா",
-        "யோகி பாபு",
-        "Duniya Vijay",
-        "Myna Nandhini",
-        "Ramachandra Raju",
-        "Abhinaya"
-      ],
-      "director": "Sundar C",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/mxrT9YpOPuLq2PpSehAuCGCqu8r.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1327835"
-    },
-    {
       "id": 1244523,
       "type": "movie",
       "title": "Boiúna : Terror no Amazonas",
@@ -967,7 +988,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.25,
+      "vote_average": 6.2,
       "providers": [],
       "videos": [
         {
@@ -1016,7 +1037,7 @@
       "title": "Ramayana: O Nascimento de uma Lenda",
       "release_date": "2026-11-19",
       "poster": "https://image.tmdb.org/t/p/w500/lV7b3n4tqwlKGUsl72r3fI7COH1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
       "overview": "Rama é um príncipe cujo destino é marcado pelo sacrifício, enquanto Ravana é um rei imortal movido pela vingança. Uma profecia une os destinos dos dois.",
       "tagline": "",
       "runtime": 201,
@@ -1025,7 +1046,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
