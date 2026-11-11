@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T06:22:11.474792+00:00",
+  "updated_at": "2026-11-11T19:36:16.677802+00:00",
   "region": "BR",
   "items": [
     {
@@ -128,7 +128,7 @@
       "type": "movie",
       "title": "Outra Mamãe",
       "release_date": "2026-10-08",
-      "poster": "https://image.tmdb.org/t/p/w500/rGebmBZ7QHlbUEaZn3ufiJeyOfQ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/j6eXMsykSZnXJT20YTdsdS9PXPj.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
       "overview": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
       "tagline": "Sua mamãe não vai te salvar.",
@@ -136,7 +136,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.809,
+      "vote_average": 5.8,
       "providers": [],
       "videos": [
         {
@@ -181,9 +181,9 @@
         "https://image.tmdb.org/t/p/w780/zNaLP9XKRGdLYdKiLjEap5zqYWt.jpg",
         "https://image.tmdb.org/t/p/w780/fqK74DYEkAuvMJXozxiqSujCQU4.jpg",
         "https://image.tmdb.org/t/p/w780/yf5EKtrTKM8pla1TpNA5TsZgoTp.jpg",
+        "https://image.tmdb.org/t/p/w780/8KUmqPOx3qsq3iHBH4UaZhMAgz4.jpg",
         "https://image.tmdb.org/t/p/w780/AflbdtwHm1FOXKCFtn8wKaQsAjR.jpg",
-        "https://image.tmdb.org/t/p/w780/oxnzKR0Ag5f35JYiYGs4lTqTG5Q.jpg",
-        "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg"
+        "https://image.tmdb.org/t/p/w780/oxnzKR0Ag5f35JYiYGs4lTqTG5Q.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1400837"
     },
@@ -202,7 +202,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.181,
+      "vote_average": 6.204,
       "providers": [],
       "videos": [
         {
@@ -243,7 +243,7 @@
       "title": "Cara-de-Barro",
       "release_date": "2026-10-22",
       "poster": "https://image.tmdb.org/t/p/w500/dqvHs2YXks989ScXvsngbqAeBHX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
       "overview": "A ascensão meteórica de Matt Hagen de garoto das ruas de Gotham a astro de Hollywood é tragicamente interrompida quando as ações de um chefão do crime local o deixam terrivelmente desfigurado. Abandonado por sua equipe e sem nada, Matt busca um tratamento de ponta que, milagrosamente, o devolve à sua antiga forma... mas que também afeta, de maneira inesperada, sua percepção da realidade, lançando-o em uma espiral destrutiva de obsessão e vingança.",
       "tagline": "Enfrente o medo cara a cara.",
       "runtime": 109,
@@ -252,7 +252,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.432,
+      "vote_average": 7.426,
       "providers": [],
       "videos": [
         {
@@ -332,7 +332,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.546,
+      "vote_average": 7.564,
       "providers": [
         {
           "id": 8,
@@ -389,7 +389,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.715,
+      "vote_average": 7.609,
       "providers": [],
       "videos": [
         {
@@ -489,7 +489,7 @@
       "title": "Fuga Mortal",
       "release_date": "2026-10-29",
       "poster": "https://image.tmdb.org/t/p/w500/3QX08keJGtcIJsCyy4Mdaq28ZGq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/aezAUwTATFwXVvN1HUTglE8NGwu.jpg",
       "overview": "Um herói de guerra falsamente acusado, sem nada a perder, lidera a polícia em uma épica perseguição televisiva de carro pelo país, ajudado por membros de seu antigo batalhão das Forças Especiais do Exército e monitorado de perto por um público fascinado que torce por sua fuga segura.",
       "tagline": "Os inocentes não fogem. Eles dirigem.",
       "runtime": 100,
@@ -497,7 +497,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 5.932,
+      "vote_average": 5.874,
       "providers": [],
       "videos": [
         {
@@ -521,14 +521,14 @@
       ],
       "director": "Mark Vanselow",
       "images": [
+        "https://image.tmdb.org/t/p/w780/aezAUwTATFwXVvN1HUTglE8NGwu.jpg",
         "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
         "https://image.tmdb.org/t/p/w780/byuwrUG1nkGv8a2lGkBmD7pULo6.jpg",
         "https://image.tmdb.org/t/p/w780/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
         "https://image.tmdb.org/t/p/w780/mfWwnoRLARGXAqZ1B8bP8SFIqF6.jpg",
         "https://image.tmdb.org/t/p/w780/fEpP7Kib3LeUz0ckTsNJ52cl1k0.jpg",
         "https://image.tmdb.org/t/p/w780/lN1UjjelengJU9W4o0YxuQzPJv9.jpg",
-        "https://image.tmdb.org/t/p/w780/fB3BRH9MX5u9rRByMFdhNj6WSr7.jpg",
-        "https://image.tmdb.org/t/p/w780/2jn9q8cIllmPJJ7MiIFcahXX3Xq.jpg"
+        "https://image.tmdb.org/t/p/w780/fB3BRH9MX5u9rRByMFdhNj6WSr7.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1294189"
     },
@@ -669,7 +669,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.879,
+      "vote_average": 6.757,
       "providers": [],
       "videos": [
         {
@@ -718,7 +718,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.141,
       "providers": [
         {
           "id": 8,
@@ -774,7 +774,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 8.131,
+      "vote_average": 8.108,
       "providers": [],
       "videos": [
         {
@@ -824,7 +824,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.772,
+      "vote_average": 7.8,
       "providers": [],
       "videos": [
         {
@@ -860,74 +860,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1381071"
     },
     {
-      "id": 1117898,
-      "type": "movie",
-      "title": "O Gatola da Cartola",
-      "release_date": "2026-11-05",
-      "poster": "https://image.tmdb.org/t/p/w500/sAUr79TPVXMmZrpsqGh6xTH9jy6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
-      "overview": "O Gatola da Cartola assume sua tarefa mais difícil até agora no I.I.I.I. — Instituto para Instituir a Imaginação e a Inspiração: animar e alegrar Gabby e Sebastian, dois irmãos com dificuldade para se adaptar à cidade para a qual acabaram de se mudar. Conhecido por levar as situações longe demais, esta pode ser a última chance de o agente do caos provar seu valor... ou perder seu chapéu mágico!",
-      "tagline": "As coisas estão saindo de controle",
-      "runtime": 114,
-      "genres": [
-        "Animação",
-        "Fantasia",
-        "Aventura",
-        "Família",
-        "Comédia"
-      ],
-      "vote_average": 7.2,
-      "providers": [],
-      "videos": [
-        {
-          "key": "ssLC_FSgUNA",
-          "name": "O Gatola da Cartola | Trailer Oficial #3",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "0iCp1t5bOEU",
-          "name": "Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "RLbtzIUZpis",
-          "name": "Trailer Oficial Com Acessibilidade",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Bill Hader",
-        "Xochitl Gomez",
-        "Tiago Martinez",
-        "Matt Berry",
-        "Quinta Brunson",
-        "Bowen Yang",
-        "America Ferrera",
-        "Paula Pell"
-      ],
-      "director": "Erica Rivinoja",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/l2r1ZKootwBnFMz1EKo8OP04UsK.jpg",
-        "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
-        "https://image.tmdb.org/t/p/w780/tqaEZxmZyzvN0bPXHRKmJHxXVVe.jpg",
-        "https://image.tmdb.org/t/p/w780/56Bepb58k71UUTVwKN1SxHmfzPK.jpg",
-        "https://image.tmdb.org/t/p/w780/xuesjsDedl4jrdKcFeDmtjP6ZXo.jpg",
-        "https://image.tmdb.org/t/p/w780/pFLeuwKNJLC9ETW17uBaUwTWxWl.jpg",
-        "https://image.tmdb.org/t/p/w780/piFhBCQkrn3zpHPvjgF8TbKUxIw.jpg",
-        "https://image.tmdb.org/t/p/w780/pSxlXSJQ7tfKSgrxUWh9PAj4Hw9.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1117898"
-    },
-    {
       "id": 1562642,
       "type": "movie",
       "title": "Ghost Soldier",
@@ -941,7 +873,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.8,
+      "vote_average": 9.0,
       "providers": [],
       "videos": [
         {
@@ -974,6 +906,49 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1562642"
     },
     {
+      "id": 1327835,
+      "type": "movie",
+      "title": "மூக்குத்தி அம்மன் 2",
+      "release_date": "2026-11-06",
+      "poster": "https://image.tmdb.org/t/p/w500/dNNzsstJeQxnESyH0hZcLGblLMz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mxrT9YpOPuLq2PpSehAuCGCqu8r.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 144,
+      "genres": [
+        "Fantasia",
+        "Drama",
+        "Comédia"
+      ],
+      "vote_average": 0,
+      "providers": [],
+      "videos": [
+        {
+          "key": "s6AwRUFYZ9s",
+          "name": "Rise of Mahasakthi - Teaser (Tamil) | MookuthiAmman 2 | Nayanthara | SundarC | HipHopTamizha | VELS ",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Nayanthara",
+        "Urvashi",
+        "ரெஜினா கசாண்ட்ரா",
+        "யோகி பாபு",
+        "Duniya Vijay",
+        "Myna Nandhini",
+        "Ramachandra Raju",
+        "Abhinaya"
+      ],
+      "director": "Sundar C",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/mxrT9YpOPuLq2PpSehAuCGCqu8r.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1327835"
+    },
+    {
       "id": 1244523,
       "type": "movie",
       "title": "Boiúna : Terror no Amazonas",
@@ -988,7 +963,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.2,
+      "vote_average": 6.157,
       "providers": [],
       "videos": [
         {
@@ -1046,7 +1021,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.7,
       "providers": [],
       "videos": [
         {
