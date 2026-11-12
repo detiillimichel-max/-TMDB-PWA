@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T07:11:17.057601+00:00",
+  "updated_at": "2026-11-12T19:54:28.639831+00:00",
   "region": "BR",
   "items": [
     {
@@ -82,7 +82,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.553,
+      "vote_average": 7.557,
       "providers": [
         {
           "id": 350,
@@ -136,7 +136,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.8,
+      "vote_average": 5.925,
       "providers": [],
       "videos": [
         {
@@ -202,7 +202,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.223,
+      "vote_average": 6.218,
       "providers": [],
       "videos": [
         {
@@ -227,13 +227,13 @@
       "director": "Carles Torrens",
       "images": [
         "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+        "https://image.tmdb.org/t/p/w780/ergNq6Ay27QK0mZJW1SFoOKJOha.jpg",
         "https://image.tmdb.org/t/p/w780/w6Jfwtn82wGMfo0ejgRvCM9w2xE.jpg",
         "https://image.tmdb.org/t/p/w780/rsplI45pVrTbySO7MqQgW9HLXvj.jpg",
         "https://image.tmdb.org/t/p/w780/6aERDyDEKKKb3OcTY6RYA2AgXUA.jpg",
         "https://image.tmdb.org/t/p/w780/q9WZ9W6KvVNqj0Btw46gnIYPdMK.jpg",
         "https://image.tmdb.org/t/p/w780/SeQojlDTCwnU2tgWWQi4UFXmr9.jpg",
-        "https://image.tmdb.org/t/p/w780/cKrsMlLdUkkRYUQEcqBDUg2i3oL.jpg",
-        "https://image.tmdb.org/t/p/w780/fbxFZdK7K5ZKoSFeFmd9QHRRmtH.jpg"
+        "https://image.tmdb.org/t/p/w780/cKrsMlLdUkkRYUQEcqBDUg2i3oL.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1507696"
     },
@@ -243,7 +243,7 @@
       "title": "Cara-de-Barro",
       "release_date": "2026-10-22",
       "poster": "https://image.tmdb.org/t/p/w500/dqvHs2YXks989ScXvsngbqAeBHX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
       "overview": "A ascensão meteórica de Matt Hagen de garoto das ruas de Gotham a astro de Hollywood é tragicamente interrompida quando as ações de um chefão do crime local o deixam terrivelmente desfigurado. Abandonado por sua equipe e sem nada, Matt busca um tratamento de ponta que, milagrosamente, o devolve à sua antiga forma... mas que também afeta, de maneira inesperada, sua percepção da realidade, lançando-o em uma espiral destrutiva de obsessão e vingança.",
       "tagline": "Enfrente o medo cara a cara.",
       "runtime": 109,
@@ -252,7 +252,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.43,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -332,7 +332,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.564,
+      "vote_average": 7.523,
       "providers": [
         {
           "id": 8,
@@ -389,7 +389,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.584,
+      "vote_average": 7.574,
       "providers": [],
       "videos": [
         {
@@ -449,12 +449,12 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.508,
+      "vote_average": 6.538,
       "providers": [],
       "videos": [
         {
-          "key": "e3xfWXFaxUs",
-          "name": "Um Grande Despertar 2026 Trailer Oficial Legendado",
+          "key": "ijhd9QBwMfo",
+          "name": "El Despertar (2026) The Awakening - HD Trailer Oficial - Colombia - Terror/Accion",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -497,7 +497,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.073,
+      "vote_average": 6.1,
       "providers": [],
       "videos": [
         {
@@ -548,7 +548,7 @@
         "Aventura",
         "Drama"
       ],
-      "vote_average": 8.48,
+      "vote_average": 8.464,
       "providers": [],
       "videos": [
         {
@@ -614,7 +614,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.315,
+      "vote_average": 6.312,
       "providers": [
         {
           "id": 8,
@@ -670,12 +670,12 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.755,
+      "vote_average": 6.8,
       "providers": [],
       "videos": [
         {
-          "key": "oKa6u7LT0qE",
-          "name": "IT: Welcome to Derry | Official Trailer | HBO Max",
+          "key": "9LAiKjfsCFg",
+          "name": "IT: Bem Vindos A Derry | Trailer Oficial | HBO Max",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -719,7 +719,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.25,
+      "vote_average": 7.244,
       "providers": [
         {
           "id": 8,
@@ -775,7 +775,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 8.083,
+      "vote_average": 8.1,
       "providers": [],
       "videos": [
         {
@@ -825,7 +825,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.842,
+      "vote_average": 7.843,
       "providers": [],
       "videos": [
         {
@@ -907,49 +907,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1562642"
     },
     {
-      "id": 1327835,
-      "type": "movie",
-      "title": "மூக்குத்தி அம்மன் 2",
-      "release_date": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w500/dNNzsstJeQxnESyH0hZcLGblLMz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mxrT9YpOPuLq2PpSehAuCGCqu8r.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 144,
-      "genres": [
-        "Fantasia",
-        "Drama",
-        "Comédia"
-      ],
-      "vote_average": 0,
-      "providers": [],
-      "videos": [
-        {
-          "key": "s6AwRUFYZ9s",
-          "name": "Rise of Mahasakthi - Teaser (Tamil) | MookuthiAmman 2 | Nayanthara | SundarC | HipHopTamizha | VELS ",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Nayanthara",
-        "Urvashi",
-        "ரெஜினா கசாண்ட்ரா",
-        "யோகி பாபு",
-        "Duniya Vijay",
-        "Myna Nandhini",
-        "Ramachandra Raju",
-        "Abhinaya"
-      ],
-      "director": "Sundar C",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/mxrT9YpOPuLq2PpSehAuCGCqu8r.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1327835"
-    },
-    {
       "id": 1244523,
       "type": "movie",
       "title": "Boiúna : Terror no Amazonas",
@@ -964,7 +921,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.1,
+      "vote_average": 6.147,
       "providers": [],
       "videos": [
         {
@@ -1008,6 +965,63 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1244523"
     },
     {
+      "id": 1567605,
+      "type": "movie",
+      "title": "Ebenezer e os Fantasmas do Natal",
+      "release_date": "2026-11-12",
+      "poster": "https://image.tmdb.org/t/p/w500/7MBeM27NNcCYUszjTNYJUycPDhV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+      "overview": "Ebenezer Scrooge é um velho avarento que recebe a visita do fantasma de seu antigo sócio, Jacob Marley, e dos Espíritos do Natal Passado, Presente e Futuro. Os encontros o força a confrontar o próprio passado e a lutar por uma segunda chance de ser feliz.",
+      "tagline": "Antes de ser Scrooge, ele era Ebenézer.",
+      "runtime": 115,
+      "genres": [
+        "Fantasia",
+        "Comédia"
+      ],
+      "vote_average": 8.368,
+      "providers": [],
+      "videos": [
+        {
+          "key": "jouBFFKteGY",
+          "name": "Ebenezer e os Fantasmas do Natal | Trailer Oficial 2 | DUB | Paramount Pictures Brasil",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "x4VyyZONfPE",
+          "name": "Trailer Oficial | DUB",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Johnny Depp",
+        "Rupert Grint",
+        "Daisy Ridley",
+        "Tramell Tillman",
+        "Ian McKellen",
+        "Andrea Riseborough",
+        "Sam Claflin",
+        "Arthur Conti"
+      ],
+      "director": "Ti West",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+        "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
+        "https://image.tmdb.org/t/p/w780/bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
+        "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
+        "https://image.tmdb.org/t/p/w780/vrzZM9fdevl2syF6igHAMfRAwP8.jpg",
+        "https://image.tmdb.org/t/p/w780/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg",
+        "https://image.tmdb.org/t/p/w780/nAkH7yDch9ZsIPxuDTHOFZDI4hb.jpg",
+        "https://image.tmdb.org/t/p/w780/dixTT6Dz5j2tsQZFrj4EFCiIgeL.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1567605"
+    },
+    {
       "id": 656908,
       "type": "movie",
       "title": "Ramayana: O Nascimento de uma Lenda",
@@ -1022,7 +1036,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.8,
+      "vote_average": 7.625,
       "providers": [],
       "videos": [
         {
