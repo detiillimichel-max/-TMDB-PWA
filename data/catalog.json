@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T19:36:16.677802+00:00",
+  "updated_at": "2026-11-12T07:11:17.057601+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 7.003,
+      "vote_average": 6.996,
       "providers": [],
       "videos": [
         {
@@ -82,7 +82,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.553,
       "providers": [
         {
           "id": 350,
@@ -128,7 +128,7 @@
       "type": "movie",
       "title": "Outra Mamãe",
       "release_date": "2026-10-08",
-      "poster": "https://image.tmdb.org/t/p/w500/j6eXMsykSZnXJT20YTdsdS9PXPj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hiuBB4ZqGbL7uihdVPUahFtg7Zr.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
       "overview": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
       "tagline": "Sua mamãe não vai te salvar.",
@@ -202,7 +202,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.204,
+      "vote_average": 6.223,
       "providers": [],
       "videos": [
         {
@@ -252,7 +252,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.426,
+      "vote_average": 7.43,
       "providers": [],
       "videos": [
         {
@@ -389,7 +389,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.609,
+      "vote_average": 7.584,
       "providers": [],
       "videos": [
         {
@@ -449,12 +449,12 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.5,
+      "vote_average": 6.508,
       "providers": [],
       "videos": [
         {
-          "key": "ijhd9QBwMfo",
-          "name": "El Despertar (2026) The Awakening - HD Trailer Oficial - Colombia - Terror/Accion",
+          "key": "e3xfWXFaxUs",
+          "name": "Um Grande Despertar 2026 Trailer Oficial Legendado",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -497,7 +497,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 5.874,
+      "vote_average": 6.073,
       "providers": [],
       "videos": [
         {
@@ -544,10 +544,11 @@
       "runtime": 130,
       "genres": [
         "Animação",
+        "Fantasia",
         "Aventura",
-        "Fantasia"
+        "Drama"
       ],
-      "vote_average": 8.5,
+      "vote_average": 8.48,
       "providers": [],
       "videos": [
         {
@@ -613,7 +614,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.384,
+      "vote_average": 6.315,
       "providers": [
         {
           "id": 8,
@@ -669,7 +670,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.757,
+      "vote_average": 6.755,
       "providers": [],
       "videos": [
         {
@@ -718,7 +719,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.141,
+      "vote_average": 7.25,
       "providers": [
         {
           "id": 8,
@@ -774,7 +775,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 8.108,
+      "vote_average": 8.083,
       "providers": [],
       "videos": [
         {
@@ -824,7 +825,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.8,
+      "vote_average": 7.842,
       "providers": [],
       "videos": [
         {
@@ -963,7 +964,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.157,
+      "vote_average": 6.1,
       "providers": [],
       "videos": [
         {
@@ -1021,7 +1022,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.7,
+      "vote_average": 7.8,
       "providers": [],
       "videos": [
         {
