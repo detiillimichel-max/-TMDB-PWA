@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T19:54:28.639831+00:00",
+  "updated_at": "2026-11-13T06:46:26.472323+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.996,
+      "vote_average": 6.993,
       "providers": [],
       "videos": [
         {
@@ -82,7 +82,7 @@
         "Comédia",
         "Aventura"
       ],
-      "vote_average": 7.557,
+      "vote_average": 7.545,
       "providers": [
         {
           "id": 350,
@@ -136,7 +136,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 5.925,
+      "vote_average": 6.143,
       "providers": [],
       "videos": [
         {
@@ -166,12 +166,12 @@
       ],
       "cast": [
         "Jessica Chastain",
-        "Jay Duplass",
         "Arabella Olivia Clark",
+        "Jay Duplass",
         "Karen Allen",
         "Arian Moayed",
-        "Dichen Lachman",
         "Sean Kaufman",
+        "Dichen Lachman",
         "Adam Silver"
       ],
       "director": "Rob Savage",
@@ -202,7 +202,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.218,
+      "vote_average": 6.228,
       "providers": [],
       "videos": [
         {
@@ -236,6 +236,71 @@
         "https://image.tmdb.org/t/p/w780/cKrsMlLdUkkRYUQEcqBDUg2i3oL.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1507696"
+    },
+    {
+      "id": 1153576,
+      "type": "movie",
+      "title": "Street Fighter",
+      "release_date": "2026-10-15",
+      "poster": "https://image.tmdb.org/t/p/w500/6gWmrC2GyDbUM1ET5EBg9lxBi7S.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
+      "overview": "Em 1993, os lutadores Ryu e Ken Masters são colocados de volta no combate quando a misteriosa Chun-Li os recruta para o próximo Torneio Street Fighter: uma brutal briga de socos, destino e fúria. Entretanto, por trás desse campeonato, se esconde uma conspiração mortal que os força a encarar um ao outro e os demônios do passado. E se eles não fizerem, é game over!",
+      "tagline": "Preparar. Apontar. Lutar.",
+      "runtime": 119,
+      "genres": [
+        "Ação",
+        "Fantasia"
+      ],
+      "vote_average": 6.3,
+      "providers": [],
+      "videos": [
+        {
+          "key": "kcjEOsxg1FY",
+          "name": "Street Fighter | Novo Trailer | DUB | Paramount Pictures Brasil",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "v2OqsnruLfI",
+          "name": "Street Fighter | Trailer Oficial | DUB | Paramount Pictures Brasil",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "f8W8CrdZd8o",
+          "name": "Trailer Teaser",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Andrew Koji",
+        "Noah Centineo",
+        "Callina Liang",
+        "David Dastmalchian",
+        "Andrew Schulz",
+        "Roman Reigns",
+        "Cody Rhodes",
+        "Jason Momoa"
+      ],
+      "director": "Kitao Sakurai",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
+        "https://image.tmdb.org/t/p/w780/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
+        "https://image.tmdb.org/t/p/w780/9vNW8ysMKIbefbEQOFEZIKpMqwZ.jpg",
+        "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
+        "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+        "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
+        "https://image.tmdb.org/t/p/w780/6kJENBnZsVZuhYTSR3zZi6FUe30.jpg",
+        "https://image.tmdb.org/t/p/w780/bfiOm4QESARLzMEMtuUYYjD39xn.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1153576"
     },
     {
       "id": 1400940,
@@ -308,9 +373,9 @@
       ],
       "director": "James Watkins",
       "images": [
-        "https://image.tmdb.org/t/p/w780/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
-        "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
         "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+        "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+        "https://image.tmdb.org/t/p/w780/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
         "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
         "https://image.tmdb.org/t/p/w780/3YHeDqu5MCyqan4ptiY8q726vzU.jpg",
         "https://image.tmdb.org/t/p/w780/3QyLZOEJJgBSDhnE1Ma3QzI82aT.jpg",
@@ -332,7 +397,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.523,
+      "vote_average": 7.496,
       "providers": [
         {
           "id": 8,
@@ -449,12 +514,12 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.538,
+      "vote_average": 6.573,
       "providers": [],
       "videos": [
         {
-          "key": "ijhd9QBwMfo",
-          "name": "El Despertar (2026) The Awakening - HD Trailer Oficial - Colombia - Terror/Accion",
+          "key": "e3xfWXFaxUs",
+          "name": "Um Grande Despertar 2026 Trailer Oficial Legendado",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -489,7 +554,7 @@
       "title": "Fuga Mortal",
       "release_date": "2026-10-29",
       "poster": "https://image.tmdb.org/t/p/w500/3QX08keJGtcIJsCyy4Mdaq28ZGq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/aezAUwTATFwXVvN1HUTglE8NGwu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
       "overview": "Um herói de guerra falsamente acusado, sem nada a perder, lidera a polícia em uma épica perseguição televisiva de carro pelo país, ajudado por membros de seu antigo batalhão das Forças Especiais do Exército e monitorado de perto por um público fascinado que torce por sua fuga segura.",
       "tagline": "Os inocentes não fogem. Eles dirigem.",
       "runtime": 100,
@@ -497,7 +562,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.1,
+      "vote_average": 6.14,
       "providers": [],
       "videos": [
         {
@@ -521,8 +586,8 @@
       ],
       "director": "Mark Vanselow",
       "images": [
-        "https://image.tmdb.org/t/p/w780/aezAUwTATFwXVvN1HUTglE8NGwu.jpg",
         "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+        "https://image.tmdb.org/t/p/w780/aezAUwTATFwXVvN1HUTglE8NGwu.jpg",
         "https://image.tmdb.org/t/p/w780/byuwrUG1nkGv8a2lGkBmD7pULo6.jpg",
         "https://image.tmdb.org/t/p/w780/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
         "https://image.tmdb.org/t/p/w780/mfWwnoRLARGXAqZ1B8bP8SFIqF6.jpg",
@@ -548,7 +613,7 @@
         "Aventura",
         "Drama"
       ],
-      "vote_average": 8.464,
+      "vote_average": 8.5,
       "providers": [],
       "videos": [
         {
@@ -670,12 +735,12 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.8,
+      "vote_average": 6.708,
       "providers": [],
       "videos": [
         {
-          "key": "9LAiKjfsCFg",
-          "name": "IT: Bem Vindos A Derry | Trailer Oficial | HBO Max",
+          "key": "oKa6u7LT0qE",
+          "name": "IT: Welcome to Derry | Official Trailer | HBO Max",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -719,7 +784,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.244,
+      "vote_average": 7.1,
       "providers": [
         {
           "id": 8,
@@ -761,56 +826,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1570488"
     },
     {
-      "id": 891621,
-      "type": "movie",
-      "title": "Cavalo Selvagem Nove",
-      "release_date": "2026-11-05",
-      "poster": "https://image.tmdb.org/t/p/w500/mfnJ58xi3BJLDf9sSHAfNm1QJY9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
-      "overview": "Pouco antes do golpe de Estado no Chile em 1973, dois agentes da CIA são enviados de Santiago para a Ilha de Páscoa em uma missão de teste de confiança. Entre as famosas estátuas que são o marco da ilha, conhecidas como muais, eles enfrentam passados sombrios e conspirações, enquanto o envolvimento de um dos agentes com estudantes rebeldes ameaça arruinar a viagem.",
-      "tagline": "",
-      "runtime": 120,
-      "genres": [
-        "Comédia",
-        "Crime",
-        "Thriller"
-      ],
-      "vote_average": 8.1,
-      "providers": [],
-      "videos": [
-        {
-          "key": "jainu1e_W9I",
-          "name": "Trailer Oficial Legendado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "John Malkovich",
-        "Sam Rockwell",
-        "Steve Buscemi",
-        "Mariana di Girolamo",
-        "Ailín Salas",
-        "Parker Posey",
-        "Tom Waits",
-        "Paola Giannini"
-      ],
-      "director": "Martin McDonagh",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
-        "https://image.tmdb.org/t/p/w780/1bf7dbeoTLNFFwk35bmzvgB6knZ.jpg",
-        "https://image.tmdb.org/t/p/w780/phYik8dKyN85d2iB2K3CphCsugL.jpg",
-        "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
-        "https://image.tmdb.org/t/p/w780/1SpBo9uZ68nMEKbOxEHTf1tIc6d.jpg",
-        "https://image.tmdb.org/t/p/w780/d1Gqj58MO2fIBqqjSGf8zD215bB.jpg",
-        "https://image.tmdb.org/t/p/w780/lOQbM3GoI3djjPgiISTJLm1IziH.jpg",
-        "https://image.tmdb.org/t/p/w780/d9ozzOn1bXcEwYaw2x3SBcWdvSc.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/891621"
-    },
-    {
       "id": 1381071,
       "type": "movie",
       "title": "Godzilla Minus Zero",
@@ -825,7 +840,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.843,
+      "vote_average": 7.774,
       "providers": [],
       "videos": [
         {
@@ -840,12 +855,12 @@
       "cast": [
         "Ryunosuke Kamiki",
         "Minami Hamabe",
+        "田中泯",
+        "Hidetaka Yoshioka",
+        "長澤まさみ",
         "Yuki Yamada",
         "Kuranosuke Sasaki",
-        "國村隼",
-        "Miou Tanaka",
-        "Sakura Ando",
-        "長澤まさみ"
+        "國村隼"
       ],
       "director": "Takashi Yamazaki",
       "images": [
@@ -921,7 +936,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.147,
+      "vote_average": 6.144,
       "providers": [],
       "videos": [
         {
@@ -978,7 +993,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 8.368,
+      "vote_average": 7.778,
       "providers": [],
       "videos": [
         {
@@ -1036,7 +1051,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.625,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
