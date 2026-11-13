@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T06:46:26.472323+00:00",
+  "updated_at": "2026-11-13T19:43:01.404991+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.993,
+      "vote_average": 6.991,
       "providers": [],
       "videos": [
         {
@@ -68,62 +68,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1283515"
     },
     {
-      "id": 1148365,
-      "type": "movie",
-      "title": "Matchbox - O Filme",
-      "release_date": "2026-10-05",
-      "poster": "https://image.tmdb.org/t/p/w500/hgPJA0NTmXYpPA3cgh4ZrI1PubL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-      "overview": "Quando um grupo de antigos amigos de infância se reencontra, o encontro toma um rumo inesperado ao se depararem com uma perigosa trama internacional e precisarem salvar o mundo.",
-      "tagline": "Salve o mundo, traga seus amigos.",
-      "runtime": 127,
-      "genres": [
-        "Ação",
-        "Comédia",
-        "Aventura"
-      ],
-      "vote_average": 7.545,
-      "providers": [
-        {
-          "id": 350,
-          "name": "Apple TV",
-          "logo": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
-        }
-      ],
-      "videos": [
-        {
-          "key": "ayRffYn4SQE",
-          "name": "Trailer oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "John Cena",
-        "Jessica Biel",
-        "Arturo Castro",
-        "Sam Richardson",
-        "Teyonah Parris",
-        "Danai Gurira",
-        "گلشیفته فراهانی",
-        "Corey Stoll"
-      ],
-      "director": "Sam Hargrave",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-        "https://image.tmdb.org/t/p/w780/a6xhB0qRkb961MNJYHlYwdfIXRo.jpg",
-        "https://image.tmdb.org/t/p/w780/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
-        "https://image.tmdb.org/t/p/w780/oOofgKLAWUhHGohxXdRm3yLOWYw.jpg",
-        "https://image.tmdb.org/t/p/w780/aCHV4smCVIrMiPJw5CFtXedLjjh.jpg",
-        "https://image.tmdb.org/t/p/w780/xxDWHFz7eE77OBsqNJjrDcRgKff.jpg",
-        "https://image.tmdb.org/t/p/w780/dbixfjL3yu6lrwzFyeaTH5jArN4.jpg",
-        "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1148365"
-    },
-    {
       "id": 1400837,
       "type": "movie",
       "title": "Outra Mamãe",
@@ -136,7 +80,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 6.143,
+      "vote_average": 6.158,
       "providers": [],
       "videos": [
         {
@@ -202,7 +146,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.228,
+      "vote_average": 6.207,
       "providers": [],
       "videos": [
         {
@@ -243,7 +187,7 @@
       "title": "Street Fighter",
       "release_date": "2026-10-15",
       "poster": "https://image.tmdb.org/t/p/w500/6gWmrC2GyDbUM1ET5EBg9lxBi7S.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
       "overview": "Em 1993, os lutadores Ryu e Ken Masters são colocados de volta no combate quando a misteriosa Chun-Li os recruta para o próximo Torneio Street Fighter: uma brutal briga de socos, destino e fúria. Entretanto, por trás desse campeonato, se esconde uma conspiração mortal que os força a encarar um ao outro e os demônios do passado. E se eles não fizerem, é game over!",
       "tagline": "Preparar. Apontar. Lutar.",
       "runtime": 119,
@@ -251,7 +195,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.3,
+      "vote_average": 6.298,
       "providers": [],
       "videos": [
         {
@@ -291,9 +235,9 @@
       ],
       "director": "Kitao Sakurai",
       "images": [
-        "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
         "https://image.tmdb.org/t/p/w780/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
         "https://image.tmdb.org/t/p/w780/9vNW8ysMKIbefbEQOFEZIKpMqwZ.jpg",
+        "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
         "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
         "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
         "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
@@ -385,62 +329,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1400940"
     },
     {
-      "id": 1780005,
-      "type": "movie",
-      "title": "Contra o Furacão",
-      "release_date": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w500/aAkMQit6uVKpBMbIP8HsJrgXlGG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
-      "overview": "No meio do mar, Wirpul e seu meio-irmão Candi lutam pela sobrevivência quando uma tempestade inesperada se transforma no furacão Otis, um furacão de categoria 5, na costa de Acapulco.",
-      "tagline": "",
-      "runtime": 97,
-      "genres": [
-        "Drama"
-      ],
-      "vote_average": 7.496,
-      "providers": [
-        {
-          "id": 8,
-          "name": "Netflix",
-          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-        }
-      ],
-      "videos": [
-        {
-          "key": "cGiZj9zl52Y",
-          "name": "Contra o Furacão 2026 Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "zKApuso5SCo",
-          "name": "Contra el Huracán | Tráiler oficial | Netflix",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Benny Emmanuel",
-        "Kristyan Ferrer",
-        "Mónica del Carmen",
-        "Mónica Jiménez",
-        "Andrew Leland Rogers",
-        "Gonzalo Vega Jr.",
-        "Daira Mendoza"
-      ],
-      "director": "Jorge Michel Grau",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
-        "https://image.tmdb.org/t/p/w780/izXBnjQ7H3cdM9BEuMs3UwETTJV.jpg",
-        "https://image.tmdb.org/t/p/w780/8YM9IOC8YpUM2GdvzOQH0Q7Bl1X.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1780005"
-    },
-    {
       "id": 1596275,
       "type": "movie",
       "title": "Velocidade e Paixão",
@@ -454,7 +342,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.574,
+      "vote_average": 7.585,
       "providers": [],
       "videos": [
         {
@@ -514,7 +402,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.573,
+      "vote_average": 6.536,
       "providers": [],
       "videos": [
         {
@@ -562,7 +450,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.14,
+      "vote_average": 6.2,
       "providers": [],
       "videos": [
         {
@@ -610,10 +498,9 @@
       "genres": [
         "Animação",
         "Fantasia",
-        "Aventura",
-        "Drama"
+        "Aventura"
       ],
-      "vote_average": 8.5,
+      "vote_average": 8.465,
       "providers": [],
       "videos": [
         {
@@ -679,7 +566,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.312,
+      "vote_average": 6.348,
       "providers": [
         {
           "id": 8,
@@ -735,7 +622,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.708,
+      "vote_average": 6.7,
       "providers": [],
       "videos": [
         {
@@ -784,7 +671,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.1,
+      "vote_average": 7.125,
       "providers": [
         {
           "id": 8,
@@ -826,6 +713,56 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1570488"
     },
     {
+      "id": 891621,
+      "type": "movie",
+      "title": "Cavalo Selvagem Nove",
+      "release_date": "2026-11-05",
+      "poster": "https://image.tmdb.org/t/p/w500/mfnJ58xi3BJLDf9sSHAfNm1QJY9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+      "overview": "Pouco antes do golpe de Estado no Chile em 1973, dois agentes da CIA são enviados de Santiago para a Ilha de Páscoa em uma missão de teste de confiança. Entre as famosas estátuas que são o marco da ilha, conhecidas como muais, eles enfrentam passados sombrios e conspirações, enquanto o envolvimento de um dos agentes com estudantes rebeldes ameaça arruinar a viagem.",
+      "tagline": "",
+      "runtime": 120,
+      "genres": [
+        "Comédia",
+        "Crime",
+        "Thriller"
+      ],
+      "vote_average": 8.102,
+      "providers": [],
+      "videos": [
+        {
+          "key": "jainu1e_W9I",
+          "name": "Trailer Oficial Legendado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "John Malkovich",
+        "Sam Rockwell",
+        "Steve Buscemi",
+        "Mariana di Girolamo",
+        "Ailín Salas",
+        "Parker Posey",
+        "Tom Waits",
+        "Paola Giannini"
+      ],
+      "director": "Martin McDonagh",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+        "https://image.tmdb.org/t/p/w780/1bf7dbeoTLNFFwk35bmzvgB6knZ.jpg",
+        "https://image.tmdb.org/t/p/w780/phYik8dKyN85d2iB2K3CphCsugL.jpg",
+        "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
+        "https://image.tmdb.org/t/p/w780/1SpBo9uZ68nMEKbOxEHTf1tIc6d.jpg",
+        "https://image.tmdb.org/t/p/w780/d1Gqj58MO2fIBqqjSGf8zD215bB.jpg",
+        "https://image.tmdb.org/t/p/w780/lOQbM3GoI3djjPgiISTJLm1IziH.jpg",
+        "https://image.tmdb.org/t/p/w780/d9ozzOn1bXcEwYaw2x3SBcWdvSc.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/891621"
+    },
+    {
       "id": 1381071,
       "type": "movie",
       "title": "Godzilla Minus Zero",
@@ -840,7 +777,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.774,
+      "vote_average": 7.8,
       "providers": [],
       "videos": [
         {
@@ -926,7 +863,7 @@
       "type": "movie",
       "title": "Boiúna : Terror no Amazonas",
       "release_date": "2026-11-12",
-      "poster": "https://image.tmdb.org/t/p/w500/r2HKWQ4kCQsEEsCAQGn5qsl4H29.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mCyttsR7mW91v2Mpy5AXMCtWKAK.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
       "overview": "Um grupo de jovens médicos embarca em missão humanitária na Amazônia, cada um com seus próprios interesses ocultos. No entanto, nem todos recebem bem a chegada do grupo, e a visita deles desperta um predador ancestral: a Boiúna. A criatura mítica retorna para defender seu território. Em meio à selva densa, trava-se uma luta pela sobrevivência, e as fronteiras entre caçador e presa, herói e vilão, tornam-se cada vez mais tênues.",
       "tagline": "Sair vivo é o maior desafio.",
@@ -936,7 +873,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.144,
+      "vote_average": 6.2,
       "providers": [],
       "videos": [
         {
@@ -993,7 +930,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.778,
+      "vote_average": 7.844,
       "providers": [],
       "videos": [
         {
@@ -1028,13 +965,67 @@
         "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
         "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
         "https://image.tmdb.org/t/p/w780/bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
+        "https://image.tmdb.org/t/p/w780/1xlpGn67p0rYP9tJq5W0H8NGXsL.jpg",
         "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
         "https://image.tmdb.org/t/p/w780/vrzZM9fdevl2syF6igHAMfRAwP8.jpg",
         "https://image.tmdb.org/t/p/w780/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg",
-        "https://image.tmdb.org/t/p/w780/nAkH7yDch9ZsIPxuDTHOFZDI4hb.jpg",
-        "https://image.tmdb.org/t/p/w780/dixTT6Dz5j2tsQZFrj4EFCiIgeL.jpg"
+        "https://image.tmdb.org/t/p/w780/nAkH7yDch9ZsIPxuDTHOFZDI4hb.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1567605"
+    },
+    {
+      "id": 1616687,
+      "type": "movie",
+      "title": "Sem Desistir",
+      "release_date": "2026-11-12",
+      "poster": "https://image.tmdb.org/t/p/w500/k0f4a5RVBwLJUq3UYXnfcOaXjCu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+      "overview": "Depois que uma gangue violenta invade sua casa isolada, um veterano atormentado pela culpa e os netos que ele mal conhece precisam unir forças para sobreviver.",
+      "tagline": "",
+      "runtime": 140,
+      "genres": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "vote_average": 7.5,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "8H-hmOxsyGE",
+          "name": "Sem Desistir | Trailer oficial | Netflix",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Lukman Sardi",
+        "Callista Arum",
+        "Sulthan Hamonangan",
+        "Derby Romero",
+        "Donny Alamsyah",
+        "Ismi Melinda",
+        "Laras Sardi",
+        "Dennis Adishwara"
+      ],
+      "director": "Sidharta Tata",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+        "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
+        "https://image.tmdb.org/t/p/w780/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg",
+        "https://image.tmdb.org/t/p/w780/1ngwrORtxlaCFMnJBTaQp2O2U3e.jpg",
+        "https://image.tmdb.org/t/p/w780/idWYM68ru3F43zCR8nLksJSyG8V.jpg",
+        "https://image.tmdb.org/t/p/w780/oFXfw4CynigC70uJ8tyHtJ9rv5u.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1616687"
     },
     {
       "id": 656908,
