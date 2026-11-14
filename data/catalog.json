@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T06:23:49.944033+00:00",
+  "updated_at": "2026-11-14T18:01:55.677424+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Mistério",
         "Thriller"
       ],
-      "vote_average": 6.992,
+      "vote_average": 6.986,
       "providers": [],
       "videos": [
         {
@@ -68,62 +68,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1283515"
     },
     {
-      "id": 1148365,
-      "type": "movie",
-      "title": "Matchbox - O Filme",
-      "release_date": "2026-10-05",
-      "poster": "https://image.tmdb.org/t/p/w500/hgPJA0NTmXYpPA3cgh4ZrI1PubL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-      "overview": "Quando um grupo de antigos amigos de infância se reencontra, o encontro toma um rumo inesperado ao se depararem com uma perigosa trama internacional e precisarem salvar o mundo.",
-      "tagline": "Salve o mundo, traga seus amigos.",
-      "runtime": 127,
-      "genres": [
-        "Ação",
-        "Comédia",
-        "Aventura"
-      ],
-      "vote_average": 7.536,
-      "providers": [
-        {
-          "id": 350,
-          "name": "Apple TV",
-          "logo": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
-        }
-      ],
-      "videos": [
-        {
-          "key": "ayRffYn4SQE",
-          "name": "Trailer oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "John Cena",
-        "Jessica Biel",
-        "Arturo Castro",
-        "Sam Richardson",
-        "Teyonah Parris",
-        "Danai Gurira",
-        "گلشیفته فراهانی",
-        "Corey Stoll"
-      ],
-      "director": "Sam Hargrave",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-        "https://image.tmdb.org/t/p/w780/a6xhB0qRkb961MNJYHlYwdfIXRo.jpg",
-        "https://image.tmdb.org/t/p/w780/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
-        "https://image.tmdb.org/t/p/w780/oOofgKLAWUhHGohxXdRm3yLOWYw.jpg",
-        "https://image.tmdb.org/t/p/w780/aCHV4smCVIrMiPJw5CFtXedLjjh.jpg",
-        "https://image.tmdb.org/t/p/w780/xxDWHFz7eE77OBsqNJjrDcRgKff.jpg",
-        "https://image.tmdb.org/t/p/w780/dbixfjL3yu6lrwzFyeaTH5jArN4.jpg",
-        "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1148365"
-    },
-    {
       "id": 1400837,
       "type": "movie",
       "title": "Outra Mamãe",
@@ -136,7 +80,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 6.241,
+      "vote_average": 6.3,
       "providers": [],
       "videos": [
         {
@@ -202,7 +146,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.19,
+      "vote_average": 6.203,
       "providers": [],
       "videos": [
         {
@@ -251,7 +195,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.314,
+      "vote_average": 6.309,
       "providers": [],
       "videos": [
         {
@@ -317,7 +261,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.403,
+      "vote_average": 7.389,
       "providers": [],
       "videos": [
         {
@@ -398,7 +342,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.599,
+      "vote_average": 7.613,
       "providers": [],
       "videos": [
         {
@@ -434,10 +378,10 @@
         "https://image.tmdb.org/t/p/w780/4yhMroSvsvdYjZGx6T575aTkyB8.jpg",
         "https://image.tmdb.org/t/p/w780/5aM6VbwVSFSzAkndENRj5qPk0fI.jpg",
         "https://image.tmdb.org/t/p/w780/7KGt51UrEX6bfke8XNMeJ0DmEDZ.jpg",
-        "https://image.tmdb.org/t/p/w780/znaZxN2lMydZpVRFaQMvcV4Fedi.jpg",
         "https://image.tmdb.org/t/p/w780/6fpA69MtfyrnoXH5aJHMmW0SOmu.jpg",
         "https://image.tmdb.org/t/p/w780/dw5G9bYehBz2DrQeY6zrBM2SYrn.jpg",
-        "https://image.tmdb.org/t/p/w780/umDu9Kwovtdtg2IKoSVQLCipgMQ.jpg"
+        "https://image.tmdb.org/t/p/w780/umDu9Kwovtdtg2IKoSVQLCipgMQ.jpg",
+        "https://image.tmdb.org/t/p/w780/n3VWaNuqpyUfVBilXI5SiC7QEZ8.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1596275"
     },
@@ -458,7 +402,7 @@
         "Fantasia",
         "Thriller"
       ],
-      "vote_average": 6.536,
+      "vote_average": 6.5,
       "providers": [],
       "videos": [
         {
@@ -506,7 +450,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.263,
+      "vote_average": 6.266,
       "providers": [],
       "videos": [
         {
@@ -622,7 +566,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.348,
+      "vote_average": 6.345,
       "providers": [
         {
           "id": 8,
@@ -678,7 +622,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.709,
+      "vote_average": 6.7,
       "providers": [],
       "videos": [
         {
@@ -727,7 +671,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.123,
+      "vote_average": 7.173,
       "providers": [
         {
           "id": 8,
@@ -783,7 +727,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.753,
+      "vote_average": 7.754,
       "providers": [],
       "videos": [
         {
@@ -832,7 +776,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.6,
+      "vote_average": 8.833,
       "providers": [],
       "videos": [
         {
@@ -879,7 +823,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 7.571,
+      "vote_average": 7.4,
       "providers": [
         {
           "id": 8,
@@ -914,9 +858,67 @@
         "https://image.tmdb.org/t/p/w780/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg",
         "https://image.tmdb.org/t/p/w780/1ngwrORtxlaCFMnJBTaQp2O2U3e.jpg",
         "https://image.tmdb.org/t/p/w780/idWYM68ru3F43zCR8nLksJSyG8V.jpg",
-        "https://image.tmdb.org/t/p/w780/oFXfw4CynigC70uJ8tyHtJ9rv5u.jpg"
+        "https://image.tmdb.org/t/p/w780/oFXfw4CynigC70uJ8tyHtJ9rv5u.jpg",
+        "https://image.tmdb.org/t/p/w780/Af1I2r8NdPxlWonkrOAg6zSMmel.jpg",
+        "https://image.tmdb.org/t/p/w780/u7V8S4zZTlgmvLzfDEM322YXAzg.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1616687"
+    },
+    {
+      "id": 1518204,
+      "type": "movie",
+      "title": "Allen",
+      "release_date": "2026-11-12",
+      "poster": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+      "overview": "Uma combinação de aventura alienígena e homenagem às amizades da infância, esta ficção científica é uma história sensível sobre tudo o que não conseguimos deixar para trás.",
+      "tagline": "",
+      "runtime": 106,
+      "genres": [
+        "Ficção científica",
+        "Aventura",
+        "Comédia"
+      ],
+      "vote_average": 6.909,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "lIdGfZ7X7iE",
+          "name": "Allen 2026 Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "T.J. Power",
+        "Charlotte Nicdao",
+        "Josh Helman",
+        "Emily Barclay",
+        "Benedict Hardie",
+        "Elijah Tamati",
+        "Edward A O'Sullivan",
+        "Caitlin Niemotko"
+      ],
+      "director": "Daley Pearson",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+        "https://image.tmdb.org/t/p/w780/1hQEhz0uMKsEZXWUe7IB1qZoLRs.jpg",
+        "https://image.tmdb.org/t/p/w780/lx28W2g0lWtOYSKWHV58ydj7G6V.jpg",
+        "https://image.tmdb.org/t/p/w780/eowzuJXdoR7byFtvOj9krY90vgc.jpg",
+        "https://image.tmdb.org/t/p/w780/zZxtUAwWTa9gvkIK79hkh1zl9WH.jpg",
+        "https://image.tmdb.org/t/p/w780/kFh0OPHcW63CavdujF5OPgEcmMO.jpg",
+        "https://image.tmdb.org/t/p/w780/mlR0s6HyXe5PJAJLn4uMXplmy18.jpg",
+        "https://image.tmdb.org/t/p/w780/2d1i3VhVL73A0LP1aoi9raHOlOW.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1518204"
     },
     {
       "id": 1244523,
@@ -990,7 +992,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.898,
+      "vote_average": 7.878,
       "providers": [],
       "videos": [
         {
@@ -1022,11 +1024,11 @@
       ],
       "director": "Ti West",
       "images": [
-        "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+        "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
         "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
+        "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
         "https://image.tmdb.org/t/p/w780/bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
         "https://image.tmdb.org/t/p/w780/1xlpGn67p0rYP9tJq5W0H8NGXsL.jpg",
-        "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
         "https://image.tmdb.org/t/p/w780/vrzZM9fdevl2syF6igHAMfRAwP8.jpg",
         "https://image.tmdb.org/t/p/w780/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg",
         "https://image.tmdb.org/t/p/w780/nAkH7yDch9ZsIPxuDTHOFZDI4hb.jpg"
@@ -1048,7 +1050,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
@@ -1061,7 +1063,7 @@
         }
       ],
       "cast": [
-        "रणबीर कपूर",
+        "Ranbir Kapoor",
         "Yash",
         "Sai Pallavi",
         "Ravi Dubey",
