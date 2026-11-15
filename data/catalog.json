@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T06:33:12.522921+00:00",
+  "updated_at": "2026-11-15T18:51:33.851530+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.299,
+      "vote_average": 6.312,
       "providers": [],
       "videos": [
         {
@@ -82,7 +82,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.174,
+      "vote_average": 6.185,
       "providers": [],
       "videos": [
         {
@@ -131,7 +131,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.285,
+      "vote_average": 6.286,
       "providers": [],
       "videos": [
         {
@@ -197,7 +197,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.393,
+      "vote_average": 7.39,
       "providers": [],
       "videos": [
         {
@@ -278,7 +278,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.582,
+      "vote_average": 7.596,
       "providers": [],
       "videos": [
         {
@@ -342,8 +342,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "ijhd9QBwMfo",
-          "name": "El Despertar (2026) The Awakening - HD Trailer Oficial - Colombia - Terror/Accion",
+          "key": "e3xfWXFaxUs",
+          "name": "Um Grande Despertar 2026 Trailer Oficial Legendado",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -386,7 +386,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.201,
+      "vote_average": 6.234,
       "providers": [],
       "videos": [
         {
@@ -436,7 +436,7 @@
         "Fantasia",
         "Aventura"
       ],
-      "vote_average": 8.48,
+      "vote_average": 8.484,
       "providers": [],
       "videos": [
         {
@@ -502,7 +502,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.362,
+      "vote_average": 6.321,
       "providers": [
         {
           "id": 8,
@@ -607,7 +607,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.152,
+      "vote_average": 7.2,
       "providers": [
         {
           "id": 8,
@@ -649,56 +649,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1570488"
     },
     {
-      "id": 891621,
-      "type": "movie",
-      "title": "Cavalo Selvagem Nove",
-      "release_date": "2026-11-05",
-      "poster": "https://image.tmdb.org/t/p/w500/mfnJ58xi3BJLDf9sSHAfNm1QJY9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
-      "overview": "Pouco antes do golpe de Estado no Chile em 1973, dois agentes da CIA são enviados de Santiago para a Ilha de Páscoa em uma missão de teste de confiança. Entre as famosas estátuas que são o marco da ilha, conhecidas como muais, eles enfrentam passados sombrios e conspirações, enquanto o envolvimento de um dos agentes com estudantes rebeldes ameaça arruinar a viagem.",
-      "tagline": "",
-      "runtime": 120,
-      "genres": [
-        "Comédia",
-        "Crime",
-        "Thriller"
-      ],
-      "vote_average": 7.9,
-      "providers": [],
-      "videos": [
-        {
-          "key": "jainu1e_W9I",
-          "name": "Trailer Oficial Legendado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "John Malkovich",
-        "Sam Rockwell",
-        "Steve Buscemi",
-        "Mariana di Girolamo",
-        "Ailín Salas",
-        "Parker Posey",
-        "Tom Waits",
-        "Paola Giannini"
-      ],
-      "director": "Martin McDonagh",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
-        "https://image.tmdb.org/t/p/w780/1bf7dbeoTLNFFwk35bmzvgB6knZ.jpg",
-        "https://image.tmdb.org/t/p/w780/phYik8dKyN85d2iB2K3CphCsugL.jpg",
-        "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
-        "https://image.tmdb.org/t/p/w780/1SpBo9uZ68nMEKbOxEHTf1tIc6d.jpg",
-        "https://image.tmdb.org/t/p/w780/d1Gqj58MO2fIBqqjSGf8zD215bB.jpg",
-        "https://image.tmdb.org/t/p/w780/lOQbM3GoI3djjPgiISTJLm1IziH.jpg",
-        "https://image.tmdb.org/t/p/w780/d9ozzOn1bXcEwYaw2x3SBcWdvSc.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/891621"
-    },
-    {
       "id": 1381071,
       "type": "movie",
       "title": "Godzilla Minus Zero",
@@ -713,7 +663,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.76,
+      "vote_average": 7.7,
       "providers": [],
       "videos": [
         {
@@ -753,7 +703,7 @@
       "type": "movie",
       "title": "Ghost Soldier",
       "release_date": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/h1MUn834b2u1FDQWObUBwp5jlHJ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
       "overview": "Um engenheiro de sistemas de armas e ex-boina verde protege seus vizinhos em Wyoming contra uma corporação implacável que ameaça sua comunidade rural.",
       "tagline": "",
@@ -762,11 +712,11 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.7,
+      "vote_average": 8.882,
       "providers": [],
       "videos": [
         {
-          "key": "ECkT4kmpPcw",
+          "key": "5M6slSNsQvQ",
           "name": "GHOST SOLDIER Official Trailer 2 (2026) Jim Caviezel",
           "type": "Trailer",
           "official": false,
@@ -809,7 +759,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 7.068,
+      "vote_average": 7.1,
       "providers": [
         {
           "id": 8,
@@ -857,9 +807,9 @@
       "release_date": "2026-11-12",
       "poster": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
-      "overview": "Uma combinação de aventura alienígena e homenagem às amizades da infância, esta ficção científica é uma história sensível sobre tudo o que não conseguimos deixar para trás.",
+      "overview": "Vinte anos se passaram, e Petey nunca conseguiu tirar da cabeça seu encontro extraterrestre. Até que o amigo alienígena retorna, mas por um motivo complicado e muito inesperado.",
       "tagline": "",
-      "runtime": 106,
+      "runtime": 107,
       "genres": [
         "Ficção científica",
         "Aventura",
@@ -970,7 +920,7 @@
       "title": "Ebenezer e os Fantasmas do Natal",
       "release_date": "2026-11-12",
       "poster": "https://image.tmdb.org/t/p/w500/7MBeM27NNcCYUszjTNYJUycPDhV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
       "overview": "Ebenezer Scrooge é um velho avarento que recebe a visita do fantasma de seu antigo sócio, Jacob Marley, e dos Espíritos do Natal Passado, Presente e Futuro. Os encontros o força a confrontar o próprio passado e a lutar por uma segunda chance de ser feliz.",
       "tagline": "Antes de ser Scrooge, ele era Ebenézer.",
       "runtime": 115,
@@ -978,7 +928,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.836,
+      "vote_average": 7.754,
       "providers": [],
       "videos": [
         {
@@ -1001,18 +951,18 @@
       "cast": [
         "Johnny Depp",
         "Rupert Grint",
-        "Ian McKellen",
-        "Andrea Riseborough",
-        "Tramell Tillman",
-        "Sam Claflin",
         "Daisy Ridley",
+        "Ian McKellen",
+        "Tramell Tillman",
+        "Andrea Riseborough",
+        "Sam Claflin",
         "Ellie Bamber"
       ],
       "director": "Ti West",
       "images": [
-        "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
-        "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
         "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+        "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
+        "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
         "https://image.tmdb.org/t/p/w780/bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
         "https://image.tmdb.org/t/p/w780/1xlpGn67p0rYP9tJq5W0H8NGXsL.jpg",
         "https://image.tmdb.org/t/p/w780/vrzZM9fdevl2syF6igHAMfRAwP8.jpg",
@@ -1020,6 +970,61 @@
         "https://image.tmdb.org/t/p/w780/nAkH7yDch9ZsIPxuDTHOFZDI4hb.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1567605"
+    },
+    {
+      "id": 1543469,
+      "type": "movie",
+      "title": "No Coração de Nashville",
+      "release_date": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w500/rhtPUCWTsZX9aWYeOpQDgtgCqCQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "overview": "Misty Jones (Jessica Chastain), uma ex-estrela da música country, sai do isolamento para investigar o desaparecimento de sua sobrinha — também uma cantora country em ascensão — e precisa enfrentar seu próprio passado e o submundo sórdido de Nashville. Sua busca revela um lado obscuro da cidade, onde ninguém, nem mesmo Misty, é quem aparenta ser.",
+      "tagline": "As estrelas mais brilhantes escondem os segredos mais sombrios.",
+      "runtime": 113,
+      "genres": [
+        "Thriller",
+        "Mistério"
+      ],
+      "vote_average": 6.984,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "ei80ZltAzFw",
+          "name": "No Coração de Nashville | Trailer oficial | Netflix",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Jessica Chastain",
+        "Carter Faith",
+        "Garrett Hedlund",
+        "John Hawkes",
+        "Norbert Leo Butz",
+        "Hill Harper",
+        "Paul Sparks",
+        "Ben Dickey"
+      ],
+      "director": "Shana Feste",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+        "https://image.tmdb.org/t/p/w780/d1d6prv2fZFr44uqKUMLjQzKRjx.jpg",
+        "https://image.tmdb.org/t/p/w780/AbMqeR5jA29wnHq96r2vFb8AcK8.jpg",
+        "https://image.tmdb.org/t/p/w780/dyDrkxNU5YcJo1doCGbP7k2NDjR.jpg",
+        "https://image.tmdb.org/t/p/w780/3lG13G4UBde8X1SHauOuAfwQnKE.jpg",
+        "https://image.tmdb.org/t/p/w780/iSZ1MhNtUtmnUV4gOpjXS2rGDQq.jpg",
+        "https://image.tmdb.org/t/p/w780/fKWov1J5p6lNEBLW3cw6HEOc7hE.jpg",
+        "https://image.tmdb.org/t/p/w780/r84DiSIkez6GaLMSkgk7yTvGCn.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1543469"
     },
     {
       "id": 656908,
@@ -1036,7 +1041,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.48,
       "providers": [],
       "videos": [
         {
@@ -1075,7 +1080,7 @@
       "id": 1003596,
       "type": "movie",
       "title": "Vingadores: Doutor Destino",
-      "release_date": "2026-12-16",
+      "release_date": "2026-12-17",
       "poster": "https://image.tmdb.org/t/p/w500/aSzeVbyyU65420A1646YfHcf6Zt.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
       "overview": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
