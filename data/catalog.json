@@ -1,72 +1,7 @@
 {
-  "updated_at": "2026-11-14T22:24:43.154759+00:00",
+  "updated_at": "2026-11-15T06:33:12.522921+00:00",
   "region": "BR",
   "items": [
-    {
-      "id": 1283515,
-      "type": "movie",
-      "title": "Verity",
-      "release_date": "2026-10-01",
-      "poster": "https://image.tmdb.org/t/p/w500/fy7q7xcyUjHXiKRuYblhcUTgBn0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-      "overview": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
-      "tagline": "Não há luz para onde estamos indo.",
-      "runtime": 117,
-      "genres": [
-        "Mistério",
-        "Thriller"
-      ],
-      "vote_average": 6.988,
-      "providers": [],
-      "videos": [
-        {
-          "key": "NTiqVJ8vVQM",
-          "name": "Verity | Trailer Oficial Legendado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "JjIVd97hoFE",
-          "name": "Verity | Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "z0srCgRUpBY",
-          "name": "Verity | Teaser Oficial | Dublado",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Dakota Johnson",
-        "Anne Hathaway",
-        "Josh Hartnett",
-        "Brady Wagner",
-        "Ismael Cruz Cordova",
-        "Ірина Дворовенко",
-        "Sienna Kulovitz",
-        "K.K. Moggie"
-      ],
-      "director": "Michael Showalter",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-        "https://image.tmdb.org/t/p/w780/u9y56d8ZjxV5axSN4GMRb1sKa2U.jpg",
-        "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-        "https://image.tmdb.org/t/p/w780/zrGI2Lm89fgR5ntysKLmEPgNrdV.jpg",
-        "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-        "https://image.tmdb.org/t/p/w780/5lK1Q13srNryBShwDujHEbDs3Zl.jpg",
-        "https://image.tmdb.org/t/p/w780/wwOBQNOhQgYPBMBKRjbtLX27V2v.jpg",
-        "https://image.tmdb.org/t/p/w780/rpC8laFeBzeBpAS12jrdUMsXNjW.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1283515"
-    },
     {
       "id": 1400837,
       "type": "movie",
@@ -78,9 +13,10 @@
       "tagline": "Sua mamãe não vai te salvar.",
       "runtime": 94,
       "genres": [
-        "Terror"
+        "Terror",
+        "Mistério"
       ],
-      "vote_average": 6.304,
+      "vote_average": 6.299,
       "providers": [],
       "videos": [
         {
@@ -195,7 +131,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.309,
+      "vote_average": 6.285,
       "providers": [],
       "videos": [
         {
@@ -261,7 +197,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.389,
+      "vote_average": 7.393,
       "providers": [],
       "videos": [
         {
@@ -342,7 +278,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.613,
+      "vote_average": 7.582,
       "providers": [],
       "videos": [
         {
@@ -378,10 +314,10 @@
         "https://image.tmdb.org/t/p/w780/4yhMroSvsvdYjZGx6T575aTkyB8.jpg",
         "https://image.tmdb.org/t/p/w780/5aM6VbwVSFSzAkndENRj5qPk0fI.jpg",
         "https://image.tmdb.org/t/p/w780/7KGt51UrEX6bfke8XNMeJ0DmEDZ.jpg",
+        "https://image.tmdb.org/t/p/w780/znaZxN2lMydZpVRFaQMvcV4Fedi.jpg",
         "https://image.tmdb.org/t/p/w780/6fpA69MtfyrnoXH5aJHMmW0SOmu.jpg",
         "https://image.tmdb.org/t/p/w780/dw5G9bYehBz2DrQeY6zrBM2SYrn.jpg",
-        "https://image.tmdb.org/t/p/w780/umDu9Kwovtdtg2IKoSVQLCipgMQ.jpg",
-        "https://image.tmdb.org/t/p/w780/n3VWaNuqpyUfVBilXI5SiC7QEZ8.jpg"
+        "https://image.tmdb.org/t/p/w780/umDu9Kwovtdtg2IKoSVQLCipgMQ.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1596275"
     },
@@ -406,8 +342,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "e3xfWXFaxUs",
-          "name": "Um Grande Despertar 2026 Trailer Oficial Legendado",
+          "key": "ijhd9QBwMfo",
+          "name": "El Despertar (2026) The Awakening - HD Trailer Oficial - Colombia - Terror/Accion",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -450,7 +386,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.266,
+      "vote_average": 6.201,
       "providers": [],
       "videos": [
         {
@@ -500,7 +436,7 @@
         "Fantasia",
         "Aventura"
       ],
-      "vote_average": 8.475,
+      "vote_average": 8.48,
       "providers": [],
       "videos": [
         {
@@ -566,7 +502,7 @@
         "Drama",
         "Crime"
       ],
-      "vote_average": 6.345,
+      "vote_average": 6.362,
       "providers": [
         {
           "id": 8,
@@ -622,7 +558,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.7,
+      "vote_average": 6.762,
       "providers": [],
       "videos": [
         {
@@ -713,6 +649,56 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1570488"
     },
     {
+      "id": 891621,
+      "type": "movie",
+      "title": "Cavalo Selvagem Nove",
+      "release_date": "2026-11-05",
+      "poster": "https://image.tmdb.org/t/p/w500/mfnJ58xi3BJLDf9sSHAfNm1QJY9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+      "overview": "Pouco antes do golpe de Estado no Chile em 1973, dois agentes da CIA são enviados de Santiago para a Ilha de Páscoa em uma missão de teste de confiança. Entre as famosas estátuas que são o marco da ilha, conhecidas como muais, eles enfrentam passados sombrios e conspirações, enquanto o envolvimento de um dos agentes com estudantes rebeldes ameaça arruinar a viagem.",
+      "tagline": "",
+      "runtime": 120,
+      "genres": [
+        "Comédia",
+        "Crime",
+        "Thriller"
+      ],
+      "vote_average": 7.9,
+      "providers": [],
+      "videos": [
+        {
+          "key": "jainu1e_W9I",
+          "name": "Trailer Oficial Legendado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "John Malkovich",
+        "Sam Rockwell",
+        "Steve Buscemi",
+        "Mariana di Girolamo",
+        "Ailín Salas",
+        "Parker Posey",
+        "Tom Waits",
+        "Paola Giannini"
+      ],
+      "director": "Martin McDonagh",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+        "https://image.tmdb.org/t/p/w780/1bf7dbeoTLNFFwk35bmzvgB6knZ.jpg",
+        "https://image.tmdb.org/t/p/w780/phYik8dKyN85d2iB2K3CphCsugL.jpg",
+        "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
+        "https://image.tmdb.org/t/p/w780/1SpBo9uZ68nMEKbOxEHTf1tIc6d.jpg",
+        "https://image.tmdb.org/t/p/w780/d1Gqj58MO2fIBqqjSGf8zD215bB.jpg",
+        "https://image.tmdb.org/t/p/w780/lOQbM3GoI3djjPgiISTJLm1IziH.jpg",
+        "https://image.tmdb.org/t/p/w780/d9ozzOn1bXcEwYaw2x3SBcWdvSc.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/891621"
+    },
+    {
       "id": 1381071,
       "type": "movie",
       "title": "Godzilla Minus Zero",
@@ -727,7 +713,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.776,
+      "vote_average": 7.76,
       "providers": [],
       "videos": [
         {
@@ -776,7 +762,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.833,
+      "vote_average": 8.7,
       "providers": [],
       "videos": [
         {
@@ -879,7 +865,7 @@
         "Aventura",
         "Comédia"
       ],
-      "vote_average": 6.909,
+      "vote_average": 6.9,
       "providers": [
         {
           "id": 8,
@@ -935,7 +921,7 @@
         "Thriller",
         "Ação"
       ],
-      "vote_average": 6.07,
+      "vote_average": 6.1,
       "providers": [],
       "videos": [
         {
@@ -992,7 +978,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.896,
+      "vote_average": 7.836,
       "providers": [],
       "videos": [
         {
@@ -1050,7 +1036,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
