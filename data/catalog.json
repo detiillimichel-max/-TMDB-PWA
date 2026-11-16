@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T18:51:33.851530+00:00",
+  "updated_at": "2026-11-16T06:30:34.825150+00:00",
   "region": "BR",
   "items": [
     {
@@ -8,7 +8,7 @@
       "title": "Outra Mamãe",
       "release_date": "2026-10-08",
       "poster": "https://image.tmdb.org/t/p/w500/hiuBB4ZqGbL7uihdVPUahFtg7Zr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
       "overview": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
       "tagline": "Sua mamãe não vai te salvar.",
       "runtime": 94,
@@ -16,7 +16,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.312,
+      "vote_average": 6.292,
       "providers": [],
       "videos": [
         {
@@ -56,16 +56,58 @@
       ],
       "director": "Rob Savage",
       "images": [
+        "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
         "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
         "https://image.tmdb.org/t/p/w780/6O520Y4noXhI6xb2sHRqecOCywE.jpg",
         "https://image.tmdb.org/t/p/w780/zNaLP9XKRGdLYdKiLjEap5zqYWt.jpg",
         "https://image.tmdb.org/t/p/w780/fqK74DYEkAuvMJXozxiqSujCQU4.jpg",
         "https://image.tmdb.org/t/p/w780/yf5EKtrTKM8pla1TpNA5TsZgoTp.jpg",
         "https://image.tmdb.org/t/p/w780/8KUmqPOx3qsq3iHBH4UaZhMAgz4.jpg",
-        "https://image.tmdb.org/t/p/w780/AflbdtwHm1FOXKCFtn8wKaQsAjR.jpg",
-        "https://image.tmdb.org/t/p/w780/oxnzKR0Ag5f35JYiYGs4lTqTG5Q.jpg"
+        "https://image.tmdb.org/t/p/w780/AflbdtwHm1FOXKCFtn8wKaQsAjR.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1400837"
+    },
+    {
+      "id": 1185344,
+      "type": "movie",
+      "title": "The Beast",
+      "release_date": "2026-10-08",
+      "poster": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 99,
+      "genres": [
+        "Ação",
+        "Thriller"
+      ],
+      "vote_average": 5.5,
+      "providers": [],
+      "videos": [
+        {
+          "key": "_etB55USRPQ",
+          "name": "The Beast - Official Trailer (2026) Samuel L. Jackson, Joel Kinnaman",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Samuel L. Jackson",
+        "Joel Kinnaman",
+        "Guy Burnet",
+        "Eoin Macken",
+        "Colin Morgan"
+      ],
+      "director": "Renny Harlin",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
+        "https://image.tmdb.org/t/p/w780/6c4nZITYSxsBIZDezyI3djU60x9.jpg",
+        "https://image.tmdb.org/t/p/w780/6Uxf2heqAGbOF0o0JyZenwa9OxO.jpg",
+        "https://image.tmdb.org/t/p/w780/qfrHg2Ew3SCL3RoFm0e3H7bTcEy.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1185344"
     },
     {
       "id": 1507696,
@@ -82,7 +124,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.185,
+      "vote_average": 6.134,
       "providers": [],
       "videos": [
         {
@@ -129,9 +171,10 @@
       "runtime": 119,
       "genres": [
         "Ação",
+        "Comédia",
         "Fantasia"
       ],
-      "vote_average": 6.286,
+      "vote_average": 6.3,
       "providers": [],
       "videos": [
         {
@@ -165,9 +208,9 @@
         "Callina Liang",
         "David Dastmalchian",
         "Andrew Schulz",
-        "Roman Reigns",
         "Cody Rhodes",
-        "Jason Momoa"
+        "Mel Jarnson",
+        "Roman Reigns"
       ],
       "director": "Kitao Sakurai",
       "images": [
@@ -197,7 +240,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.39,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -278,7 +321,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.596,
+      "vote_average": 7.612,
       "providers": [],
       "videos": [
         {
@@ -342,8 +385,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "e3xfWXFaxUs",
-          "name": "Um Grande Despertar 2026 Trailer Oficial Legendado",
+          "key": "ijhd9QBwMfo",
+          "name": "El Despertar (2026) The Awakening - HD Trailer Oficial - Colombia - Terror/Accion",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -386,7 +429,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.234,
+      "vote_average": 6.276,
       "providers": [],
       "videos": [
         {
@@ -436,7 +479,7 @@
         "Fantasia",
         "Aventura"
       ],
-      "vote_average": 8.484,
+      "vote_average": 8.5,
       "providers": [],
       "videos": [
         {
@@ -478,12 +521,12 @@
       "images": [
         "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
         "https://image.tmdb.org/t/p/w780/xY6ItkVktNDMD2WyLXpNq48PJHy.jpg",
-        "https://image.tmdb.org/t/p/w780/vLsUQtNYhc7WmdvXuKZ4QWo272Q.jpg",
-        "https://image.tmdb.org/t/p/w780/rVjVuYiHAjftgr19i5Bzy6nzJwW.jpg",
+        "https://image.tmdb.org/t/p/w780/6CFy9IGiIqwU5OaBJ36SeLgUoDA.jpg",
         "https://image.tmdb.org/t/p/w780/5PviCeavBVrkcZH1gCBTcNMBpx.jpg",
         "https://image.tmdb.org/t/p/w780/AuJ2UgwpP4dEqtVoYC7QVLtQMFG.jpg",
         "https://image.tmdb.org/t/p/w780/p0u4DWwUVUcdKZzlpL3DZPtFs2I.jpg",
-        "https://image.tmdb.org/t/p/w780/iko653iIvEH52Z8wkNJh0hqWyZj.jpg"
+        "https://image.tmdb.org/t/p/w780/iko653iIvEH52Z8wkNJh0hqWyZj.jpg",
+        "https://image.tmdb.org/t/p/w780/3n8ICdjp1uwQqb6WZYd5Znxo8fh.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/791523"
     },
@@ -558,7 +601,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.762,
+      "vote_average": 6.77,
       "providers": [],
       "videos": [
         {
@@ -607,7 +650,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.2,
+      "vote_average": 7.185,
       "providers": [
         {
           "id": 8,
@@ -663,7 +706,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.7,
+      "vote_average": 7.711,
       "providers": [],
       "videos": [
         {
@@ -712,7 +755,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.882,
+      "vote_average": 9.05,
       "providers": [],
       "videos": [
         {
@@ -759,7 +802,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 7.1,
+      "vote_average": 7.0,
       "providers": [
         {
           "id": 8,
@@ -815,7 +858,7 @@
         "Aventura",
         "Comédia"
       ],
-      "vote_average": 6.9,
+      "vote_average": 6.865,
       "providers": [
         {
           "id": 8,
@@ -857,70 +900,12 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1518204"
     },
     {
-      "id": 1244523,
-      "type": "movie",
-      "title": "Boiúna : Terror no Amazonas",
-      "release_date": "2026-11-12",
-      "poster": "https://image.tmdb.org/t/p/w500/mCyttsR7mW91v2Mpy5AXMCtWKAK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
-      "overview": "Um grupo de jovens médicos embarca em missão humanitária na Amazônia, cada um com seus próprios interesses ocultos. No entanto, nem todos recebem bem a chegada do grupo, e a visita deles desperta um predador ancestral: a Boiúna. A criatura mítica retorna para defender seu território. Em meio à selva densa, trava-se uma luta pela sobrevivência, e as fronteiras entre caçador e presa, herói e vilão, tornam-se cada vez mais tênues.",
-      "tagline": "Sair vivo é o maior desafio.",
-      "runtime": 103,
-      "genres": [
-        "Terror",
-        "Thriller",
-        "Ação"
-      ],
-      "vote_average": 6.1,
-      "providers": [],
-      "videos": [
-        {
-          "key": "tpAB93AWgwY",
-          "name": "Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "4Wb9gDQON1w",
-          "name": "Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Kiana Madeira",
-        "Jessica Rothe",
-        "Will Close",
-        "Juan Pablo Shuk",
-        "Logan Marshall-Green",
-        "Jaime Newball",
-        "Jackson Bews",
-        "Tonfy Andoque"
-      ],
-      "director": "Mike P. Nelson",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
-        "https://image.tmdb.org/t/p/w780/eaJz3rJdwxGndsFNxvhM4fG91AJ.jpg",
-        "https://image.tmdb.org/t/p/w780/poR0klGaSBaXjwObNTLf2w47ne3.jpg",
-        "https://image.tmdb.org/t/p/w780/lQNmDca1jbDtjo7WunEiqhWYtFA.jpg",
-        "https://image.tmdb.org/t/p/w780/yMFUD7P43VYkFZDCwKlQe6NTHu1.jpg",
-        "https://image.tmdb.org/t/p/w780/bbvPEdiSYcWoUAv85uNdmVIdDly.jpg",
-        "https://image.tmdb.org/t/p/w780/njxfwPIiuZ9hJW620K4AQj6vYZd.jpg",
-        "https://image.tmdb.org/t/p/w780/ymnNORckZ06m1KbfAITT6CIHLtQ.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1244523"
-    },
-    {
       "id": 1567605,
       "type": "movie",
       "title": "Ebenezer e os Fantasmas do Natal",
       "release_date": "2026-11-12",
       "poster": "https://image.tmdb.org/t/p/w500/7MBeM27NNcCYUszjTNYJUycPDhV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
       "overview": "Ebenezer Scrooge é um velho avarento que recebe a visita do fantasma de seu antigo sócio, Jacob Marley, e dos Espíritos do Natal Passado, Presente e Futuro. Os encontros o força a confrontar o próprio passado e a lutar por uma segunda chance de ser feliz.",
       "tagline": "Antes de ser Scrooge, ele era Ebenézer.",
       "runtime": 115,
@@ -928,12 +913,12 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.754,
+      "vote_average": 7.637,
       "providers": [],
       "videos": [
         {
           "key": "jouBFFKteGY",
-          "name": "Ebenezer e os Fantasmas do Natal | Trailer Oficial 2 | DUB | Paramount Pictures Brasil",
+          "name": "Trailer Oficial 2 | DUB",
           "type": "Trailer",
           "official": true,
           "site": "YouTube",
@@ -951,18 +936,18 @@
       "cast": [
         "Johnny Depp",
         "Rupert Grint",
-        "Daisy Ridley",
         "Ian McKellen",
-        "Tramell Tillman",
         "Andrea Riseborough",
         "Sam Claflin",
-        "Ellie Bamber"
+        "Daisy Ridley",
+        "Tramell Tillman",
+        "Arthur Conti"
       ],
       "director": "Ti West",
       "images": [
+        "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
         "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
         "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
-        "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
         "https://image.tmdb.org/t/p/w780/bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
         "https://image.tmdb.org/t/p/w780/1xlpGn67p0rYP9tJq5W0H8NGXsL.jpg",
         "https://image.tmdb.org/t/p/w780/vrzZM9fdevl2syF6igHAMfRAwP8.jpg",
@@ -985,7 +970,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.984,
+      "vote_average": 6.837,
       "providers": [
         {
           "id": 8,
@@ -1006,11 +991,11 @@
       "cast": [
         "Jessica Chastain",
         "Carter Faith",
-        "Garrett Hedlund",
+        "Ross Lynch",
         "John Hawkes",
+        "Garrett Hedlund",
         "Norbert Leo Butz",
         "Hill Harper",
-        "Paul Sparks",
         "Ben Dickey"
       ],
       "director": "Shana Feste",
@@ -1041,7 +1026,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.48,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -1066,13 +1051,13 @@
       "director": "Nitesh Tiwari",
       "images": [
         "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+        "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
         "https://image.tmdb.org/t/p/w780/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
         "https://image.tmdb.org/t/p/w780/wE38Vvr1w577h1ndljzaEnXTKQ3.jpg",
         "https://image.tmdb.org/t/p/w780/kJAklyTOaIu3BTxYGtlw3m1HlHo.jpg",
         "https://image.tmdb.org/t/p/w780/wfGbMf0e9tZhq7ZQ1uKgtWQCKOl.jpg",
         "https://image.tmdb.org/t/p/w780/xmtdDK5FaBgwDPc9oUSRDmBFJfm.jpg",
-        "https://image.tmdb.org/t/p/w780/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg",
-        "https://image.tmdb.org/t/p/w780/zCYGEG326MprR1jBxOW2FPiv2dP.jpg"
+        "https://image.tmdb.org/t/p/w780/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/656908"
     },
