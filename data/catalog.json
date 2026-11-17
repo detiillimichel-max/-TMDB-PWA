@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T07:55:20.539175+00:00",
+  "updated_at": "2026-11-17T20:55:59.238866+00:00",
   "region": "BR",
   "items": [
     {
@@ -15,7 +15,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 6.401,
+      "vote_average": 6.4,
       "providers": [],
       "videos": [
         {
@@ -80,7 +80,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 5.323,
+      "vote_average": 5.303,
       "providers": [],
       "videos": [
         {
@@ -160,56 +160,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1507696"
     },
     {
-      "id": 1234139,
-      "type": "movie",
-      "title": "ஜெயிலர் 2",
-      "release_date": "2026-10-14",
-      "poster": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 165,
-      "genres": [
-        "Ação",
-        "Comédia",
-        "Drama"
-      ],
-      "vote_average": 7.974,
-      "providers": [],
-      "videos": [
-        {
-          "key": "FW_PPcr1sPE",
-          "name": "JAILER 2 - Official Trailer | Superstar Rajinikanth | Sun Pictures | Anirudh | Nelson",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Rajinikanth",
-        "S. J. Suryah",
-        "Suraj Venjaramoodu",
-        "Ramya Krishnan",
-        "Vidya Balan",
-        "Namo Narayana",
-        "யோகி பாபு",
-        "Mirnaa"
-      ],
-      "director": "நெல்சன் திலீப்குமார்",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
-        "https://image.tmdb.org/t/p/w780/4PvsvVeg03Nd9tma0tUaaterSGt.jpg",
-        "https://image.tmdb.org/t/p/w780/fhZXa5bCY77KoBZfCBx9iJt3VG7.jpg",
-        "https://image.tmdb.org/t/p/w780/xGXv00d44zX88wRERyueoOeubIi.jpg",
-        "https://image.tmdb.org/t/p/w780/ceclu0D2psC5VTIkhcHJ3a4iBsI.jpg",
-        "https://image.tmdb.org/t/p/w780/paGuGyEysCn49NOP8xfXipxp1qk.jpg",
-        "https://image.tmdb.org/t/p/w780/jiepYPH25Cff5aFNn57KCiSszxQ.jpg",
-        "https://image.tmdb.org/t/p/w780/cJtT4dxFpHPTVk2MiOqUXM6Rg0D.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1234139"
-    },
-    {
       "id": 1153576,
       "type": "movie",
       "title": "Street Fighter",
@@ -221,10 +171,9 @@
       "runtime": 119,
       "genres": [
         "Ação",
-        "Comédia",
         "Fantasia"
       ],
-      "vote_average": 6.258,
+      "vote_average": 6.3,
       "providers": [],
       "videos": [
         {
@@ -289,7 +238,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.56,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
@@ -397,7 +346,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.25,
+      "vote_average": 6.318,
       "providers": [],
       "videos": [
         {
@@ -447,7 +396,7 @@
         "Fantasia",
         "Aventura"
       ],
-      "vote_average": 8.466,
+      "vote_average": 8.469,
       "providers": [],
       "videos": [
         {
@@ -513,7 +462,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.664,
+      "vote_average": 6.7,
       "providers": [],
       "videos": [
         {
@@ -562,7 +511,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.208,
+      "vote_average": 7.201,
       "providers": [
         {
           "id": 8,
@@ -618,7 +567,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.685,
+      "vote_average": 7.675,
       "providers": [],
       "videos": [
         {
@@ -671,7 +620,7 @@
       "providers": [],
       "videos": [
         {
-          "key": "5M6slSNsQvQ",
+          "key": "ECkT4kmpPcw",
           "name": "GHOST SOLDIER Official Trailer 2 (2026) Jim Caviezel",
           "type": "Trailer",
           "official": false,
@@ -714,7 +663,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 7.098,
+      "vote_average": 7.1,
       "providers": [
         {
           "id": 8,
@@ -770,7 +719,7 @@
         "Aventura",
         "Comédia"
       ],
-      "vote_average": 6.782,
+      "vote_average": 6.802,
       "providers": [
         {
           "id": 8,
@@ -812,6 +761,64 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1518204"
     },
     {
+      "id": 1437511,
+      "type": "movie",
+      "title": "Como Roubar um Banco",
+      "release_date": "2026-11-12",
+      "poster": "https://image.tmdb.org/t/p/w500/6QOVs2PMyxHtE4tHiMZS1eIboxl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
+      "overview": "Um grupo de assaltantes de banco habilidosos transmite seus ousados roubos ao vivo, sem perceber que sua crescente fama viral os colocou na mira de um veterano agente do FBI e de uma brilhante engenheira de software. Mesmo com a dupla se aproximando cada vez mais, a quadrilha ultrapassa todos os limites, arriscando tudo por aquilo em que acredita — e por seu assalto mais ambicioso até então.",
+      "tagline": "",
+      "runtime": 122,
+      "genres": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "vote_average": 6.129,
+      "providers": [],
+      "videos": [
+        {
+          "key": "pGVxbYtsxMQ",
+          "name": "COMO ROUBAR UM BANCO - Trailer Oficial 2 - Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "95_kJ_De0nQ",
+          "name": "Trailer Oficial Legendado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Nicholas Hoult",
+        "Zoë Kravitz",
+        "Pete Davidson",
+        "John C. Reilly",
+        "Anna Sawai",
+        "Rhenzy Feliz",
+        "Christian Slater",
+        "Tati Gabrielle"
+      ],
+      "director": "David Leitch",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
+        "https://image.tmdb.org/t/p/w780/8n8IiMO96sdB6sFfL0WyfRXsdJc.jpg",
+        "https://image.tmdb.org/t/p/w780/x9ECIcqnsen26beC1MSfrgAOveE.jpg",
+        "https://image.tmdb.org/t/p/w780/Aty5VwipBDGcq3HbzELWXxtMpjp.jpg",
+        "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
+        "https://image.tmdb.org/t/p/w780/AmN54pznGRnMcY88ihbMZl3DHeW.jpg",
+        "https://image.tmdb.org/t/p/w780/uStY1FvH8fozAbLnaMz2wvkUYw0.jpg",
+        "https://image.tmdb.org/t/p/w780/jfNvV2PxD0Zl6dxIYYrBpvxLRGH.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1437511"
+    },
+    {
       "id": 1567605,
       "type": "movie",
       "title": "Ebenezer e os Fantasmas do Natal",
@@ -826,7 +833,7 @@
         "Comédia",
         "Terror"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.651,
       "providers": [],
       "videos": [
         {
@@ -883,7 +890,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.6,
+      "vote_average": 6.53,
       "providers": [
         {
           "id": 8,
@@ -933,13 +940,13 @@
       "backdrop": "https://image.tmdb.org/t/p/w1280/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "overview": "Revisite o mundo de Panem 24 anos antes dos eventos de Jogos Vorazes, começando na manhã da colheita dos 50º Jogos Vorazes, também conhecida como o Segundo Massacre Quaternário.",
       "tagline": "O massacre mais voraz de todos os tempos!",
-      "runtime": 159,
+      "runtime": 158,
       "genres": [
         "Ficção científica",
         "Ação",
         "Aventura"
       ],
-      "vote_average": 9.4,
+      "vote_average": 8.7,
       "providers": [],
       "videos": [
         {
@@ -1005,7 +1012,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.536,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -1044,9 +1051,9 @@
       "id": 1003596,
       "type": "movie",
       "title": "Vingadores: Doutor Destino",
-      "release_date": "2026-12-16",
+      "release_date": "2026-12-17",
       "poster": "https://image.tmdb.org/t/p/w500/xYnLlYTQ3v31qllNPTZEIDzMOKl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/s7zXvbb0AZp2iwcLjY75FGcZpLs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
       "overview": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
       "tagline": "",
       "runtime": 150,
@@ -1127,14 +1134,14 @@
       ],
       "director": "Joe Russo",
       "images": [
-        "https://image.tmdb.org/t/p/w780/s7zXvbb0AZp2iwcLjY75FGcZpLs.jpg",
-        "https://image.tmdb.org/t/p/w780/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg",
-        "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
-        "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
-        "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
         "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
         "https://image.tmdb.org/t/p/w780/pGbP900NvKzOtLWdyH0sWmLQu1G.jpg",
-        "https://image.tmdb.org/t/p/w780/6TgmIXoVGEDyp0MSoVytIeyfhDR.jpg"
+        "https://image.tmdb.org/t/p/w780/6TgmIXoVGEDyp0MSoVytIeyfhDR.jpg",
+        "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
+        "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+        "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+        "https://image.tmdb.org/t/p/w780/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg",
+        "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1003596"
     }
