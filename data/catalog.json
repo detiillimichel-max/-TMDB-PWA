@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T20:55:59.238866+00:00",
+  "updated_at": "2026-11-18T07:29:43.781899+00:00",
   "region": "BR",
   "items": [
     {
@@ -15,7 +15,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 6.4,
+      "vote_average": 6.412,
       "providers": [],
       "videos": [
         {
@@ -72,7 +72,7 @@
       "title": "The Beast",
       "release_date": "2026-10-08",
       "poster": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/r5RYEmZzm1Z6imS7XfiKPnMlyc7.jpg",
       "overview": "Quando uma milícia de hostis não identificados coordena um golpe contra os Estados Unidos, o presidente precisa revidar utilizando as capacidades ofensivas altamente secretas de sua limusine blindada, apelidada de A Besta.",
       "tagline": "",
       "runtime": 99,
@@ -80,7 +80,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 5.303,
+      "vote_average": 5.5,
       "providers": [],
       "videos": [
         {
@@ -101,11 +101,13 @@
       ],
       "director": "Renny Harlin",
       "images": [
+        "https://image.tmdb.org/t/p/w780/r5RYEmZzm1Z6imS7XfiKPnMlyc7.jpg",
         "https://image.tmdb.org/t/p/w780/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
         "https://image.tmdb.org/t/p/w780/6c4nZITYSxsBIZDezyI3djU60x9.jpg",
         "https://image.tmdb.org/t/p/w780/6Uxf2heqAGbOF0o0JyZenwa9OxO.jpg",
         "https://image.tmdb.org/t/p/w780/qfrHg2Ew3SCL3RoFm0e3H7bTcEy.jpg",
-        "https://image.tmdb.org/t/p/w780/r5RYEmZzm1Z6imS7XfiKPnMlyc7.jpg"
+        "https://image.tmdb.org/t/p/w780/uMzqGppyHNLMmQdVvmDRMiC8hFI.jpg",
+        "https://image.tmdb.org/t/p/w780/6nFrPw9Bzhkf91iKHFXPvFf2cOM.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1185344"
     },
@@ -124,7 +126,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.179,
+      "vote_average": 6.23,
       "providers": [],
       "videos": [
         {
@@ -165,7 +167,7 @@
       "title": "Street Fighter",
       "release_date": "2026-10-15",
       "poster": "https://image.tmdb.org/t/p/w500/6gWmrC2GyDbUM1ET5EBg9lxBi7S.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9vNW8ysMKIbefbEQOFEZIKpMqwZ.jpg",
       "overview": "Em 1993, os lutadores Ryu e Ken Masters são colocados de volta no combate quando a misteriosa Chun-Li os recruta para o próximo Torneio Street Fighter: uma brutal briga de socos, destino e fúria. Entretanto, por trás desse campeonato, se esconde uma conspiração mortal que os força a encarar um ao outro e os demônios do passado. E se eles não fizerem, é game over!",
       "tagline": "Preparar. Apontar. Lutar.",
       "runtime": 119,
@@ -213,16 +215,98 @@
       ],
       "director": "Kitao Sakurai",
       "images": [
-        "https://image.tmdb.org/t/p/w780/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
         "https://image.tmdb.org/t/p/w780/9vNW8ysMKIbefbEQOFEZIKpMqwZ.jpg",
-        "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
+        "https://image.tmdb.org/t/p/w780/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
         "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
+        "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
         "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
         "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
         "https://image.tmdb.org/t/p/w780/6kJENBnZsVZuhYTSR3zZi6FUe30.jpg",
         "https://image.tmdb.org/t/p/w780/bfiOm4QESARLzMEMtuUYYjD39xn.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1153576"
+    },
+    {
+      "id": 1400940,
+      "type": "movie",
+      "title": "Cara-de-Barro",
+      "release_date": "2026-10-22",
+      "poster": "https://image.tmdb.org/t/p/w500/dqvHs2YXks989ScXvsngbqAeBHX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+      "overview": "A ascensão meteórica de Matt Hagen de garoto das ruas de Gotham a astro de Hollywood é tragicamente interrompida quando as ações de um chefão do crime local o deixam terrivelmente desfigurado. Abandonado por sua equipe e sem nada, Matt busca um tratamento de ponta que, milagrosamente, o devolve à sua antiga forma... mas que também afeta, de maneira inesperada, sua percepção da realidade, lançando-o em uma espiral destrutiva de obsessão e vingança.",
+      "tagline": "Enfrente o medo cara a cara.",
+      "runtime": 109,
+      "genres": [
+        "Terror",
+        "Thriller",
+        "Ficção científica"
+      ],
+      "vote_average": 7.4,
+      "providers": [],
+      "videos": [
+        {
+          "key": "Qn17zXheL6Q",
+          "name": "Cara-De-Barro | Trailer Final Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "UYU8hTM-rfM",
+          "name": "Cara de Barro | Trailer Final Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "0UNpg8OZueI",
+          "name": "Cara-de-Barro | Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "otWwAkuEnPc",
+          "name": "Cara de Barro | Trailer Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "m4G1Sfz1qeU",
+          "name": "Teaser Oficial",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Tom Rhys Harries",
+        "Naomi Ackie",
+        "Eddie Marsan",
+        "Max Minghella",
+        "David Dencik",
+        "Francesca Corney",
+        "Ruby Sear",
+        "Wil Coban"
+      ],
+      "director": "James Watkins",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+        "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+        "https://image.tmdb.org/t/p/w780/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
+        "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
+        "https://image.tmdb.org/t/p/w780/3YHeDqu5MCyqan4ptiY8q726vzU.jpg",
+        "https://image.tmdb.org/t/p/w780/3QyLZOEJJgBSDhnE1Ma3QzI82aT.jpg",
+        "https://image.tmdb.org/t/p/w780/mEVNRsP4csNzB9vv9JGmQlW7rNB.jpg",
+        "https://image.tmdb.org/t/p/w780/7tqNQlkGpmV6t5xhZkcmhF2325T.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1400940"
     },
     {
       "id": 1596275,
@@ -282,57 +366,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1596275"
     },
     {
-      "id": 1657630,
-      "type": "movie",
-      "title": "El despertar",
-      "release_date": "2026-10-29",
-      "poster": "https://image.tmdb.org/t/p/w500/w3YJx1PPPC6aiVKusxfc9QA0uYS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
-      "overview": "Sinopse não disponível.",
-      "tagline": "",
-      "runtime": 96,
-      "genres": [
-        "Terror",
-        "Ação",
-        "Guerra",
-        "Fantasia",
-        "Thriller"
-      ],
-      "vote_average": 6.555,
-      "providers": [],
-      "videos": [
-        {
-          "key": "ijhd9QBwMfo",
-          "name": "El Despertar (2026) The Awakening - HD Trailer Oficial - Colombia - Terror/Accion",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Claudio Cataño",
-        "Alejandro Buitrago",
-        "Hector Sánchez",
-        "Andrea Olaya",
-        "Quique Sanmartin",
-        "Jaisson Jeack",
-        "Carlos Mariño",
-        "Andres Londono"
-      ],
-      "director": "Jaime Osorio Márquez",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/75MLVCmQ4QougShkx3OlUbJbuSK.jpg",
-        "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
-        "https://image.tmdb.org/t/p/w780/fj5MqnNBM5XN79X7bQcwoYl2hnB.jpg",
-        "https://image.tmdb.org/t/p/w780/3E2h3FfZMNenh6f1Xq7SMCY8HA0.jpg",
-        "https://image.tmdb.org/t/p/w780/fURV61Lz0iDwsHPxpiDFhvAR094.jpg",
-        "https://image.tmdb.org/t/p/w780/m6iE1zbRoM0j1fAIsflYEbaYfPC.jpg",
-        "https://image.tmdb.org/t/p/w780/l0KsiK7EUsl0WP8cdemB3Z2iOvC.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1657630"
-    },
-    {
       "id": 1294189,
       "type": "movie",
       "title": "Fuga Mortal",
@@ -346,7 +379,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.318,
+      "vote_average": 6.358,
       "providers": [],
       "videos": [
         {
@@ -396,7 +429,7 @@
         "Fantasia",
         "Aventura"
       ],
-      "vote_average": 8.469,
+      "vote_average": 8.5,
       "providers": [],
       "videos": [
         {
@@ -511,7 +544,7 @@
         "Comédia",
         "Drama"
       ],
-      "vote_average": 7.201,
+      "vote_average": 7.2,
       "providers": [
         {
           "id": 8,
@@ -567,7 +600,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.675,
+      "vote_average": 7.7,
       "providers": [],
       "videos": [
         {
@@ -616,7 +649,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 9.0,
+      "vote_average": 8.94,
       "providers": [],
       "videos": [
         {
@@ -719,7 +752,7 @@
         "Aventura",
         "Comédia"
       ],
-      "vote_average": 6.802,
+      "vote_average": 6.7,
       "providers": [
         {
           "id": 8,
@@ -761,64 +794,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1518204"
     },
     {
-      "id": 1437511,
-      "type": "movie",
-      "title": "Como Roubar um Banco",
-      "release_date": "2026-11-12",
-      "poster": "https://image.tmdb.org/t/p/w500/6QOVs2PMyxHtE4tHiMZS1eIboxl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
-      "overview": "Um grupo de assaltantes de banco habilidosos transmite seus ousados roubos ao vivo, sem perceber que sua crescente fama viral os colocou na mira de um veterano agente do FBI e de uma brilhante engenheira de software. Mesmo com a dupla se aproximando cada vez mais, a quadrilha ultrapassa todos os limites, arriscando tudo por aquilo em que acredita — e por seu assalto mais ambicioso até então.",
-      "tagline": "",
-      "runtime": 122,
-      "genres": [
-        "Ação",
-        "Crime",
-        "Thriller"
-      ],
-      "vote_average": 6.129,
-      "providers": [],
-      "videos": [
-        {
-          "key": "pGVxbYtsxMQ",
-          "name": "COMO ROUBAR UM BANCO - Trailer Oficial 2 - Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "95_kJ_De0nQ",
-          "name": "Trailer Oficial Legendado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Nicholas Hoult",
-        "Zoë Kravitz",
-        "Pete Davidson",
-        "John C. Reilly",
-        "Anna Sawai",
-        "Rhenzy Feliz",
-        "Christian Slater",
-        "Tati Gabrielle"
-      ],
-      "director": "David Leitch",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
-        "https://image.tmdb.org/t/p/w780/8n8IiMO96sdB6sFfL0WyfRXsdJc.jpg",
-        "https://image.tmdb.org/t/p/w780/x9ECIcqnsen26beC1MSfrgAOveE.jpg",
-        "https://image.tmdb.org/t/p/w780/Aty5VwipBDGcq3HbzELWXxtMpjp.jpg",
-        "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
-        "https://image.tmdb.org/t/p/w780/AmN54pznGRnMcY88ihbMZl3DHeW.jpg",
-        "https://image.tmdb.org/t/p/w780/uStY1FvH8fozAbLnaMz2wvkUYw0.jpg",
-        "https://image.tmdb.org/t/p/w780/jfNvV2PxD0Zl6dxIYYrBpvxLRGH.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1437511"
-    },
-    {
       "id": 1567605,
       "type": "movie",
       "title": "Ebenezer e os Fantasmas do Natal",
@@ -833,7 +808,7 @@
         "Comédia",
         "Terror"
       ],
-      "vote_average": 7.651,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
@@ -890,7 +865,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.53,
+      "vote_average": 6.293,
       "providers": [
         {
           "id": 8,
@@ -946,7 +921,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 8.7,
+      "vote_average": 8.6,
       "providers": [],
       "videos": [
         {
@@ -987,13 +962,13 @@
       "director": "Francis Lawrence",
       "images": [
         "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+        "https://image.tmdb.org/t/p/w780/Ac56cVxw43dUY7rUIjadk0ro0xt.jpg",
         "https://image.tmdb.org/t/p/w780/cCGTwo2qtzKcvXvFvkvXO4J2f2D.jpg",
         "https://image.tmdb.org/t/p/w780/6bM4RwgUsL8hPz5FjFDKM0vrDu2.jpg",
         "https://image.tmdb.org/t/p/w780/qW47xOGl0dOMRUtAS2XugBlOO1t.jpg",
         "https://image.tmdb.org/t/p/w780/9B3AMSs7A3bqqFLKlOv6W4LyAHG.jpg",
         "https://image.tmdb.org/t/p/w780/497KYpXqaxh99RPMVmsxAg76Nal.jpg",
-        "https://image.tmdb.org/t/p/w780/vezToHmUsQApQKHChwz8E9LBfEA.jpg",
-        "https://image.tmdb.org/t/p/w780/8F2zI3KRfPZY4tMYWG16VBLZRJK.jpg"
+        "https://image.tmdb.org/t/p/w780/vezToHmUsQApQKHChwz8E9LBfEA.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1300968"
     },
@@ -1048,10 +1023,58 @@
       "tmdb_url": "https://www.themoviedb.org/movie/656908"
     },
     {
+      "id": 1765072,
+      "type": "movie",
+      "title": "Tudo Pode Ser Visto",
+      "release_date": "2026-11-26",
+      "poster": "https://image.tmdb.org/t/p/w500/mnu5cNfijdbuU4iWrV2Lg7AfM0J.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+      "overview": "Trinta e quatro dias antes de ser enviada para a prisão, a notória fundadora do Vale do Silício, Elizabeth Holmes, convida uma equipe de filmagem cética para documentar cada passo seu. O que começa como um retrato íntimo de uma criminosa enigmática se transforma em uma jornada alucinante de três anos rumo ao abismo.",
+      "tagline": "",
+      "runtime": 175,
+      "genres": [
+        "Documentário"
+      ],
+      "vote_average": 8.8,
+      "providers": [],
+      "videos": [
+        {
+          "key": "0wUamG0VmDM",
+          "name": "Tudo Pode Ser Visto | Trailer Oficial Legendado",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Elizabeth Holmes",
+        "Nathan Fielder",
+        "Billy Evans",
+        "Amanda Seyfried",
+        "Christopher Abbott",
+        "Lance Oppenheim",
+        "Christian Rasmus Holmes IV",
+        "Noel Anne Holmes"
+      ],
+      "director": "Nathan Fielder",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+        "https://image.tmdb.org/t/p/w780/uDONA0SCc1Tanl1lizf6lYNoMmr.jpg",
+        "https://image.tmdb.org/t/p/w780/j4be5aJxpRDkWOfF88K4kldaudG.jpg",
+        "https://image.tmdb.org/t/p/w780/fbMNGkzwN9xxk6KuayfsHkkQiCe.jpg",
+        "https://image.tmdb.org/t/p/w780/sgRg9h6fqCPUVzTKjAap57azga0.jpg",
+        "https://image.tmdb.org/t/p/w780/hJahNruyGNVD4nyFJpeEodFnpgT.jpg",
+        "https://image.tmdb.org/t/p/w780/flr1irwRWJJuB79u4T2t4bAS6OK.jpg",
+        "https://image.tmdb.org/t/p/w780/gCfol52f4veLiaSvGYLHw4mIiSG.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1765072"
+    },
+    {
       "id": 1003596,
       "type": "movie",
       "title": "Vingadores: Doutor Destino",
-      "release_date": "2026-12-17",
+      "release_date": "2026-12-16",
       "poster": "https://image.tmdb.org/t/p/w500/xYnLlYTQ3v31qllNPTZEIDzMOKl.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
       "overview": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
