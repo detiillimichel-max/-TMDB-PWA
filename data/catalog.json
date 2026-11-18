@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T07:29:43.781899+00:00",
+  "updated_at": "2026-11-18T20:31:36.248691+00:00",
   "region": "BR",
   "items": [
     {
@@ -15,7 +15,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 6.412,
+      "vote_average": 6.423,
       "providers": [],
       "videos": [
         {
@@ -80,7 +80,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 5.5,
+      "vote_average": 5.25,
       "providers": [],
       "videos": [
         {
@@ -126,7 +126,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.23,
+      "vote_average": 6.2,
       "providers": [],
       "videos": [
         {
@@ -175,7 +175,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.3,
+      "vote_average": 6.254,
       "providers": [],
       "videos": [
         {
@@ -232,7 +232,7 @@
       "title": "Cara-de-Barro",
       "release_date": "2026-10-22",
       "poster": "https://image.tmdb.org/t/p/w500/dqvHs2YXks989ScXvsngbqAeBHX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg",
       "overview": "A ascensão meteórica de Matt Hagen de garoto das ruas de Gotham a astro de Hollywood é tragicamente interrompida quando as ações de um chefão do crime local o deixam terrivelmente desfigurado. Abandonado por sua equipe e sem nada, Matt busca um tratamento de ponta que, milagrosamente, o devolve à sua antiga forma... mas que também afeta, de maneira inesperada, sua percepção da realidade, lançando-o em uma espiral destrutiva de obsessão e vingança.",
       "tagline": "Enfrente o medo cara a cara.",
       "runtime": 109,
@@ -297,14 +297,14 @@
       ],
       "director": "James Watkins",
       "images": [
-        "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+        "https://image.tmdb.org/t/p/w780/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg",
         "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
-        "https://image.tmdb.org/t/p/w780/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
+        "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
         "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
+        "https://image.tmdb.org/t/p/w780/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
         "https://image.tmdb.org/t/p/w780/3YHeDqu5MCyqan4ptiY8q726vzU.jpg",
         "https://image.tmdb.org/t/p/w780/3QyLZOEJJgBSDhnE1Ma3QzI82aT.jpg",
-        "https://image.tmdb.org/t/p/w780/mEVNRsP4csNzB9vv9JGmQlW7rNB.jpg",
-        "https://image.tmdb.org/t/p/w780/7tqNQlkGpmV6t5xhZkcmhF2325T.jpg"
+        "https://image.tmdb.org/t/p/w780/mEVNRsP4csNzB9vv9JGmQlW7rNB.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1400940"
     },
@@ -470,13 +470,13 @@
       "director": "Travis Knight",
       "images": [
         "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-        "https://image.tmdb.org/t/p/w780/xY6ItkVktNDMD2WyLXpNq48PJHy.jpg",
         "https://image.tmdb.org/t/p/w780/6CFy9IGiIqwU5OaBJ36SeLgUoDA.jpg",
         "https://image.tmdb.org/t/p/w780/5PviCeavBVrkcZH1gCBTcNMBpx.jpg",
         "https://image.tmdb.org/t/p/w780/AuJ2UgwpP4dEqtVoYC7QVLtQMFG.jpg",
         "https://image.tmdb.org/t/p/w780/p0u4DWwUVUcdKZzlpL3DZPtFs2I.jpg",
         "https://image.tmdb.org/t/p/w780/iko653iIvEH52Z8wkNJh0hqWyZj.jpg",
-        "https://image.tmdb.org/t/p/w780/3n8ICdjp1uwQqb6WZYd5Znxo8fh.jpg"
+        "https://image.tmdb.org/t/p/w780/3n8ICdjp1uwQqb6WZYd5Znxo8fh.jpg",
+        "https://image.tmdb.org/t/p/w780/1CENaUiv104BzYJGeDmHJen0oEH.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/791523"
     },
@@ -495,7 +495,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.7,
+      "vote_average": 6.617,
       "providers": [],
       "videos": [
         {
@@ -531,61 +531,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1813355"
     },
     {
-      "id": 1570488,
-      "type": "movie",
-      "title": "O Natal Perfeito de um Cachorro",
-      "release_date": "2026-11-04",
-      "poster": "https://image.tmdb.org/t/p/w500/2YhgEEGYOQfl3CzoRcYys8b6JxH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
-      "overview": "Depois que uma emergência médica separa a família Goss, o determinado cãozinho Winstead faz de tudo para reunir seus humanos antes da véspera de Natal.",
-      "tagline": "",
-      "runtime": 102,
-      "genres": [
-        "Comédia",
-        "Drama"
-      ],
-      "vote_average": 7.2,
-      "providers": [
-        {
-          "id": 8,
-          "name": "Netflix",
-          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-        }
-      ],
-      "videos": [
-        {
-          "key": "5l-5favSmfQ",
-          "name": "O Natal Perfeito de um Cachorro | Trailer oficial | Netflix",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Dennis Quaid",
-        "Milo Ventimiglia",
-        "Brooke Lena Johnson",
-        "Kathleen Rose Perkins",
-        "Jennifer Tilly",
-        "Thomas Haden Church",
-        "Mary Steenburgen",
-        "Ethan Loomis"
-      ],
-      "director": "Cathryn Michon",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
-        "https://image.tmdb.org/t/p/w780/6OOiqbY4Di0I6dNw0fyOBIxzK5k.jpg",
-        "https://image.tmdb.org/t/p/w780/53ryl4Cyds4DE91oVPKsunH7J0m.jpg",
-        "https://image.tmdb.org/t/p/w780/k2l7zvLm8No1K8eLcjCJwG0IpYs.jpg",
-        "https://image.tmdb.org/t/p/w780/jfLE82CCfSCkkmutPXHpydSKY6w.jpg",
-        "https://image.tmdb.org/t/p/w780/3GxIXiZLatFY6qd0PVM7RyuKaD.jpg",
-        "https://image.tmdb.org/t/p/w780/kVDLmRsBmiaI0MGAl1nemFPv0rb.jpg",
-        "https://image.tmdb.org/t/p/w780/kpxTrmlrQaM1I68gGshiAVX9lwa.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1570488"
-    },
-    {
       "id": 1381071,
       "type": "movie",
       "title": "Godzilla Minus Zero",
@@ -593,14 +538,14 @@
       "poster": "https://image.tmdb.org/t/p/w500/ebVZ8n64rtHsSItTei4EgTKzPVu.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
       "overview": "A guerra reduziu o Japão a zero, e o Godzilla mergulhou-o no negativo. Passaram-se dois anos desde então, e o país tem enfrentado lutas agonizantes para alcançar a recuperação e, finalmente, voltar à vida normal. No momento em que a humanidade conseguiu se agarrar a uma paz conquistada com dificuldade, surge uma nova ameaça, esmagando a esperança num instante.",
-      "tagline": "",
+      "tagline": "Não existe uma terceira vez. Tudo termina aqui.",
       "runtime": 135,
       "genres": [
         "Ficção científica",
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.7,
+      "vote_average": 7.672,
       "providers": [],
       "videos": [
         {
@@ -649,7 +594,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.94,
+      "vote_average": 9.077,
       "providers": [],
       "videos": [
         {
@@ -687,7 +632,7 @@
       "title": "Sem Desistir",
       "release_date": "2026-11-11",
       "poster": "https://image.tmdb.org/t/p/w500/k0f4a5RVBwLJUq3UYXnfcOaXjCu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
       "overview": "Depois que uma gangue violenta invade sua casa isolada, um veterano atormentado pela culpa e os netos que ele mal conhece precisam unir forças para sobreviver.",
       "tagline": "",
       "runtime": 140,
@@ -726,8 +671,8 @@
       ],
       "director": "Sidharta Tata",
       "images": [
-        "https://image.tmdb.org/t/p/w780/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
         "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
+        "https://image.tmdb.org/t/p/w780/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
         "https://image.tmdb.org/t/p/w780/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg",
         "https://image.tmdb.org/t/p/w780/1ngwrORtxlaCFMnJBTaQp2O2U3e.jpg",
         "https://image.tmdb.org/t/p/w780/idWYM68ru3F43zCR8nLksJSyG8V.jpg",
@@ -752,7 +697,7 @@
         "Aventura",
         "Comédia"
       ],
-      "vote_average": 6.7,
+      "vote_average": 6.604,
       "providers": [
         {
           "id": 8,
@@ -794,6 +739,64 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1518204"
     },
     {
+      "id": 1437511,
+      "type": "movie",
+      "title": "Como Roubar um Banco",
+      "release_date": "2026-11-12",
+      "poster": "https://image.tmdb.org/t/p/w500/6QOVs2PMyxHtE4tHiMZS1eIboxl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
+      "overview": "Um grupo de assaltantes de banco habilidosos transmite seus ousados roubos ao vivo, sem perceber que sua crescente fama viral os colocou na mira de um veterano agente do FBI e de uma brilhante engenheira de software. Mesmo com a dupla se aproximando cada vez mais, a quadrilha ultrapassa todos os limites, arriscando tudo por aquilo em que acredita — e por seu assalto mais ambicioso até então.",
+      "tagline": "Quem rouba quem?",
+      "runtime": 122,
+      "genres": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "vote_average": 6.2,
+      "providers": [],
+      "videos": [
+        {
+          "key": "pGVxbYtsxMQ",
+          "name": "COMO ROUBAR UM BANCO - Trailer Oficial 2 - Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "95_kJ_De0nQ",
+          "name": "Trailer Oficial Legendado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Nicholas Hoult",
+        "Zoë Kravitz",
+        "Pete Davidson",
+        "John C. Reilly",
+        "Anna Sawai",
+        "Rhenzy Feliz",
+        "Christian Slater",
+        "Tati Gabrielle"
+      ],
+      "director": "David Leitch",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
+        "https://image.tmdb.org/t/p/w780/8n8IiMO96sdB6sFfL0WyfRXsdJc.jpg",
+        "https://image.tmdb.org/t/p/w780/x9ECIcqnsen26beC1MSfrgAOveE.jpg",
+        "https://image.tmdb.org/t/p/w780/Aty5VwipBDGcq3HbzELWXxtMpjp.jpg",
+        "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
+        "https://image.tmdb.org/t/p/w780/AmN54pznGRnMcY88ihbMZl3DHeW.jpg",
+        "https://image.tmdb.org/t/p/w780/uStY1FvH8fozAbLnaMz2wvkUYw0.jpg",
+        "https://image.tmdb.org/t/p/w780/jfNvV2PxD0Zl6dxIYYrBpvxLRGH.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1437511"
+    },
+    {
       "id": 1567605,
       "type": "movie",
       "title": "Ebenezer e os Fantasmas do Natal",
@@ -805,10 +808,9 @@
       "runtime": 115,
       "genres": [
         "Fantasia",
-        "Comédia",
-        "Terror"
+        "Comédia"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.579,
       "providers": [],
       "videos": [
         {
@@ -857,7 +859,7 @@
       "title": "No Coração de Nashville",
       "release_date": "2026-11-13",
       "poster": "https://image.tmdb.org/t/p/w500/rhtPUCWTsZX9aWYeOpQDgtgCqCQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gVhJbOCns6GNsQaUbLszQUkFIKf.jpg",
       "overview": "Misty Jones (Jessica Chastain), uma ex-estrela da música country, sai do isolamento para investigar o desaparecimento de sua sobrinha — também uma cantora country em ascensão — e precisa enfrentar seu próprio passado e o submundo sórdido de Nashville. Sua busca revela um lado obscuro da cidade, onde ninguém, nem mesmo Misty, é quem aparenta ser.",
       "tagline": "As estrelas mais brilhantes escondem os segredos mais sombrios.",
       "runtime": 113,
@@ -865,7 +867,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.293,
+      "vote_average": 6.3,
       "providers": [
         {
           "id": 8,
@@ -895,14 +897,14 @@
       ],
       "director": "Shana Feste",
       "images": [
+        "https://image.tmdb.org/t/p/w780/gVhJbOCns6GNsQaUbLszQUkFIKf.jpg",
         "https://image.tmdb.org/t/p/w780/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
         "https://image.tmdb.org/t/p/w780/d1d6prv2fZFr44uqKUMLjQzKRjx.jpg",
         "https://image.tmdb.org/t/p/w780/AbMqeR5jA29wnHq96r2vFb8AcK8.jpg",
         "https://image.tmdb.org/t/p/w780/dyDrkxNU5YcJo1doCGbP7k2NDjR.jpg",
         "https://image.tmdb.org/t/p/w780/3lG13G4UBde8X1SHauOuAfwQnKE.jpg",
         "https://image.tmdb.org/t/p/w780/iSZ1MhNtUtmnUV4gOpjXS2rGDQq.jpg",
-        "https://image.tmdb.org/t/p/w780/fKWov1J5p6lNEBLW3cw6HEOc7hE.jpg",
-        "https://image.tmdb.org/t/p/w780/r84DiSIkez6GaLMSkgk7yTvGCn.jpg"
+        "https://image.tmdb.org/t/p/w780/fKWov1J5p6lNEBLW3cw6HEOc7hE.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1543469"
     },
@@ -921,7 +923,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 8.6,
+      "vote_average": 7.8,
       "providers": [],
       "videos": [
         {
@@ -966,8 +968,8 @@
         "https://image.tmdb.org/t/p/w780/cCGTwo2qtzKcvXvFvkvXO4J2f2D.jpg",
         "https://image.tmdb.org/t/p/w780/6bM4RwgUsL8hPz5FjFDKM0vrDu2.jpg",
         "https://image.tmdb.org/t/p/w780/qW47xOGl0dOMRUtAS2XugBlOO1t.jpg",
-        "https://image.tmdb.org/t/p/w780/9B3AMSs7A3bqqFLKlOv6W4LyAHG.jpg",
         "https://image.tmdb.org/t/p/w780/497KYpXqaxh99RPMVmsxAg76Nal.jpg",
+        "https://image.tmdb.org/t/p/w780/9B3AMSs7A3bqqFLKlOv6W4LyAHG.jpg",
         "https://image.tmdb.org/t/p/w780/vezToHmUsQApQKHChwz8E9LBfEA.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1300968"
@@ -987,7 +989,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.517,
       "providers": [],
       "videos": [
         {
@@ -1076,9 +1078,9 @@
       "title": "Vingadores: Doutor Destino",
       "release_date": "2026-12-16",
       "poster": "https://image.tmdb.org/t/p/w500/xYnLlYTQ3v31qllNPTZEIDzMOKl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
       "overview": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
-      "tagline": "",
+      "tagline": "Encare o seu destino.",
       "runtime": 150,
       "genres": [
         "Ficção científica",
@@ -1157,14 +1159,14 @@
       ],
       "director": "Joe Russo",
       "images": [
-        "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+        "https://image.tmdb.org/t/p/w780/iNyaldCUvLEJuTwFSjOoghRA4ez.jpg",
         "https://image.tmdb.org/t/p/w780/pGbP900NvKzOtLWdyH0sWmLQu1G.jpg",
         "https://image.tmdb.org/t/p/w780/6TgmIXoVGEDyp0MSoVytIeyfhDR.jpg",
         "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
         "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+        "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
         "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
-        "https://image.tmdb.org/t/p/w780/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg",
-        "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg"
+        "https://image.tmdb.org/t/p/w780/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1003596"
     }
