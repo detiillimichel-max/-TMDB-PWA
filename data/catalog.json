@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T07:26:03.973738+00:00",
+  "updated_at": "2026-11-19T20:38:01.738471+00:00",
   "region": "BR",
   "items": [
     {
@@ -15,7 +15,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 6.5,
+      "vote_average": 6.4,
       "providers": [],
       "videos": [
         {
@@ -45,12 +45,12 @@
       ],
       "cast": [
         "Jessica Chastain",
-        "Arabella Olivia Clark",
         "Jay Duplass",
+        "Arabella Olivia Clark",
         "Karen Allen",
         "Arian Moayed",
-        "Sean Kaufman",
         "Dichen Lachman",
+        "Sean Kaufman",
         "Adam Silver"
       ],
       "director": "Rob Savage",
@@ -80,7 +80,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 5.222,
+      "vote_average": 5.277,
       "providers": [],
       "videos": [
         {
@@ -126,7 +126,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.237,
+      "vote_average": 6.2,
       "providers": [],
       "videos": [
         {
@@ -175,7 +175,7 @@
         "Ação",
         "Fantasia"
       ],
-      "vote_average": 6.254,
+      "vote_average": 6.227,
       "providers": [],
       "videos": [
         {
@@ -241,7 +241,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.392,
+      "vote_average": 7.396,
       "providers": [],
       "videos": [
         {
@@ -322,7 +322,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.565,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
@@ -379,7 +379,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.408,
+      "vote_average": 6.4,
       "providers": [],
       "videos": [
         {
@@ -430,7 +430,7 @@
         "Drama",
         "Fantasia"
       ],
-      "vote_average": 8.5,
+      "vote_average": 8.478,
       "providers": [],
       "videos": [
         {
@@ -496,7 +496,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.627,
+      "vote_average": 6.632,
       "providers": [],
       "videos": [
         {
@@ -546,7 +546,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 7.927,
+      "vote_average": 7.933,
       "providers": [],
       "videos": [
         {
@@ -596,7 +596,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.679,
+      "vote_average": 7.672,
       "providers": [],
       "videos": [
         {
@@ -645,7 +645,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 9.037,
+      "vote_average": 9.0,
       "providers": [],
       "videos": [
         {
@@ -692,7 +692,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 7.085,
+      "vote_average": 7.0,
       "providers": [
         {
           "id": 8,
@@ -748,7 +748,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 6.2,
+      "vote_average": 6.196,
       "providers": [],
       "videos": [
         {
@@ -805,7 +805,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
@@ -854,7 +854,7 @@
       "title": "No Coração de Nashville",
       "release_date": "2026-11-13",
       "poster": "https://image.tmdb.org/t/p/w500/rhtPUCWTsZX9aWYeOpQDgtgCqCQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/gVhJbOCns6GNsQaUbLszQUkFIKf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
       "overview": "Misty Jones (Jessica Chastain), uma ex-estrela da música country, sai do isolamento para investigar o desaparecimento de sua sobrinha — também uma cantora country em ascensão — e precisa enfrentar seu próprio passado e o submundo sórdido de Nashville. Sua busca revela um lado obscuro da cidade, onde ninguém, nem mesmo Misty, é quem aparenta ser.",
       "tagline": "As estrelas mais brilhantes escondem os segredos mais sombrios.",
       "runtime": 113,
@@ -862,7 +862,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.283,
+      "vote_average": 6.2,
       "providers": [
         {
           "id": 8,
@@ -892,9 +892,9 @@
       ],
       "director": "Shana Feste",
       "images": [
-        "https://image.tmdb.org/t/p/w780/gVhJbOCns6GNsQaUbLszQUkFIKf.jpg",
         "https://image.tmdb.org/t/p/w780/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
         "https://image.tmdb.org/t/p/w780/d1d6prv2fZFr44uqKUMLjQzKRjx.jpg",
+        "https://image.tmdb.org/t/p/w780/gVhJbOCns6GNsQaUbLszQUkFIKf.jpg",
         "https://image.tmdb.org/t/p/w780/AbMqeR5jA29wnHq96r2vFb8AcK8.jpg",
         "https://image.tmdb.org/t/p/w780/dyDrkxNU5YcJo1doCGbP7k2NDjR.jpg",
         "https://image.tmdb.org/t/p/w780/3lG13G4UBde8X1SHauOuAfwQnKE.jpg",
@@ -918,7 +918,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.465,
       "providers": [],
       "videos": [
         {
@@ -958,14 +958,14 @@
       ],
       "director": "Francis Lawrence",
       "images": [
+        "https://image.tmdb.org/t/p/w780/vezToHmUsQApQKHChwz8E9LBfEA.jpg",
         "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
         "https://image.tmdb.org/t/p/w780/Ac56cVxw43dUY7rUIjadk0ro0xt.jpg",
         "https://image.tmdb.org/t/p/w780/cCGTwo2qtzKcvXvFvkvXO4J2f2D.jpg",
         "https://image.tmdb.org/t/p/w780/6bM4RwgUsL8hPz5FjFDKM0vrDu2.jpg",
         "https://image.tmdb.org/t/p/w780/qW47xOGl0dOMRUtAS2XugBlOO1t.jpg",
-        "https://image.tmdb.org/t/p/w780/497KYpXqaxh99RPMVmsxAg76Nal.jpg",
-        "https://image.tmdb.org/t/p/w780/9B3AMSs7A3bqqFLKlOv6W4LyAHG.jpg",
-        "https://image.tmdb.org/t/p/w780/vezToHmUsQApQKHChwz8E9LBfEA.jpg"
+        "https://image.tmdb.org/t/p/w780/kWAOufFlXbZjvUgNCc5qKso2uPk.jpg",
+        "https://image.tmdb.org/t/p/w780/497KYpXqaxh99RPMVmsxAg76Nal.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1300968"
     },
@@ -984,7 +984,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.525,
+      "vote_average": 7.451,
       "providers": [],
       "videos": [
         {
@@ -1025,7 +1025,7 @@
       "title": "Tudo Pode Ser Visto",
       "release_date": "2026-11-26",
       "poster": "https://image.tmdb.org/t/p/w500/mnu5cNfijdbuU4iWrV2Lg7AfM0J.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
       "overview": "Trinta e quatro dias antes de ser enviada para a prisão, a notória fundadora do Vale do Silício, Elizabeth Holmes, convida uma equipe de filmagem cética para documentar cada passo seu. O que começa como um retrato íntimo de uma criminosa enigmática se transforma em uma jornada alucinante de três anos rumo ao abismo.",
       "tagline": "Ver para crer.",
       "runtime": 175,
@@ -1056,10 +1056,10 @@
       ],
       "director": "Nathan Fielder",
       "images": [
+        "https://image.tmdb.org/t/p/w780/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
         "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
         "https://image.tmdb.org/t/p/w780/uDONA0SCc1Tanl1lizf6lYNoMmr.jpg",
-        "https://image.tmdb.org/t/p/w780/j4be5aJxpRDkWOfF88K4kldaudG.jpg",
-        "https://image.tmdb.org/t/p/w780/fbMNGkzwN9xxk6KuayfsHkkQiCe.jpg",
+        "https://image.tmdb.org/t/p/w780/rj1Q5yZ1DmQfxz2QJRQnk7JzdLx.jpg",
         "https://image.tmdb.org/t/p/w780/sgRg9h6fqCPUVzTKjAap57azga0.jpg",
         "https://image.tmdb.org/t/p/w780/hJahNruyGNVD4nyFJpeEodFnpgT.jpg",
         "https://image.tmdb.org/t/p/w780/flr1irwRWJJuB79u4T2t4bAS6OK.jpg",
@@ -1073,7 +1073,7 @@
       "title": "Vingadores: Doutor Destino",
       "release_date": "2026-12-16",
       "poster": "https://image.tmdb.org/t/p/w500/xYnLlYTQ3v31qllNPTZEIDzMOKl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
       "overview": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
       "tagline": "Encare o seu destino.",
       "runtime": 150,
@@ -1154,14 +1154,14 @@
       ],
       "director": "Joe Russo",
       "images": [
-        "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
         "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
-        "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
         "https://image.tmdb.org/t/p/w780/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg",
         "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
         "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
+        "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
         "https://image.tmdb.org/t/p/w780/iNyaldCUvLEJuTwFSjOoghRA4ez.jpg",
-        "https://image.tmdb.org/t/p/w780/pGbP900NvKzOtLWdyH0sWmLQu1G.jpg"
+        "https://image.tmdb.org/t/p/w780/pGbP900NvKzOtLWdyH0sWmLQu1G.jpg",
+        "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1003596"
     }
