@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T07:15:57.341866+00:00",
+  "updated_at": "2026-11-20T20:21:07.045471+00:00",
   "region": "BR",
   "items": [
     {
@@ -60,7 +60,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 6.454,
+      "vote_average": 6.426,
       "providers": [],
       "videos": [
         {
@@ -126,7 +126,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.205,
+      "vote_average": 6.203,
       "providers": [],
       "videos": [
         {
@@ -176,7 +176,7 @@
         "Comédia",
         "Fantasia"
       ],
-      "vote_average": 6.2,
+      "vote_average": 6.222,
       "providers": [],
       "videos": [
         {
@@ -242,7 +242,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.396,
+      "vote_average": 7.398,
       "providers": [],
       "videos": [
         {
@@ -380,7 +380,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.463,
+      "vote_average": 6.477,
       "providers": [],
       "videos": [
         {
@@ -431,7 +431,7 @@
         "Drama",
         "Fantasia"
       ],
-      "vote_average": 8.5,
+      "vote_average": 8.48,
       "providers": [],
       "videos": [
         {
@@ -497,7 +497,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.635,
+      "vote_average": 6.594,
       "providers": [],
       "videos": [
         {
@@ -547,7 +547,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.672,
+      "vote_average": 7.7,
       "providers": [],
       "videos": [
         {
@@ -596,7 +596,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 9.037,
+      "vote_average": 8.871,
       "providers": [],
       "videos": [
         {
@@ -643,7 +643,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 7.0,
+      "vote_average": 6.927,
       "providers": [
         {
           "id": 8,
@@ -756,7 +756,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.492,
+      "vote_average": 7.478,
       "providers": [],
       "videos": [
         {
@@ -813,7 +813,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.282,
+      "vote_average": 6.252,
       "providers": [
         {
           "id": 8,
@@ -869,7 +869,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.305,
       "providers": [],
       "videos": [
         {
@@ -934,7 +934,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 7.371,
+      "vote_average": 7.09,
       "providers": [
         {
           "id": 8,
@@ -965,6 +965,7 @@
       "director": "Elizabeth Allen Rosenbaum",
       "images": [
         "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+        "https://image.tmdb.org/t/p/w780/eMiuv9HEuK4L0G3bUDrKx1zuDpr.jpg",
         "https://image.tmdb.org/t/p/w780/1DdNU6D30sopGSO0ldT4Xngsvp3.jpg",
         "https://image.tmdb.org/t/p/w780/5c5qTq0mnTiMU3SVK8ve024kukB.jpg",
         "https://image.tmdb.org/t/p/w780/7s1ysyCATVEiDGLCRLWuC74U7K9.jpg",
@@ -987,7 +988,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.451,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -1035,7 +1036,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 8.831,
+      "vote_average": 8.8,
       "providers": [],
       "videos": [
         {
@@ -1060,13 +1061,13 @@
       "director": "Nathan Fielder",
       "images": [
         "https://image.tmdb.org/t/p/w780/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
+        "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
         "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
         "https://image.tmdb.org/t/p/w780/uDONA0SCc1Tanl1lizf6lYNoMmr.jpg",
         "https://image.tmdb.org/t/p/w780/rj1Q5yZ1DmQfxz2QJRQnk7JzdLx.jpg",
+        "https://image.tmdb.org/t/p/w780/bO9IW7FLKA3OBstINZVca2yPxKj.jpg",
         "https://image.tmdb.org/t/p/w780/sgRg9h6fqCPUVzTKjAap57azga0.jpg",
-        "https://image.tmdb.org/t/p/w780/hJahNruyGNVD4nyFJpeEodFnpgT.jpg",
-        "https://image.tmdb.org/t/p/w780/flr1irwRWJJuB79u4T2t4bAS6OK.jpg",
-        "https://image.tmdb.org/t/p/w780/gCfol52f4veLiaSvGYLHw4mIiSG.jpg"
+        "https://image.tmdb.org/t/p/w780/hJahNruyGNVD4nyFJpeEodFnpgT.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1765072"
     },
@@ -1075,7 +1076,7 @@
       "type": "movie",
       "title": "Vingadores: Doutor Destino",
       "release_date": "2026-12-16",
-      "poster": "https://image.tmdb.org/t/p/w500/xYnLlYTQ3v31qllNPTZEIDzMOKl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/aSzeVbyyU65420A1646YfHcf6Zt.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/9N21RJNwDuYJP5M0Of3mN4xG3IA.jpg",
       "overview": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
       "tagline": "Encare o seu destino.",
@@ -1157,14 +1158,14 @@
       ],
       "director": "Joe Russo",
       "images": [
-        "https://image.tmdb.org/t/p/w780/9N21RJNwDuYJP5M0Of3mN4xG3IA.jpg",
         "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
         "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
         "https://image.tmdb.org/t/p/w780/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg",
         "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
         "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
         "https://image.tmdb.org/t/p/w780/iNyaldCUvLEJuTwFSjOoghRA4ez.jpg",
-        "https://image.tmdb.org/t/p/w780/pGbP900NvKzOtLWdyH0sWmLQu1G.jpg"
+        "https://image.tmdb.org/t/p/w780/pGbP900NvKzOtLWdyH0sWmLQu1G.jpg",
+        "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1003596"
     }
