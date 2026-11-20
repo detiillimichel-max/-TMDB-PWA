@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-11-19T20:38:01.738471+00:00",
+  "updated_at": "2026-11-20T07:15:57.341866+00:00",
   "region": "BR",
   "items": [
+    {
+      "id": 1185344,
+      "type": "movie",
+      "title": "A Fúria da Besta",
+      "release_date": "2026-10-08",
+      "poster": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/r5RYEmZzm1Z6imS7XfiKPnMlyc7.jpg",
+      "overview": "Quando uma milícia de hostis não identificados coordena um golpe contra os Estados Unidos, o presidente precisa revidar utilizando as capacidades ofensivas altamente secretas de sua limusine blindada, apelidada de A Besta.",
+      "tagline": "",
+      "runtime": 99,
+      "genres": [
+        "Ação",
+        "Thriller"
+      ],
+      "vote_average": 5.1,
+      "providers": [],
+      "videos": [
+        {
+          "key": "AJrNa4I8fU8",
+          "name": "A Besta do Mar (Beast of War) | Trailer Oficial (2025) Legendado",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Samuel L. Jackson",
+        "Joel Kinnaman",
+        "Guy Burnet",
+        "Eoin Macken",
+        "Colin Morgan"
+      ],
+      "director": "Renny Harlin",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/r5RYEmZzm1Z6imS7XfiKPnMlyc7.jpg",
+        "https://image.tmdb.org/t/p/w780/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
+        "https://image.tmdb.org/t/p/w780/6c4nZITYSxsBIZDezyI3djU60x9.jpg",
+        "https://image.tmdb.org/t/p/w780/6Uxf2heqAGbOF0o0JyZenwa9OxO.jpg",
+        "https://image.tmdb.org/t/p/w780/qfrHg2Ew3SCL3RoFm0e3H7bTcEy.jpg",
+        "https://image.tmdb.org/t/p/w780/uMzqGppyHNLMmQdVvmDRMiC8hFI.jpg",
+        "https://image.tmdb.org/t/p/w780/6nFrPw9Bzhkf91iKHFXPvFf2cOM.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1185344"
+    },
     {
       "id": 1400837,
       "type": "movie",
@@ -15,7 +60,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 6.4,
+      "vote_average": 6.454,
       "providers": [],
       "videos": [
         {
@@ -67,51 +112,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1400837"
     },
     {
-      "id": 1185344,
-      "type": "movie",
-      "title": "The Beast",
-      "release_date": "2026-10-08",
-      "poster": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/r5RYEmZzm1Z6imS7XfiKPnMlyc7.jpg",
-      "overview": "Quando uma milícia de hostis não identificados coordena um golpe contra os Estados Unidos, o presidente precisa revidar utilizando as capacidades ofensivas altamente secretas de sua limusine blindada, apelidada de A Besta.",
-      "tagline": "",
-      "runtime": 99,
-      "genres": [
-        "Ação",
-        "Thriller"
-      ],
-      "vote_average": 5.277,
-      "providers": [],
-      "videos": [
-        {
-          "key": "_etB55USRPQ",
-          "name": "The Beast - Official Trailer (2026) Samuel L. Jackson, Joel Kinnaman",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Samuel L. Jackson",
-        "Joel Kinnaman",
-        "Guy Burnet",
-        "Eoin Macken",
-        "Colin Morgan"
-      ],
-      "director": "Renny Harlin",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/r5RYEmZzm1Z6imS7XfiKPnMlyc7.jpg",
-        "https://image.tmdb.org/t/p/w780/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
-        "https://image.tmdb.org/t/p/w780/6c4nZITYSxsBIZDezyI3djU60x9.jpg",
-        "https://image.tmdb.org/t/p/w780/6Uxf2heqAGbOF0o0JyZenwa9OxO.jpg",
-        "https://image.tmdb.org/t/p/w780/qfrHg2Ew3SCL3RoFm0e3H7bTcEy.jpg",
-        "https://image.tmdb.org/t/p/w780/uMzqGppyHNLMmQdVvmDRMiC8hFI.jpg",
-        "https://image.tmdb.org/t/p/w780/6nFrPw9Bzhkf91iKHFXPvFf2cOM.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1185344"
-    },
-    {
       "id": 1507696,
       "type": "movie",
       "title": "Apocalipse Z: Novo Mundo",
@@ -126,7 +126,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.2,
+      "vote_average": 6.205,
       "providers": [],
       "videos": [
         {
@@ -173,9 +173,10 @@
       "runtime": 119,
       "genres": [
         "Ação",
+        "Comédia",
         "Fantasia"
       ],
-      "vote_average": 6.227,
+      "vote_average": 6.2,
       "providers": [],
       "videos": [
         {
@@ -218,8 +219,8 @@
         "https://image.tmdb.org/t/p/w780/9vNW8ysMKIbefbEQOFEZIKpMqwZ.jpg",
         "https://image.tmdb.org/t/p/w780/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
         "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
-        "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
         "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+        "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
         "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
         "https://image.tmdb.org/t/p/w780/6kJENBnZsVZuhYTSR3zZi6FUe30.jpg",
         "https://image.tmdb.org/t/p/w780/bfiOm4QESARLzMEMtuUYYjD39xn.jpg"
@@ -379,7 +380,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.4,
+      "vote_average": 6.463,
       "providers": [],
       "videos": [
         {
@@ -425,12 +426,12 @@
       "tagline": "Até onde você iria por aqueles que ama?",
       "runtime": 130,
       "genres": [
-        "Aventura",
         "Animação",
+        "Aventura",
         "Drama",
         "Fantasia"
       ],
-      "vote_average": 8.478,
+      "vote_average": 8.5,
       "providers": [],
       "videos": [
         {
@@ -496,7 +497,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.632,
+      "vote_average": 6.635,
       "providers": [],
       "videos": [
         {
@@ -530,56 +531,6 @@
         "https://image.tmdb.org/t/p/w780/uBNHLvpg2NbpSnczkVGh5whF9gC.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1813355"
-    },
-    {
-      "id": 891621,
-      "type": "movie",
-      "title": "Cavalo Selvagem Nove",
-      "release_date": "2026-11-05",
-      "poster": "https://image.tmdb.org/t/p/w500/mfnJ58xi3BJLDf9sSHAfNm1QJY9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
-      "overview": "Pouco antes do golpe de Estado no Chile em 1973, dois agentes da CIA são enviados de Santiago para a Ilha de Páscoa em uma missão de teste de confiança. Entre as famosas estátuas que são o marco da ilha, conhecidas como muais, eles enfrentam passados sombrios e conspirações, enquanto o envolvimento de um dos agentes com estudantes rebeldes ameaça arruinar a viagem.",
-      "tagline": "",
-      "runtime": 120,
-      "genres": [
-        "Comédia",
-        "Crime",
-        "Thriller"
-      ],
-      "vote_average": 7.933,
-      "providers": [],
-      "videos": [
-        {
-          "key": "jainu1e_W9I",
-          "name": "Trailer Oficial Legendado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "John Malkovich",
-        "Sam Rockwell",
-        "Steve Buscemi",
-        "Mariana di Girolamo",
-        "Ailín Salas",
-        "Parker Posey",
-        "Tom Waits",
-        "Paola Giannini"
-      ],
-      "director": "Martin McDonagh",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
-        "https://image.tmdb.org/t/p/w780/gPoUbrj7vy9sS8SkpCNMNx4Y9eS.jpg",
-        "https://image.tmdb.org/t/p/w780/rzHqY2iu4gI5i6FDHvlQcnSccCK.jpg",
-        "https://image.tmdb.org/t/p/w780/1bf7dbeoTLNFFwk35bmzvgB6knZ.jpg",
-        "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
-        "https://image.tmdb.org/t/p/w780/phYik8dKyN85d2iB2K3CphCsugL.jpg",
-        "https://image.tmdb.org/t/p/w780/1SpBo9uZ68nMEKbOxEHTf1tIc6d.jpg",
-        "https://image.tmdb.org/t/p/w780/d1Gqj58MO2fIBqqjSGf8zD215bB.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/891621"
     },
     {
       "id": 1381071,
@@ -645,7 +596,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 9.0,
+      "vote_average": 9.037,
       "providers": [],
       "videos": [
         {
@@ -805,7 +756,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.492,
       "providers": [],
       "videos": [
         {
@@ -862,7 +813,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.2,
+      "vote_average": 6.282,
       "providers": [
         {
           "id": 8,
@@ -918,7 +869,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.465,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -958,8 +909,8 @@
       ],
       "director": "Francis Lawrence",
       "images": [
-        "https://image.tmdb.org/t/p/w780/vezToHmUsQApQKHChwz8E9LBfEA.jpg",
         "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+        "https://image.tmdb.org/t/p/w780/vezToHmUsQApQKHChwz8E9LBfEA.jpg",
         "https://image.tmdb.org/t/p/w780/Ac56cVxw43dUY7rUIjadk0ro0xt.jpg",
         "https://image.tmdb.org/t/p/w780/cCGTwo2qtzKcvXvFvkvXO4J2f2D.jpg",
         "https://image.tmdb.org/t/p/w780/6bM4RwgUsL8hPz5FjFDKM0vrDu2.jpg",
@@ -968,6 +919,58 @@
         "https://image.tmdb.org/t/p/w780/497KYpXqaxh99RPMVmsxAg76Nal.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1300968"
+    },
+    {
+      "id": 1551025,
+      "type": "movie",
+      "title": "Protegendo Estrelas",
+      "release_date": "2026-11-18",
+      "poster": "https://image.tmdb.org/t/p/w500/lcjabMgrRfWGs81vq9vGK0tERDo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+      "overview": "Uma guarda-costas pragmática tem que proteger um ator de Hollywood durante as festas de fim de ano, mas o clima esquenta, segredos vêm à tona e o Natal fica bem mais complicado.",
+      "tagline": "",
+      "runtime": 109,
+      "genres": [
+        "Romance",
+        "Comédia"
+      ],
+      "vote_average": 7.371,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "cAq_Vie8uz4",
+          "name": "Protegendo Estrelas 2026 Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Leighton Meester",
+        "Jared Padalecki",
+        "Andie MacDowell",
+        "Walker Hayes",
+        "Noah LaLonde",
+        "Toby Sandeman",
+        "Phil Brooks",
+        "Ava Max"
+      ],
+      "director": "Elizabeth Allen Rosenbaum",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+        "https://image.tmdb.org/t/p/w780/1DdNU6D30sopGSO0ldT4Xngsvp3.jpg",
+        "https://image.tmdb.org/t/p/w780/5c5qTq0mnTiMU3SVK8ve024kukB.jpg",
+        "https://image.tmdb.org/t/p/w780/7s1ysyCATVEiDGLCRLWuC74U7K9.jpg",
+        "https://image.tmdb.org/t/p/w780/4Ps3mPq3UjlM0BwC2vxY5cHyDEz.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1551025"
     },
     {
       "id": 656908,
@@ -1032,7 +1035,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 8.8,
+      "vote_average": 8.831,
       "providers": [],
       "videos": [
         {
@@ -1073,7 +1076,7 @@
       "title": "Vingadores: Doutor Destino",
       "release_date": "2026-12-16",
       "poster": "https://image.tmdb.org/t/p/w500/xYnLlYTQ3v31qllNPTZEIDzMOKl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9N21RJNwDuYJP5M0Of3mN4xG3IA.jpg",
       "overview": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
       "tagline": "Encare o seu destino.",
       "runtime": 150,
@@ -1154,14 +1157,14 @@
       ],
       "director": "Joe Russo",
       "images": [
+        "https://image.tmdb.org/t/p/w780/9N21RJNwDuYJP5M0Of3mN4xG3IA.jpg",
+        "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
         "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
         "https://image.tmdb.org/t/p/w780/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg",
         "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
         "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
-        "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
         "https://image.tmdb.org/t/p/w780/iNyaldCUvLEJuTwFSjOoghRA4ez.jpg",
-        "https://image.tmdb.org/t/p/w780/pGbP900NvKzOtLWdyH0sWmLQu1G.jpg",
-        "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg"
+        "https://image.tmdb.org/t/p/w780/pGbP900NvKzOtLWdyH0sWmLQu1G.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1003596"
     }
