@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T20:21:07.045471+00:00",
+  "updated_at": "2026-11-21T07:08:53.246497+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,12 +16,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 5.1,
+      "vote_average": 4.941,
       "providers": [],
       "videos": [
         {
-          "key": "AJrNa4I8fU8",
-          "name": "A Besta do Mar (Beast of War) | Trailer Oficial (2025) Legendado",
+          "key": "dWU_DC1GpqQ",
+          "name": "&quot;A BESTA&quot; - Trailer Oficial Legendado (Universal Pictures Portugal) HD",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -60,7 +60,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 6.426,
+      "vote_average": 6.422,
       "providers": [],
       "videos": [
         {
@@ -126,7 +126,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.203,
+      "vote_average": 6.215,
       "providers": [],
       "videos": [
         {
@@ -167,7 +167,7 @@
       "title": "Street Fighter",
       "release_date": "2026-10-15",
       "poster": "https://image.tmdb.org/t/p/w500/6gWmrC2GyDbUM1ET5EBg9lxBi7S.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9vNW8ysMKIbefbEQOFEZIKpMqwZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
       "overview": "Em 1993, os lutadores Ryu e Ken Masters são colocados de volta no combate quando a misteriosa Chun-Li os recruta para o próximo Torneio Street Fighter: uma brutal briga de socos, destino e fúria. Entretanto, por trás desse campeonato, se esconde uma conspiração mortal que os força a encarar um ao outro e os demônios do passado. E se eles não fizerem, é game over!",
       "tagline": "Preparar. Apontar. Lutar.",
       "runtime": 119,
@@ -176,7 +176,7 @@
         "Comédia",
         "Fantasia"
       ],
-      "vote_average": 6.222,
+      "vote_average": 6.232,
       "providers": [],
       "videos": [
         {
@@ -216,14 +216,14 @@
       ],
       "director": "Kitao Sakurai",
       "images": [
-        "https://image.tmdb.org/t/p/w780/9vNW8ysMKIbefbEQOFEZIKpMqwZ.jpg",
-        "https://image.tmdb.org/t/p/w780/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
-        "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
         "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+        "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
         "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
+        "https://image.tmdb.org/t/p/w780/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
+        "https://image.tmdb.org/t/p/w780/9vNW8ysMKIbefbEQOFEZIKpMqwZ.jpg",
         "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
         "https://image.tmdb.org/t/p/w780/6kJENBnZsVZuhYTSR3zZi6FUe30.jpg",
-        "https://image.tmdb.org/t/p/w780/bfiOm4QESARLzMEMtuUYYjD39xn.jpg"
+        "https://image.tmdb.org/t/p/w780/yff2isfuB7ZABGsMQ47iebVcwBA.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1153576"
     },
@@ -242,7 +242,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.398,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -380,7 +380,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.477,
+      "vote_average": 6.447,
       "providers": [],
       "videos": [
         {
@@ -431,7 +431,7 @@
         "Drama",
         "Fantasia"
       ],
-      "vote_average": 8.48,
+      "vote_average": 8.467,
       "providers": [],
       "videos": [
         {
@@ -497,7 +497,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.594,
+      "vote_average": 6.528,
       "providers": [],
       "videos": [
         {
@@ -547,7 +547,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.7,
+      "vote_average": 7.665,
       "providers": [],
       "videos": [
         {
@@ -596,7 +596,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.871,
+      "vote_average": 8.939,
       "providers": [],
       "videos": [
         {
@@ -643,7 +643,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 6.927,
+      "vote_average": 6.789,
       "providers": [
         {
           "id": 8,
@@ -699,7 +699,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 6.196,
+      "vote_average": 6.2,
       "providers": [],
       "videos": [
         {
@@ -748,7 +748,7 @@
       "title": "Ebenezer e os Fantasmas do Natal",
       "release_date": "2026-11-12",
       "poster": "https://image.tmdb.org/t/p/w500/7MBeM27NNcCYUszjTNYJUycPDhV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/274ahmbkJSzdmcWrWSTu9DFv5rp.jpg",
       "overview": "Ebenezer Scrooge é um velho avarento que recebe a visita do fantasma de seu antigo sócio, Jacob Marley, e dos Espíritos do Natal Passado, Presente e Futuro. Os encontros o força a confrontar o próprio passado e a lutar por uma segunda chance de ser feliz.",
       "tagline": "Antes de ser Scrooge, ele era Ebenézer.",
       "runtime": 115,
@@ -756,7 +756,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.478,
+      "vote_average": 7.474,
       "providers": [],
       "videos": [
         {
@@ -788,11 +788,11 @@
       ],
       "director": "Ti West",
       "images": [
+        "https://image.tmdb.org/t/p/w780/274ahmbkJSzdmcWrWSTu9DFv5rp.jpg",
         "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
         "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
         "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
         "https://image.tmdb.org/t/p/w780/bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
-        "https://image.tmdb.org/t/p/w780/orfjYpvvHhEHMldmQn8lb8X6iw3.jpg",
         "https://image.tmdb.org/t/p/w780/1xlpGn67p0rYP9tJq5W0H8NGXsL.jpg",
         "https://image.tmdb.org/t/p/w780/vrzZM9fdevl2syF6igHAMfRAwP8.jpg",
         "https://image.tmdb.org/t/p/w780/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg"
@@ -813,7 +813,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.252,
+      "vote_average": 6.255,
       "providers": [
         {
           "id": 8,
@@ -869,7 +869,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.305,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -934,7 +934,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 7.09,
+      "vote_average": 6.873,
       "providers": [
         {
           "id": 8,
@@ -1036,7 +1036,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 8.8,
+      "vote_average": 8.824,
       "providers": [],
       "videos": [
         {
@@ -1077,7 +1077,7 @@
       "title": "Vingadores: Doutor Destino",
       "release_date": "2026-12-16",
       "poster": "https://image.tmdb.org/t/p/w500/aSzeVbyyU65420A1646YfHcf6Zt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9N21RJNwDuYJP5M0Of3mN4xG3IA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
       "overview": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
       "tagline": "Encare o seu destino.",
       "runtime": 150,
