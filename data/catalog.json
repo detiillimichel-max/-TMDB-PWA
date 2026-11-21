@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T07:08:53.246497+00:00",
+  "updated_at": "2026-11-21T19:16:25.301757+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,12 +16,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 4.941,
+      "vote_average": 4.9,
       "providers": [],
       "videos": [
         {
-          "key": "dWU_DC1GpqQ",
-          "name": "&quot;A BESTA&quot; - Trailer Oficial Legendado (Universal Pictures Portugal) HD",
+          "key": "AJrNa4I8fU8",
+          "name": "A Besta do Mar (Beast of War) | Trailer Oficial (2025) Legendado",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -33,7 +33,10 @@
         "Joel Kinnaman",
         "Guy Burnet",
         "Eoin Macken",
-        "Colin Morgan"
+        "LaTanya Richardson Jackson",
+        "Ken Myles",
+        "Jamie Effros",
+        "Alberto Pérez Socas"
       ],
       "director": "Renny Harlin",
       "images": [
@@ -60,7 +63,7 @@
       "genres": [
         "Terror"
       ],
-      "vote_average": 6.422,
+      "vote_average": 6.436,
       "providers": [],
       "videos": [
         {
@@ -126,7 +129,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.215,
+      "vote_average": 6.217,
       "providers": [],
       "videos": [
         {
@@ -176,7 +179,7 @@
         "Comédia",
         "Fantasia"
       ],
-      "vote_average": 6.232,
+      "vote_average": 6.2,
       "providers": [],
       "videos": [
         {
@@ -242,7 +245,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.393,
       "providers": [],
       "videos": [
         {
@@ -323,7 +326,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.6,
+      "vote_average": 7.572,
       "providers": [],
       "videos": [
         {
@@ -380,7 +383,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.447,
+      "vote_average": 6.476,
       "providers": [],
       "videos": [
         {
@@ -431,7 +434,7 @@
         "Drama",
         "Fantasia"
       ],
-      "vote_average": 8.467,
+      "vote_average": 8.4,
       "providers": [],
       "videos": [
         {
@@ -497,7 +500,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.528,
+      "vote_average": 6.534,
       "providers": [],
       "videos": [
         {
@@ -547,7 +550,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.665,
+      "vote_average": 7.692,
       "providers": [],
       "videos": [
         {
@@ -643,7 +646,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 6.789,
+      "vote_average": 6.847,
       "providers": [
         {
           "id": 8,
@@ -756,7 +759,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.474,
+      "vote_average": 7.471,
       "providers": [],
       "videos": [
         {
@@ -813,7 +816,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.255,
+      "vote_average": 6.3,
       "providers": [
         {
           "id": 8,
@@ -869,7 +872,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.605,
       "providers": [],
       "videos": [
         {
@@ -899,10 +902,10 @@
       ],
       "cast": [
         "Joseph Zada",
-        "Mckenna Grace",
-        "Ralph Fiennes",
         "Jesse Plemons",
+        "Ralph Fiennes",
         "Glenn Close",
+        "Mckenna Grace",
         "Whitney Peak",
         "Elle Fanning",
         "Kieran Culkin"
@@ -934,7 +937,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 6.873,
+      "vote_average": 7.107,
       "providers": [
         {
           "id": 8,
@@ -965,11 +968,11 @@
       "director": "Elizabeth Allen Rosenbaum",
       "images": [
         "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+        "https://image.tmdb.org/t/p/w780/7s1ysyCATVEiDGLCRLWuC74U7K9.jpg",
+        "https://image.tmdb.org/t/p/w780/4Ps3mPq3UjlM0BwC2vxY5cHyDEz.jpg",
         "https://image.tmdb.org/t/p/w780/eMiuv9HEuK4L0G3bUDrKx1zuDpr.jpg",
         "https://image.tmdb.org/t/p/w780/1DdNU6D30sopGSO0ldT4Xngsvp3.jpg",
-        "https://image.tmdb.org/t/p/w780/5c5qTq0mnTiMU3SVK8ve024kukB.jpg",
-        "https://image.tmdb.org/t/p/w780/7s1ysyCATVEiDGLCRLWuC74U7K9.jpg",
-        "https://image.tmdb.org/t/p/w780/4Ps3mPq3UjlM0BwC2vxY5cHyDEz.jpg"
+        "https://image.tmdb.org/t/p/w780/5c5qTq0mnTiMU3SVK8ve024kukB.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1551025"
     },
@@ -1036,7 +1039,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 8.824,
+      "vote_average": 8.8,
       "providers": [],
       "videos": [
         {
@@ -1063,11 +1066,11 @@
         "https://image.tmdb.org/t/p/w780/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
         "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
         "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+        "https://image.tmdb.org/t/p/w780/gsSAPAcHDSQOSIDZVm1alSZpDCv.jpg",
+        "https://image.tmdb.org/t/p/w780/edYRAs5wYv9QC4VrHcnUEeiaUHv.jpg",
+        "https://image.tmdb.org/t/p/w780/2kxMNvP20MdkJh0ynE1TpuG5yp3.jpg",
         "https://image.tmdb.org/t/p/w780/uDONA0SCc1Tanl1lizf6lYNoMmr.jpg",
-        "https://image.tmdb.org/t/p/w780/rj1Q5yZ1DmQfxz2QJRQnk7JzdLx.jpg",
-        "https://image.tmdb.org/t/p/w780/bO9IW7FLKA3OBstINZVca2yPxKj.jpg",
-        "https://image.tmdb.org/t/p/w780/sgRg9h6fqCPUVzTKjAap57azga0.jpg",
-        "https://image.tmdb.org/t/p/w780/hJahNruyGNVD4nyFJpeEodFnpgT.jpg"
+        "https://image.tmdb.org/t/p/w780/fbMNGkzwN9xxk6KuayfsHkkQiCe.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1765072"
     },
@@ -1158,11 +1161,11 @@
       ],
       "director": "Joe Russo",
       "images": [
-        "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
         "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
         "https://image.tmdb.org/t/p/w780/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg",
         "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
         "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
+        "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
         "https://image.tmdb.org/t/p/w780/iNyaldCUvLEJuTwFSjOoghRA4ez.jpg",
         "https://image.tmdb.org/t/p/w780/pGbP900NvKzOtLWdyH0sWmLQu1G.jpg",
         "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg"
