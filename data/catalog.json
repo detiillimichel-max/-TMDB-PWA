@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T19:16:25.301757+00:00",
+  "updated_at": "2026-11-22T06:48:49.501310+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,7 +16,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 4.9,
+      "vote_average": 4.944,
       "providers": [],
       "videos": [
         {
@@ -51,70 +51,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1185344"
     },
     {
-      "id": 1400837,
-      "type": "movie",
-      "title": "Outra Mamãe",
-      "release_date": "2026-10-08",
-      "poster": "https://image.tmdb.org/t/p/w500/hiuBB4ZqGbL7uihdVPUahFtg7Zr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-      "overview": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
-      "tagline": "Sua mamãe não vai te salvar.",
-      "runtime": 94,
-      "genres": [
-        "Terror"
-      ],
-      "vote_average": 6.436,
-      "providers": [],
-      "videos": [
-        {
-          "key": "a74ZT4Ncess",
-          "name": "Outra Mamãe | Trailer 2 - Dublado (Universal Pictures) - HD",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "zBf1b5WtiBs",
-          "name": "Outra Mamãe | Trailer (Universal Pictures) - HD",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "WmupdT0zZwM",
-          "name": "Outra Mamãe | Trailer Dublado (Universal Pictures) - HD",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Jessica Chastain",
-        "Jay Duplass",
-        "Arabella Olivia Clark",
-        "Karen Allen",
-        "Arian Moayed",
-        "Dichen Lachman",
-        "Sean Kaufman",
-        "Adam Silver"
-      ],
-      "director": "Rob Savage",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-        "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-        "https://image.tmdb.org/t/p/w780/6O520Y4noXhI6xb2sHRqecOCywE.jpg",
-        "https://image.tmdb.org/t/p/w780/zNaLP9XKRGdLYdKiLjEap5zqYWt.jpg",
-        "https://image.tmdb.org/t/p/w780/fqK74DYEkAuvMJXozxiqSujCQU4.jpg",
-        "https://image.tmdb.org/t/p/w780/yf5EKtrTKM8pla1TpNA5TsZgoTp.jpg",
-        "https://image.tmdb.org/t/p/w780/8KUmqPOx3qsq3iHBH4UaZhMAgz4.jpg",
-        "https://image.tmdb.org/t/p/w780/AflbdtwHm1FOXKCFtn8wKaQsAjR.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1400837"
-    },
-    {
       "id": 1507696,
       "type": "movie",
       "title": "Apocalipse Z: Novo Mundo",
@@ -129,7 +65,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.217,
+      "vote_average": 6.181,
       "providers": [],
       "videos": [
         {
@@ -179,7 +115,7 @@
         "Comédia",
         "Fantasia"
       ],
-      "vote_average": 6.2,
+      "vote_average": 6.24,
       "providers": [],
       "videos": [
         {
@@ -245,7 +181,7 @@
         "Thriller",
         "Ficção científica"
       ],
-      "vote_average": 7.393,
+      "vote_average": 7.398,
       "providers": [],
       "videos": [
         {
@@ -326,7 +262,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.572,
+      "vote_average": 7.574,
       "providers": [],
       "videos": [
         {
@@ -383,7 +319,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.476,
+      "vote_average": 6.515,
       "providers": [],
       "videos": [
         {
@@ -500,7 +436,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.534,
+      "vote_average": 6.551,
       "providers": [],
       "videos": [
         {
@@ -550,7 +486,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.692,
+      "vote_average": 7.694,
       "providers": [],
       "videos": [
         {
@@ -599,7 +535,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.939,
+      "vote_average": 8.926,
       "providers": [],
       "videos": [
         {
@@ -646,7 +582,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 6.847,
+      "vote_average": 6.852,
       "providers": [
         {
           "id": 8,
@@ -702,7 +638,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 6.2,
+      "vote_average": 6.206,
       "providers": [],
       "videos": [
         {
@@ -759,7 +695,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.471,
+      "vote_average": 7.49,
       "providers": [],
       "videos": [
         {
@@ -816,7 +752,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.3,
+      "vote_average": 6.261,
       "providers": [
         {
           "id": 8,
@@ -872,7 +808,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.605,
+      "vote_average": 7.639,
       "providers": [],
       "videos": [
         {
@@ -924,6 +860,56 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1300968"
     },
     {
+      "id": 1131943,
+      "type": "movie",
+      "title": "Madden: O Homem e o Jogo",
+      "release_date": "2026-11-18",
+      "poster": "https://image.tmdb.org/t/p/w500/hCJ93wcAb0zGFK3G4MgkWJKx6Lm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
+      "overview": "Inspirado na vida de um querido ícone americano, este filme narra a incrível jornada de John Madden ao lado de seu melhor amigo e autêntico Al Davis. A trama acompanha desde a parceria campeã do Super Bowl com a equipe do Raiders, até ele se tornar a voz mais reconhecível do futebol americano e construir a franquia mundial de videogame Madden NFL. É a celebração de uma mente brilhante, cujo espírito e personalidade únicos, a parceria com sua ousada esposa Virginia, as amizades duradouras e o amor contagiante pelas pessoas e pelo esporte transcenderam o mundo do futebol americano.",
+      "tagline": "",
+      "runtime": 112,
+      "genres": [
+        "Drama",
+        "História",
+        "Comédia"
+      ],
+      "vote_average": 6.987,
+      "providers": [],
+      "videos": [
+        {
+          "key": "tmD2dfc5XDE",
+          "name": "Trailer Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Nicolas Cage",
+        "Christian Bale",
+        "Kathryn Hahn",
+        "Sienna Miller",
+        "John Mulaney",
+        "Snoop Dogg",
+        "Shane Gillis",
+        "Marshawn Lynch"
+      ],
+      "director": "David O. Russell",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
+        "https://image.tmdb.org/t/p/w780/peolEa2e0nWImNsZy9Omc72hnPI.jpg",
+        "https://image.tmdb.org/t/p/w780/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
+        "https://image.tmdb.org/t/p/w780/6R2lH7Z1zOP8SZzw1vF8Xhshc2.jpg",
+        "https://image.tmdb.org/t/p/w780/iR8QWlvryYb8IJQdyx4lPWkLhE4.jpg",
+        "https://image.tmdb.org/t/p/w780/bkBl0Qhsr4svO9cp5DIP0Onq3CN.jpg",
+        "https://image.tmdb.org/t/p/w780/29QfoAMZseZdU1DRr3MqqPgu9RE.jpg",
+        "https://image.tmdb.org/t/p/w780/ktVMMAueDTT0YCOKwR2VYQ8coq2.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1131943"
+    },
+    {
       "id": 1551025,
       "type": "movie",
       "title": "Protegendo Estrelas",
@@ -937,7 +923,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 7.107,
+      "vote_average": 6.863,
       "providers": [
         {
           "id": 8,
@@ -991,7 +977,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.404,
       "providers": [],
       "videos": [
         {
@@ -1080,7 +1066,7 @@
       "title": "Vingadores: Doutor Destino",
       "release_date": "2026-12-16",
       "poster": "https://image.tmdb.org/t/p/w500/aSzeVbyyU65420A1646YfHcf6Zt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
       "overview": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
       "tagline": "Encare o seu destino.",
       "runtime": 150,
