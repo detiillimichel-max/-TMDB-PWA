@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T06:48:49.501310+00:00",
+  "updated_at": "2026-11-22T19:40:58.990320+00:00",
   "region": "BR",
   "items": [
     {
@@ -16,12 +16,12 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 4.944,
+      "vote_average": 4.881,
       "providers": [],
       "videos": [
         {
-          "key": "AJrNa4I8fU8",
-          "name": "A Besta do Mar (Beast of War) | Trailer Oficial (2025) Legendado",
+          "key": "dWU_DC1GpqQ",
+          "name": "&quot;A BESTA&quot; - Trailer Oficial Legendado (Universal Pictures Portugal) HD",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -65,7 +65,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.181,
+      "vote_average": 6.196,
       "providers": [],
       "videos": [
         {
@@ -115,7 +115,7 @@
         "Comédia",
         "Fantasia"
       ],
-      "vote_average": 6.24,
+      "vote_average": 6.2,
       "providers": [],
       "videos": [
         {
@@ -165,88 +165,6 @@
         "https://image.tmdb.org/t/p/w780/yff2isfuB7ZABGsMQ47iebVcwBA.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1153576"
-    },
-    {
-      "id": 1400940,
-      "type": "movie",
-      "title": "Cara-de-Barro",
-      "release_date": "2026-10-22",
-      "poster": "https://image.tmdb.org/t/p/w500/dqvHs2YXks989ScXvsngbqAeBHX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg",
-      "overview": "A ascensão meteórica de Matt Hagen de garoto das ruas de Gotham a astro de Hollywood é tragicamente interrompida quando as ações de um chefão do crime local o deixam terrivelmente desfigurado. Abandonado por sua equipe e sem nada, Matt busca um tratamento de ponta que, milagrosamente, o devolve à sua antiga forma... mas que também afeta, de maneira inesperada, sua percepção da realidade, lançando-o em uma espiral destrutiva de obsessão e vingança.",
-      "tagline": "Enfrente o medo cara a cara.",
-      "runtime": 109,
-      "genres": [
-        "Terror",
-        "Thriller",
-        "Ficção científica"
-      ],
-      "vote_average": 7.398,
-      "providers": [],
-      "videos": [
-        {
-          "key": "Qn17zXheL6Q",
-          "name": "Cara-De-Barro | Trailer Final Oficial Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "UYU8hTM-rfM",
-          "name": "Cara de Barro | Trailer Final Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "0UNpg8OZueI",
-          "name": "Cara-de-Barro | Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "otWwAkuEnPc",
-          "name": "Cara de Barro | Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "m4G1Sfz1qeU",
-          "name": "Teaser Oficial",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Tom Rhys Harries",
-        "Naomi Ackie",
-        "Eddie Marsan",
-        "Max Minghella",
-        "David Dencik",
-        "Francesca Corney",
-        "Ruby Sear",
-        "Wil Coban"
-      ],
-      "director": "James Watkins",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg",
-        "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
-        "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
-        "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
-        "https://image.tmdb.org/t/p/w780/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
-        "https://image.tmdb.org/t/p/w780/3YHeDqu5MCyqan4ptiY8q726vzU.jpg",
-        "https://image.tmdb.org/t/p/w780/3QyLZOEJJgBSDhnE1Ma3QzI82aT.jpg",
-        "https://image.tmdb.org/t/p/w780/mEVNRsP4csNzB9vv9JGmQlW7rNB.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1400940"
     },
     {
       "id": 1596275,
@@ -319,7 +237,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.515,
+      "vote_average": 6.494,
       "providers": [],
       "videos": [
         {
@@ -370,7 +288,7 @@
         "Drama",
         "Fantasia"
       ],
-      "vote_average": 8.4,
+      "vote_average": 8.46,
       "providers": [],
       "videos": [
         {
@@ -436,7 +354,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.551,
+      "vote_average": 6.548,
       "providers": [],
       "videos": [
         {
@@ -486,7 +404,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.694,
+      "vote_average": 7.678,
       "providers": [],
       "videos": [
         {
@@ -535,7 +453,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.926,
+      "vote_average": 8.957,
       "providers": [],
       "videos": [
         {
@@ -582,7 +500,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 6.852,
+      "vote_average": 6.818,
       "providers": [
         {
           "id": 8,
@@ -624,64 +542,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1616687"
     },
     {
-      "id": 1437511,
-      "type": "movie",
-      "title": "Como Roubar um Banco",
-      "release_date": "2026-11-12",
-      "poster": "https://image.tmdb.org/t/p/w500/6QOVs2PMyxHtE4tHiMZS1eIboxl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
-      "overview": "Um grupo de assaltantes de banco habilidosos transmite seus ousados roubos ao vivo, sem perceber que sua crescente fama viral os colocou na mira de um veterano agente do FBI e de uma brilhante engenheira de software. Mesmo com a dupla se aproximando cada vez mais, a quadrilha ultrapassa todos os limites, arriscando tudo por aquilo em que acredita — e por seu assalto mais ambicioso até então.",
-      "tagline": "Quem rouba quem?",
-      "runtime": 122,
-      "genres": [
-        "Ação",
-        "Crime",
-        "Thriller"
-      ],
-      "vote_average": 6.206,
-      "providers": [],
-      "videos": [
-        {
-          "key": "pGVxbYtsxMQ",
-          "name": "COMO ROUBAR UM BANCO - Trailer Oficial 2 - Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "95_kJ_De0nQ",
-          "name": "Trailer Oficial Legendado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Nicholas Hoult",
-        "Zoë Kravitz",
-        "Pete Davidson",
-        "John C. Reilly",
-        "Anna Sawai",
-        "Rhenzy Feliz",
-        "Christian Slater",
-        "Tati Gabrielle"
-      ],
-      "director": "David Leitch",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
-        "https://image.tmdb.org/t/p/w780/8n8IiMO96sdB6sFfL0WyfRXsdJc.jpg",
-        "https://image.tmdb.org/t/p/w780/x9ECIcqnsen26beC1MSfrgAOveE.jpg",
-        "https://image.tmdb.org/t/p/w780/Aty5VwipBDGcq3HbzELWXxtMpjp.jpg",
-        "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
-        "https://image.tmdb.org/t/p/w780/AmN54pznGRnMcY88ihbMZl3DHeW.jpg",
-        "https://image.tmdb.org/t/p/w780/uStY1FvH8fozAbLnaMz2wvkUYw0.jpg",
-        "https://image.tmdb.org/t/p/w780/jfNvV2PxD0Zl6dxIYYrBpvxLRGH.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1437511"
-    },
-    {
       "id": 1567605,
       "type": "movie",
       "title": "Ebenezer e os Fantasmas do Natal",
@@ -693,9 +553,10 @@
       "runtime": 115,
       "genres": [
         "Fantasia",
-        "Comédia"
+        "Drama",
+        "Terror"
       ],
-      "vote_average": 7.49,
+      "vote_average": 7.484,
       "providers": [],
       "videos": [
         {
@@ -728,8 +589,8 @@
       "director": "Ti West",
       "images": [
         "https://image.tmdb.org/t/p/w780/274ahmbkJSzdmcWrWSTu9DFv5rp.jpg",
-        "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
         "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
+        "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
         "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
         "https://image.tmdb.org/t/p/w780/bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
         "https://image.tmdb.org/t/p/w780/1xlpGn67p0rYP9tJq5W0H8NGXsL.jpg",
@@ -808,7 +669,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.639,
+      "vote_average": 7.747,
       "providers": [],
       "videos": [
         {
@@ -851,11 +712,11 @@
         "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
         "https://image.tmdb.org/t/p/w780/vezToHmUsQApQKHChwz8E9LBfEA.jpg",
         "https://image.tmdb.org/t/p/w780/Ac56cVxw43dUY7rUIjadk0ro0xt.jpg",
-        "https://image.tmdb.org/t/p/w780/cCGTwo2qtzKcvXvFvkvXO4J2f2D.jpg",
-        "https://image.tmdb.org/t/p/w780/6bM4RwgUsL8hPz5FjFDKM0vrDu2.jpg",
         "https://image.tmdb.org/t/p/w780/qW47xOGl0dOMRUtAS2XugBlOO1t.jpg",
+        "https://image.tmdb.org/t/p/w780/l1QkmF1vuYk65Y3pCNe8K5gJ0Wk.jpg",
         "https://image.tmdb.org/t/p/w780/kWAOufFlXbZjvUgNCc5qKso2uPk.jpg",
-        "https://image.tmdb.org/t/p/w780/497KYpXqaxh99RPMVmsxAg76Nal.jpg"
+        "https://image.tmdb.org/t/p/w780/497KYpXqaxh99RPMVmsxAg76Nal.jpg",
+        "https://image.tmdb.org/t/p/w780/9B3AMSs7A3bqqFLKlOv6W4LyAHG.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1300968"
     },
@@ -874,7 +735,7 @@
         "História",
         "Comédia"
       ],
-      "vote_average": 6.987,
+      "vote_average": 6.905,
       "providers": [],
       "videos": [
         {
@@ -923,7 +784,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 6.863,
+      "vote_average": 7.0,
       "providers": [
         {
           "id": 8,
@@ -957,8 +818,10 @@
         "https://image.tmdb.org/t/p/w780/7s1ysyCATVEiDGLCRLWuC74U7K9.jpg",
         "https://image.tmdb.org/t/p/w780/4Ps3mPq3UjlM0BwC2vxY5cHyDEz.jpg",
         "https://image.tmdb.org/t/p/w780/eMiuv9HEuK4L0G3bUDrKx1zuDpr.jpg",
+        "https://image.tmdb.org/t/p/w780/5c5qTq0mnTiMU3SVK8ve024kukB.jpg",
         "https://image.tmdb.org/t/p/w780/1DdNU6D30sopGSO0ldT4Xngsvp3.jpg",
-        "https://image.tmdb.org/t/p/w780/5c5qTq0mnTiMU3SVK8ve024kukB.jpg"
+        "https://image.tmdb.org/t/p/w780/3E7OLg92VA65xvKk6eA8etKSl88.jpg",
+        "https://image.tmdb.org/t/p/w780/93kZ2EiNSf7q5cJvOiRh3shMKwM.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1551025"
     },
@@ -970,14 +833,14 @@
       "poster": "https://image.tmdb.org/t/p/w500/lV7b3n4tqwlKGUsl72r3fI7COH1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
       "overview": "Rama é um príncipe cujo destino é marcado pelo sacrifício, enquanto Ravana é um rei imortal movido pela vingança. Uma profecia une os destinos dos dois.",
-      "tagline": "",
+      "tagline": "A maior história da humanidade ganha vida.",
       "runtime": 195,
       "genres": [
         "Fantasia",
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.404,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -1002,15 +865,131 @@
       "director": "Nitesh Tiwari",
       "images": [
         "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+        "https://image.tmdb.org/t/p/w780/ysoJexwslfJnSXcHNNF1A9EtDbB.jpg",
         "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
         "https://image.tmdb.org/t/p/w780/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
         "https://image.tmdb.org/t/p/w780/wE38Vvr1w577h1ndljzaEnXTKQ3.jpg",
         "https://image.tmdb.org/t/p/w780/kJAklyTOaIu3BTxYGtlw3m1HlHo.jpg",
         "https://image.tmdb.org/t/p/w780/wfGbMf0e9tZhq7ZQ1uKgtWQCKOl.jpg",
-        "https://image.tmdb.org/t/p/w780/xmtdDK5FaBgwDPc9oUSRDmBFJfm.jpg",
-        "https://image.tmdb.org/t/p/w780/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg"
+        "https://image.tmdb.org/t/p/w780/xmtdDK5FaBgwDPc9oUSRDmBFJfm.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/656908"
+    },
+    {
+      "id": 1568060,
+      "type": "movie",
+      "title": "Perfeitos Mentirosos",
+      "release_date": "2026-11-20",
+      "poster": "https://image.tmdb.org/t/p/w500/lKgbxuLuupPgIUAw0Ren7ZlOHLg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
+      "overview": "Jude Derry chega à exclusiva Universidade de Tagus com uma missão secreta: se infiltrar no círculo dos irmãos Cash e descobrir a verdade sobre a morte do irmão dela. O que começa como vingança vira um perigoso triângulo de sedução, atração proibida e mentiras, que a empurra rumo a uma verdade para a qual talvez ela não esteja preparada. Baseado no romance de Alex Mírez.",
+      "tagline": "",
+      "runtime": 108,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "vote_average": 7.2,
+      "providers": [],
+      "videos": [
+        {
+          "key": "rjmsRsHvg_Q",
+          "name": "Perfeitos Mentirosos | Trailer Oficial | Prime Video",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Irene Balmes",
+        "Глеб Абросимов",
+        "Pau Simon",
+        "Pablo Scapigliati",
+        "Asier Etxeandia",
+        "Irene Ferreiro",
+        "Silvia Kal",
+        "Jorge Motos"
+      ],
+      "director": "Jesús Colmenar",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
+        "https://image.tmdb.org/t/p/w780/mdBElS5YjpZPkB9DNYjgxwWgXcv.jpg",
+        "https://image.tmdb.org/t/p/w780/6Xd9bymB1g7h7nPecEFiHeLrnng.jpg",
+        "https://image.tmdb.org/t/p/w780/nOz45xxc0TqKIZPiWDub8CddkIY.jpg",
+        "https://image.tmdb.org/t/p/w780/rXDnVaAKGE93yktDvWo67WGZiKZ.jpg",
+        "https://image.tmdb.org/t/p/w780/2kJQcGmQsxQnBMQP1ZhtX4Ra6CO.jpg",
+        "https://image.tmdb.org/t/p/w780/fM4nlx2lwoTla790wJJ9SoKdcrT.jpg",
+        "https://image.tmdb.org/t/p/w780/1O3qRwSo1acGMWvof1Ad859DzdZ.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1568060"
+    },
+    {
+      "id": 1595124,
+      "type": "movie",
+      "title": "Tipo Irmãs",
+      "release_date": "2026-11-20",
+      "poster": "https://image.tmdb.org/t/p/w500/fLOzL7A81v6V0BKWXXjfeT1ehkw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+      "overview": "Nesta comédia de ação diferente e encantadora, Lilith, a meia-irmã \"malvada\" da Cinderela, rouba a varinha da Fada Madrinha e vira do avesso a clássica história.",
+      "tagline": "Quando der meia-noite, a gente vaza.",
+      "runtime": 107,
+      "genres": [
+        "Animação",
+        "Família",
+        "Comédia",
+        "Aventura",
+        "Fantasia"
+      ],
+      "vote_average": 6.755,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "FNoxYz8PW8c",
+          "name": "Tipo irmãs | Trailer oficial | Netflix",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "DzG6eZwcrXQ",
+          "name": "Tipo Irmãs | Trailer teaser oficial | Netflix",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Ali Wong",
+        "Amanda Seyfried",
+        "Stephanie Hsu",
+        "Nikki Glaser",
+        "Daniel Radcliffe",
+        "Young Mazino",
+        "Peter Dinklage",
+        "Bette Midler"
+      ],
+      "director": "Alyce Tzue",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+        "https://image.tmdb.org/t/p/w780/27IITQqpqXAGRWeeNtRWoPW0Xxn.jpg",
+        "https://image.tmdb.org/t/p/w780/kxHYBjGfy3clTbU8Y9rDVXrGLtI.jpg",
+        "https://image.tmdb.org/t/p/w780/xq5oGSuhktFcynbGSSUuVO325pH.jpg",
+        "https://image.tmdb.org/t/p/w780/8txRYB8a5aYHLhzOY8TOXaTNa3W.jpg",
+        "https://image.tmdb.org/t/p/w780/5DPnxhB0rsshMFAvmBwAoJSqbmz.jpg",
+        "https://image.tmdb.org/t/p/w780/xMBnofCrjfx7GLa5PL9LnYFl1sj.jpg",
+        "https://image.tmdb.org/t/p/w780/2JaOA97nlGSUfkWVZL7iPv5HvMQ.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1595124"
     },
     {
       "id": 1765072,
