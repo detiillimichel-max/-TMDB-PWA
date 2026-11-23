@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T07:39:29.720877+00:00",
+  "updated_at": "2026-11-23T23:53:59.679925+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.18,
+      "vote_average": 6.172,
       "providers": [],
       "videos": [
         {
@@ -53,154 +53,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1507696"
     },
     {
-      "id": 1153576,
-      "type": "movie",
-      "title": "Street Fighter",
-      "release_date": "2026-10-15",
-      "poster": "https://image.tmdb.org/t/p/w500/6gWmrC2GyDbUM1ET5EBg9lxBi7S.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-      "overview": "Em 1993, os lutadores Ryu e Ken Masters são colocados de volta no combate quando a misteriosa Chun-Li os recruta para o próximo Torneio Street Fighter: uma brutal briga de socos, destino e fúria. Entretanto, por trás desse campeonato, se esconde uma conspiração mortal que os força a encarar um ao outro e os demônios do passado. E se eles não fizerem, é game over!",
-      "tagline": "Preparar. Apontar. Lutar.",
-      "runtime": 119,
-      "genres": [
-        "Ação",
-        "Comédia",
-        "Fantasia"
-      ],
-      "vote_average": 6.239,
-      "providers": [],
-      "videos": [
-        {
-          "key": "kcjEOsxg1FY",
-          "name": "Street Fighter | Novo Trailer | DUB | Paramount Pictures Brasil",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "v2OqsnruLfI",
-          "name": "Street Fighter | Trailer Oficial | DUB | Paramount Pictures Brasil",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "f8W8CrdZd8o",
-          "name": "Trailer Teaser",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Andrew Koji",
-        "Noah Centineo",
-        "Callina Liang",
-        "David Dastmalchian",
-        "Andrew Schulz",
-        "Cody Rhodes",
-        "Mel Jarnson",
-        "Roman Reigns"
-      ],
-      "director": "Kitao Sakurai",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-        "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
-        "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
-        "https://image.tmdb.org/t/p/w780/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
-        "https://image.tmdb.org/t/p/w780/9vNW8ysMKIbefbEQOFEZIKpMqwZ.jpg",
-        "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
-        "https://image.tmdb.org/t/p/w780/6kJENBnZsVZuhYTSR3zZi6FUe30.jpg",
-        "https://image.tmdb.org/t/p/w780/yff2isfuB7ZABGsMQ47iebVcwBA.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1153576"
-    },
-    {
-      "id": 1400940,
-      "type": "movie",
-      "title": "Cara-de-Barro",
-      "release_date": "2026-10-22",
-      "poster": "https://image.tmdb.org/t/p/w500/dqvHs2YXks989ScXvsngbqAeBHX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg",
-      "overview": "A ascensão meteórica de Matt Hagen de garoto das ruas de Gotham a astro de Hollywood é tragicamente interrompida quando as ações de um chefão do crime local o deixam terrivelmente desfigurado. Abandonado por sua equipe e sem nada, Matt busca um tratamento de ponta que, milagrosamente, o devolve à sua antiga forma... mas que também afeta, de maneira inesperada, sua percepção da realidade, lançando-o em uma espiral destrutiva de obsessão e vingança.",
-      "tagline": "Enfrente o medo cara a cara.",
-      "runtime": 109,
-      "genres": [
-        "Terror",
-        "Thriller",
-        "Ficção científica"
-      ],
-      "vote_average": 7.4,
-      "providers": [],
-      "videos": [
-        {
-          "key": "Qn17zXheL6Q",
-          "name": "Cara-De-Barro | Trailer Final Oficial Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "UYU8hTM-rfM",
-          "name": "Cara de Barro | Trailer Final Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "0UNpg8OZueI",
-          "name": "Cara-de-Barro | Trailer Oficial Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "otWwAkuEnPc",
-          "name": "Cara de Barro | Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "m4G1Sfz1qeU",
-          "name": "Teaser Oficial",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Tom Rhys Harries",
-        "Naomi Ackie",
-        "Eddie Marsan",
-        "Max Minghella",
-        "David Dencik",
-        "Francesca Corney",
-        "Ruby Sear",
-        "Wil Coban"
-      ],
-      "director": "James Watkins",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg",
-        "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
-        "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
-        "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
-        "https://image.tmdb.org/t/p/w780/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
-        "https://image.tmdb.org/t/p/w780/3YHeDqu5MCyqan4ptiY8q726vzU.jpg",
-        "https://image.tmdb.org/t/p/w780/3QyLZOEJJgBSDhnE1Ma3QzI82aT.jpg",
-        "https://image.tmdb.org/t/p/w780/mEVNRsP4csNzB9vv9JGmQlW7rNB.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1400940"
-    },
-    {
       "id": 1596275,
       "type": "movie",
       "title": "Velocidade e Paixão",
@@ -214,7 +66,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.566,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
@@ -258,12 +110,61 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1596275"
     },
     {
+      "id": 1496696,
+      "type": "movie",
+      "title": "Breeder",
+      "release_date": "2026-10-28",
+      "poster": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jcM2nzRn8lIi3q3mQPxoWsqOUa8.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 97,
+      "genres": [
+        "Terror",
+        "Thriller"
+      ],
+      "vote_average": 7.3,
+      "providers": [],
+      "videos": [
+        {
+          "key": "sgTVtpJUegQ",
+          "name": "BREEDER Official Trailer (NEW 2026)",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Daniel Doheny",
+        "Dot-Marie Jones",
+        "Maddie Phillips",
+        "Tanaya Beatty",
+        "Paige McGarvin",
+        "Carmen Moore",
+        "Lillian Doucet-Roche",
+        "Rochelle Greenwood"
+      ],
+      "director": "Alex Goyette",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/jcM2nzRn8lIi3q3mQPxoWsqOUa8.jpg",
+        "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
+        "https://image.tmdb.org/t/p/w780/mVaGq1dSLZrYZUObUTKjIcLHFMt.jpg",
+        "https://image.tmdb.org/t/p/w780/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg",
+        "https://image.tmdb.org/t/p/w780/9e3QXZyHswJgWE6SOO0hRcQMnqd.jpg",
+        "https://image.tmdb.org/t/p/w780/2sIqRw3jan2WhwQ46ulcD1iol3z.jpg",
+        "https://image.tmdb.org/t/p/w780/s0Um9kLDpq0N372UED4D36iJ6J1.jpg",
+        "https://image.tmdb.org/t/p/w780/7Nmkk8Aw2EleIkV4GlU9hJmYzW6.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1496696"
+    },
+    {
       "id": 1294189,
       "type": "movie",
       "title": "Fuga Mortal",
       "release_date": "2026-10-29",
       "poster": "https://image.tmdb.org/t/p/w500/3QX08keJGtcIJsCyy4Mdaq28ZGq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uAe2LEuZ2xg312FY7D8Ei4bl0aG.jpg",
       "overview": "Um herói de guerra falsamente acusado, sem nada a perder, lidera a polícia em uma épica perseguição televisiva de carro pelo país, ajudado por membros de seu antigo batalhão das Forças Especiais do Exército e monitorado de perto por um público fascinado que torce por sua fuga segura.",
       "tagline": "Os inocentes não fogem. Eles dirigem.",
       "runtime": 100,
@@ -271,7 +172,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.512,
+      "vote_average": 6.548,
       "providers": [],
       "videos": [
         {
@@ -295,83 +196,16 @@
       ],
       "director": "Mark Vanselow",
       "images": [
-        "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
         "https://image.tmdb.org/t/p/w780/uAe2LEuZ2xg312FY7D8Ei4bl0aG.jpg",
+        "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+        "https://image.tmdb.org/t/p/w780/fEpP7Kib3LeUz0ckTsNJ52cl1k0.jpg",
         "https://image.tmdb.org/t/p/w780/byuwrUG1nkGv8a2lGkBmD7pULo6.jpg",
+        "https://image.tmdb.org/t/p/w780/lN1UjjelengJU9W4o0YxuQzPJv9.jpg",
         "https://image.tmdb.org/t/p/w780/aezAUwTATFwXVvN1HUTglE8NGwu.jpg",
         "https://image.tmdb.org/t/p/w780/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
-        "https://image.tmdb.org/t/p/w780/mfWwnoRLARGXAqZ1B8bP8SFIqF6.jpg",
-        "https://image.tmdb.org/t/p/w780/fEpP7Kib3LeUz0ckTsNJ52cl1k0.jpg",
-        "https://image.tmdb.org/t/p/w780/lN1UjjelengJU9W4o0YxuQzPJv9.jpg"
+        "https://image.tmdb.org/t/p/w780/mfWwnoRLARGXAqZ1B8bP8SFIqF6.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1294189"
-    },
-    {
-      "id": 791523,
-      "type": "movie",
-      "title": "O Bosque Selvagem",
-      "release_date": "2026-10-29",
-      "poster": "https://image.tmdb.org/t/p/w500/mcuUYNWGJHPEaRumOlgSZCzMRPc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-      "overview": "A determinada adolescente Prue McKeel embarca em uma missão desesperada de resgate depois que seu irmão caçula é sequestrado por um bando de corvos. Acompanhada por seu colega de classe desajeitado, mas leal, Curtis Mehlberg, Prue navega por um mundo habitado por animais falantes, bandidos e figuras poderosas movidas pela dor e pela ambição. À medida que a dupla é arrastada para um conflito que ameaça o equilíbrio da própria floresta, Prue precisa descobrir uma força e uma crença que jamais soube que possuía.",
-      "tagline": "Até onde você iria por aqueles que ama?",
-      "runtime": 130,
-      "genres": [
-        "Animação",
-        "Aventura",
-        "Drama",
-        "Fantasia"
-      ],
-      "vote_average": 8.5,
-      "providers": [],
-      "videos": [
-        {
-          "key": "xD3LODkbIT4",
-          "name": "O Bosque Selvagem | Novo Trailer Dublado | 29 de outubro nos cinemas",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "SDkMFbf4iWo",
-          "name": "Trailer Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "wKCnU1fVnZo",
-          "name": "Teaser",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Peyton Elizabeth Lee",
-        "Jacob Tremblay",
-        "Carey Mulligan",
-        "Mahershala Ali",
-        "Richard E. Grant",
-        "Angela Bassett",
-        "Awkwafina",
-        "Amandla Stenberg"
-      ],
-      "director": "Travis Knight",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-        "https://image.tmdb.org/t/p/w780/6CFy9IGiIqwU5OaBJ36SeLgUoDA.jpg",
-        "https://image.tmdb.org/t/p/w780/5PviCeavBVrkcZH1gCBTcNMBpx.jpg",
-        "https://image.tmdb.org/t/p/w780/AuJ2UgwpP4dEqtVoYC7QVLtQMFG.jpg",
-        "https://image.tmdb.org/t/p/w780/p0u4DWwUVUcdKZzlpL3DZPtFs2I.jpg",
-        "https://image.tmdb.org/t/p/w780/iko653iIvEH52Z8wkNJh0hqWyZj.jpg",
-        "https://image.tmdb.org/t/p/w780/3n8ICdjp1uwQqb6WZYd5Znxo8fh.jpg",
-        "https://image.tmdb.org/t/p/w780/1CENaUiv104BzYJGeDmHJen0oEH.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/791523"
     },
     {
       "id": 1813355,
@@ -388,7 +222,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.631,
+      "vote_average": 6.638,
       "providers": [],
       "videos": [
         {
@@ -438,7 +272,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.684,
+      "vote_average": 7.664,
       "providers": [],
       "videos": [
         {
@@ -487,7 +321,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.957,
+      "vote_average": 9.0,
       "providers": [],
       "videos": [
         {
@@ -534,7 +368,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 6.825,
+      "vote_average": 6.9,
       "providers": [
         {
           "id": 8,
@@ -576,6 +410,52 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1616687"
     },
     {
+      "id": 1615596,
+      "type": "movie",
+      "title": "Best Pancakes in the County",
+      "release_date": "2026-11-12",
+      "poster": "https://image.tmdb.org/t/p/w500/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/34eWzsWpZa17DqT8KeL5InlvRK7.jpg",
+      "overview": "Sinopse não disponível.",
+      "tagline": "",
+      "runtime": 91,
+      "genres": [
+        "Ação",
+        "Thriller",
+        "Crime"
+      ],
+      "vote_average": 6.444,
+      "providers": [],
+      "videos": [
+        {
+          "key": "xwt0tnhDhb4",
+          "name": "Best Pancakes in the County - Official Trailer (2026) Nicolas Cage, Justin Long",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Nicolas Cage",
+        "Justin Long",
+        "Shelley Hennig",
+        "Ravi Patel",
+        "Brandon Mychal Smith",
+        "Kelly Greyson",
+        "Jaylen Moore",
+        "Michael Sirow"
+      ],
+      "director": "Ken Sanzel",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/34eWzsWpZa17DqT8KeL5InlvRK7.jpg",
+        "https://image.tmdb.org/t/p/w780/J07IuhpnFtT4Ag7b2BXNauym3E.jpg",
+        "https://image.tmdb.org/t/p/w780/mPGrXA0WHnaAPFaoxPCYmpbEBRk.jpg",
+        "https://image.tmdb.org/t/p/w780/kmfJjV73M4dRaL7vf4N5t7fe6Wl.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1615596"
+    },
+    {
       "id": 1567605,
       "type": "movie",
       "title": "Ebenezer e os Fantasmas do Natal",
@@ -590,7 +470,7 @@
         "Drama",
         "Terror"
       ],
-      "vote_average": 7.512,
+      "vote_average": 7.529,
       "providers": [],
       "videos": [
         {
@@ -647,7 +527,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.2,
+      "vote_average": 6.199,
       "providers": [
         {
           "id": 8,
@@ -703,7 +583,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.8,
+      "vote_average": 7.791,
       "providers": [],
       "videos": [
         {
@@ -769,7 +649,7 @@
         "História",
         "Comédia"
       ],
-      "vote_average": 6.833,
+      "vote_average": 6.7,
       "providers": [],
       "videos": [
         {
@@ -818,7 +698,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 7.0,
+      "vote_average": 6.929,
       "providers": [
         {
           "id": 8,
@@ -874,7 +754,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.396,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -915,7 +795,7 @@
       "title": "Perfeitos Mentirosos",
       "release_date": "2026-11-20",
       "poster": "https://image.tmdb.org/t/p/w500/lKgbxuLuupPgIUAw0Ren7ZlOHLg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m4i6oWU1LoAkYVuV37L7UyI2tcy.jpg",
       "overview": "Jude Derry chega à exclusiva Universidade de Tagus com uma missão secreta: se infiltrar no círculo dos irmãos Cash e descobrir a verdade sobre a morte do irmão dela. O que começa como vingança vira um perigoso triângulo de sedução, atração proibida e mentiras, que a empurra rumo a uma verdade para a qual talvez ela não esteja preparada. Baseado no romance de Alex Mírez.",
       "tagline": "",
       "runtime": 108,
@@ -924,7 +804,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.304,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -948,7 +828,7 @@
       ],
       "director": "Jesús Colmenar",
       "images": [
-        "https://image.tmdb.org/t/p/w780/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
+        "https://image.tmdb.org/t/p/w780/m4i6oWU1LoAkYVuV37L7UyI2tcy.jpg",
         "https://image.tmdb.org/t/p/w780/mdBElS5YjpZPkB9DNYjgxwWgXcv.jpg",
         "https://image.tmdb.org/t/p/w780/6Xd9bymB1g7h7nPecEFiHeLrnng.jpg",
         "https://image.tmdb.org/t/p/w780/nOz45xxc0TqKIZPiWDub8CddkIY.jpg",
@@ -976,7 +856,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 6.767,
+      "vote_average": 6.823,
       "providers": [
         {
           "id": 8,
@@ -1026,6 +906,50 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1595124"
     },
     {
+      "id": 1599184,
+      "type": "movie",
+      "title": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors",
+      "release_date": "2026-11-22",
+      "poster": "https://image.tmdb.org/t/p/w500/kQA44KCjcI284f3uxCRAdiS9blt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9uMWGlxHR3bpyhzKQLYL83m5puq.jpg",
+      "overview": "Acima da Academia Jia Nan, o Clã Hun e a Aliança Tianfu se enfrentam em um confronto por causa do lendário Imperador Antigo Tuoshe. Hun Tiandi utiliza o antigo jade para abrir a caverna do imperador. Assim, começa a disputa entre Xiao Yan e Hun Tiandi pela oportunidade de alcançar o nível de Imperador (Dou Di).",
+      "tagline": "",
+      "runtime": 96,
+      "genres": [
+        "Animação",
+        "Aventura"
+      ],
+      "vote_average": 9.167,
+      "providers": [],
+      "videos": [
+        {
+          "key": "ohjARGselBs",
+          "name": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors Trailer..",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "不一",
+        "刘雨轩",
+        "陈奕雯",
+        "依晨",
+        "冯骏骅",
+        "Ye Sun",
+        "Wei Zhai"
+      ],
+      "director": "沈亦默",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/9uMWGlxHR3bpyhzKQLYL83m5puq.jpg",
+        "https://image.tmdb.org/t/p/w780/g5n1jTrfhhTf40iBKYp4prMK1Gn.jpg",
+        "https://image.tmdb.org/t/p/w780/zc2e4P49IfcWvejyvv46p79dYuK.jpg",
+        "https://image.tmdb.org/t/p/w780/ptaksG02ricPHJZ65f4FOR2rTia.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1599184"
+    },
+    {
       "id": 1765072,
       "type": "movie",
       "title": "Tudo Pode Ser Visto",
@@ -1038,7 +962,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 8.799,
+      "vote_average": 8.8,
       "providers": [],
       "videos": [
         {
@@ -1068,8 +992,8 @@
         "https://image.tmdb.org/t/p/w780/gsSAPAcHDSQOSIDZVm1alSZpDCv.jpg",
         "https://image.tmdb.org/t/p/w780/edYRAs5wYv9QC4VrHcnUEeiaUHv.jpg",
         "https://image.tmdb.org/t/p/w780/2kxMNvP20MdkJh0ynE1TpuG5yp3.jpg",
-        "https://image.tmdb.org/t/p/w780/uDONA0SCc1Tanl1lizf6lYNoMmr.jpg",
-        "https://image.tmdb.org/t/p/w780/fbMNGkzwN9xxk6KuayfsHkkQiCe.jpg"
+        "https://image.tmdb.org/t/p/w780/flr1irwRWJJuB79u4T2t4bAS6OK.jpg",
+        "https://image.tmdb.org/t/p/w780/uDONA0SCc1Tanl1lizf6lYNoMmr.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1765072"
     },
@@ -1079,7 +1003,7 @@
       "title": "Vingadores: Doutor Destino",
       "release_date": "2026-12-16",
       "poster": "https://image.tmdb.org/t/p/w500/aSzeVbyyU65420A1646YfHcf6Zt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tXNt66khUBZcusc22INKCeGRr4l.jpg",
       "overview": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
       "tagline": "Encare o seu destino.",
       "runtime": 150,
@@ -1091,6 +1015,14 @@
       "vote_average": 0,
       "providers": [],
       "videos": [
+        {
+          "key": "OCvR-nay2K0",
+          "name": "Vingadores: Doutor Destino | Trailer Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
         {
           "key": "ntOtyJwxcsM",
           "name": "Vingadores: Doutor Destino | Special Look Dublado",
@@ -1160,14 +1092,14 @@
       ],
       "director": "Joe Russo",
       "images": [
+        "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
         "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
         "https://image.tmdb.org/t/p/w780/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg",
-        "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
         "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
         "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
-        "https://image.tmdb.org/t/p/w780/iNyaldCUvLEJuTwFSjOoghRA4ez.jpg",
         "https://image.tmdb.org/t/p/w780/pGbP900NvKzOtLWdyH0sWmLQu1G.jpg",
-        "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg"
+        "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+        "https://image.tmdb.org/t/p/w780/6TgmIXoVGEDyp0MSoVytIeyfhDR.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1003596"
     }
