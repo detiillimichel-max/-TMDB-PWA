@@ -1,55 +1,7 @@
 {
-  "updated_at": "2026-11-22T19:40:58.990320+00:00",
+  "updated_at": "2026-11-23T07:39:29.720877+00:00",
   "region": "BR",
   "items": [
-    {
-      "id": 1185344,
-      "type": "movie",
-      "title": "A Fúria da Besta",
-      "release_date": "2026-10-08",
-      "poster": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/r5RYEmZzm1Z6imS7XfiKPnMlyc7.jpg",
-      "overview": "Quando uma milícia de hostis não identificados coordena um golpe contra os Estados Unidos, o presidente precisa revidar utilizando as capacidades ofensivas altamente secretas de sua limusine blindada, apelidada de A Besta.",
-      "tagline": "",
-      "runtime": 99,
-      "genres": [
-        "Ação",
-        "Thriller"
-      ],
-      "vote_average": 4.881,
-      "providers": [],
-      "videos": [
-        {
-          "key": "dWU_DC1GpqQ",
-          "name": "&quot;A BESTA&quot; - Trailer Oficial Legendado (Universal Pictures Portugal) HD",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Samuel L. Jackson",
-        "Joel Kinnaman",
-        "Guy Burnet",
-        "Eoin Macken",
-        "LaTanya Richardson Jackson",
-        "Ken Myles",
-        "Jamie Effros",
-        "Alberto Pérez Socas"
-      ],
-      "director": "Renny Harlin",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/r5RYEmZzm1Z6imS7XfiKPnMlyc7.jpg",
-        "https://image.tmdb.org/t/p/w780/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
-        "https://image.tmdb.org/t/p/w780/6c4nZITYSxsBIZDezyI3djU60x9.jpg",
-        "https://image.tmdb.org/t/p/w780/6Uxf2heqAGbOF0o0JyZenwa9OxO.jpg",
-        "https://image.tmdb.org/t/p/w780/qfrHg2Ew3SCL3RoFm0e3H7bTcEy.jpg",
-        "https://image.tmdb.org/t/p/w780/uMzqGppyHNLMmQdVvmDRMiC8hFI.jpg",
-        "https://image.tmdb.org/t/p/w780/6nFrPw9Bzhkf91iKHFXPvFf2cOM.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1185344"
-    },
     {
       "id": 1507696,
       "type": "movie",
@@ -65,7 +17,7 @@
         "Thriller",
         "Terror"
       ],
-      "vote_average": 6.196,
+      "vote_average": 6.18,
       "providers": [],
       "videos": [
         {
@@ -115,7 +67,7 @@
         "Comédia",
         "Fantasia"
       ],
-      "vote_average": 6.2,
+      "vote_average": 6.239,
       "providers": [],
       "videos": [
         {
@@ -167,6 +119,88 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1153576"
     },
     {
+      "id": 1400940,
+      "type": "movie",
+      "title": "Cara-de-Barro",
+      "release_date": "2026-10-22",
+      "poster": "https://image.tmdb.org/t/p/w500/dqvHs2YXks989ScXvsngbqAeBHX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg",
+      "overview": "A ascensão meteórica de Matt Hagen de garoto das ruas de Gotham a astro de Hollywood é tragicamente interrompida quando as ações de um chefão do crime local o deixam terrivelmente desfigurado. Abandonado por sua equipe e sem nada, Matt busca um tratamento de ponta que, milagrosamente, o devolve à sua antiga forma... mas que também afeta, de maneira inesperada, sua percepção da realidade, lançando-o em uma espiral destrutiva de obsessão e vingança.",
+      "tagline": "Enfrente o medo cara a cara.",
+      "runtime": 109,
+      "genres": [
+        "Terror",
+        "Thriller",
+        "Ficção científica"
+      ],
+      "vote_average": 7.4,
+      "providers": [],
+      "videos": [
+        {
+          "key": "Qn17zXheL6Q",
+          "name": "Cara-De-Barro | Trailer Final Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "UYU8hTM-rfM",
+          "name": "Cara de Barro | Trailer Final Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "0UNpg8OZueI",
+          "name": "Cara-de-Barro | Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "otWwAkuEnPc",
+          "name": "Cara de Barro | Trailer Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "m4G1Sfz1qeU",
+          "name": "Teaser Oficial",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Tom Rhys Harries",
+        "Naomi Ackie",
+        "Eddie Marsan",
+        "Max Minghella",
+        "David Dencik",
+        "Francesca Corney",
+        "Ruby Sear",
+        "Wil Coban"
+      ],
+      "director": "James Watkins",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg",
+        "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+        "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+        "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
+        "https://image.tmdb.org/t/p/w780/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
+        "https://image.tmdb.org/t/p/w780/3YHeDqu5MCyqan4ptiY8q726vzU.jpg",
+        "https://image.tmdb.org/t/p/w780/3QyLZOEJJgBSDhnE1Ma3QzI82aT.jpg",
+        "https://image.tmdb.org/t/p/w780/mEVNRsP4csNzB9vv9JGmQlW7rNB.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1400940"
+    },
+    {
       "id": 1596275,
       "type": "movie",
       "title": "Velocidade e Paixão",
@@ -180,7 +214,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.574,
+      "vote_average": 7.566,
       "providers": [],
       "videos": [
         {
@@ -237,7 +271,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.494,
+      "vote_average": 6.512,
       "providers": [],
       "videos": [
         {
@@ -288,7 +322,7 @@
         "Drama",
         "Fantasia"
       ],
-      "vote_average": 8.46,
+      "vote_average": 8.5,
       "providers": [],
       "videos": [
         {
@@ -354,7 +388,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.548,
+      "vote_average": 6.631,
       "providers": [],
       "videos": [
         {
@@ -369,7 +403,7 @@
       "cast": [
         "Kiawentiio",
         "Isabel DeRoy-Olson",
-        "Michael Podemski",
+        "Michael Podemski-Bedard",
         "Zahn McClarnon",
         "MorningStar Angeline",
         "Brandon Oakes",
@@ -404,7 +438,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.678,
+      "vote_average": 7.684,
       "providers": [],
       "videos": [
         {
@@ -419,12 +453,12 @@
       "cast": [
         "Ryunosuke Kamiki",
         "Minami Hamabe",
-        "田中泯",
         "Hidetaka Yoshioka",
+        "田中泯",
         "長澤まさみ",
         "Yuki Yamada",
         "Kuranosuke Sasaki",
-        "國村隼"
+        "Sakura Ando"
       ],
       "director": "Takashi Yamazaki",
       "images": [
@@ -500,7 +534,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 6.818,
+      "vote_average": 6.825,
       "providers": [
         {
           "id": 8,
@@ -556,7 +590,7 @@
         "Drama",
         "Terror"
       ],
-      "vote_average": 7.484,
+      "vote_average": 7.512,
       "providers": [],
       "videos": [
         {
@@ -613,7 +647,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.261,
+      "vote_average": 6.2,
       "providers": [
         {
           "id": 8,
@@ -669,7 +703,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.747,
+      "vote_average": 7.8,
       "providers": [],
       "videos": [
         {
@@ -735,7 +769,7 @@
         "História",
         "Comédia"
       ],
-      "vote_average": 6.905,
+      "vote_average": 6.833,
       "providers": [],
       "videos": [
         {
@@ -840,7 +874,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.396,
       "providers": [],
       "videos": [
         {
@@ -890,7 +924,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.2,
+      "vote_average": 7.304,
       "providers": [],
       "videos": [
         {
@@ -942,7 +976,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 6.755,
+      "vote_average": 6.767,
       "providers": [
         {
           "id": 8,
@@ -1004,7 +1038,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 8.8,
+      "vote_average": 8.799,
       "providers": [],
       "videos": [
         {
