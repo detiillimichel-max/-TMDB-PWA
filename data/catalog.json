@@ -1,73 +1,7 @@
 {
-  "updated_at": "2026-11-24T09:54:49.192785+00:00",
+  "updated_at": "2026-11-24T22:27:16.066801+00:00",
   "region": "BR",
   "items": [
-    {
-      "id": 1153576,
-      "type": "movie",
-      "title": "Street Fighter",
-      "release_date": "2026-10-15",
-      "poster": "https://image.tmdb.org/t/p/w500/6gWmrC2GyDbUM1ET5EBg9lxBi7S.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-      "overview": "Em 1993, os lutadores Ryu e Ken Masters são colocados de volta no combate quando a misteriosa Chun-Li os recruta para o próximo Torneio Street Fighter: uma brutal briga de socos, destino e fúria. Entretanto, por trás desse campeonato, se esconde uma conspiração mortal que os força a encarar um ao outro e os demônios do passado. E se eles não fizerem, é game over!",
-      "tagline": "Preparar. Apontar. Lutar.",
-      "runtime": 119,
-      "genres": [
-        "Ação",
-        "Comédia",
-        "Fantasia"
-      ],
-      "vote_average": 6.233,
-      "providers": [],
-      "videos": [
-        {
-          "key": "kcjEOsxg1FY",
-          "name": "Street Fighter | Novo Trailer | DUB | Paramount Pictures Brasil",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "v2OqsnruLfI",
-          "name": "Street Fighter | Trailer Oficial | DUB | Paramount Pictures Brasil",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "f8W8CrdZd8o",
-          "name": "Trailer Teaser",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Andrew Koji",
-        "Noah Centineo",
-        "Callina Liang",
-        "David Dastmalchian",
-        "Andrew Schulz",
-        "Cody Rhodes",
-        "Mel Jarnson",
-        "Roman Reigns"
-      ],
-      "director": "Kitao Sakurai",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-        "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
-        "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
-        "https://image.tmdb.org/t/p/w780/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
-        "https://image.tmdb.org/t/p/w780/9vNW8ysMKIbefbEQOFEZIKpMqwZ.jpg",
-        "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
-        "https://image.tmdb.org/t/p/w780/6kJENBnZsVZuhYTSR3zZi6FUe30.jpg",
-        "https://image.tmdb.org/t/p/w780/yff2isfuB7ZABGsMQ47iebVcwBA.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1153576"
-    },
     {
       "id": 1596275,
       "type": "movie",
@@ -131,7 +65,7 @@
       "title": "Breeder",
       "release_date": "2026-10-28",
       "poster": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jcM2nzRn8lIi3q3mQPxoWsqOUa8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg",
       "overview": "Sinopse não disponível.",
       "tagline": "",
       "runtime": 97,
@@ -139,7 +73,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 7.136,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -188,7 +122,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.586,
+      "vote_average": 6.611,
       "providers": [],
       "videos": [
         {
@@ -224,6 +158,72 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1294189"
     },
     {
+      "id": 791523,
+      "type": "movie",
+      "title": "O Bosque Selvagem",
+      "release_date": "2026-10-29",
+      "poster": "https://image.tmdb.org/t/p/w500/mcuUYNWGJHPEaRumOlgSZCzMRPc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+      "overview": "A determinada adolescente Prue McKeel embarca em uma missão desesperada de resgate depois que seu irmão caçula é sequestrado por um bando de corvos. Acompanhada por seu colega de classe desajeitado, mas leal, Curtis Mehlberg, Prue navega por um mundo habitado por animais falantes, bandidos e figuras poderosas movidas pela dor e pela ambição. À medida que a dupla é arrastada para um conflito que ameaça o equilíbrio da própria floresta, Prue precisa descobrir uma força e uma crença que jamais soube que possuía.",
+      "tagline": "Até onde você iria por aqueles que ama?",
+      "runtime": 130,
+      "genres": [
+        "Animação",
+        "Aventura",
+        "Fantasia"
+      ],
+      "vote_average": 8.459,
+      "providers": [],
+      "videos": [
+        {
+          "key": "xD3LODkbIT4",
+          "name": "O Bosque Selvagem | Novo Trailer Dublado | 29 de outubro nos cinemas",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "SDkMFbf4iWo",
+          "name": "Trailer Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "wKCnU1fVnZo",
+          "name": "Teaser",
+          "type": "Teaser",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Peyton Elizabeth Lee",
+        "Jacob Tremblay",
+        "Carey Mulligan",
+        "Mahershala Ali",
+        "Richard E. Grant",
+        "Angela Bassett",
+        "Awkwafina",
+        "Amandla Stenberg"
+      ],
+      "director": "Travis Knight",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+        "https://image.tmdb.org/t/p/w780/6CFy9IGiIqwU5OaBJ36SeLgUoDA.jpg",
+        "https://image.tmdb.org/t/p/w780/5PviCeavBVrkcZH1gCBTcNMBpx.jpg",
+        "https://image.tmdb.org/t/p/w780/AuJ2UgwpP4dEqtVoYC7QVLtQMFG.jpg",
+        "https://image.tmdb.org/t/p/w780/p0u4DWwUVUcdKZzlpL3DZPtFs2I.jpg",
+        "https://image.tmdb.org/t/p/w780/iko653iIvEH52Z8wkNJh0hqWyZj.jpg",
+        "https://image.tmdb.org/t/p/w780/3n8ICdjp1uwQqb6WZYd5Znxo8fh.jpg",
+        "https://image.tmdb.org/t/p/w780/1CENaUiv104BzYJGeDmHJen0oEH.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/791523"
+    },
+    {
       "id": 1813355,
       "type": "movie",
       "title": "Uma História de Derry",
@@ -238,7 +238,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.638,
+      "vote_average": 6.633,
       "providers": [],
       "videos": [
         {
@@ -288,7 +288,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.673,
+      "vote_average": 7.667,
       "providers": [],
       "videos": [
         {
@@ -341,8 +341,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "ECkT4kmpPcw",
-          "name": "GHOST SOLDIER Official Trailer 2 (2026) Jim Caviezel",
+          "key": "l0pTZqZWs-c",
+          "name": "GHOST SOLDIER - Official Trailer | (4K) Starring Jim Caviezel",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -384,7 +384,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 6.885,
+      "vote_average": 6.969,
       "providers": [
         {
           "id": 8,
@@ -440,12 +440,12 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 6.6,
+      "vote_average": 6.458,
       "providers": [],
       "videos": [
         {
-          "key": "xwt0tnhDhb4",
-          "name": "Best Pancakes in the County - Official Trailer (2026) Nicolas Cage, Justin Long",
+          "key": "OFGNjmOn0Y4",
+          "name": "Best Pancakes in the County | Official Trailer (Nicolas Cage, 2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -467,7 +467,8 @@
         "https://image.tmdb.org/t/p/w780/34eWzsWpZa17DqT8KeL5InlvRK7.jpg",
         "https://image.tmdb.org/t/p/w780/J07IuhpnFtT4Ag7b2BXNauym3E.jpg",
         "https://image.tmdb.org/t/p/w780/mPGrXA0WHnaAPFaoxPCYmpbEBRk.jpg",
-        "https://image.tmdb.org/t/p/w780/kmfJjV73M4dRaL7vf4N5t7fe6Wl.jpg"
+        "https://image.tmdb.org/t/p/w780/kmfJjV73M4dRaL7vf4N5t7fe6Wl.jpg",
+        "https://image.tmdb.org/t/p/w780/spEyPut2NTRM66Pd0VNZLojXa7e.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1615596"
     },
@@ -483,10 +484,9 @@
       "runtime": 115,
       "genres": [
         "Fantasia",
-        "Drama",
-        "Terror"
+        "Comédia"
       ],
-      "vote_average": 7.517,
+      "vote_average": 7.514,
       "providers": [],
       "videos": [
         {
@@ -543,7 +543,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.199,
+      "vote_average": 6.187,
       "providers": [
         {
           "id": 8,
@@ -665,7 +665,7 @@
         "História",
         "Comédia"
       ],
-      "vote_average": 6.7,
+      "vote_average": 6.6,
       "providers": [],
       "videos": [
         {
@@ -714,7 +714,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 6.927,
+      "vote_average": 6.9,
       "providers": [
         {
           "id": 8,
@@ -770,7 +770,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.349,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -794,9 +794,9 @@
       ],
       "director": "Nitesh Tiwari",
       "images": [
+        "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
         "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
         "https://image.tmdb.org/t/p/w780/ysoJexwslfJnSXcHNNF1A9EtDbB.jpg",
-        "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
         "https://image.tmdb.org/t/p/w780/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
         "https://image.tmdb.org/t/p/w780/wE38Vvr1w577h1ndljzaEnXTKQ3.jpg",
         "https://image.tmdb.org/t/p/w780/kJAklyTOaIu3BTxYGtlw3m1HlHo.jpg",
@@ -811,7 +811,7 @@
       "title": "Perfeitos Mentirosos",
       "release_date": "2026-11-20",
       "poster": "https://image.tmdb.org/t/p/w500/lKgbxuLuupPgIUAw0Ren7ZlOHLg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mdBElS5YjpZPkB9DNYjgxwWgXcv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qKFLZz7rnZAJuyZ9HVEhwIINftz.jpg",
       "overview": "Jude Derry chega à exclusiva Universidade de Tagus com uma missão secreta: se infiltrar no círculo dos irmãos Cash e descobrir a verdade sobre a morte do irmão dela. O que começa como vingança vira um perigoso triângulo de sedução, atração proibida e mentiras, que a empurra rumo a uma verdade para a qual talvez ela não esteja preparada. Baseado no romance de Alex Mírez.",
       "tagline": "",
       "runtime": 108,
@@ -820,7 +820,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.486,
       "providers": [],
       "videos": [
         {
@@ -872,7 +872,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 7.0,
+      "vote_average": 7.12,
       "providers": [
         {
           "id": 8,
@@ -978,7 +978,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 8.8,
+      "vote_average": 8.7,
       "providers": [],
       "videos": [
         {
@@ -1019,7 +1019,7 @@
       "title": "Vingadores: Doutor Destino",
       "release_date": "2026-12-16",
       "poster": "https://image.tmdb.org/t/p/w500/aSzeVbyyU65420A1646YfHcf6Zt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tXNt66khUBZcusc22INKCeGRr4l.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
       "overview": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
       "tagline": "Encare o seu destino.",
       "runtime": 150,
@@ -1108,14 +1108,14 @@
       ],
       "director": "Joe Russo",
       "images": [
-        "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
         "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
-        "https://image.tmdb.org/t/p/w780/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg",
         "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
-        "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+        "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
         "https://image.tmdb.org/t/p/w780/pGbP900NvKzOtLWdyH0sWmLQu1G.jpg",
+        "https://image.tmdb.org/t/p/w780/6TgmIXoVGEDyp0MSoVytIeyfhDR.jpg",
         "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
-        "https://image.tmdb.org/t/p/w780/6TgmIXoVGEDyp0MSoVytIeyfhDR.jpg"
+        "https://image.tmdb.org/t/p/w780/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg",
+        "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1003596"
     }
