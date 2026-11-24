@@ -1,56 +1,72 @@
 {
-  "updated_at": "2026-11-23T23:53:59.679925+00:00",
+  "updated_at": "2026-11-24T09:54:49.192785+00:00",
   "region": "BR",
   "items": [
     {
-      "id": 1507696,
+      "id": 1153576,
       "type": "movie",
-      "title": "Apocalipse Z: Novo Mundo",
-      "release_date": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w500/tzk90shtAI6WaoDIjLLVten7oov.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-      "overview": "Após o surto do vírus TSJ, as Ilhas Canárias se tornaram o último refúgio da Europa. Quando uma missão parte rumo a Madri em busca de suprimentos, Roberto se junta à equipe com intenções duvidosas. Cercados por infectados e divididos por lealdades conflitantes, eles precisam lutar pela sobrevivência e enfrentar um dilema moral: salvar a própria pele ou arriscar tudo pelo que resta da humanidade.",
-      "tagline": "Quando o mundo acaba, sobreviver exige mais do que fugir dos mortos: é preciso decidir em quem confiar.",
-      "runtime": 98,
+      "title": "Street Fighter",
+      "release_date": "2026-10-15",
+      "poster": "https://image.tmdb.org/t/p/w500/6gWmrC2GyDbUM1ET5EBg9lxBi7S.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+      "overview": "Em 1993, os lutadores Ryu e Ken Masters são colocados de volta no combate quando a misteriosa Chun-Li os recruta para o próximo Torneio Street Fighter: uma brutal briga de socos, destino e fúria. Entretanto, por trás desse campeonato, se esconde uma conspiração mortal que os força a encarar um ao outro e os demônios do passado. E se eles não fizerem, é game over!",
+      "tagline": "Preparar. Apontar. Lutar.",
+      "runtime": 119,
       "genres": [
         "Ação",
-        "Thriller",
-        "Terror"
+        "Comédia",
+        "Fantasia"
       ],
-      "vote_average": 6.172,
+      "vote_average": 6.233,
       "providers": [],
       "videos": [
         {
-          "key": "rBNAoPL4ZCM",
-          "name": "Apocalipse Z: Novo Mundo | Trailer Oficial | Prime Video",
+          "key": "kcjEOsxg1FY",
+          "name": "Street Fighter | Novo Trailer | DUB | Paramount Pictures Brasil",
           "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "v2OqsnruLfI",
+          "name": "Street Fighter | Trailer Oficial | DUB | Paramount Pictures Brasil",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "f8W8CrdZd8o",
+          "name": "Trailer Teaser",
+          "type": "Teaser",
           "official": true,
           "site": "YouTube",
           "source": "tmdb"
         }
       ],
       "cast": [
-        "Carlos Alcaide",
-        "Julia Martínez",
-        "José María Yázpik",
-        "Mónica López",
-        "Tamara Casellas",
-        "Berta Vázquez",
-        "Santiago Vaca Narvaja",
-        "Mario Mayo"
+        "Andrew Koji",
+        "Noah Centineo",
+        "Callina Liang",
+        "David Dastmalchian",
+        "Andrew Schulz",
+        "Cody Rhodes",
+        "Mel Jarnson",
+        "Roman Reigns"
       ],
-      "director": "Carles Torrens",
+      "director": "Kitao Sakurai",
       "images": [
-        "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-        "https://image.tmdb.org/t/p/w780/ergNq6Ay27QK0mZJW1SFoOKJOha.jpg",
-        "https://image.tmdb.org/t/p/w780/w6Jfwtn82wGMfo0ejgRvCM9w2xE.jpg",
-        "https://image.tmdb.org/t/p/w780/rsplI45pVrTbySO7MqQgW9HLXvj.jpg",
-        "https://image.tmdb.org/t/p/w780/6aERDyDEKKKb3OcTY6RYA2AgXUA.jpg",
-        "https://image.tmdb.org/t/p/w780/q9WZ9W6KvVNqj0Btw46gnIYPdMK.jpg",
-        "https://image.tmdb.org/t/p/w780/SeQojlDTCwnU2tgWWQi4UFXmr9.jpg",
-        "https://image.tmdb.org/t/p/w780/cKrsMlLdUkkRYUQEcqBDUg2i3oL.jpg"
+        "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+        "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
+        "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
+        "https://image.tmdb.org/t/p/w780/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
+        "https://image.tmdb.org/t/p/w780/9vNW8ysMKIbefbEQOFEZIKpMqwZ.jpg",
+        "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
+        "https://image.tmdb.org/t/p/w780/6kJENBnZsVZuhYTSR3zZi6FUe30.jpg",
+        "https://image.tmdb.org/t/p/w780/yff2isfuB7ZABGsMQ47iebVcwBA.jpg"
       ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1507696"
+      "tmdb_url": "https://www.themoviedb.org/movie/1153576"
     },
     {
       "id": 1596275,
@@ -123,12 +139,12 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.136,
       "providers": [],
       "videos": [
         {
-          "key": "sgTVtpJUegQ",
-          "name": "BREEDER Official Trailer (NEW 2026)",
+          "key": "unbInIcEv9w",
+          "name": "Breeder (2026) HD Trailer Oficial Subtitulado Español - Dot-Marie Jones - Terror/Thriller",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -172,7 +188,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.548,
+      "vote_average": 6.586,
       "providers": [],
       "videos": [
         {
@@ -272,7 +288,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.664,
+      "vote_average": 7.673,
       "providers": [],
       "videos": [
         {
@@ -368,7 +384,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 6.9,
+      "vote_average": 6.885,
       "providers": [
         {
           "id": 8,
@@ -424,7 +440,7 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 6.444,
+      "vote_average": 6.6,
       "providers": [],
       "videos": [
         {
@@ -470,7 +486,7 @@
         "Drama",
         "Terror"
       ],
-      "vote_average": 7.529,
+      "vote_average": 7.517,
       "providers": [],
       "videos": [
         {
@@ -583,7 +599,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.791,
+      "vote_average": 7.8,
       "providers": [],
       "videos": [
         {
@@ -698,7 +714,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 6.929,
+      "vote_average": 6.927,
       "providers": [
         {
           "id": 8,
@@ -745,7 +761,7 @@
       "title": "Ramayana: O Nascimento de uma Lenda",
       "release_date": "2026-11-19",
       "poster": "https://image.tmdb.org/t/p/w500/lV7b3n4tqwlKGUsl72r3fI7COH1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
       "overview": "Rama é um príncipe cujo destino é marcado pelo sacrifício, enquanto Ravana é um rei imortal movido pela vingança. Uma profecia une os destinos dos dois.",
       "tagline": "A maior história da humanidade ganha vida.",
       "runtime": 195,
@@ -754,7 +770,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.349,
       "providers": [],
       "videos": [
         {
@@ -795,7 +811,7 @@
       "title": "Perfeitos Mentirosos",
       "release_date": "2026-11-20",
       "poster": "https://image.tmdb.org/t/p/w500/lKgbxuLuupPgIUAw0Ren7ZlOHLg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m4i6oWU1LoAkYVuV37L7UyI2tcy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mdBElS5YjpZPkB9DNYjgxwWgXcv.jpg",
       "overview": "Jude Derry chega à exclusiva Universidade de Tagus com uma missão secreta: se infiltrar no círculo dos irmãos Cash e descobrir a verdade sobre a morte do irmão dela. O que começa como vingança vira um perigoso triângulo de sedução, atração proibida e mentiras, que a empurra rumo a uma verdade para a qual talvez ela não esteja preparada. Baseado no romance de Alex Mírez.",
       "tagline": "",
       "runtime": 108,
@@ -828,14 +844,14 @@
       ],
       "director": "Jesús Colmenar",
       "images": [
-        "https://image.tmdb.org/t/p/w780/m4i6oWU1LoAkYVuV37L7UyI2tcy.jpg",
         "https://image.tmdb.org/t/p/w780/mdBElS5YjpZPkB9DNYjgxwWgXcv.jpg",
         "https://image.tmdb.org/t/p/w780/6Xd9bymB1g7h7nPecEFiHeLrnng.jpg",
         "https://image.tmdb.org/t/p/w780/nOz45xxc0TqKIZPiWDub8CddkIY.jpg",
         "https://image.tmdb.org/t/p/w780/rXDnVaAKGE93yktDvWo67WGZiKZ.jpg",
         "https://image.tmdb.org/t/p/w780/2kJQcGmQsxQnBMQP1ZhtX4Ra6CO.jpg",
         "https://image.tmdb.org/t/p/w780/fM4nlx2lwoTla790wJJ9SoKdcrT.jpg",
-        "https://image.tmdb.org/t/p/w780/1O3qRwSo1acGMWvof1Ad859DzdZ.jpg"
+        "https://image.tmdb.org/t/p/w780/1O3qRwSo1acGMWvof1Ad859DzdZ.jpg",
+        "https://image.tmdb.org/t/p/w780/ylYK5Zc8AdZHwuSwt4pe8gGXm83.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1568060"
     },
@@ -856,7 +872,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 6.823,
+      "vote_average": 7.0,
       "providers": [
         {
           "id": 8,
@@ -992,8 +1008,8 @@
         "https://image.tmdb.org/t/p/w780/gsSAPAcHDSQOSIDZVm1alSZpDCv.jpg",
         "https://image.tmdb.org/t/p/w780/edYRAs5wYv9QC4VrHcnUEeiaUHv.jpg",
         "https://image.tmdb.org/t/p/w780/2kxMNvP20MdkJh0ynE1TpuG5yp3.jpg",
-        "https://image.tmdb.org/t/p/w780/flr1irwRWJJuB79u4T2t4bAS6OK.jpg",
-        "https://image.tmdb.org/t/p/w780/uDONA0SCc1Tanl1lizf6lYNoMmr.jpg"
+        "https://image.tmdb.org/t/p/w780/4W04y3gVE60o1ELosscjxUajC3G.jpg",
+        "https://image.tmdb.org/t/p/w780/flr1irwRWJJuB79u4T2t4bAS6OK.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1765072"
     },
