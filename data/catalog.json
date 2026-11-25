@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T22:27:16.066801+00:00",
+  "updated_at": "2026-11-25T08:34:48.222157+00:00",
   "region": "BR",
   "items": [
     {
@@ -73,12 +73,12 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.2,
       "providers": [],
       "videos": [
         {
-          "key": "unbInIcEv9w",
-          "name": "Breeder (2026) HD Trailer Oficial Subtitulado Español - Dot-Marie Jones - Terror/Thriller",
+          "key": "sgTVtpJUegQ",
+          "name": "BREEDER Official Trailer (NEW 2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -90,21 +90,21 @@
         "Dot-Marie Jones",
         "Maddie Phillips",
         "Tanaya Beatty",
-        "Paige McGarvin",
-        "Carmen Moore",
         "Lillian Doucet-Roche",
-        "Rochelle Greenwood"
+        "Isla Spencer",
+        "Paige McGarvin",
+        "John Murphy"
       ],
       "director": "Alex Goyette",
       "images": [
-        "https://image.tmdb.org/t/p/w780/jcM2nzRn8lIi3q3mQPxoWsqOUa8.jpg",
-        "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
-        "https://image.tmdb.org/t/p/w780/mVaGq1dSLZrYZUObUTKjIcLHFMt.jpg",
+        "https://image.tmdb.org/t/p/w780/pRXsVckp0kqa6AzNsfH90sDKP4U.jpg",
         "https://image.tmdb.org/t/p/w780/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg",
-        "https://image.tmdb.org/t/p/w780/9e3QXZyHswJgWE6SOO0hRcQMnqd.jpg",
+        "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
+        "https://image.tmdb.org/t/p/w780/jcM2nzRn8lIi3q3mQPxoWsqOUa8.jpg",
+        "https://image.tmdb.org/t/p/w780/mVaGq1dSLZrYZUObUTKjIcLHFMt.jpg",
         "https://image.tmdb.org/t/p/w780/2sIqRw3jan2WhwQ46ulcD1iol3z.jpg",
-        "https://image.tmdb.org/t/p/w780/s0Um9kLDpq0N372UED4D36iJ6J1.jpg",
-        "https://image.tmdb.org/t/p/w780/7Nmkk8Aw2EleIkV4GlU9hJmYzW6.jpg"
+        "https://image.tmdb.org/t/p/w780/9e3QXZyHswJgWE6SOO0hRcQMnqd.jpg",
+        "https://image.tmdb.org/t/p/w780/s0Um9kLDpq0N372UED4D36iJ6J1.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1496696"
     },
@@ -156,72 +156,6 @@
         "https://image.tmdb.org/t/p/w780/mfWwnoRLARGXAqZ1B8bP8SFIqF6.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1294189"
-    },
-    {
-      "id": 791523,
-      "type": "movie",
-      "title": "O Bosque Selvagem",
-      "release_date": "2026-10-29",
-      "poster": "https://image.tmdb.org/t/p/w500/mcuUYNWGJHPEaRumOlgSZCzMRPc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-      "overview": "A determinada adolescente Prue McKeel embarca em uma missão desesperada de resgate depois que seu irmão caçula é sequestrado por um bando de corvos. Acompanhada por seu colega de classe desajeitado, mas leal, Curtis Mehlberg, Prue navega por um mundo habitado por animais falantes, bandidos e figuras poderosas movidas pela dor e pela ambição. À medida que a dupla é arrastada para um conflito que ameaça o equilíbrio da própria floresta, Prue precisa descobrir uma força e uma crença que jamais soube que possuía.",
-      "tagline": "Até onde você iria por aqueles que ama?",
-      "runtime": 130,
-      "genres": [
-        "Animação",
-        "Aventura",
-        "Fantasia"
-      ],
-      "vote_average": 8.459,
-      "providers": [],
-      "videos": [
-        {
-          "key": "xD3LODkbIT4",
-          "name": "O Bosque Selvagem | Novo Trailer Dublado | 29 de outubro nos cinemas",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "SDkMFbf4iWo",
-          "name": "Trailer Dublado",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "wKCnU1fVnZo",
-          "name": "Teaser",
-          "type": "Teaser",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Peyton Elizabeth Lee",
-        "Jacob Tremblay",
-        "Carey Mulligan",
-        "Mahershala Ali",
-        "Richard E. Grant",
-        "Angela Bassett",
-        "Awkwafina",
-        "Amandla Stenberg"
-      ],
-      "director": "Travis Knight",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-        "https://image.tmdb.org/t/p/w780/6CFy9IGiIqwU5OaBJ36SeLgUoDA.jpg",
-        "https://image.tmdb.org/t/p/w780/5PviCeavBVrkcZH1gCBTcNMBpx.jpg",
-        "https://image.tmdb.org/t/p/w780/AuJ2UgwpP4dEqtVoYC7QVLtQMFG.jpg",
-        "https://image.tmdb.org/t/p/w780/p0u4DWwUVUcdKZzlpL3DZPtFs2I.jpg",
-        "https://image.tmdb.org/t/p/w780/iko653iIvEH52Z8wkNJh0hqWyZj.jpg",
-        "https://image.tmdb.org/t/p/w780/3n8ICdjp1uwQqb6WZYd5Znxo8fh.jpg",
-        "https://image.tmdb.org/t/p/w780/1CENaUiv104BzYJGeDmHJen0oEH.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/791523"
     },
     {
       "id": 1813355,
@@ -288,7 +222,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.667,
+      "vote_average": 7.664,
       "providers": [],
       "videos": [
         {
@@ -326,7 +260,7 @@
     {
       "id": 1562642,
       "type": "movie",
-      "title": "Ghost Soldier",
+      "title": "Soldado Fantasma",
       "release_date": "2026-11-06",
       "poster": "https://image.tmdb.org/t/p/w500/h1MUn834b2u1FDQWObUBwp5jlHJ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
@@ -341,8 +275,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "l0pTZqZWs-c",
-          "name": "GHOST SOLDIER - Official Trailer | (4K) Starring Jim Caviezel",
+          "key": "5ttllB2rqkQ",
+          "name": "&quot;Soldado Fantasma&quot; | Trailer Oficial (Sony Pictures Portugal)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -440,12 +374,12 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 6.458,
+      "vote_average": 6.5,
       "providers": [],
       "videos": [
         {
-          "key": "OFGNjmOn0Y4",
-          "name": "Best Pancakes in the County | Official Trailer (Nicolas Cage, 2026)",
+          "key": "xwt0tnhDhb4",
+          "name": "Best Pancakes in the County - Official Trailer (2026) Nicolas Cage, Justin Long",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -486,7 +420,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.514,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -543,7 +477,7 @@
         "Thriller",
         "Mistério"
       ],
-      "vote_average": 6.187,
+      "vote_average": 6.184,
       "providers": [
         {
           "id": 8,
@@ -665,7 +599,7 @@
         "História",
         "Comédia"
       ],
-      "vote_average": 6.6,
+      "vote_average": 6.516,
       "providers": [],
       "videos": [
         {
@@ -714,7 +648,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 6.9,
+      "vote_average": 6.897,
       "providers": [
         {
           "id": 8,
@@ -736,11 +670,11 @@
         "Leighton Meester",
         "Jared Padalecki",
         "Andie MacDowell",
-        "Walker Hayes",
         "Noah LaLonde",
+        "Shaun Johnston",
         "Toby Sandeman",
-        "Phil Brooks",
-        "Ava Max"
+        "Rachael Ancheril",
+        "Phil Brooks"
       ],
       "director": "Elizabeth Allen Rosenbaum",
       "images": [
@@ -770,7 +704,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.3,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -844,14 +778,14 @@
       ],
       "director": "Jesús Colmenar",
       "images": [
-        "https://image.tmdb.org/t/p/w780/mdBElS5YjpZPkB9DNYjgxwWgXcv.jpg",
-        "https://image.tmdb.org/t/p/w780/6Xd9bymB1g7h7nPecEFiHeLrnng.jpg",
-        "https://image.tmdb.org/t/p/w780/nOz45xxc0TqKIZPiWDub8CddkIY.jpg",
-        "https://image.tmdb.org/t/p/w780/rXDnVaAKGE93yktDvWo67WGZiKZ.jpg",
+        "https://image.tmdb.org/t/p/w780/qKFLZz7rnZAJuyZ9HVEhwIINftz.jpg",
         "https://image.tmdb.org/t/p/w780/2kJQcGmQsxQnBMQP1ZhtX4Ra6CO.jpg",
         "https://image.tmdb.org/t/p/w780/fM4nlx2lwoTla790wJJ9SoKdcrT.jpg",
         "https://image.tmdb.org/t/p/w780/1O3qRwSo1acGMWvof1Ad859DzdZ.jpg",
-        "https://image.tmdb.org/t/p/w780/ylYK5Zc8AdZHwuSwt4pe8gGXm83.jpg"
+        "https://image.tmdb.org/t/p/w780/ylYK5Zc8AdZHwuSwt4pe8gGXm83.jpg",
+        "https://image.tmdb.org/t/p/w780/rUVCwT0tgONxYOEjPah67qnxeet.jpg",
+        "https://image.tmdb.org/t/p/w780/zMATnamQSzg5TRUMZjITlePlnMY.jpg",
+        "https://image.tmdb.org/t/p/w780/fvgDqHyYQBmOmfopvzX4dGLcQOO.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1568060"
     },
@@ -872,7 +806,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 7.12,
+      "vote_average": 7.2,
       "providers": [
         {
           "id": 8,
@@ -911,11 +845,11 @@
       "director": "Alyce Tzue",
       "images": [
         "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+        "https://image.tmdb.org/t/p/w780/5DPnxhB0rsshMFAvmBwAoJSqbmz.jpg",
         "https://image.tmdb.org/t/p/w780/27IITQqpqXAGRWeeNtRWoPW0Xxn.jpg",
         "https://image.tmdb.org/t/p/w780/kxHYBjGfy3clTbU8Y9rDVXrGLtI.jpg",
         "https://image.tmdb.org/t/p/w780/xq5oGSuhktFcynbGSSUuVO325pH.jpg",
         "https://image.tmdb.org/t/p/w780/8txRYB8a5aYHLhzOY8TOXaTNa3W.jpg",
-        "https://image.tmdb.org/t/p/w780/5DPnxhB0rsshMFAvmBwAoJSqbmz.jpg",
         "https://image.tmdb.org/t/p/w780/xMBnofCrjfx7GLa5PL9LnYFl1sj.jpg",
         "https://image.tmdb.org/t/p/w780/2JaOA97nlGSUfkWVZL7iPv5HvMQ.jpg"
       ],
@@ -935,7 +869,7 @@
         "Animação",
         "Aventura"
       ],
-      "vote_average": 9.167,
+      "vote_average": 9.286,
       "providers": [],
       "videos": [
         {
@@ -964,6 +898,55 @@
         "https://image.tmdb.org/t/p/w780/ptaksG02ricPHJZ65f4FOR2rTia.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1599184"
+    },
+    {
+      "id": 1611767,
+      "type": "movie",
+      "title": "Correndo para o Natal",
+      "release_date": "2026-11-23",
+      "poster": "https://image.tmdb.org/t/p/w500/38xHqU2bKbsXs0KD8bXtrDFpc8n.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+      "overview": "Os editores rivais Ryan Mitchell e Hannah Hendricks não podem voar por causa de uma tempestade e são obrigados a dividir um carro alugado para chegar em Nova York, onde uma reunião pode salvar suas carreiras. À medida que imprevistos na estrada e paradas em cidadezinhas acontecem, o espírito natalino vai transformando a rivalidade entre eles em algo inesperado.",
+      "tagline": "",
+      "runtime": 110,
+      "genres": [
+        "Romance",
+        "Comédia"
+      ],
+      "vote_average": 6.755,
+      "providers": [],
+      "videos": [
+        {
+          "key": "uXLBz-IsMFE",
+          "name": "Trailer Oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Christopher Briney",
+        "Michelle Randolph",
+        "Lukas Gage",
+        "Julia Fox",
+        "Paris Hilton",
+        "Zarna Garg",
+        "Tan France",
+        "P.J. Byrne"
+      ],
+      "director": "Carlson Young",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+        "https://image.tmdb.org/t/p/w780/41DVIYKlQTuYievhZSlroBafBmW.jpg",
+        "https://image.tmdb.org/t/p/w780/6bSaWdMW4KE15oVQXBO8klHrkVX.jpg",
+        "https://image.tmdb.org/t/p/w780/r7lqFWOrHLUw5LKDheRV7y4JV6A.jpg",
+        "https://image.tmdb.org/t/p/w780/liEL99zHVy9U1ggzACqgDH9ujQv.jpg",
+        "https://image.tmdb.org/t/p/w780/5yfUd1bWEd6eJAaZrLjhE41dCal.jpg",
+        "https://image.tmdb.org/t/p/w780/6S5G9OeBpggwlcEvF1rO5AJCmw9.jpg",
+        "https://image.tmdb.org/t/p/w780/fkJixsoSsCTbfz6b3HkGkxilswV.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1611767"
     },
     {
       "id": 1765072,
@@ -1112,10 +1095,10 @@
         "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
         "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
         "https://image.tmdb.org/t/p/w780/pGbP900NvKzOtLWdyH0sWmLQu1G.jpg",
-        "https://image.tmdb.org/t/p/w780/6TgmIXoVGEDyp0MSoVytIeyfhDR.jpg",
         "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+        "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
         "https://image.tmdb.org/t/p/w780/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg",
-        "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg"
+        "https://image.tmdb.org/t/p/w780/6TgmIXoVGEDyp0MSoVytIeyfhDR.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1003596"
     }
