@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T08:18:05.364032+00:00",
+  "updated_at": "2026-11-26T21:32:31.288706+00:00",
   "region": "BR",
   "items": [
     {
@@ -7,7 +7,7 @@
       "type": "movie",
       "title": "A Pescadora Solitária",
       "release_date": "2026-10-21",
-      "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5sVi66aTT9X2uMldmIwu9JW3hZ2.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
       "overview": "Uma pescadora condenada ao ostracismo contrata o fabricante de cestos local de criar um marido para ela, mas quando sua criação de vime se mostra inesperadamente extraordinária, a presença dele desperta ciúmes e agitação que ameaçam sua pacata vila.",
       "tagline": "",
@@ -17,7 +17,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.625,
       "providers": [],
       "videos": [
         {
@@ -66,7 +66,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.584,
+      "vote_average": 7.583,
       "providers": [],
       "videos": [
         {
@@ -123,12 +123,12 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 7.339,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
-          "key": "unbInIcEv9w",
-          "name": "Breeder (2026) HD Trailer Oficial Subtitulado Español - Dot-Marie Jones - Terror/Thriller",
+          "key": "sgTVtpJUegQ",
+          "name": "BREEDER Official Trailer (NEW 2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -172,7 +172,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.643,
+      "vote_average": 6.629,
       "providers": [],
       "videos": [
         {
@@ -272,7 +272,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.655,
+      "vote_average": 7.658,
       "providers": [],
       "videos": [
         {
@@ -321,7 +321,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 9.0,
+      "vote_average": 8.886,
       "providers": [],
       "videos": [
         {
@@ -368,7 +368,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 6.969,
+      "vote_average": 6.813,
       "providers": [
         {
           "id": 8,
@@ -428,8 +428,8 @@
       "providers": [],
       "videos": [
         {
-          "key": "OFGNjmOn0Y4",
-          "name": "Best Pancakes in the County | Official Trailer (Nicolas Cage, 2026)",
+          "key": "xwt0tnhDhb4",
+          "name": "Best Pancakes in the County - Official Trailer (2026) Nicolas Cage, Justin Long",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -470,7 +470,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.513,
+      "vote_average": 7.538,
       "providers": [],
       "videos": [
         {
@@ -558,10 +558,10 @@
       ],
       "cast": [
         "Joseph Zada",
+        "Mckenna Grace",
         "Jesse Plemons",
         "Ralph Fiennes",
         "Glenn Close",
-        "Mckenna Grace",
         "Whitney Peak",
         "Elle Fanning",
         "Kieran Culkin"
@@ -578,56 +578,6 @@
         "https://image.tmdb.org/t/p/w780/9B3AMSs7A3bqqFLKlOv6W4LyAHG.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1300968"
-    },
-    {
-      "id": 1131943,
-      "type": "movie",
-      "title": "Madden: O Homem e o Jogo",
-      "release_date": "2026-11-18",
-      "poster": "https://image.tmdb.org/t/p/w500/hCJ93wcAb0zGFK3G4MgkWJKx6Lm.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
-      "overview": "Inspirado na vida de um querido ícone americano, este filme narra a incrível jornada de John Madden ao lado de seu melhor amigo e autêntico Al Davis. A trama acompanha desde a parceria campeã do Super Bowl com a equipe do Raiders, até ele se tornar a voz mais reconhecível do futebol americano e construir a franquia mundial de videogame Madden NFL. É a celebração de uma mente brilhante, cujo espírito e personalidade únicos, a parceria com sua ousada esposa Virginia, as amizades duradouras e o amor contagiante pelas pessoas e pelo esporte transcenderam o mundo do futebol americano.",
-      "tagline": "",
-      "runtime": 112,
-      "genres": [
-        "Drama",
-        "História",
-        "Comédia"
-      ],
-      "vote_average": 6.5,
-      "providers": [],
-      "videos": [
-        {
-          "key": "tmD2dfc5XDE",
-          "name": "Trailer Oficial",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Nicolas Cage",
-        "Christian Bale",
-        "Kathryn Hahn",
-        "Sienna Miller",
-        "John Mulaney",
-        "Snoop Dogg",
-        "Shane Gillis",
-        "Marshawn Lynch"
-      ],
-      "director": "David O. Russell",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
-        "https://image.tmdb.org/t/p/w780/peolEa2e0nWImNsZy9Omc72hnPI.jpg",
-        "https://image.tmdb.org/t/p/w780/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
-        "https://image.tmdb.org/t/p/w780/6R2lH7Z1zOP8SZzw1vF8Xhshc2.jpg",
-        "https://image.tmdb.org/t/p/w780/iR8QWlvryYb8IJQdyx4lPWkLhE4.jpg",
-        "https://image.tmdb.org/t/p/w780/bkBl0Qhsr4svO9cp5DIP0Onq3CN.jpg",
-        "https://image.tmdb.org/t/p/w780/29QfoAMZseZdU1DRr3MqqPgu9RE.jpg",
-        "https://image.tmdb.org/t/p/w780/ktVMMAueDTT0YCOKwR2VYQ8coq2.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1131943"
     },
     {
       "id": 1551025,
@@ -699,7 +649,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.487,
       "providers": [],
       "videos": [
         {
@@ -749,7 +699,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.238,
+      "vote_average": 7.2,
       "providers": [],
       "videos": [
         {
@@ -797,9 +747,11 @@
       "genres": [
         "Animação",
         "Família",
-        "Comédia"
+        "Comédia",
+        "Aventura",
+        "Fantasia"
       ],
-      "vote_average": 7.2,
+      "vote_average": 7.1,
       "providers": [
         {
           "id": 8,
@@ -906,7 +858,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 6.7,
+      "vote_average": 6.069,
       "providers": [],
       "videos": [
         {
@@ -942,6 +894,66 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1611767"
     },
     {
+      "id": 1538497,
+      "type": "movie",
+      "title": "Enfeitiçadas: Bem-vindos a Hexe",
+      "release_date": "2026-11-26",
+      "poster": "https://image.tmdb.org/t/p/w500/lhDdE2Uvis4Khtr1o366cAbnb57.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
+      "overview": "Uma adolescente desajeitada e sua mãe perfeccionista descobrem que suas peculiaridades podem ser poderes mágicos, transformando suas vidas e revelando um reino mágico oculto.",
+      "tagline": "Algo está acontecendo com Billie...",
+      "runtime": 103,
+      "genres": [
+        "Aventura",
+        "Animação",
+        "Família",
+        "Fantasia",
+        "Comédia"
+      ],
+      "vote_average": 5.69,
+      "providers": [],
+      "videos": [
+        {
+          "key": "sAF5_P0PmoU",
+          "name": "Enfeitiçadas: Bem-vindos a Hexe | Trailer 2 Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "DuWWbVJ9hJk",
+          "name": "Enfeitiçadas: Bem-vindos a Hexe | Trailer Oficial Dublado",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Hailee Steinfeld",
+        "Rashida Jones",
+        "Jodie Foster",
+        "Walton Goggins",
+        "Henry Winkler",
+        "Dan Stevens",
+        "Brett Gelman",
+        "Tracey Ullman"
+      ],
+      "director": "Jason Hand",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/gZfQ5bhbxUnsaURCiIsiCHrRtmX.jpg",
+        "https://image.tmdb.org/t/p/w780/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
+        "https://image.tmdb.org/t/p/w780/eMcrgrIyeAgMHS5R9LltDnuxB5R.jpg",
+        "https://image.tmdb.org/t/p/w780/nRUAjtySZPGurYv5se3R9pqDwWr.jpg",
+        "https://image.tmdb.org/t/p/w780/knWBvmuPveXqeypjMdKFsYblg7I.jpg",
+        "https://image.tmdb.org/t/p/w780/99gpEPypf5rwpJ5dRa10fgBirQS.jpg",
+        "https://image.tmdb.org/t/p/w780/d1SyM7yyiYpALoSZVwJtINGX3sa.jpg",
+        "https://image.tmdb.org/t/p/w780/wbxR0gBZKZWlLk1R9mmHkyYbG.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1538497"
+    },
+    {
       "id": 1765072,
       "type": "movie",
       "title": "Tudo Pode Ser Visto",
@@ -954,7 +966,7 @@
       "genres": [
         "Documentário"
       ],
-      "vote_average": 8.644,
+      "vote_average": 8.6,
       "providers": [],
       "videos": [
         {
