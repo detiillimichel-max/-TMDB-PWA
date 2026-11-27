@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T08:34:43.635321+00:00",
+  "updated_at": "2026-11-27T21:17:19.164435+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.632,
+      "vote_average": 7.582,
       "providers": [],
       "videos": [
         {
@@ -39,7 +39,7 @@
         "Richard E. Grant",
         "Phil Daniels"
       ],
-      "director": "Eleanor Wilson",
+      "director": "Alex Huston Fischer",
       "images": [
         "https://image.tmdb.org/t/p/w780/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
         "https://image.tmdb.org/t/p/w780/dP4W6k5GhqUCjGdH6Chm2bv9yi5.jpg",
@@ -53,69 +53,12 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1195803"
     },
     {
-      "id": 1596275,
-      "type": "movie",
-      "title": "Velocidade e Paixão",
-      "release_date": "2026-10-27",
-      "poster": "https://image.tmdb.org/t/p/w500/d2lY6L7gOa1GeDkRNBAoVmnK9ne.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-      "overview": "Uma jovem mecânica de carros de corrida finge estar noiva do piloto mais controverso das pistas. Oficialmente, o plano é salvar a reputação dele; mas secretamente, ela quer uma chance de pilotar. Só que logo essa mentira ameaça destruir tudo, incluindo aquilo que já se tornou muito mais do que um simples acordo.",
-      "tagline": "",
-      "runtime": 102,
-      "genres": [
-        "Romance",
-        "Thriller"
-      ],
-      "vote_average": 7.583,
-      "providers": [],
-      "videos": [
-        {
-          "key": "fmCSMf8-QzM",
-          "name": "VELOCIDADE E PAIXÃO | Trailer (2026) Dublado",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "tmdb"
-        },
-        {
-          "key": "9he9KPt29Fw",
-          "name": "Velocidade e Paixão | Trailer Oficial | Prime Video",
-          "type": "Trailer",
-          "official": true,
-          "site": "YouTube",
-          "source": "tmdb"
-        }
-      ],
-      "cast": [
-        "Lisa-Marie Koroll",
-        "Amin Baahmed",
-        "Gustav Schmidt",
-        "Mišel Matičević",
-        "Lucie Heinze",
-        "Frederic Linkemann",
-        "Inka Friedrich",
-        "Jeanette Hain"
-      ],
-      "director": "Sergej Moya",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-        "https://image.tmdb.org/t/p/w780/4yhMroSvsvdYjZGx6T575aTkyB8.jpg",
-        "https://image.tmdb.org/t/p/w780/5aM6VbwVSFSzAkndENRj5qPk0fI.jpg",
-        "https://image.tmdb.org/t/p/w780/7KGt51UrEX6bfke8XNMeJ0DmEDZ.jpg",
-        "https://image.tmdb.org/t/p/w780/znaZxN2lMydZpVRFaQMvcV4Fedi.jpg",
-        "https://image.tmdb.org/t/p/w780/6fpA69MtfyrnoXH5aJHMmW0SOmu.jpg",
-        "https://image.tmdb.org/t/p/w780/dw5G9bYehBz2DrQeY6zrBM2SYrn.jpg",
-        "https://image.tmdb.org/t/p/w780/umDu9Kwovtdtg2IKoSVQLCipgMQ.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1596275"
-    },
-    {
       "id": 1496696,
       "type": "movie",
       "title": "Breeder",
       "release_date": "2026-10-28",
       "poster": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg",
       "overview": "Uma excêntrica criadora de poodles atrai uma estudante universitária sem dinheiro para seu rancho remoto com a promessa de financiar sua pesquisa. Mas, como ela logo descobre, há um problema.",
       "tagline": "",
       "runtime": 97,
@@ -123,12 +66,12 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 7.581,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
-          "key": "sgTVtpJUegQ",
-          "name": "BREEDER Official Trailer (NEW 2026)",
+          "key": "unbInIcEv9w",
+          "name": "Breeder (2026) HD Trailer Oficial Subtitulado Español - Dot-Marie Jones - Terror/Thriller",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -148,8 +91,8 @@
       "director": "Alex Goyette",
       "images": [
         "https://image.tmdb.org/t/p/w780/pRXsVckp0kqa6AzNsfH90sDKP4U.jpg",
-        "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
         "https://image.tmdb.org/t/p/w780/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg",
+        "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
         "https://image.tmdb.org/t/p/w780/jcM2nzRn8lIi3q3mQPxoWsqOUa8.jpg",
         "https://image.tmdb.org/t/p/w780/mVaGq1dSLZrYZUObUTKjIcLHFMt.jpg",
         "https://image.tmdb.org/t/p/w780/2sIqRw3jan2WhwQ46ulcD1iol3z.jpg",
@@ -172,7 +115,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.629,
+      "vote_average": 6.641,
       "providers": [],
       "videos": [
         {
@@ -208,6 +151,61 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1294189"
     },
     {
+      "id": 1458300,
+      "type": "movie",
+      "title": "The Mosquito Bowl",
+      "release_date": "2026-10-29",
+      "poster": "https://image.tmdb.org/t/p/w500/zTCY09GmAd3ZtIIiOTs2sqfVoLG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nfcXn5yvBejpbljQIBrTlOMQZoC.jpg",
+      "overview": "Depois de Pearl Harbor, quatro astros do futebol americano universitário se alistam nos fuzileiros navais e descobrem o poder da amizade e o preço da guerra.",
+      "tagline": "",
+      "runtime": 129,
+      "genres": [
+        "Guerra",
+        "Drama"
+      ],
+      "vote_average": 7.7,
+      "providers": [
+        {
+          "id": 8,
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "rFMyHeRy3i4",
+          "name": "The Mosquito Bowl | Trailer oficial | Netflix",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Nicholas Galitzine",
+        "Bill Skarsgård",
+        "Ray Nicholson",
+        "Tom Francis",
+        "Brent Comer",
+        "Jack Ingram",
+        "Ella Newton",
+        "Peter Berg"
+      ],
+      "director": "Peter Berg",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/nfcXn5yvBejpbljQIBrTlOMQZoC.jpg",
+        "https://image.tmdb.org/t/p/w780/rtrWdS4UrhqnH9wNEWOgrMBsmSa.jpg",
+        "https://image.tmdb.org/t/p/w780/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg",
+        "https://image.tmdb.org/t/p/w780/6BQf817glhR9motzKeCPynPGySi.jpg",
+        "https://image.tmdb.org/t/p/w780/dObdq4vWxdYP25Y7q4HnnKcHSRV.jpg",
+        "https://image.tmdb.org/t/p/w780/yNUxtzo7Wv0jY9Moen6PLBNlgMu.jpg",
+        "https://image.tmdb.org/t/p/w780/8KwbItXHztvexjeNtiWrXBBnyVZ.jpg",
+        "https://image.tmdb.org/t/p/w780/s1c5hts3lKokeiw5I14rpIzZKEh.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1458300"
+    },
+    {
       "id": 1813355,
       "type": "movie",
       "title": "Uma História de Derry",
@@ -222,7 +220,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.633,
+      "vote_average": 6.7,
       "providers": [],
       "videos": [
         {
@@ -272,7 +270,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.64,
+      "vote_average": 7.645,
       "providers": [],
       "videos": [
         {
@@ -321,7 +319,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.9,
+      "vote_average": 8.886,
       "providers": [],
       "videos": [
         {
@@ -368,7 +366,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 6.827,
+      "vote_average": 6.8,
       "providers": [
         {
           "id": 8,
@@ -470,7 +468,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.551,
       "providers": [],
       "videos": [
         {
@@ -593,7 +591,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 6.804,
+      "vote_average": 6.8,
       "providers": [
         {
           "id": 8,
@@ -649,7 +647,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.487,
+      "vote_average": 7.4,
       "providers": [],
       "videos": [
         {
@@ -751,7 +749,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 7.2,
+      "vote_average": 7.068,
       "providers": [
         {
           "id": 8,
@@ -799,50 +797,6 @@
         "https://image.tmdb.org/t/p/w780/xMBnofCrjfx7GLa5PL9LnYFl1sj.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1595124"
-    },
-    {
-      "id": 1599184,
-      "type": "movie",
-      "title": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors",
-      "release_date": "2026-11-22",
-      "poster": "https://image.tmdb.org/t/p/w500/kQA44KCjcI284f3uxCRAdiS9blt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9uMWGlxHR3bpyhzKQLYL83m5puq.jpg",
-      "overview": "Acima da Academia Jia Nan, o Clã Hun e a Aliança Tianfu se enfrentam em um confronto por causa do lendário Imperador Antigo Tuoshe. Hun Tiandi utiliza o antigo jade para abrir a caverna do imperador. Assim, começa a disputa entre Xiao Yan e Hun Tiandi pela oportunidade de alcançar o nível de Imperador (Dou Di).",
-      "tagline": "",
-      "runtime": 96,
-      "genres": [
-        "Animação",
-        "Aventura"
-      ],
-      "vote_average": 9.0,
-      "providers": [],
-      "videos": [
-        {
-          "key": "ohjARGselBs",
-          "name": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors Trailer..",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "不一",
-        "刘雨轩",
-        "陈奕雯",
-        "依晨",
-        "冯骏骅",
-        "Ye Sun",
-        "Wei Zhai"
-      ],
-      "director": "沈亦默",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/9uMWGlxHR3bpyhzKQLYL83m5puq.jpg",
-        "https://image.tmdb.org/t/p/w780/g5n1jTrfhhTf40iBKYp4prMK1Gn.jpg",
-        "https://image.tmdb.org/t/p/w780/zc2e4P49IfcWvejyvv46p79dYuK.jpg",
-        "https://image.tmdb.org/t/p/w780/ptaksG02ricPHJZ65f4FOR2rTia.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1599184"
     },
     {
       "id": 1611767,
@@ -894,6 +848,60 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1611767"
     },
     {
+      "id": 1280115,
+      "type": "movie",
+      "title": "O Pequeno Guerreiro",
+      "release_date": "2026-11-24",
+      "poster": "https://image.tmdb.org/t/p/w500/79VKzdDYRCvfZWNAEYBoPxeEHm6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
+      "overview": "Jake é um fuzileiro naval ferido que se torna mentor de seu tímido e angustiado sobrinho, Marc. Usando os princípios de seu treinamento militar, Jake ensina Marc a ser um pequeno guerreiro ao entrar no ensino médio.",
+      "tagline": "É preciso um herói para treinar outro.",
+      "runtime": 107,
+      "genres": [
+        "Drama"
+      ],
+      "vote_average": 7.4,
+      "providers": [
+        {
+          "id": 350,
+          "name": "Apple TV",
+          "logo": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png"
+        }
+      ],
+      "videos": [
+        {
+          "key": "9zQy-Vrnk3Y",
+          "name": "Trailer oficial",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        }
+      ],
+      "cast": [
+        "Chris Pratt",
+        "Jude Hill",
+        "Linda Cardellini",
+        "Jocko Willink",
+        "Ava Torres",
+        "Levi McConaughey",
+        "Darien Sills-Evans",
+        "Carl McDowell"
+      ],
+      "director": "McG",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/2Cezcsd4KMC1zpzNSmibXhnfjUO.jpg",
+        "https://image.tmdb.org/t/p/w780/A4aRF6f1FroOH9Ty3iZVORC4xIj.jpg",
+        "https://image.tmdb.org/t/p/w780/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
+        "https://image.tmdb.org/t/p/w780/1JL6mDxYRauwv81bLupSZczC39M.jpg",
+        "https://image.tmdb.org/t/p/w780/kHLvxw9oN6aYIuw5tn3f8CtKrHH.jpg",
+        "https://image.tmdb.org/t/p/w780/wYVdQkHUjkcFEa9xxM5pWWFi1b8.jpg",
+        "https://image.tmdb.org/t/p/w780/eMc4dlMS0szxVVmlwChTEof7F3Z.jpg",
+        "https://image.tmdb.org/t/p/w780/f7zJadaLI8ikSBjcy6ox9a61yb7.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1280115"
+    },
+    {
       "id": 1538497,
       "type": "movie",
       "title": "Enfeitiçadas: Bem-vindos a Hexe",
@@ -908,7 +916,7 @@
         "Fantasia",
         "Família"
       ],
-      "vote_average": 5.8,
+      "vote_average": 5.7,
       "providers": [],
       "videos": [
         {
@@ -956,7 +964,7 @@
       "type": "movie",
       "title": "Tudo Pode Ser Visto",
       "release_date": "2026-11-26",
-      "poster": "https://image.tmdb.org/t/p/w500/ouqBWfJzjFQAyCfCagPw6Chrubw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/l2AEzJ4AQn1p67RKNfYlskvFSAJ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
       "overview": "Trinta e quatro dias antes de ser enviada para a prisão, a notória fundadora do Vale do Silício, Elizabeth Holmes, convida uma equipe de filmagem cética para documentar cada passo seu. O que começa como um retrato íntimo de uma criminosa enigmática se transforma em uma jornada alucinante de três anos rumo ao abismo.",
       "tagline": "Ver para crer.",
@@ -969,7 +977,7 @@
       "videos": [
         {
           "key": "SRIfMnMrzsg",
-          "name": "Tudo pode ser visto | Trailer |",
+          "name": "Tudo pode ser visto | Trailer",
           "type": "Trailer",
           "official": true,
           "site": "YouTube",
@@ -977,7 +985,7 @@
         },
         {
           "key": "jqYc3U81B28",
-          "name": "You Can See Everything - Trailer Legendado (2026) Elizabeth Holmes",
+          "name": "Tudo Pode Ser Visto - Trailer Legendado (2026)",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
@@ -996,14 +1004,14 @@
       ],
       "director": "Nathan Fielder",
       "images": [
-        "https://image.tmdb.org/t/p/w780/4W04y3gVE60o1ELosscjxUajC3G.jpg",
         "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
+        "https://image.tmdb.org/t/p/w780/4W04y3gVE60o1ELosscjxUajC3G.jpg",
         "https://image.tmdb.org/t/p/w780/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
         "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
         "https://image.tmdb.org/t/p/w780/gsSAPAcHDSQOSIDZVm1alSZpDCv.jpg",
         "https://image.tmdb.org/t/p/w780/edYRAs5wYv9QC4VrHcnUEeiaUHv.jpg",
-        "https://image.tmdb.org/t/p/w780/2kxMNvP20MdkJh0ynE1TpuG5yp3.jpg",
-        "https://image.tmdb.org/t/p/w780/hYpCxIEy5aBVWbmeWl5pfTzlaW0.jpg"
+        "https://image.tmdb.org/t/p/w780/9rPqDhrZu82mI3ckisMWIKKJod8.jpg",
+        "https://image.tmdb.org/t/p/w780/2kxMNvP20MdkJh0ynE1TpuG5yp3.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1765072"
     },
