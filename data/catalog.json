@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T21:32:31.288706+00:00",
+  "updated_at": "2026-11-27T08:34:43.635321+00:00",
   "region": "BR",
   "items": [
     {
@@ -7,7 +7,7 @@
       "type": "movie",
       "title": "A Pescadora Solitária",
       "release_date": "2026-10-21",
-      "poster": "https://image.tmdb.org/t/p/w500/5sVi66aTT9X2uMldmIwu9JW3hZ2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
       "overview": "Uma pescadora condenada ao ostracismo contrata o fabricante de cestos local de criar um marido para ela, mas quando sua criação de vime se mostra inesperadamente extraordinária, a presença dele desperta ciúmes e agitação que ameaçam sua pacata vila.",
       "tagline": "",
@@ -17,7 +17,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.625,
+      "vote_average": 7.632,
       "providers": [],
       "videos": [
         {
@@ -123,7 +123,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.581,
       "providers": [],
       "videos": [
         {
@@ -272,7 +272,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.658,
+      "vote_average": 7.64,
       "providers": [],
       "videos": [
         {
@@ -321,7 +321,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 8.886,
+      "vote_average": 8.9,
       "providers": [],
       "videos": [
         {
@@ -368,7 +368,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 6.813,
+      "vote_average": 6.827,
       "providers": [
         {
           "id": 8,
@@ -424,7 +424,7 @@
         "Thriller",
         "Crime"
       ],
-      "vote_average": 6.3,
+      "vote_average": 6.0,
       "providers": [],
       "videos": [
         {
@@ -470,7 +470,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.538,
+      "vote_average": 7.5,
       "providers": [],
       "videos": [
         {
@@ -593,7 +593,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 6.8,
+      "vote_average": 6.804,
       "providers": [
         {
           "id": 8,
@@ -699,7 +699,7 @@
         "Romance",
         "Thriller"
       ],
-      "vote_average": 7.2,
+      "vote_average": 7.104,
       "providers": [],
       "videos": [
         {
@@ -751,7 +751,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 7.1,
+      "vote_average": 7.2,
       "providers": [
         {
           "id": 8,
@@ -790,13 +790,13 @@
       "director": "Alyce Tzue",
       "images": [
         "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+        "https://image.tmdb.org/t/p/w780/7tSbvjo8HGZjm3qi70Fp2gB8SLf.jpg",
         "https://image.tmdb.org/t/p/w780/5DPnxhB0rsshMFAvmBwAoJSqbmz.jpg",
         "https://image.tmdb.org/t/p/w780/27IITQqpqXAGRWeeNtRWoPW0Xxn.jpg",
         "https://image.tmdb.org/t/p/w780/kxHYBjGfy3clTbU8Y9rDVXrGLtI.jpg",
         "https://image.tmdb.org/t/p/w780/xq5oGSuhktFcynbGSSUuVO325pH.jpg",
         "https://image.tmdb.org/t/p/w780/8txRYB8a5aYHLhzOY8TOXaTNa3W.jpg",
-        "https://image.tmdb.org/t/p/w780/xMBnofCrjfx7GLa5PL9LnYFl1sj.jpg",
-        "https://image.tmdb.org/t/p/w780/2JaOA97nlGSUfkWVZL7iPv5HvMQ.jpg"
+        "https://image.tmdb.org/t/p/w780/xMBnofCrjfx7GLa5PL9LnYFl1sj.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1595124"
     },
@@ -858,7 +858,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 6.069,
+      "vote_average": 6.096,
       "providers": [],
       "videos": [
         {
@@ -904,13 +904,11 @@
       "tagline": "Algo está acontecendo com Billie...",
       "runtime": 103,
       "genres": [
-        "Aventura",
         "Animação",
-        "Família",
         "Fantasia",
-        "Comédia"
+        "Família"
       ],
-      "vote_average": 5.69,
+      "vote_average": 5.8,
       "providers": [],
       "videos": [
         {
@@ -945,11 +943,11 @@
         "https://image.tmdb.org/t/p/w780/gZfQ5bhbxUnsaURCiIsiCHrRtmX.jpg",
         "https://image.tmdb.org/t/p/w780/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
         "https://image.tmdb.org/t/p/w780/eMcrgrIyeAgMHS5R9LltDnuxB5R.jpg",
+        "https://image.tmdb.org/t/p/w780/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
+        "https://image.tmdb.org/t/p/w780/puDfHwpfqqfl8GRvEzUeSLwGTYm.jpg",
         "https://image.tmdb.org/t/p/w780/nRUAjtySZPGurYv5se3R9pqDwWr.jpg",
         "https://image.tmdb.org/t/p/w780/knWBvmuPveXqeypjMdKFsYblg7I.jpg",
-        "https://image.tmdb.org/t/p/w780/99gpEPypf5rwpJ5dRa10fgBirQS.jpg",
-        "https://image.tmdb.org/t/p/w780/d1SyM7yyiYpALoSZVwJtINGX3sa.jpg",
-        "https://image.tmdb.org/t/p/w780/wbxR0gBZKZWlLk1R9mmHkyYbG.jpg"
+        "https://image.tmdb.org/t/p/w780/99gpEPypf5rwpJ5dRa10fgBirQS.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1538497"
     },
@@ -958,8 +956,8 @@
       "type": "movie",
       "title": "Tudo Pode Ser Visto",
       "release_date": "2026-11-26",
-      "poster": "https://image.tmdb.org/t/p/w500/mnu5cNfijdbuU4iWrV2Lg7AfM0J.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ouqBWfJzjFQAyCfCagPw6Chrubw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
       "overview": "Trinta e quatro dias antes de ser enviada para a prisão, a notória fundadora do Vale do Silício, Elizabeth Holmes, convida uma equipe de filmagem cética para documentar cada passo seu. O que começa como um retrato íntimo de uma criminosa enigmática se transforma em uma jornada alucinante de três anos rumo ao abismo.",
       "tagline": "Ver para crer.",
       "runtime": 175,
@@ -970,12 +968,20 @@
       "providers": [],
       "videos": [
         {
-          "key": "0wUamG0VmDM",
-          "name": "Tudo Pode Ser Visto | Trailer Oficial Legendado",
+          "key": "SRIfMnMrzsg",
+          "name": "Tudo pode ser visto | Trailer |",
+          "type": "Trailer",
+          "official": true,
+          "site": "YouTube",
+          "source": "tmdb"
+        },
+        {
+          "key": "jqYc3U81B28",
+          "name": "You Can See Everything - Trailer Legendado (2026) Elizabeth Holmes",
           "type": "Trailer",
           "official": false,
           "site": "YouTube",
-          "source": "youtube_search"
+          "source": "tmdb"
         }
       ],
       "cast": [
@@ -990,14 +996,14 @@
       ],
       "director": "Nathan Fielder",
       "images": [
-        "https://image.tmdb.org/t/p/w780/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
+        "https://image.tmdb.org/t/p/w780/4W04y3gVE60o1ELosscjxUajC3G.jpg",
         "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
+        "https://image.tmdb.org/t/p/w780/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
         "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
         "https://image.tmdb.org/t/p/w780/gsSAPAcHDSQOSIDZVm1alSZpDCv.jpg",
         "https://image.tmdb.org/t/p/w780/edYRAs5wYv9QC4VrHcnUEeiaUHv.jpg",
         "https://image.tmdb.org/t/p/w780/2kxMNvP20MdkJh0ynE1TpuG5yp3.jpg",
-        "https://image.tmdb.org/t/p/w780/flr1irwRWJJuB79u4T2t4bAS6OK.jpg",
-        "https://image.tmdb.org/t/p/w780/4W04y3gVE60o1ELosscjxUajC3G.jpg"
+        "https://image.tmdb.org/t/p/w780/hYpCxIEy5aBVWbmeWl5pfTzlaW0.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1765072"
     },
