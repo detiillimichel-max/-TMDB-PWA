@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T21:17:19.164435+00:00",
+  "updated_at": "2026-11-28T07:49:56.922905+00:00",
   "region": "BR",
   "items": [
     {
@@ -17,7 +17,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.582,
+      "vote_average": 7.583,
       "providers": [],
       "videos": [
         {
@@ -66,7 +66,7 @@
         "Terror",
         "Thriller"
       ],
-      "vote_average": 7.5,
+      "vote_average": 7.3,
       "providers": [],
       "videos": [
         {
@@ -115,7 +115,7 @@
         "Ação",
         "Thriller"
       ],
-      "vote_average": 6.641,
+      "vote_average": 6.636,
       "providers": [],
       "videos": [
         {
@@ -164,7 +164,7 @@
         "Guerra",
         "Drama"
       ],
-      "vote_average": 7.7,
+      "vote_average": 7.6,
       "providers": [
         {
           "id": 8,
@@ -220,7 +220,7 @@
         "Terror",
         "Mistério"
       ],
-      "vote_average": 6.7,
+      "vote_average": 6.673,
       "providers": [],
       "videos": [
         {
@@ -256,6 +256,52 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1813355"
     },
     {
+      "id": 1562642,
+      "type": "movie",
+      "title": "Soldado Fantasma",
+      "release_date": "2026-11-04",
+      "poster": "https://image.tmdb.org/t/p/w500/h1MUn834b2u1FDQWObUBwp5jlHJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
+      "overview": "Um engenheiro de sistemas de armas e ex-boina verde protege seus vizinhos em Wyoming contra uma corporação implacável que ameaça sua comunidade rural.",
+      "tagline": "",
+      "runtime": 90,
+      "genres": [
+        "Ação",
+        "Thriller"
+      ],
+      "vote_average": 8.684,
+      "providers": [],
+      "videos": [
+        {
+          "key": "5ttllB2rqkQ",
+          "name": "&quot;Soldado Fantasma&quot; | Trailer Oficial (Sony Pictures Portugal)",
+          "type": "Trailer",
+          "official": false,
+          "site": "YouTube",
+          "source": "youtube_search"
+        }
+      ],
+      "cast": [
+        "Jim Caviezel",
+        "Cameron Gayden",
+        "Olivia Thirlby",
+        "Shea Whigham",
+        "Beau Knapp",
+        "Michael Ironside",
+        "Garret Dillahunt",
+        "Carlos Gómez"
+      ],
+      "director": "William Eubank",
+      "images": [
+        "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
+        "https://image.tmdb.org/t/p/w780/nHhkgPp4kZUwlTTEZe5g3MoKl8g.jpg",
+        "https://image.tmdb.org/t/p/w780/rhtE77mUo6I1LBGbtnVphRxcnQb.jpg",
+        "https://image.tmdb.org/t/p/w780/oG2xaOERbYKs9RtEtOBkkDqqChb.jpg",
+        "https://image.tmdb.org/t/p/w780/xN8v8UqG14qOFXSOgc0JrHsB1lN.jpg"
+      ],
+      "tmdb_url": "https://www.themoviedb.org/movie/1562642"
+    },
+    {
       "id": 1381071,
       "type": "movie",
       "title": "Godzilla Minus Zero",
@@ -270,7 +316,7 @@
         "Terror",
         "Ação"
       ],
-      "vote_average": 7.645,
+      "vote_average": 7.642,
       "providers": [],
       "videos": [
         {
@@ -306,52 +352,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1381071"
     },
     {
-      "id": 1562642,
-      "type": "movie",
-      "title": "Soldado Fantasma",
-      "release_date": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w500/h1MUn834b2u1FDQWObUBwp5jlHJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
-      "overview": "Um engenheiro de sistemas de armas e ex-boina verde protege seus vizinhos em Wyoming contra uma corporação implacável que ameaça sua comunidade rural.",
-      "tagline": "",
-      "runtime": 90,
-      "genres": [
-        "Ação",
-        "Thriller"
-      ],
-      "vote_average": 8.886,
-      "providers": [],
-      "videos": [
-        {
-          "key": "5ttllB2rqkQ",
-          "name": "&quot;Soldado Fantasma&quot; | Trailer Oficial (Sony Pictures Portugal)",
-          "type": "Trailer",
-          "official": false,
-          "site": "YouTube",
-          "source": "youtube_search"
-        }
-      ],
-      "cast": [
-        "Jim Caviezel",
-        "Cameron Gayden",
-        "Olivia Thirlby",
-        "Shea Whigham",
-        "Beau Knapp",
-        "Michael Ironside",
-        "Garret Dillahunt",
-        "Carlos Gómez"
-      ],
-      "director": "William Eubank",
-      "images": [
-        "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
-        "https://image.tmdb.org/t/p/w780/nHhkgPp4kZUwlTTEZe5g3MoKl8g.jpg",
-        "https://image.tmdb.org/t/p/w780/rhtE77mUo6I1LBGbtnVphRxcnQb.jpg",
-        "https://image.tmdb.org/t/p/w780/oG2xaOERbYKs9RtEtOBkkDqqChb.jpg",
-        "https://image.tmdb.org/t/p/w780/xN8v8UqG14qOFXSOgc0JrHsB1lN.jpg"
-      ],
-      "tmdb_url": "https://www.themoviedb.org/movie/1562642"
-    },
-    {
       "id": 1616687,
       "type": "movie",
       "title": "Sem Desistir",
@@ -366,7 +366,7 @@
         "Crime",
         "Thriller"
       ],
-      "vote_average": 6.8,
+      "vote_average": 6.868,
       "providers": [
         {
           "id": 8,
@@ -468,7 +468,7 @@
         "Fantasia",
         "Comédia"
       ],
-      "vote_average": 7.551,
+      "vote_average": 7.6,
       "providers": [],
       "videos": [
         {
@@ -526,7 +526,7 @@
         "Ação",
         "Aventura"
       ],
-      "vote_average": 7.8,
+      "vote_average": 7.731,
       "providers": [],
       "videos": [
         {
@@ -556,10 +556,10 @@
       ],
       "cast": [
         "Joseph Zada",
-        "Mckenna Grace",
-        "Jesse Plemons",
         "Ralph Fiennes",
+        "Jesse Plemons",
         "Glenn Close",
+        "Mckenna Grace",
         "Whitney Peak",
         "Elle Fanning",
         "Kieran Culkin"
@@ -591,7 +591,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 6.8,
+      "vote_average": 6.76,
       "providers": [
         {
           "id": 8,
@@ -749,7 +749,7 @@
         "Aventura",
         "Fantasia"
       ],
-      "vote_average": 7.068,
+      "vote_average": 7.025,
       "providers": [
         {
           "id": 8,
@@ -812,7 +812,7 @@
         "Romance",
         "Comédia"
       ],
-      "vote_average": 6.096,
+      "vote_average": 6.1,
       "providers": [],
       "videos": [
         {
@@ -860,7 +860,7 @@
       "genres": [
         "Drama"
       ],
-      "vote_average": 7.4,
+      "vote_average": 7.453,
       "providers": [
         {
           "id": 350,
@@ -916,7 +916,7 @@
         "Fantasia",
         "Família"
       ],
-      "vote_average": 5.7,
+      "vote_average": 5.939,
       "providers": [],
       "videos": [
         {
@@ -1004,14 +1004,14 @@
       ],
       "director": "Nathan Fielder",
       "images": [
+        "https://image.tmdb.org/t/p/w780/tSyQHEFeufaC3Q29uTb2s35YaLl.jpg",
         "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
         "https://image.tmdb.org/t/p/w780/4W04y3gVE60o1ELosscjxUajC3G.jpg",
         "https://image.tmdb.org/t/p/w780/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
         "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
         "https://image.tmdb.org/t/p/w780/gsSAPAcHDSQOSIDZVm1alSZpDCv.jpg",
         "https://image.tmdb.org/t/p/w780/edYRAs5wYv9QC4VrHcnUEeiaUHv.jpg",
-        "https://image.tmdb.org/t/p/w780/9rPqDhrZu82mI3ckisMWIKKJod8.jpg",
-        "https://image.tmdb.org/t/p/w780/2kxMNvP20MdkJh0ynE1TpuG5yp3.jpg"
+        "https://image.tmdb.org/t/p/w780/9rPqDhrZu82mI3ckisMWIKKJod8.jpg"
       ],
       "tmdb_url": "https://www.themoviedb.org/movie/1765072"
     },
